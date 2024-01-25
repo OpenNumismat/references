@@ -1,0 +1,1557 @@
+{
+  "regions": [
+    {
+      "name": "Anglo World",
+      "countries": [
+        {
+          "name": "United Kingdom",
+          "units": [
+            "Pound",
+            "Penny"
+          ],
+          "alpha2": "GB",
+          "alpha3": "GBR"
+        },
+        {
+          "name": "Australia",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "AU",
+          "alpha3": "AUS"
+        },
+        {
+          "name": "New Zealand",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "NZ",
+          "alpha3": "NZL"
+        },
+        {
+          "name": "Ireland",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "IE",
+          "alpha3": "IRL"
+        },
+        {
+          "name": "United States",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "US",
+          "alpha3": "USA"
+        },
+        {
+          "name": "Canada",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "CA",
+          "alpha3": "CAN"
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "countries": [
+        {
+          "name": "Poland",
+          "units": [
+            "Złoty",
+            "Grosz"
+          ],
+          "alpha2": "PL",
+          "alpha3": "POL"
+        },
+        {
+          "name": "Czechia",
+          "units": [
+            "Koruna",
+            "Haléř"
+          ],
+          "alpha2": "CZ",
+          "alpha3": "CZE"
+        },
+        {
+          "name": "Hungary",
+          "units": [
+            "Forint",
+            "Fillér"
+          ],
+          "alpha2": "HU",
+          "alpha3": "HUN"
+        },
+        {
+          "name": "Bulgaria",
+          "units": [
+            "Lev",
+            "Stotinka"
+          ],
+          "alpha2": "BG",
+          "alpha3": "BGR"
+        },
+        {
+          "name": "Serbia",
+          "units": [
+            "Dinar",
+            "Para"
+          ],
+          "alpha2": "RS",
+          "alpha3": "SRB"
+        },
+        {
+          "name": "Slovakia",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "SK",
+          "alpha3": "SVK"
+        },
+        {
+          "name": "Croatia",
+          "units": [
+            "Kuna",
+            "Lipa"
+          ],
+          "alpha2": "HR",
+          "alpha3": "HRV"
+        },
+        {
+          "name": "Slovenia",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "SI",
+          "alpha3": "SVN"
+        },
+        {
+          "name": "Montenegro",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "ME",
+          "alpha3": "MNE"
+        },
+        {
+          "name": "Germany",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "DE",
+          "alpha3": "DEU"
+        },
+        {
+          "name": "France",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "FR",
+          "alpha3": "FRA"
+        },
+        {
+          "name": "Netherlands",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "NL",
+          "alpha3": "NLD"
+        },
+        {
+          "name": "Belgium",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "BE",
+          "alpha3": "BEL"
+        },
+        {
+          "name": "Austria",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "AT",
+          "alpha3": "AUT"
+        },
+        {
+          "name": "Switzerland",
+          "units": [
+            "Franc",
+            "Rappen"
+          ],
+          "alpha2": "CH",
+          "alpha3": "CHE"
+        },
+        {
+          "name": "Italy",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "IT",
+          "alpha3": "ITA"
+        },
+        {
+          "name": "Spain",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "ES",
+          "alpha3": "ESP"
+        },
+        {
+          "name": "Portugal",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "PT",
+          "alpha3": "PRT"
+        },
+        {
+          "name": "Luxembourg",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "LU",
+          "alpha3": "LUX"
+        },
+        {
+          "name": "Sweden",
+          "units": [
+            "Krona",
+            "Öre"
+          ],
+          "alpha2": "SE",
+          "alpha3": "SWE"
+        },
+        {
+          "name": "Denmark",
+          "units": [
+            "Krone",
+            "Øre"
+          ],
+          "alpha2": "DK",
+          "alpha3": "DNK"
+        },
+        {
+          "name": "Finland",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "FI",
+          "alpha3": "FIN"
+        },
+        {
+          "name": "Norway",
+          "units": [
+            "Krone",
+            "Øre"
+          ],
+          "alpha2": "NO",
+          "alpha3": "NOR"
+        },
+        {
+          "name": "Lithuania",
+          "units": [
+            "Litas",
+            "Centas"
+          ],
+          "alpha2": "LT",
+          "alpha3": "LTU"
+        },
+        {
+          "name": "Latvia",
+          "units": [
+            "Lats",
+            "Santīms"
+          ],
+          "alpha2": "LV",
+          "alpha3": "LVA"
+        },
+        {
+          "name": "Estonia",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "EE",
+          "alpha3": "EST"
+        },
+        {
+          "name": "Greece",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "GR",
+          "alpha3": "GRC"
+        },
+        {
+          "name": "Cyprus",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "alpha2": "CY",
+          "alpha3": "CYP"
+        },
+        {
+          "name": "Iceland",
+          "units": [
+            "Króna",
+            "Eyrir"
+          ],
+          "alpha2": "IS",
+          "alpha3": "ISL"
+        },
+        {
+          "name": "Romania",
+          "units": [
+            "Leu",
+            "Ban"
+          ],
+          "alpha2": "RO",
+          "alpha3": "ROU"
+        },
+        {
+          "name": "Albania",
+          "units": [
+            "Lek",
+            "Qindarkë"
+          ],
+          "alpha2": "AL",
+          "alpha3": "ALB"
+        }
+      ]
+    },
+    {
+      "name": "North Eurasia",
+      "countries": [
+        {
+          "name": "Russia",
+          "units": [
+            "Ruble",
+            "Kopek"
+          ],
+          "alpha2": "RU",
+          "alpha3": "RUS"
+        },
+        {
+          "name": "Ukraine",
+          "units": [
+            "Hryvnia",
+            "Kopiyka"
+          ],
+          "alpha2": "UA",
+          "alpha3": "UKR"
+        },
+        {
+          "name": "Belarus",
+          "units": [
+            "Ruble",
+            "Kapyeyka"
+          ],
+          "alpha2": "BY",
+          "alpha3": "BLR"
+        },
+        {
+          "name": "Georgia",
+          "units": [
+            "Lari",
+            "Tetri"
+          ],
+          "alpha2": "GE",
+          "alpha3": "GEO"
+        },
+        {
+          "name": "Armenia",
+          "units": [
+            "Dram",
+            "Luma"
+          ],
+          "alpha2": "AM",
+          "alpha3": "ARM"
+        },
+        {
+          "name": "Moldova",
+          "units": [
+            "Leu",
+            "Ban"
+          ],
+          "alpha2": "MD",
+          "alpha3": "MDA"
+        }
+      ]
+    },
+    {
+      "name": "Caribbean",
+      "countries": [
+        {
+          "name": "Jamaica",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "JM",
+          "alpha3": "JAM"
+        },
+        {
+          "name": "Bahamas",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "BS",
+          "alpha3": "BHS"
+        },
+        {
+          "name": "Guyana",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "GY",
+          "alpha3": "GUY"
+        },
+        {
+          "name": "Suriname",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "SR",
+          "alpha3": "SUR"
+        },
+        {
+          "name": "Belize",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "BZ",
+          "alpha3": "BLZ"
+        }
+      ]
+    },
+    {
+      "name": "Latin America",
+      "countries": [
+        {
+          "name": "Mexico",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "alpha2": "MX",
+          "alpha3": "MEX"
+        },
+        {
+          "name": "Colombia",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "alpha2": "CO",
+          "alpha3": "COL"
+        },
+        {
+          "name": "Peru",
+          "units": [
+            "Sol",
+            "Céntimo"
+          ],
+          "alpha2": "PE",
+          "alpha3": "PER"
+        },
+        {
+          "name": "Venezuela",
+          "units": [
+            "Bolívar",
+            "Céntimo"
+          ],
+          "alpha2": "VE",
+          "alpha3": "VEN"
+        },
+        {
+          "name": "Guatemala",
+          "units": [
+            "Quetzal",
+            "Centavo"
+          ],
+          "alpha2": "GT",
+          "alpha3": "GTM"
+        },
+        {
+          "name": "Ecuador",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "EC",
+          "alpha3": "ECU"
+        },
+        {
+          "name": "Honduras",
+          "units": [
+            "Lempira",
+            "Centavo"
+          ],
+          "alpha2": "HN",
+          "alpha3": "HND"
+        },
+        {
+          "name": "Nicaragua",
+          "units": [
+            "Córdoba",
+            "Centavo"
+          ],
+          "alpha2": "NI",
+          "alpha3": "NIC"
+        },
+        {
+          "name": "El Salvador",
+          "units": [
+            "Colón",
+            "Centavo"
+          ],
+          "alpha2": "SV",
+          "alpha3": "SLV"
+        },
+        {
+          "name": "Costa Rica",
+          "units": [
+            "Colón",
+            "Céntimo"
+          ],
+          "alpha2": "CR",
+          "alpha3": "CRI"
+        },
+        {
+          "name": "Panama",
+          "units": [
+            "Balboa",
+            "Centésimo"
+          ],
+          "alpha2": "PA",
+          "alpha3": "PAN"
+        },
+        {
+          "name": "Argentina",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "alpha2": "AR",
+          "alpha3": "ARG"
+        },
+        {
+          "name": "Chile",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "alpha2": "CL",
+          "alpha3": "CHL"
+        },
+        {
+          "name": "Uruguay",
+          "units": [
+            "Peso",
+            "Centésimo"
+          ],
+          "alpha2": "UY",
+          "alpha3": "URY"
+        },
+        {
+          "name": "Bolivia",
+          "units": [
+            "Boliviano",
+            "Centavo"
+          ],
+          "alpha2": "BO",
+          "alpha3": "BOL"
+        },
+        {
+          "name": "Paraguay",
+          "units": [
+            "Guaraní",
+            "Céntimo"
+          ],
+          "alpha2": "PY",
+          "alpha3": "PRY"
+        },
+        {
+          "name": "Cuba",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "alpha2": "CU",
+          "alpha3": "CUB"
+        },
+        {
+          "name": "Brazil",
+          "units": [
+            "Real",
+            "Centavo"
+          ],
+          "alpha2": "BR",
+          "alpha3": "BRA"
+        }
+      ]
+    },
+    {
+      "name": "Atlantic Ocean",
+      "countries": [
+        {
+          "name": "Cape Verde",
+          "units": [
+            "Escudo",
+            "Centavo"
+          ],
+          "alpha2": "CV",
+          "alpha3": "CPV"
+        }
+      ]
+    },
+    {
+      "name": "Indian Ocean",
+      "countries": [
+        {
+          "name": "Mauritius",
+          "units": [
+            "Rupee",
+            "Cent"
+          ],
+          "alpha2": "MU",
+          "alpha3": "MUS"
+        }
+      ]
+    },
+    {
+      "name": "Arab World",
+      "countries": [
+        {
+          "name": "Saudi Arabia",
+          "units": [
+            "Riyal",
+            "Hallallah"
+          ],
+          "alpha2": "SA",
+          "alpha3": "SAU"
+        },
+        {
+          "name": "Kuwait",
+          "units": [
+            "Dinar",
+            "Fils"
+          ],
+          "alpha2": "KW",
+          "alpha3": "KWT"
+        },
+        {
+          "name": "Oman",
+          "units": [
+            "Rial",
+            "Baisa"
+          ],
+          "alpha2": "OM",
+          "alpha3": "OMN"
+        },
+        {
+          "name": "Qatar",
+          "units": [
+            "Riyal",
+            "Dirham"
+          ],
+          "alpha2": "QA",
+          "alpha3": "QAT"
+        },
+        {
+          "name": "Bahrain",
+          "units": [
+            "Dinar",
+            "Fils"
+          ],
+          "alpha2": "BH",
+          "alpha3": "BHR"
+        },
+        {
+          "name": "Egypt",
+          "units": [
+            "Pound",
+            "Piastre"
+          ],
+          "alpha2": "EG",
+          "alpha3": "EGY"
+        },
+        {
+          "name": "Iraq",
+          "units": [
+            "Dinar",
+            "Fils"
+          ],
+          "alpha2": "IQ",
+          "alpha3": "IRQ"
+        },
+        {
+          "name": "Syria",
+          "units": [
+            "Pound",
+            "Piastre"
+          ],
+          "alpha2": "SY",
+          "alpha3": "SYR"
+        },
+        {
+          "name": "Jordan",
+          "units": [
+            "Dinar",
+            "Piastre"
+          ],
+          "alpha2": "JO",
+          "alpha3": "JOR"
+        },
+        {
+          "name": "Libya",
+          "units": [
+            "Dinar",
+            "Dirham"
+          ],
+          "alpha2": "LY",
+          "alpha3": "LBY"
+        },
+        {
+          "name": "Palestine",
+          "units": [
+            "Shekel",
+            "Agora"
+          ],
+          "alpha2": "PS",
+          "alpha3": "PSE"
+        },
+        {
+          "name": "Morocco",
+          "units": [
+            "Dirham",
+            "Centime"
+          ],
+          "alpha2": "MA",
+          "alpha3": "MAR"
+        },
+        {
+          "name": "Algeria",
+          "units": [
+            "Dinar",
+            "Santeem"
+          ],
+          "alpha2": "DZ",
+          "alpha3": "DZA"
+        },
+        {
+          "name": "Tunisia",
+          "units": [
+            "Dinar",
+            "Millime"
+          ],
+          "alpha2": "TN",
+          "alpha3": "TUN"
+        },
+        {
+          "name": "Yemen",
+          "units": [
+            "Rial",
+            "Fils"
+          ],
+          "alpha2": "YE",
+          "alpha3": "YEM"
+        },
+        {
+          "name": "Lebanon",
+          "units": [
+            "Pound",
+            "Piastre"
+          ],
+          "alpha2": "LB",
+          "alpha3": "LBN"
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "countries": [
+        {
+          "name": "Israel",
+          "units": [
+            "Shekel",
+            "Agora"
+          ],
+          "alpha2": "IL",
+          "alpha3": "ISR"
+        }
+      ]
+    },
+    {
+      "name": "Nastaliq Region",
+      "countries": [
+        {
+          "name": "Iran",
+          "units": [
+            "Rial",
+            "Dinar"
+          ],
+          "alpha2": "IR",
+          "alpha3": "IRN"
+        },
+        {
+          "name": "Afghanistan",
+          "units": [
+            "Afghani",
+            "Pul"
+          ],
+          "alpha2": "AF",
+          "alpha3": "AFG"
+        },
+        {
+          "name": "Pakistan",
+          "units": [
+            "Rupee",
+            "Paisa"
+          ],
+          "alpha2": "PK",
+          "alpha3": "PAK"
+        }
+      ]
+    },
+    {
+      "name": "Sahel",
+      "countries": [
+        {
+          "name": "Sudan",
+          "units": [
+            "Pound",
+            "Piastre"
+          ],
+          "alpha2": "SD",
+          "alpha3": "SDN"
+        },
+        {
+          "name": "Mauritania",
+          "units": [
+            "Ouguiya",
+            "Khoums"
+          ],
+          "alpha2": "MR",
+          "alpha3": "MRT"
+        },
+        {
+          "name": "Niger",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "NE",
+          "alpha3": "NER"
+        },
+        {
+          "name": "Mali",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "ML",
+          "alpha3": "MLI"
+        },
+        {
+          "name": "Chad",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "TD",
+          "alpha3": "TCD"
+        },
+        {
+          "name": "Somalia",
+          "units": [
+            "Shilling",
+            "Cent"
+          ],
+          "alpha2": "SO",
+          "alpha3": "SOM"
+        },
+        {
+          "name": "Djibouti",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "DJ",
+          "alpha3": "DJI"
+        }
+      ]
+    },
+    {
+      "name": "Tropical Africa",
+      "countries": [
+        {
+          "name": "Burkina Faso",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "BF",
+          "alpha3": "BFA"
+        },
+        {
+          "name": "Senegal",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "SN",
+          "alpha3": "SEN"
+        },
+        {
+          "name": "Guinea",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "GN",
+          "alpha3": "GIN"
+        },
+        {
+          "name": "Benin",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "BJ",
+          "alpha3": "BEN"
+        },
+        {
+          "name": "Togo",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "TG",
+          "alpha3": "TGO"
+        },
+        {
+          "name": "Gambia",
+          "units": [
+            "Dalasi",
+            "Butut"
+          ],
+          "alpha2": "GM",
+          "alpha3": "GMB"
+        },
+        {
+          "name": "Guinea-Bissau",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "GW",
+          "alpha3": "GNB"
+        },
+        {
+          "name": "Tanzania",
+          "units": [
+            "Shilling",
+            "Cent"
+          ],
+          "alpha2": "TZ",
+          "alpha3": "TZA"
+        },
+        {
+          "name": "Kenya",
+          "units": [
+            "Shilling",
+            "Cent"
+          ],
+          "alpha2": "KE",
+          "alpha3": "KEN"
+        },
+        {
+          "name": "Uganda",
+          "units": [
+            "Shilling",
+            "Cent"
+          ],
+          "alpha2": "UG",
+          "alpha3": "UGA"
+        },
+        {
+          "name": "Malawi",
+          "units": [
+            "Kwacha",
+            "Tambala"
+          ],
+          "alpha2": "MW",
+          "alpha3": "MWI"
+        },
+        {
+          "name": "Zambia",
+          "units": [
+            "Kwacha",
+            "Ngwee"
+          ],
+          "alpha2": "ZM",
+          "alpha3": "ZMB"
+        },
+        {
+          "name": "Rwanda",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "RW",
+          "alpha3": "RWA"
+        },
+        {
+          "name": "Burundi",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "BI",
+          "alpha3": "BDI"
+        },
+        {
+          "name": "Cameroon",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "CM",
+          "alpha3": "CMR"
+        },
+        {
+          "name": "Gabon",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "GA",
+          "alpha3": "GAB"
+        },
+        {
+          "name": "Equatorial Guinea",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "GQ",
+          "alpha3": "GNQ"
+        },
+        {
+          "name": "Nigeria",
+          "units": [
+            "Naira",
+            "Kobo"
+          ],
+          "alpha2": "NG",
+          "alpha3": "NGA"
+        },
+        {
+          "name": "Ghana",
+          "units": [
+            "Cedi",
+            "Pesewa"
+          ],
+          "alpha2": "GH",
+          "alpha3": "GHA"
+        },
+        {
+          "name": "Sierra Leone",
+          "units": [
+            "Leone",
+            "Cent"
+          ],
+          "alpha2": "SL",
+          "alpha3": "SLE"
+        },
+        {
+          "name": "Liberia",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "LR",
+          "alpha3": "LBR"
+        },
+        {
+          "name": "Mozambique",
+          "units": [
+            "Metical",
+            "Centavo"
+          ],
+          "alpha2": "MZ",
+          "alpha3": "MOZ"
+        },
+        {
+          "name": "Angola",
+          "units": [
+            "Kwanza",
+            "Cêntimo"
+          ],
+          "alpha2": "AO",
+          "alpha3": "AGO"
+        },
+        {
+          "name": "Madagascar",
+          "units": [
+            "Ariary",
+            "Iraimbilanja"
+          ],
+          "alpha2": "MG",
+          "alpha3": "MDG"
+        },
+        {
+          "name": "South Sudan",
+          "units": [
+            "Pound",
+            "Piastre"
+          ],
+          "alpha2": "SS",
+          "alpha3": "SSD"
+        },
+        {
+          "name": "Haiti",
+          "units": [
+            "Gourde",
+            "Centime"
+          ],
+          "alpha2": "HT",
+          "alpha3": "HTI"
+        }
+      ]
+    },
+    {
+      "name": "Southern Africa",
+      "countries": [
+        {
+          "name": "South Africa",
+          "units": [
+            "Rand",
+            "Cent"
+          ],
+          "alpha2": "ZA",
+          "alpha3": "ZAF"
+        },
+        {
+          "name": "Namibia",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "NA",
+          "alpha3": "NAM"
+        },
+        {
+          "name": "Botswana",
+          "units": [
+            "Pula",
+            "Thebe"
+          ],
+          "alpha2": "BW",
+          "alpha3": "BWA"
+        },
+        {
+          "name": "Lesotho",
+          "units": [
+            "Loti",
+            "Sente"
+          ],
+          "alpha2": "LS",
+          "alpha3": "LSO"
+        },
+        {
+          "name": "Zimbabwe",
+          "units": [
+            "Pula",
+            "Thebe"
+          ],
+          "alpha2": "ZW",
+          "alpha3": "ZWE"
+        }
+      ]
+    },
+    {
+      "name": "Ethiopic Africa",
+      "countries": [
+        {
+          "name": "Ethiopia",
+          "units": [
+            "Birr",
+            "Santim"
+          ],
+          "alpha2": "ET",
+          "alpha3": "ETH"
+        },
+        {
+          "name": "Eritrea",
+          "units": [
+            "Nakfa",
+            "Cent"
+          ],
+          "alpha2": "ER",
+          "alpha3": "ERI"
+        }
+      ]
+    },
+    {
+      "name": "South Asia",
+      "countries": [
+        {
+          "name": "India",
+          "units": [
+            "Rupee",
+            "Paisa"
+          ],
+          "alpha2": "IN",
+          "alpha3": "IND"
+        },
+        {
+          "name": "Nepal",
+          "units": [
+            "Rupee",
+            "Paisa"
+          ],
+          "alpha2": "NP",
+          "alpha3": "NPL"
+        },
+        {
+          "name": "Bhutan",
+          "units": [
+            "Ngultrum",
+            "Chetrum"
+          ],
+          "alpha2": "BT",
+          "alpha3": "BTN"
+        },
+        {
+          "name": "Bangladesh",
+          "units": [
+            "Taka",
+            "Paisa"
+          ],
+          "alpha2": "BD",
+          "alpha3": "BGD"
+        },
+        {
+          "name": "Sri Lanka",
+          "units": [
+            "Rupee",
+            "Cent"
+          ],
+          "alpha2": "LK",
+          "alpha3": "LKA"
+        }
+      ]
+    },
+    {
+      "name": "Central Asia",
+      "countries": [
+        {
+          "name": "Uzbekistan",
+          "units": [
+            "Som",
+            "Tiyin"
+          ],
+          "alpha2": "UZ",
+          "alpha3": "UZB"
+        },
+        {
+          "name": "Kazakhstan",
+          "units": [
+            "Tenge",
+            "Tïın"
+          ],
+          "alpha2": "KZ",
+          "alpha3": "KAZ"
+        },
+        {
+          "name": "Kyrgyzstan",
+          "units": [
+            "Som",
+            "Tyiyn"
+          ],
+          "alpha2": "KG",
+          "alpha3": "KGZ"
+        },
+        {
+          "name": "Turkmenistan",
+          "units": [
+            "Manat",
+            "Tennesi"
+          ],
+          "alpha2": "TM",
+          "alpha3": "TKM"
+        },
+        {
+          "name": "Turkey",
+          "units": [
+            "Lira",
+            "Kuruş"
+          ],
+          "alpha2": "TR",
+          "alpha3": "TUR"
+        },
+        {
+          "name": "Azerbaijan",
+          "units": [
+            "Manat",
+            "Qəpik"
+          ],
+          "alpha2": "AZ",
+          "alpha3": "AZE"
+        },
+        {
+          "name": "Tajikistan",
+          "units": [
+            "Somoni",
+            "Diram"
+          ],
+          "alpha2": "TJ",
+          "alpha3": "TJK"
+        },
+        {
+          "name": "Mongolia",
+          "units": [
+            "Tögrög",
+            "Möngö"
+          ],
+          "alpha2": "MN",
+          "alpha3": "MNG"
+        }
+      ]
+    },
+    {
+      "name": "East Asia",
+      "countries": [
+        {
+          "name": "China",
+          "units": [
+            "Yuan",
+            "Fen"
+          ],
+          "alpha2": "CN",
+          "alpha3": "CHN"
+        },
+        {
+          "name": "Taiwan",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "TW",
+          "alpha3": "TWN"
+        },
+        {
+          "name": "Japan",
+          "units": [
+            "Yen",
+            "Sen"
+          ],
+          "alpha2": "JP",
+          "alpha3": "JPN"
+        }
+      ]
+    },
+    {
+      "name": "Mainland Southeast Asia",
+      "countries": [
+        {
+          "name": "Cambodia",
+          "units": [
+            "Riel",
+            "Sen"
+          ],
+          "alpha2": "KH",
+          "alpha3": "KHM"
+        },
+        {
+          "name": "Laos",
+          "units": [
+            "Kip",
+            "Att"
+          ],
+          "alpha2": "LA",
+          "alpha3": "LAO"
+        },
+        {
+          "name": "Myanmar",
+          "units": [
+            "Kyat",
+            "Pya"
+          ],
+          "alpha2": "MM",
+          "alpha3": "MMR"
+        },
+        {
+          "name": "Thailand",
+          "units": [
+            "Baht",
+            "Satang"
+          ],
+          "alpha2": "TH",
+          "alpha3": "THA"
+        },
+        {
+          "name": "Vietnam",
+          "units": [
+            "Đồng",
+            "Hào"
+          ],
+          "alpha2": "VN",
+          "alpha3": "VNM"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "countries": [
+        {
+          "name": "Singapore",
+          "units": [
+            "Dollar",
+            "Sen"
+          ],
+          "alpha2": "SG",
+          "alpha3": "SGP"
+        }
+      ]
+    },
+    {
+      "name": "Insular Southeast Asia",
+      "countries": [
+        {
+          "name": "Malaysia",
+          "units": [
+            "Ringgit",
+            "Sen"
+          ],
+          "alpha2": "MY",
+          "alpha3": "MYS"
+        },
+        {
+          "name": "Brunei",
+          "units": [
+            "Dollar",
+            "Sen"
+          ],
+          "alpha2": "BN",
+          "alpha3": "BRN"
+        },
+        {
+          "name": "Indonesia",
+          "units": [
+            "Rupiah",
+            "Sen"
+          ],
+          "alpha2": "ID",
+          "alpha3": "IDN"
+        },
+        {
+          "name": "Philippines",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "alpha2": "PH",
+          "alpha3": "PHL"
+        }
+      ]
+    },
+    {
+      "name": "South Pacific",
+      "countries": [
+        {
+          "name": "Papua New Guinea",
+          "units": [
+            "Kina",
+            "Toea"
+          ],
+          "alpha2": "PG",
+          "alpha3": "PNG"
+        },
+        {
+          "name": "Solomon Islands",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "SB",
+          "alpha3": "SLB"
+        },
+        {
+          "name": "Vanuatu",
+          "units": [
+            "Vatu"
+          ],
+          "alpha2": "VU",
+          "alpha3": "VUT"
+        },
+        {
+          "name": "New Caledonia",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "NC",
+          "alpha3": "NCL"
+        },
+        {
+          "name": "Fiji",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "alpha2": "FJ",
+          "alpha3": "FJI"
+        },
+        {
+          "name": "Samoa",
+          "units": [
+            "Tālā",
+            "Sene"
+          ],
+          "alpha2": "WS",
+          "alpha3": "WSM"
+        },
+        {
+          "name": "French Polynesia",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "alpha2": "PF",
+          "alpha3": "PYF"
+        }
+      ]
+    }
+  ]
+}

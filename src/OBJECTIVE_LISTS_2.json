@@ -1,0 +1,194 @@
+[
+{
+    "region": "Anglo World",
+    "countries": [
+"United Kingdom", "Australia", "New Zealand", "Ireland",
+"United States", "Canada"
+    ]
+},
+{
+    "region": "Europe",
+    "countries": [
+"Poland", "Czechia", "Hungary", "Bulgaria", "Serbia", "Slovakia", "Croatia",
+"Bosnia & Herzegovina", "North Macedonia", "Slovenia", "Montenegro",
+"Germany", "France", "Netherlands", "Belgium", "Austria", "Switzerland",
+"Italy", "Spain", "Portugal", "Luxembourg",
+"Sweden", "Denmark", "Finland", "Norway",
+"Lithuania", "Latvia", "Estonia",
+"Greece", "Cyprus",
+"Iceland", "Greenland",
+"Romania",
+"Albania"
+    ]
+},
+{
+    "region": "North Eurasia",
+    "countries": [
+"Russia", "Ukraine", "Belarus",
+"Georgia",
+"Armenia",
+"Moldova"
+    ]
+},
+{
+    "region": "Caribbean",
+    "countries": [
+
+"Jamaica", "Trinidad & Tobago", "Bahamas",
+"Guyana", "Suriname",
+"Belize"
+    ]
+},
+{
+    "region": "Latin America",
+    "countries": [
+"Mexico", "Colombia", "Peru", "Venezuela", "Guatemala", "Ecuador", "Dominican Rep.",
+"Honduras", "Nicaragua", "El Salvador", "Costa Rica", "Panama", "Puerto Rico",
+"Argentina", "Chile", "Uruguay",
+"Bolivia", "Paraguay",
+"Cuba",
+"Brazil",
+"French Guiana"
+    ]
+},
+{
+    "region": "Atlantic Ocean",
+    "countries": [
+"Cape Verde"
+    ]
+},
+{
+    "region": "Indian Ocean",
+    "countries": [
+"Mauritius", "Reunion"
+    ]
+},
+{
+    "region": "Arab World",
+    "countries": [
+
+"Saudi Arabia", "U.A.E.", "Kuwait", "Oman", "Qatar", "Bahrain",
+"Egypt", "Iraq", "Syria", "Jordan", "Libya", "Palestine",
+"Morocco", "Algeria", "Tunisia",
+"Yemen",
+"Lebanon"
+    ]
+},
+{
+    "region": "Israel",
+    "countries": [
+"Israel"
+    ]
+},
+{
+    "region": "Nastaliq Region",
+    "countries": [
+"Iran",
+"Afghanistan",
+"Pakistan"
+    ]
+},
+{
+    "region": "Sahel",
+    "countries": [
+
+"Sudan", "Mauritania",
+"Niger", "Mali", "Chad",
+"Somalia", "Djibouti"
+    ]
+},
+{
+    "region": "Tropical Africa",
+    "countries": [
+
+"Ivory Coast", "Burkina Faso", "Senegal", "Guinea", "Benin", "Togo", "Gambia", "Guinea-Bissau",
+"Tanzania", "Kenya", "Uganda", "Malawi", "Zambia", "Rwanda", "Burundi",
+"D.R. Congo", "Cameroon", "Central African Rep.", "Rep. Congo", "Gabon", "Equatorial Guinea",
+"Nigeria", "Ghana", "Sierra Leone", "Liberia",
+"Mozambique", "Angola",
+"Madagascar",
+"South Sudan",
+"Haiti"
+    ]
+},
+{
+    "region": "Southern Africa",
+    "countries": [
+"South Africa", "Namibia", "Botswana",
+"Lesotho", "Eswatini",
+"Zimbabwe"
+    ]
+},
+{
+    "region": "Ethiopic Africa",
+    "countries": [
+"Ethiopia", "Eritrea"
+    ]
+},
+{
+    "region": "South Asia",
+    "countries": [
+
+"India",
+"Nepal",
+"Bhutan",
+"Bangladesh",
+"Sri Lanka"
+    ]
+},
+{
+    "region": "Central Asia",
+    "countries": [
+
+"Uzbekistan", "Kazakhstan", "Kyrgyzstan", "Turkmenistan",
+"Turkey", "Azerbaijan",
+"Tajikistan",
+"Mongolia"
+    ]
+},
+{
+    "region": "East Asia",
+    "countries": [
+
+"China",
+"Taiwan",
+"Japan",
+"South Korea",
+"North Korea"
+    ]
+},
+{
+    "region": "Mainland Southeast Asia",
+    "countries": [
+
+"Cambodia", "Laos",
+"Myanmar",
+"Thailand",
+"Vietnam"
+    ]
+},
+{
+    "region": "Singapore",
+    "countries": [
+"Singapore"
+    ]
+},
+{
+    "region": "Insular Southeast Asia",
+    "countries": [
+"Malaysia", "Brunei",
+"Indonesia",
+"Philippines"
+    ]
+},
+{
+    "region": "South Pacific",
+    "countries": [
+
+"Papua New Guinea", "Solomon Islands", "Vanuatu", "New Caledonia",
+"Fiji",
+"Samoa", "French Polynesia",
+"East Timor"
+    ]
+}
+]
