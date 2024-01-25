@@ -1,0 +1,150 @@
+[
+{
+    "region": "Europe",
+    "countries": [
+"Poland", "Czechia", "Hungary", "Bulgaria", "Serbia", "Slovakia", "Croatia",
+"Bosnia & Herzegovina", "North Macedonia", "Slovenia", "Montenegro",
+"Germany", "France", "Netherlands", "Belgium", "Austria", "Switzerland",
+"Italy", "Spain", "Portugal", "Luxembourg",
+"Sweden", "Denmark", "Finland", "Norway",
+"Lithuania", "Latvia", "Estonia",
+"Greece", "Cyprus",
+"Iceland", "Greenland",
+"Romania",
+"Albania",
+"Russia", "Ukraine", "Belarus",
+"Georgia",
+"Armenia",
+"Moldova"
+    ]
+},
+{
+    "region": "North America",
+    "countries": [
+"United Kingdom", "Ireland",
+"United States", "Canada"
+    ]
+},
+{
+    "region": "Australasia",
+    "countries": [
+"Australia", "New Zealand"
+]
+},
+{
+    "region": "Latin America",
+    "countries": [
+"Mexico", "Colombia", "Peru", "Venezuela", "Guatemala", "Ecuador", "Dominican Rep.",
+"Honduras", "Nicaragua", "El Salvador", "Costa Rica", "Panama", "Puerto Rico",
+"Argentina", "Chile", "Uruguay",
+"Bolivia", "Paraguay",
+"Cuba",
+"Brazil",
+"French Guiana",
+"Jamaica", "Trinidad & Tobago", "Bahamas",
+"Guyana", "Suriname",
+"Belize",
+"Cape Verde",
+"Mauritius",
+"Haiti"
+    ]
+},
+{
+    "region": "Middle East",
+    "countries": [
+
+"Saudi Arabia", "U.A.E.", "Kuwait", "Oman", "Qatar", "Bahrain",
+"Egypt", "Iraq", "Syria", "Jordan", "Libya", "Palestine",
+"Morocco", "Algeria", "Tunisia",
+"Yemen",
+"Lebanon",
+"Israel",
+"Iran",
+"Afghanistan",
+"Pakistan",
+"Sudan", "Mauritania",
+"Somalia", "Djibouti"
+    ]
+},
+{
+    "region": "Sub-Saharan Africa",
+    "countries": [
+
+"Niger", "Mali", "Chad",
+"Ivory Coast", "Burkina Faso", "Senegal", "Guinea", "Benin", "Togo", "Gambia", "Guinea-Bissau",
+"Tanzania", "Kenya", "Uganda", "Malawi", "Zambia", "Rwanda", "Burundi",
+"D.R. Congo", "Cameroon", "Central African Rep.", "Rep. Congo", "Gabon", "Equatorial Guinea",
+"Nigeria", "Ghana", "Sierra Leone", "Liberia",
+"Mozambique", "Angola",
+"Madagascar",
+"South Sudan",
+"South Africa", "Namibia", "Botswana",
+"Lesotho", "Eswatini",
+"Zimbabwe",
+"Ethiopia", "Eritrea"
+    ]
+},
+
+
+{
+    "region": "South Asia",
+    "countries": [
+
+"India",
+"Nepal",
+"Bhutan",
+"Bangladesh",
+"Sri Lanka"
+    ]
+},
+{
+    "region": "Central Asia",
+    "countries": [
+
+"Uzbekistan", "Kazakhstan", "Kyrgyzstan", "Turkmenistan",
+"Turkey", "Azerbaijan",
+"Tajikistan",
+"Mongolia"
+    ]
+},
+{
+    "region": "East Asia",
+    "countries": [
+
+"China",
+"Taiwan",
+"Japan",
+"South Korea",
+"North Korea"
+    ]
+},
+{
+    "region": "Mainland Southeast Asia",
+    "countries": [
+
+"Cambodia", "Laos",
+"Myanmar",
+"Thailand",
+"Vietnam"
+    ]
+},
+{
+    "region": "Southeast Asia Islands",
+    "countries": [
+"Singapore",
+"Malaysia", "Brunei",
+"Indonesia",
+"Philippines"
+    ]
+},
+{
+    "region": "South Pacific",
+    "countries": [
+
+"Papua New Guinea", "Solomon Islands", "Vanuatu", "New Caledonia",
+"Fiji",
+"Samoa", "French Polynesia",
+"East Timor"
+    ]
+}
+]
