@@ -16,7 +16,7 @@ def country2countrydata(country, orig_data):
 
 subregions_order = [
 'Central Asia',
-'Antarctica',
+#'Antarctica',
 'North America',
 'East and Southeast Asia',
 'South America',
@@ -28,7 +28,6 @@ subregions_order = [
 'Central America and the Caribbean',
 ]
 
-subregions = []
 subregions_data = {}
 with open('../src/The_World_Factbook.csv', encoding='utf-8') as subregions_file:
     spamreader = csv.reader(subregions_file)

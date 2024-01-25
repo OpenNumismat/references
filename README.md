@@ -5,3 +5,4 @@ Sources:
 
 - src/ISO-3166-Countries-with-Regional-Codes.json - https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/tree/v9.0
 - src/The_World_Factbook.csv - https://www.cia.gov/the-world-factbook/field/area/country-comparison/
+- src/World_Bank.xlsx - https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html
