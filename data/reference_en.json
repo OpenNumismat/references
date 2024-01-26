@@ -2,6 +2,7 @@
 {
     "name": "category",
     "title": "Category",
+    "has_icons": false,
     "values": [
         "Coin",
         "Banknote",
@@ -12,6 +13,7 @@
 {
     "name": "rarity",
     "title": "Rarity",
+    "has_icons": false,
     "values": [
         "Common",
         "Normal",
@@ -24,6 +26,7 @@
 {
     "name": "quality",
     "title": "Quality",
+    "has_icons": false,
     "values": [
         "Uncirculated",
         "Brilliant uncirculated",
@@ -35,6 +38,7 @@
 {
     "name": "defect",
     "title": "Defect",
+    "has_icons": false,
     "values": [
         "Clipped planchet",
         "Lamination",
@@ -48,6 +52,7 @@
 {
     "name": "type",
     "title": "Type",
+    "has_icons": false,
     "values": [
         "Regular issue",
         "Commemorative",
@@ -59,6 +64,7 @@
 {
     "name": "format",
     "title": "Format",
+    "has_icons": false,
     "values": [
         "Single",
         "Set",
@@ -69,6 +75,7 @@
 {
     "name": "obvrev",
     "title": "ObvRev",
+    "has_icons": false,
     "values": [
         "↑↑ Medallic",
         "↑↓ Coin",
@@ -78,6 +85,7 @@
 {
     "name": "edge",
     "title": "Edge",
+    "has_icons": false,
     "values": [
         "Reeded",
         "Plain",
@@ -89,6 +97,7 @@
 {
     "name": "shape",
     "title": "Shape",
+    "has_icons": true,
     "values": [
         "Round",
         "Round (irregular)",
@@ -104,6 +113,7 @@
 {
     "name": "material",
     "title": "Material",
+    "has_icons": false,
     "values": [
         "Acmonital",
         "Aluminium",
@@ -136,6 +146,7 @@
 {
     "name": "composition",
     "title": "Composition",
+    "has_icons": false,
     "values": [
         "Single",
         "Plated",
@@ -146,6 +157,7 @@
 {
     "name": "technique",
     "title": "Technique",
+    "has_icons": false,
     "values": [
         "Milled",
         "Cast",
@@ -160,6 +172,7 @@
 {
     "name": "modification",
     "title": "Modification",
+    "has_icons": false,
     "values": [
         "Colored",
         "Countermarked",
@@ -170,6 +183,7 @@
 {
     "name": "grade",
     "title": "Grade",
+    "has_icons": false,
     "values": [
         "Unc",
         "AU",
@@ -182,6 +196,7 @@
 {
     "name": "grader",
     "title": "Grader",
+    "has_icons": true,
     "values": [
         "ANACS",
         "ICCS",
@@ -195,6 +210,7 @@
 {
     "name": "place",
     "title": "Place",
+    "has_icons": true,
     "values": [
         "eBay",
         "Heritage"
@@ -203,6 +219,7 @@
 {
     "name": "color",
     "title": "Colors",
+    "has_icons": true,
     "values": [
         "Multicolor",
         "Black-White",
