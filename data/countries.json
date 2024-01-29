@@ -234,7 +234,8 @@
             "Euro",
             "Cent"
           ],
-          "alpha2": "XK"
+          "alpha2": "XK",
+          "unrecognized": true
         },
         {
           "name": "Latvia",
@@ -1182,7 +1183,8 @@
             "Agora"
           ],
           "alpha2": "PS",
-          "alpha3": "PSE"
+          "alpha3": "PSE",
+          "unrecognized": true
         },
         {
           "name": "Philippines",
@@ -1245,7 +1247,8 @@
             "Cent"
           ],
           "alpha2": "TW",
-          "alpha3": "TWN"
+          "alpha3": "TWN",
+          "unrecognized": true
         },
         {
           "name": "Tajikistan",

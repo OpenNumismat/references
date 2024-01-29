@@ -1,0 +1,52 @@
+[
+{
+    "name": "Abkhazia",
+    "alpha-2": "",
+    "alpha-3": "XAB"
+},
+{
+    "name": "Artsakh",
+    "alpha-2": "",
+    "alpha-3": "XAR"
+},
+{
+    "name": "Kosovo",
+    "alpha-2": "XK",
+    "alpha-3": "XKK"
+},
+{
+    "name": "Northern Cyprus",
+    "alpha-2": "",
+    "alpha-3": "XNC"
+},
+{
+    "name": "Palestine",
+    "alpha-2": "PS",
+    "alpha-3": "PSE"
+},
+{
+    "name": "Somaliland",
+    "alpha-2": "",
+    "alpha-3": "XSO"
+},
+{
+    "name": "South Ossetia",
+    "alpha-2": "",
+    "alpha-3": "XOS"
+},
+{
+    "name": "Taiwan",
+    "alpha-2": "TW",
+    "alpha-3": "TWN"
+},
+{
+    "name": "Transnistria",
+    "alpha-2": "",
+    "alpha-3": "XTR"
+},
+{
+    "name": "Western Sahara",
+    "alpha-2": "EH",
+    "alpha-3": "ESH"
+}
+]

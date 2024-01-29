@@ -9,6 +9,8 @@ with open('../src/ISO-3166-Countries-with-Regional-Codes.json', encoding='utf-8'
 with open('../data/countries_old.json', encoding='utf-8') as orig_file:
     orig_data = json.load(orig_file)
 
+with open('../data/unrecognized_countries.json', encoding='utf-8') as orig_file:
+    unrecognized_data = json.load(orig_file)
 
 for region in orig_data['regions']:
     for country in region['countries']:
@@ -20,6 +22,10 @@ for region in orig_data['regions']:
             country['alpha3'] = alpha3
         else:
             print("Missed data for", alpha2)
+
+        for unrecognized_country in unrecognized_data:
+            if alpha2 == unrecognized_country['alpha-2']:
+                country['unrecognized'] = True
 
 with open('../data/countries.json', 'w', encoding='utf8') as json_file:
     json.dump(orig_data, json_file, ensure_ascii=False, indent=2)
