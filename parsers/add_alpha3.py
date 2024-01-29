@@ -15,6 +15,7 @@ with open('../data/unrecognized_countries.json', encoding='utf-8') as file:
 with open('../data/dependent_countries.json', encoding='utf-8') as file:
     dependend_data = json.load(file)
 
+result = {'countries': []}
 for region in orig_data['regions']:
     for country in region['countries']:
         alpha2 = country['code']
@@ -34,6 +35,8 @@ for region in orig_data['regions']:
             if 'unrecognized' not in country:
                 country['dependent'] = True
 
+        result['countries'].append(country)
+
 
 with open('../data/countries.json', 'w', encoding='utf8') as json_file:
-    json.dump(orig_data, json_file, ensure_ascii=False, indent=2)
+    json.dump(result, json_file, ensure_ascii=False, indent=2)

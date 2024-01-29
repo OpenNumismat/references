@@ -96,7 +96,8 @@
             "Cent"
           ],
           "alpha2": "BM",
-          "alpha3": "BMU"
+          "alpha3": "BMU",
+          "dependent": true
         }
       ]
     },
@@ -227,7 +228,8 @@
             "Cent"
           ],
           "alpha2": "TW",
-          "alpha3": "TWN"
+          "alpha3": "TWN",
+          "unrecognized": true
         },
         {
           "name": "Timor-Leste",
@@ -254,7 +256,8 @@
             "Cent"
           ],
           "alpha2": "HK",
-          "alpha3": "HKG"
+          "alpha3": "HKG",
+          "dependent": true
         },
         {
           "name": "Singapore",
@@ -272,7 +275,8 @@
             "Avo"
           ],
           "alpha2": "MO",
-          "alpha3": "MAC"
+          "alpha3": "MAC",
+          "dependent": true
         }
       ]
     },
@@ -426,7 +430,8 @@
             "Centime"
           ],
           "alpha2": "NC",
-          "alpha3": "NCL"
+          "alpha3": "NCL",
+          "dependent": true
         },
         {
           "name": "Fiji",
@@ -452,7 +457,8 @@
             "Centime"
           ],
           "alpha2": "PF",
-          "alpha3": "PYF"
+          "alpha3": "PYF",
+          "dependent": true
         },
         {
           "name": "Samoa",
@@ -497,7 +503,8 @@
             "Cent"
           ],
           "alpha2": "NU",
-          "alpha3": "NIU"
+          "alpha3": "NIU",
+          "dependent": true
         },
         {
           "name": "Cook Islands",
@@ -506,7 +513,8 @@
             "Cent"
           ],
           "alpha2": "CK",
-          "alpha3": "COK"
+          "alpha3": "COK",
+          "dependent": true
         },
         {
           "name": "Marshall Islands",
@@ -524,7 +532,8 @@
             "Centime"
           ],
           "alpha2": "WF",
-          "alpha3": "WLF"
+          "alpha3": "WLF",
+          "dependent": true
         },
         {
           "name": "Pitcairn Islands",
@@ -533,7 +542,8 @@
             "Cent"
           ],
           "alpha2": "PN",
-          "alpha3": "PCN"
+          "alpha3": "PCN",
+          "dependent": true
         },
         {
           "name": "Tuvalu",
@@ -560,7 +570,8 @@
             "Cent"
           ],
           "alpha2": "CC",
-          "alpha3": "CCK"
+          "alpha3": "CCK",
+          "dependent": true
         }
       ]
     },
@@ -646,7 +657,8 @@
             "Cent"
           ],
           "alpha2": "IO",
-          "alpha3": "IOT"
+          "alpha3": "IOT",
+          "dependent": true
         }
       ]
     },
@@ -1587,7 +1599,8 @@
             "Euro",
             "Cent"
           ],
-          "alpha2": "XK"
+          "alpha2": "XK",
+          "unrecognized": true
         },
         {
           "name": "Cyprus",
@@ -1614,7 +1627,8 @@
             "Øre"
           ],
           "alpha2": "FO",
-          "alpha3": "FRO"
+          "alpha3": "FRO",
+          "dependent": true
         },
         {
           "name": "Isle of Man",
@@ -1623,7 +1637,8 @@
             "Penny"
           ],
           "alpha2": "IM",
-          "alpha3": "IMN"
+          "alpha3": "IMN",
+          "dependent": true
         },
         {
           "name": "Andorra",
@@ -1659,7 +1674,8 @@
             "Penny"
           ],
           "alpha2": "JE",
-          "alpha3": "JEY"
+          "alpha3": "JEY",
+          "dependent": true
         },
         {
           "name": "Guernsey",
@@ -1668,7 +1684,8 @@
             "Penny"
           ],
           "alpha2": "GG",
-          "alpha3": "GGY"
+          "alpha3": "GGY",
+          "dependent": true
         },
         {
           "name": "San Marino",
@@ -1686,7 +1703,8 @@
             "Penny"
           ],
           "alpha2": "GI",
-          "alpha3": "GIB"
+          "alpha3": "GIB",
+          "dependent": true
         },
         {
           "name": "Monaco",
@@ -1817,7 +1835,8 @@
             "Cent"
           ],
           "alpha2": "TC",
-          "alpha3": "TCA"
+          "alpha3": "TCA",
+          "dependent": true
         },
         {
           "name": "Dominica",
@@ -1844,7 +1863,8 @@
             "Cent"
           ],
           "alpha2": "CW",
-          "alpha3": "CUW"
+          "alpha3": "CUW",
+          "dependent": true
         },
         {
           "name": "Antigua and Barbuda",
@@ -1889,7 +1909,8 @@
             "Cent"
           ],
           "alpha2": "KY",
-          "alpha3": "CYM"
+          "alpha3": "CYM",
+          "dependent": true
         },
         {
           "name": "Saint Kitts and Nevis",
@@ -1907,7 +1928,8 @@
             "Cent"
           ],
           "alpha2": "AW",
-          "alpha3": "ABW"
+          "alpha3": "ABW",
+          "dependent": true
         },
         {
           "name": "British Virgin Islands",
@@ -1916,7 +1938,8 @@
             "Cent"
           ],
           "alpha2": "VG",
-          "alpha3": "VGB"
+          "alpha3": "VGB",
+          "dependent": true
         },
         {
           "name": "Montserrat",
@@ -1925,7 +1948,8 @@
             "Cent"
           ],
           "alpha2": "MS",
-          "alpha3": "MSR"
+          "alpha3": "MSR",
+          "dependent": true
         },
         {
           "name": "Anguilla",
@@ -1934,7 +1958,8 @@
             "Cent"
           ],
           "alpha2": "AI",
-          "alpha3": "AIA"
+          "alpha3": "AIA",
+          "dependent": true
         },
         {
           "name": "Sint Maarten",
@@ -1943,7 +1968,8 @@
             "Cent"
           ],
           "alpha2": "SX",
-          "alpha3": "SXM"
+          "alpha3": "SXM",
+          "dependent": true
         }
       ]
     }

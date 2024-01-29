@@ -5,10 +5,9 @@ import json
 
 
 def alpha2countrydata(alpha, orig_data):
-    for region in orig_data["regions"]:
-        for country in region["countries"]:
-            if "alpha3" in country and country["alpha3"] == alpha:
-                return country
+    for country in orig_data["countries"]:
+        if "alpha3" in country and country["alpha3"] == alpha:
+            return country
     return None
 
 

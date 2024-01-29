@@ -172,7 +172,8 @@
             "Øre"
           ],
           "alpha2": "FO",
-          "alpha3": "FRO"
+          "alpha3": "FRO",
+          "dependent": true
         },
         {
           "name": "United Kingdom",
@@ -199,7 +200,8 @@
             "Penny"
           ],
           "alpha2": "GI",
-          "alpha3": "GIB"
+          "alpha3": "GIB",
+          "dependent": true
         },
         {
           "name": "Greece",
@@ -235,7 +237,8 @@
             "Penny"
           ],
           "alpha2": "IM",
-          "alpha3": "IMN"
+          "alpha3": "IMN",
+          "dependent": true
         },
         {
           "name": "Ireland",
@@ -645,7 +648,8 @@
             "Agora"
           ],
           "alpha2": "PS",
-          "alpha3": "PSE"
+          "alpha3": "PSE",
+          "unrecognized": true
         },
         {
           "name": "Qatar",
@@ -704,7 +708,8 @@
             "Cent"
           ],
           "alpha2": "BM",
-          "alpha3": "BMU"
+          "alpha3": "BMU",
+          "dependent": true
         },
         {
           "name": "Canada",
@@ -736,7 +741,8 @@
             "Cent"
           ],
           "alpha2": "AW",
-          "alpha3": "ABW"
+          "alpha3": "ABW",
+          "dependent": true
         },
         {
           "name": "Argentina",
@@ -844,7 +850,8 @@
             "Cent"
           ],
           "alpha2": "CW",
-          "alpha3": "CUW"
+          "alpha3": "CUW",
+          "dependent": true
         },
         {
           "name": "Cayman Islands",
@@ -853,7 +860,8 @@
             "Cent"
           ],
           "alpha2": "KY",
-          "alpha3": "CYM"
+          "alpha3": "CYM",
+          "dependent": true
         },
         {
           "name": "Dominica",
@@ -1024,7 +1032,8 @@
             "Cent"
           ],
           "alpha2": "SX",
-          "alpha3": "SXM"
+          "alpha3": "SXM",
+          "dependent": true
         },
         {
           "name": "Turks and Caicos Islands",
@@ -1033,7 +1042,8 @@
             "Cent"
           ],
           "alpha2": "TC",
-          "alpha3": "TCA"
+          "alpha3": "TCA",
+          "dependent": true
         },
         {
           "name": "Trinidad and Tobago",
@@ -1078,7 +1088,8 @@
             "Cent"
           ],
           "alpha2": "VG",
-          "alpha3": "VGB"
+          "alpha3": "VGB",
+          "dependent": true
         }
       ]
     },
@@ -1651,7 +1662,8 @@
             "Cent"
           ],
           "alpha2": "HK",
-          "alpha3": "HKG"
+          "alpha3": "HKG",
+          "dependent": true
         },
         {
           "name": "Indonesia",
@@ -1714,7 +1726,8 @@
             "Avo"
           ],
           "alpha2": "MO",
-          "alpha3": "MAC"
+          "alpha3": "MAC",
+          "dependent": true
         },
         {
           "name": "Marshall Islands",
@@ -1759,7 +1772,8 @@
             "Centime"
           ],
           "alpha2": "NC",
-          "alpha3": "NCL"
+          "alpha3": "NCL",
+          "dependent": true
         },
         {
           "name": "Nauru",
@@ -1822,7 +1836,8 @@
             "Centime"
           ],
           "alpha2": "PF",
-          "alpha3": "PYF"
+          "alpha3": "PYF",
+          "dependent": true
         },
         {
           "name": "Singapore",
@@ -1885,7 +1900,8 @@
             "Cent"
           ],
           "alpha2": "TW",
-          "alpha3": "TWN"
+          "alpha3": "TWN",
+          "unrecognized": true
         },
         {
           "name": "Vietnam",

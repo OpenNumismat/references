@@ -7,10 +7,9 @@ def str2latin(string):
     return string.replace('ô', 'o').replace('ó', 'o').replace('ç', 'c').replace('é', 'e').replace('ë', 'e').replace('ā', 'a').replace('ã', 'a').replace('í', 'i').replace('ê', 'e').replace('ş', 's').replace('Đ', 'D').replace('ồ', 'o').replace('à', 'a')
 
 def country2countrydata(country, orig_data):
-    for region in orig_data["regions"]:
-        for orig_country in region["countries"]:
-            if str2latin(orig_country["name"]) == country:
-                return orig_country
+    for orig_country in orig_data["countries"]:
+        if str2latin(orig_country["name"]) == country:
+            return orig_country
     return None
 
 

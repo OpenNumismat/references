@@ -747,7 +747,8 @@
             "Agora"
           ],
           "alpha2": "PS",
-          "alpha3": "PSE"
+          "alpha3": "PSE",
+          "unrecognized": true
         },
         {
           "name": "Morocco",
@@ -1368,7 +1369,8 @@
             "Cent"
           ],
           "alpha2": "TW",
-          "alpha3": "TWN"
+          "alpha3": "TWN",
+          "unrecognized": true
         },
         {
           "name": "Japan",
@@ -1522,7 +1524,8 @@
             "Centime"
           ],
           "alpha2": "NC",
-          "alpha3": "NCL"
+          "alpha3": "NCL",
+          "dependent": true
         },
         {
           "name": "Fiji",
@@ -1549,7 +1552,8 @@
             "Centime"
           ],
           "alpha2": "PF",
-          "alpha3": "PYF"
+          "alpha3": "PYF",
+          "dependent": true
         }
       ]
     }
