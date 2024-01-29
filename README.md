@@ -7,3 +7,6 @@ Sources:
 - src/OBJECTIVE_LISTS.html - https://objectivelists.com/2022/12/30/regions-of-the-world/
 - src/The_World_Factbook.csv - https://www.cia.gov/the-world-factbook/field/area/country-comparison/
 - src/World_Bank.xlsx - https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html
+
+- src/countries.json - https://github.com/stefangabos/world_countries/tree/v2.8.2/data/countries/_combined
+- src/world.json - https://github.com/stefangabos/world_countries/tree/v2.8.2/data/countries/_combined
