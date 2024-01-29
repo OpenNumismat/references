@@ -119,7 +119,7 @@
           ],
           "alpha2": "FO",
           "alpha3": "FRO",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Finland",
@@ -156,7 +156,7 @@
           ],
           "alpha2": "GI",
           "alpha3": "GIB",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Greece",
@@ -175,7 +175,7 @@
           ],
           "alpha2": "GG",
           "alpha3": "GGY",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Hungary",
@@ -212,7 +212,7 @@
           ],
           "alpha2": "IM",
           "alpha3": "IMN",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Italy",
@@ -231,7 +231,7 @@
           ],
           "alpha2": "JE",
           "alpha3": "JEY",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Kosovo",
@@ -468,7 +468,7 @@
           ],
           "alpha2": "VA",
           "alpha3": "VAT",
-          "dependend": true
+          "dependent": true
         }
       ]
     },
@@ -483,7 +483,7 @@
           ],
           "alpha2": "AI",
           "alpha3": "AIA",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Antigua and Barbuda",
@@ -511,7 +511,7 @@
           ],
           "alpha2": "AW",
           "alpha3": "ABW",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Bahamas",
@@ -548,7 +548,7 @@
           ],
           "alpha2": "BM",
           "alpha3": "BMU",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Bolivia",
@@ -576,7 +576,7 @@
           ],
           "alpha2": "VG",
           "alpha3": "VGB",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Canada",
@@ -595,7 +595,7 @@
           ],
           "alpha2": "KY",
           "alpha3": "CYM",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Chile",
@@ -641,7 +641,7 @@
           ],
           "alpha2": "CW",
           "alpha3": "CUW",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Dominica",
@@ -687,7 +687,7 @@
           ],
           "alpha2": "FK",
           "alpha3": "FLK",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Grenada",
@@ -760,7 +760,7 @@
           ],
           "alpha2": "MS",
           "alpha3": "MSR",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Nicaragua",
@@ -833,7 +833,7 @@
           ],
           "alpha2": "SX",
           "alpha3": "SXM",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Suriname",
@@ -861,7 +861,7 @@
           ],
           "alpha2": "TC",
           "alpha3": "TCA",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "United States",
@@ -993,7 +993,7 @@
           ],
           "alpha2": "HK",
           "alpha3": "HKG",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "India",
@@ -1129,7 +1129,7 @@
           ],
           "alpha2": "MO",
           "alpha3": "MAC",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Malaysia",
@@ -1398,7 +1398,7 @@
           ],
           "alpha2": "IO",
           "alpha3": "IOT",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Burkina Faso",
@@ -1872,7 +1872,7 @@
           ],
           "alpha2": "CC",
           "alpha3": "CCK",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Cook Islands",
@@ -1882,7 +1882,7 @@
           ],
           "alpha2": "CK",
           "alpha3": "COK",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Fiji",
@@ -1901,7 +1901,7 @@
           ],
           "alpha2": "PF",
           "alpha3": "PYF",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Kiribati",
@@ -1947,7 +1947,7 @@
           ],
           "alpha2": "NC",
           "alpha3": "NCL",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "New Zealand",
@@ -1966,7 +1966,7 @@
           ],
           "alpha2": "NU",
           "alpha3": "NIU",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Palau",
@@ -1994,7 +1994,7 @@
           ],
           "alpha2": "PN",
           "alpha3": "PCN",
-          "dependend": true
+          "dependent": true
         },
         {
           "name": "Samoa",
@@ -2048,7 +2048,7 @@
           ],
           "alpha2": "WF",
           "alpha3": "WLF",
-          "dependend": true
+          "dependent": true
         }
       ]
     }
