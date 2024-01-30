@@ -16,7 +16,7 @@ def country2countrydata(country, orig_data):
 with open('../src/OBJECTIVE_LISTS.json', encoding='utf-8') as subregions_file:
     subregions_data = json.load(subregions_file)
 
-with open('../data/countries.json', encoding='utf-8') as orig_file:
+with open('../data/country_currency.json', encoding='utf-8') as orig_file:
     orig_data = json.load(orig_file)
 
 

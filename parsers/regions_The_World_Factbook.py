@@ -13,39 +13,31 @@ def country2countrydata(country, orig_data):
     return None
 
 
-subregions_order = [
-'Central Asia',
-#'Antarctica',
-'North America',
-'East and Southeast Asia',
-'South America',
-'Australia and Oceania',
-'South Asia',
-'Africa',
-'Middle East',
-'Europe',
-'Central America and the Caribbean',
-]
-
 subregions_data = {}
-with open('../src/The_World_Factbook.csv', encoding='utf-8') as subregions_file:
+with open('../src/Area.csv', encoding='utf-8') as subregions_file:
     spamreader = csv.reader(subregions_file)
     next(spamreader, None)
     for row in spamreader:
         subregions_data[row[0]] = row[5]
 
-with open('../data/countries.json', encoding='utf-8') as orig_file:
+with open('../data/country_currency.json', encoding='utf-8') as orig_file:
     orig_data = json.load(orig_file)
 
 result = {
-    "regions": []
+    "regions": [
+        {"name": "Europe", "countries": []},
+        {"name": "North America", "countries": []},
+        {"name": "Middle East", "countries": []},
+        {"name": "Central Asia", "countries": []},
+        {"name": "East and Southeast Asia", "countries": []},
+        {"name": "South America", "countries": []},
+        {"name": "Australia and Oceania", "countries": []},
+        {"name": "South Asia", "countries": []},
+        {"name": "Africa", "countries": []},
+        {"name": "Central America and the Caribbean", "countries": []},
+#        {"name": "Antarctica", "countries": []},
+    ]
 }
-
-for region in subregions_order:
-    result["regions"].append({
-        "name": region,
-        "countries": [],
-    })
 
 for country, region in subregions_data.items():
     for r in result["regions"]:
@@ -56,5 +48,5 @@ for country, region in subregions_data.items():
             else:
                 print("Missed data for", country)
 
-with open('../data/Regions (World Factbook).json', 'w', encoding='utf8') as json_file:
+with open('../data/regions_World_Factbook.json', 'w', encoding='utf8') as json_file:
     json.dump(result, json_file, ensure_ascii=False, indent=2)

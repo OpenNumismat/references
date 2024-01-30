@@ -17,5 +17,5 @@ for world_country in world_data:
 
     result.append(alpha3.upper())
 
-with open('../data/dependend_countries.json', 'w', encoding='utf8') as json_file:
+with open('../data/dependent_countries.json', 'w', encoding='utf8') as json_file:
     json.dump(result, json_file, ensure_ascii=False, indent=2)

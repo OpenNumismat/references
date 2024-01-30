@@ -11,36 +11,28 @@ def alpha2countrydata(alpha, orig_data):
     return None
 
 
-subregions_order = [
-'Europe & Central Asia',
-'Middle East & North Africa',
-'North America',
-'Latin America & Caribbean',
-'South Asia',
-'Sub-Saharan Africa',
-'East Asia & Pacific',
-]
-
 subregions_data = {}
-with open('../src/World_Bank.csv', encoding='utf-8') as subregions_file:
-    spamreader = csv.reader(subregions_file, delimiter='\t')
-    next(spamreader, None)
-    for row in spamreader:
+with open('../src/CLASS.csv', encoding='utf-8') as file:
+    reader = csv.reader(file, delimiter='\t')
+    next(reader, None)
+    for row in reader:
         subregions_data[row[1]] = row[2]
 
 
-with open('../data/countries.json', encoding='utf-8') as orig_file:
+with open('../data/country_currency.json', encoding='utf-8') as orig_file:
     orig_data = json.load(orig_file)
 
 result = {
-    "regions": []
+    "regions": [
+        {"name": "Europe & Central Asia", "countries": []},
+        {"name": "North America", "countries": []},
+        {"name": "Middle East & North Africa", "countries": []},
+        {"name": "Latin America & Caribbean", "countries": []},
+        {"name": "South Asia", "countries": []},
+        {"name": "Sub-Saharan Africa", "countries": []},
+        {"name": "East Asia & Pacific", "countries": []},
+    ]
 }
-
-for region in subregions_order:
-    result["regions"].append({
-        "name": region,
-        "countries": [],
-    })
 
 for alpha3, region in subregions_data.items():
     for r in result["regions"]:
@@ -51,5 +43,5 @@ for alpha3, region in subregions_data.items():
             else:
                 print("Missed data for", alpha3)
 
-with open('../data/Regions (World Bank).json', 'w', encoding='utf8') as json_file:
+with open('../data/regions_WorldBank.json', 'w', encoding='utf8') as json_file:
     json.dump(result, json_file, ensure_ascii=False, indent=2)
