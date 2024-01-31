@@ -4,7 +4,7 @@
       "name": "Anglo World",
       "countries": [
         {
-          "name": "United Kingdom of Great Britain and Northern Ireland",
+          "name": "United Kingdom",
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
@@ -199,7 +199,7 @@
           "iso4217": "EUR"
         },
         {
-          "name": "Netherlands (Kingdom of the)",
+          "name": "Netherlands",
           "alpha2": "NL",
           "alpha3": "NLD",
           "units": [
@@ -415,7 +415,7 @@
       "name": "North Eurasia",
       "countries": [
         {
-          "name": "Russian Federation",
+          "name": "Russia",
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
@@ -465,7 +465,7 @@
           "iso4217": "AMD"
         },
         {
-          "name": "Republic of Moldova",
+          "name": "Moldova",
           "alpha2": "MD",
           "alpha3": "MDA",
           "units": [
@@ -575,7 +575,7 @@
           "iso4217": "PEN"
         },
         {
-          "name": "Venezuela (Bolivarian Republic of)",
+          "name": "Venezuela",
           "alpha2": "VE",
           "alpha3": "VEN",
           "units": [
@@ -706,7 +706,7 @@
           "iso4217": "UYU"
         },
         {
-          "name": "Bolivia (Plurinational State of)",
+          "name": "Bolivia",
           "alpha2": "BO",
           "alpha3": "BOL",
           "units": [
@@ -872,7 +872,7 @@
           "iso4217": "IQD"
         },
         {
-          "name": "Syrian Arab Republic",
+          "name": "Syria",
           "alpha2": "SY",
           "alpha3": "SYR",
           "units": [
@@ -902,7 +902,7 @@
           "iso4217": "LYD"
         },
         {
-          "name": "State of Palestine",
+          "name": "Palestine",
           "alpha2": "PS",
           "alpha3": "PSE",
           "units": [],
@@ -979,7 +979,7 @@
       "name": "Nastaliq Region",
       "countries": [
         {
-          "name": "Iran (Islamic Republic of)",
+          "name": "Iran",
           "alpha2": "IR",
           "alpha3": "IRN",
           "units": [
@@ -1169,7 +1169,7 @@
           "iso4217": "XOF"
         },
         {
-          "name": "United Republic of Tanzania",
+          "name": "Tanzania",
           "alpha2": "TZ",
           "alpha3": "TZA",
           "units": [
@@ -1641,7 +1641,7 @@
           "iso4217": "JPY"
         },
         {
-          "name": "Republic of Korea",
+          "name": "Korea, South",
           "alpha2": "KR",
           "alpha3": "KOR",
           "units": [
@@ -1651,7 +1651,7 @@
           "iso4217": "KRW"
         },
         {
-          "name": "Democratic People's Republic of Korea",
+          "name": "Korea, North",
           "alpha2": "KP",
           "alpha3": "PRK",
           "units": [
@@ -1676,7 +1676,7 @@
           "iso4217": "KHR"
         },
         {
-          "name": "Lao People's Democratic Republic",
+          "name": "Laos",
           "alpha2": "LA",
           "alpha3": "LAO",
           "units": [
@@ -1706,7 +1706,7 @@
           "iso4217": "THB"
         },
         {
-          "name": "Viet Nam",
+          "name": "Vietnam",
           "alpha2": "VN",
           "alpha3": "VNM",
           "units": [
@@ -1746,7 +1746,7 @@
           "iso4217": "MYR"
         },
         {
-          "name": "Brunei Darussalam",
+          "name": "Brunei",
           "alpha2": "BN",
           "alpha3": "BRN",
           "units": [

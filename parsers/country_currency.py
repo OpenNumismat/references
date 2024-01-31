@@ -54,6 +54,10 @@ for country in countries_list:
     country_name = country[8]
     alpha2 = country[10]
     alpha3 = country[11]
+    
+    if alpha3 in alternative_names:
+        country_name = alternative_names[alpha3][0]
+    
     data = {
         "name": country_name,
         "alpha2": alpha2,
