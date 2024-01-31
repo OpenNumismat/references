@@ -6,15 +6,29 @@ import json
 def str2latin(string):
     return string.replace('ô', 'o').replace('ó', 'o').replace('ç', 'c').replace('é', 'e').replace('ë', 'e').replace('ā', 'a').replace('ã', 'a').replace('í', 'i').replace('ê', 'e').replace('ş', 's').replace('Đ', 'D').replace('ồ', 'o').replace('à', 'a')
 
+def get_alternative_names(country):
+    country = country.lower()
+    for names in alternative_names.values():
+        for name in names:
+            if name.lower() == country:
+                return names
+    return [country,]
+
 def country2countrydata(country, orig_data):
+    names = get_alternative_names(country)
     for orig_country in orig_data["countries"]:
-        if str2latin(orig_country["name"]) == country:
-            return orig_country
+        key = orig_country["name"].lower()
+        for name in names:
+            if name.lower() == key:
+                return orig_country
     return None
 
 
 with open('../src/OBJECTIVE_LISTS_2.json', encoding='utf-8') as subregions_file:
     subregions_data = json.load(subregions_file)
+
+with open('../data/countries_alternative_names.json', encoding='utf-8') as file:
+    alternative_names = json.load(file)
 
 with open('../data/country_currency.json', encoding='utf-8') as orig_file:
     orig_data = json.load(orig_file)

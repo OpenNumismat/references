@@ -4,17 +4,22 @@ import csv
 import json
 import xml.etree.ElementTree as ET
 
+def get_alternative_names(country):
+    country = country.lower()
+    for names in alternative_names.values():
+        for name in names:
+            if name.lower() == country:
+                return names
+    return [country,]
 
-def country2iso4217(country, alpha3, currencies_list, alternative_names):
+def country2iso4217(country, currencies_list):
+    names = get_alternative_names(country)
     for key, value in currencies_list.items():
-        key = key.replace(' (THE)', '')
-        if alpha3 in alternative_names:
-            for alt_country in alternative_names[alpha3]:
-                if key.lower() == alt_country.lower():
-                    return value
-        else:
-            if key.lower() == country.lower():
+        key = key.replace(' (THE)', '').lower()
+        for name in names:
+            if name.lower() == key:
                 return value
+    return None
 
 
 with open('../data/dependent_countries.json', encoding='utf-8') as file:
@@ -56,7 +61,7 @@ for country in countries_list:
         "units": [],
     }
 
-    iso4217 = country2iso4217(country_name, alpha3, currencies_list, alternative_names)
+    iso4217 = country2iso4217(country_name, currencies_list)
     if iso4217:
         data["iso4217"] = iso4217
         if iso4217 in currencies_data:

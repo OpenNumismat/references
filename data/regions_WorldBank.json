@@ -381,7 +381,11 @@
           "name": "Republic of Moldova",
           "alpha2": "MD",
           "alpha3": "MDA",
-          "units": []
+          "units": [
+            "Leu",
+            "Ban"
+          ],
+          "iso4217": "MDL"
         },
         {
           "name": "North Macedonia",
@@ -407,7 +411,11 @@
           "name": "Netherlands (Kingdom of the)",
           "alpha2": "NL",
           "alpha3": "NLD",
-          "units": []
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR"
         },
         {
           "name": "Norway",
@@ -533,7 +541,11 @@
           "name": "Türkiye",
           "alpha2": "TR",
           "alpha3": "TUR",
-          "units": []
+          "units": [
+            "Lira",
+            "Kuruş"
+          ],
+          "iso4217": "TRY"
         },
         {
           "name": "Ukraine",
@@ -1219,14 +1231,22 @@
           "name": "British Virgin Islands",
           "alpha2": "VG",
           "alpha3": "VGB",
-          "units": [],
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "USD",
           "dependent": true
         },
         {
           "name": "United States Virgin Islands",
           "alpha2": "VI",
           "alpha3": "VIR",
-          "units": [],
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "USD",
           "dependent": true
         }
       ]
@@ -1383,7 +1403,11 @@
           "name": "Côte d’Ivoire",
           "alpha2": "CI",
           "alpha3": "CIV",
-          "units": []
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "iso4217": "XOF"
         },
         {
           "name": "Cameroon",
@@ -1399,7 +1423,11 @@
           "name": "Democratic Republic of the Congo",
           "alpha2": "CD",
           "alpha3": "COD",
-          "units": []
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "iso4217": "CDF"
         },
         {
           "name": "Congo",
@@ -1742,7 +1770,11 @@
           "name": "United Republic of Tanzania",
           "alpha2": "TZ",
           "alpha3": "TZA",
-          "units": []
+          "units": [
+            "Shilling",
+            "Senti"
+          ],
+          "iso4217": "TZS"
         },
         {
           "name": "Uganda",
@@ -1865,7 +1897,11 @@
           "name": "China, Hong Kong Special Administrative Region",
           "alpha2": "HK",
           "alpha3": "HKG",
-          "units": [],
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "HKD",
           "dependent": true
         },
         {
@@ -1912,19 +1948,31 @@
           "name": "Republic of Korea",
           "alpha2": "KR",
           "alpha3": "KOR",
-          "units": []
+          "units": [
+            "Won",
+            "Jeon"
+          ],
+          "iso4217": "KRW"
         },
         {
           "name": "Lao People's Democratic Republic",
           "alpha2": "LA",
           "alpha3": "LAO",
-          "units": []
+          "units": [
+            "Kip",
+            "Att"
+          ],
+          "iso4217": "LAK"
         },
         {
           "name": "China, Macao Special Administrative Region",
           "alpha2": "MO",
           "alpha3": "MAC",
-          "units": [],
+          "units": [
+            "Pataca",
+            "Avo"
+          ],
+          "iso4217": "MOP",
           "dependent": true
         },
         {
@@ -2043,7 +2091,11 @@
           "name": "Democratic People's Republic of Korea",
           "alpha2": "KP",
           "alpha3": "PRK",
-          "units": []
+          "units": [
+            "Won",
+            "Chon"
+          ],
+          "iso4217": "KPW"
         },
         {
           "name": "French Polynesia",

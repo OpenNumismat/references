@@ -15,28 +15,28 @@
       "Tanzania", "United Republic of Tanzania", "Tanzania, United Republic of"
     ],
     "CAF": [
-      "Central African Republic"
+      "Central African Republic", "Central African Rep."
     ],
     "COG": [
-      "Congo"
+      "Congo", "Congo, Republic of the", "Rep. Congo"
     ],
     "COD": [
-      "Democratic Republic of the Congo", "CONGO (THE DEMOCRATIC REPUBLIC OF THE)"
+      "Democratic Republic of the Congo", "CONGO (THE DEMOCRATIC REPUBLIC OF THE)", "Congo, Democratic Republic of the", "D.R. Congo"
     ],
     "CIV": [
-      "Côte d’Ivoire", "CÔTE D'IVOIRE"
+      "Côte d’Ivoire", "CÔTE D'IVOIRE", "Cote d'Ivoire", "Ivory Coast"
     ],
     "GMB": [
-      "Gambia"
+      "Gambia", "Gambia, The"
     ],
     "NER": [
       "Niger"
     ],
     "SHN": [
-      "Saint Helena", "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA"
+      "Saint Helena", "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA", "Saint Helena, Ascension, and Tristan da Cunha"
     ],
     "BHS": [
-      "Bahamas"
+      "Bahamas", "Bahamas, The"
     ],
     "VGB": [
       "British Virgin Islands", "VIRGIN ISLANDS (BRITISH)"
@@ -45,19 +45,19 @@
       "Cayman Islands"
     ],
     "DOM": [
-      "Dominican Republic"
+      "Dominican Republic", "Dominican Rep."
     ],
     "TCA": [
       "Turks and Caicos Islands"
     ],
     "VIR": [
-      "United States Virgin Islands", "VIRGIN ISLANDS (U.S.)"
+      "United States Virgin Islands", "VIRGIN ISLANDS (U.S.)", "Virgin Islands"
     ],
     "FLK": [
-      "Falkland Islands (Malvinas)", "FALKLAND ISLANDS [MALVINAS]"
+      "Falkland Islands (Malvinas)", "FALKLAND ISLANDS [MALVINAS]", "Falkland Islands (Islas Malvinas)"
     ],
     "SGS": [
-      "South Georgia and the South Sandwich Islands"
+      "South Georgia and South Sandwich Islands", "South Georgia and the South Sandwich Islands"
     ],
     "USA": [
       "United States of America"
@@ -66,16 +66,16 @@
       "Hong Kong", "China, Hong Kong Special Administrative Region"
     ],
     "MAC": [
-      "Macao", "China, Macao Special Administrative Region"
+      "Macao", "China, Macao Special Administrative Region", "Macau"
     ],
     "PRK": [
-      "North Korea", "Democratic People's Republic of Korea", "KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)"
+      "Korea, North", "Democratic People's Republic of Korea", "KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)", "North Korea"
     ],
     "KOR": [
-      "South Korea", "Republic of Korea", "KOREA (THE REPUBLIC OF)"
+      "Korea, South", "Republic of Korea", "KOREA (THE REPUBLIC OF)", "South Korea"
     ],
     "LAO": [
-      "Lao People's Democratic Republic", "LAO PEOPLE’S DEMOCRATIC REPUBLIC"
+      "Laos", "Lao People's Democratic Republic", "LAO PEOPLE’S DEMOCRATIC REPUBLIC"
     ],
     "PHL": [
       "Philippines"
@@ -84,10 +84,10 @@
       "Palestine", "State of Palestine", "PALESTINE, STATE OF"
     ],
     "TUR": [
-      "Türkiye", "TÜRKİYE", "Turkey"
+      "Türkiye", "TÜRKİYE", "Turkey", "Turkey (Turkiye)"
     ],
     "ARE": [
-      "United Arab Emirates"
+      "United Arab Emirates", "U.A.E.", "UAE"
     ],
     "MDA": [
       "Moldova", "Republic of Moldova", "MOLDOVA (THE REPUBLIC OF)"
@@ -102,10 +102,10 @@
       "Svalbard and Jan Mayen Islands", "SVALBARD AND JAN MAYEN"
     ],
     "GBR": [
-      "United Kingdom of Great Britain and Northern Ireland"
+      "United Kingdom", "United Kingdom of Great Britain and Northern Ireland"
     ],
     "VAT": [
-      "Holy See"
+      "Holy See", "Holy See (Vatican City)"
     ],
     "NLD": [
       "Netherlands", "Netherlands (Kingdom of the)"
@@ -130,5 +130,56 @@
     ],
     "RUS": [
       "Russia", "Russian Federation"
+    ],
+    "USA": [
+      "United States of America", "United States", "U.S.A.", "USA"
+    ],
+    "IRN": [
+      "Iran", "Iran (Islamic Republic of)"
+    ],
+    "BOL": [
+      "Bolivia", "Bolivia (Plurinational State of)"
+    ],
+    "VEN": [
+      "Venezuela", "Venezuela (Bolivarian Republic of)"
+    ],
+    "MMR": [
+      "Myanmar", "Burma"
+    ],
+    "VNM": [
+      "Vietnam", "Viet Nam"
+    ],
+    "SYR": [
+      "Syria", "Syrian Arab Republic"
+    ],
+    "BRN": [
+      "Brunei", "Brunei Darussalam"
+    ],
+    "FSM": [
+      "Micronesia", "Micronesia (Federated States of)", "Micronesia, Federated States of"
+    ],
+    "CUW": [
+      "Curaçao", "Curacao"
+    ],
+    "MAF": [
+      "Saint Martin", "Saint Martin (French Part)"
+    ],
+    "PCN": [
+      "Pitcairn", "Pitcairn Islands"
+    ],
+    "SXM": [
+      "Sint Maarten", "Sint Maarten (Dutch part)"
+    ],
+    "BIH": [
+      "Bosnia and Herzegovina", "Bosnia & Herzegovina"
+    ],
+    "TTO": [
+      "Trinidad and Tobago", "Trinidad & Tobago"
+    ],
+    "CPV": [
+      "Cabo Verde", "Cape Verde"
+    ],
+    "TLS": [
+      "Timor-Leste", "East Timor"
     ]
 }

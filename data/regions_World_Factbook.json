@@ -94,6 +94,16 @@
           "iso4217": "EUR"
         },
         {
+          "name": "United Kingdom of Great Britain and Northern Ireland",
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "units": [
+            "Pound",
+            "Penny"
+          ],
+          "iso4217": "GBP"
+        },
+        {
           "name": "Romania",
           "alpha2": "RO",
           "alpha3": "ROU",
@@ -274,6 +284,16 @@
           "iso4217": "DKK"
         },
         {
+          "name": "Netherlands (Kingdom of the)",
+          "alpha2": "NL",
+          "alpha3": "NLD",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR"
+        },
+        {
           "name": "Switzerland",
           "alpha2": "CH",
           "alpha3": "CHE",
@@ -282,6 +302,16 @@
             "Centime"
           ],
           "iso4217": "CHF"
+        },
+        {
+          "name": "Republic of Moldova",
+          "alpha2": "MD",
+          "alpha3": "MDA",
+          "units": [
+            "Leu",
+            "Ban"
+          ],
+          "iso4217": "MDL"
         },
         {
           "name": "Belgium",
@@ -457,6 +487,17 @@
             "Cent"
           ],
           "iso4217": "EUR"
+        },
+        {
+          "name": "Holy See",
+          "alpha2": "VA",
+          "alpha3": "VAT",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "dependent": true
         }
       ]
     },
@@ -472,6 +513,16 @@
             "Cent"
           ],
           "iso4217": "CAD"
+        },
+        {
+          "name": "United States of America",
+          "alpha2": "US",
+          "alpha3": "USA",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "USD"
         },
         {
           "name": "Greenland",
@@ -532,6 +583,26 @@
           "iso4217": "SAR"
         },
         {
+          "name": "Iran (Islamic Republic of)",
+          "alpha2": "IR",
+          "alpha3": "IRN",
+          "units": [
+            "Rial",
+            "Dinar"
+          ],
+          "iso4217": "IRR"
+        },
+        {
+          "name": "Türkiye",
+          "alpha2": "TR",
+          "alpha3": "TUR",
+          "units": [
+            "Lira",
+            "Kuruş"
+          ],
+          "iso4217": "TRY"
+        },
+        {
           "name": "Yemen",
           "alpha2": "YE",
           "alpha3": "YEM",
@@ -560,6 +631,16 @@
             "Baisa"
           ],
           "iso4217": "OMR"
+        },
+        {
+          "name": "Syrian Arab Republic",
+          "alpha2": "SY",
+          "alpha3": "SYR",
+          "units": [
+            "Pound",
+            "Qirsh"
+          ],
+          "iso4217": "SYP"
         },
         {
           "name": "Jordan",
@@ -667,6 +748,16 @@
       "name": "Central Asia",
       "countries": [
         {
+          "name": "Russian Federation",
+          "alpha2": "RU",
+          "alpha3": "RUS",
+          "units": [
+            "Ruble",
+            "Kopek"
+          ],
+          "iso4217": "RUB"
+        },
+        {
           "name": "Kazakhstan",
           "alpha2": "KZ",
           "alpha3": "KAZ",
@@ -752,6 +843,16 @@
           "iso4217": "MNT"
         },
         {
+          "name": "Myanmar",
+          "alpha2": "MM",
+          "alpha3": "MMR",
+          "units": [
+            "Kyat",
+            "Pya"
+          ],
+          "iso4217": "MMK"
+        },
+        {
           "name": "Thailand",
           "alpha2": "TH",
           "alpha3": "THA",
@@ -782,6 +883,16 @@
           "iso4217": "JPY"
         },
         {
+          "name": "Viet Nam",
+          "alpha2": "VN",
+          "alpha3": "VNM",
+          "units": [
+            "Dong",
+            "Hào"
+          ],
+          "iso4217": "VND"
+        },
+        {
           "name": "Malaysia",
           "alpha2": "MY",
           "alpha3": "MYS",
@@ -802,6 +913,16 @@
           "iso4217": "PHP"
         },
         {
+          "name": "Lao People's Democratic Republic",
+          "alpha2": "LA",
+          "alpha3": "LAO",
+          "units": [
+            "Kip",
+            "Att"
+          ],
+          "iso4217": "LAK"
+        },
+        {
           "name": "Cambodia",
           "alpha2": "KH",
           "alpha3": "KHM",
@@ -810,6 +931,26 @@
             "Sen"
           ],
           "iso4217": "KHR"
+        },
+        {
+          "name": "Democratic People's Republic of Korea",
+          "alpha2": "KP",
+          "alpha3": "PRK",
+          "units": [
+            "Won",
+            "Chon"
+          ],
+          "iso4217": "KPW"
+        },
+        {
+          "name": "Republic of Korea",
+          "alpha2": "KR",
+          "alpha3": "KOR",
+          "units": [
+            "Won",
+            "Jeon"
+          ],
+          "iso4217": "KRW"
         },
         {
           "name": "Timor-Leste",
@@ -822,6 +963,27 @@
           "iso4217": "USD"
         },
         {
+          "name": "Brunei Darussalam",
+          "alpha2": "BN",
+          "alpha3": "BRN",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "BND"
+        },
+        {
+          "name": "China, Hong Kong Special Administrative Region",
+          "alpha2": "HK",
+          "alpha3": "HKG",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "HKD",
+          "dependent": true
+        },
+        {
           "name": "Singapore",
           "alpha2": "SG",
           "alpha3": "SGP",
@@ -830,6 +992,17 @@
             "Cent"
           ],
           "iso4217": "SGD"
+        },
+        {
+          "name": "China, Macao Special Administrative Region",
+          "alpha2": "MO",
+          "alpha3": "MAC",
+          "units": [
+            "Pataca",
+            "Avo"
+          ],
+          "iso4217": "MOP",
+          "dependent": true
         }
       ]
     },
@@ -875,6 +1048,26 @@
             "Centavo"
           ],
           "iso4217": "COP"
+        },
+        {
+          "name": "Bolivia (Plurinational State of)",
+          "alpha2": "BO",
+          "alpha3": "BOL",
+          "units": [
+            "Boliviano",
+            "Centavo"
+          ],
+          "iso4217": "BOB"
+        },
+        {
+          "name": "Venezuela (Bolivarian Republic of)",
+          "alpha2": "VE",
+          "alpha3": "VEN",
+          "units": [
+            "Bolívar",
+            "Centimo"
+          ],
+          "iso4217": "VES"
         },
         {
           "name": "Chile",
@@ -935,6 +1128,24 @@
             "Cent"
           ],
           "iso4217": "SRD"
+        },
+        {
+          "name": "Falkland Islands (Malvinas)",
+          "alpha2": "FK",
+          "alpha3": "FLK",
+          "units": [
+            "Pound",
+            "Penny"
+          ],
+          "iso4217": "FKP",
+          "dependent": true
+        },
+        {
+          "name": "South Georgia and the South Sandwich Islands",
+          "alpha2": "GS",
+          "alpha3": "SGS",
+          "units": [],
+          "dependent": true
         }
       ]
     },
@@ -1044,6 +1255,16 @@
           "iso4217": "TOP"
         },
         {
+          "name": "Micronesia (Federated States of)",
+          "alpha2": "FM",
+          "alpha3": "FSM",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "USD"
+        },
+        {
           "name": "Guam",
           "alpha2": "GU",
           "alpha3": "GUM",
@@ -1119,6 +1340,17 @@
           "iso4217": "USD"
         },
         {
+          "name": "Wallis and Futuna Islands",
+          "alpha2": "WF",
+          "alpha3": "WLF",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "iso4217": "XPF",
+          "dependent": true
+        },
+        {
           "name": "Christmas Island",
           "alpha2": "CX",
           "alpha3": "CXR",
@@ -1127,6 +1359,17 @@
             "Cent"
           ],
           "iso4217": "AUD",
+          "dependent": true
+        },
+        {
+          "name": "Pitcairn",
+          "alpha2": "PN",
+          "alpha3": "PCN",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "NZD",
           "dependent": true
         },
         {
@@ -1294,6 +1537,16 @@
           "iso4217": "DZD"
         },
         {
+          "name": "Democratic Republic of the Congo",
+          "alpha2": "CD",
+          "alpha3": "COD",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "iso4217": "CDF"
+        },
+        {
           "name": "Sudan",
           "alpha2": "SD",
           "alpha3": "SDN",
@@ -1392,6 +1645,16 @@
             "Qirsh"
           ],
           "iso4217": "EGP"
+        },
+        {
+          "name": "United Republic of Tanzania",
+          "alpha2": "TZ",
+          "alpha3": "TZA",
+          "units": [
+            "Shilling",
+            "Senti"
+          ],
+          "iso4217": "TZS"
         },
         {
           "name": "Nigeria",
@@ -1522,6 +1785,26 @@
             "Cent"
           ],
           "iso4217": "ZWL"
+        },
+        {
+          "name": "Congo",
+          "alpha2": "CG",
+          "alpha3": "COG",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "iso4217": "XAF"
+        },
+        {
+          "name": "Côte d’Ivoire",
+          "alpha2": "CI",
+          "alpha3": "CIV",
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "iso4217": "XOF"
         },
         {
           "name": "Burkina Faso",
@@ -1721,6 +2004,16 @@
           "iso4217": "SZL"
         },
         {
+          "name": "Gambia",
+          "alpha2": "GM",
+          "alpha3": "GMB",
+          "units": [
+            "Dalasi",
+            "Butut"
+          ],
+          "iso4217": "GMD"
+        },
+        {
           "name": "Cabo Verde",
           "alpha2": "CV",
           "alpha3": "CPV",
@@ -1769,6 +2062,17 @@
             "Cent"
           ],
           "iso4217": "SCR"
+        },
+        {
+          "name": "Saint Helena",
+          "alpha2": "SH",
+          "alpha3": "SHN",
+          "units": [
+            "Pound",
+            "Penny"
+          ],
+          "iso4217": "SHP",
+          "dependent": true
         }
       ]
     },
@@ -1876,6 +2180,16 @@
           "iso4217": "SVC"
         },
         {
+          "name": "Bahamas",
+          "alpha2": "BS",
+          "alpha3": "BHS",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "BSD"
+        },
+        {
           "name": "Jamaica",
           "alpha2": "JM",
           "alpha3": "JAM",
@@ -1905,6 +2219,17 @@
             "Cent"
           ],
           "iso4217": "TTD"
+        },
+        {
+          "name": "United States Virgin Islands",
+          "alpha2": "VI",
+          "alpha3": "VIR",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "dependent": true
         },
         {
           "name": "Turks and Caicos Islands",
@@ -2024,7 +2349,11 @@
           "name": "British Virgin Islands",
           "alpha2": "VG",
           "alpha3": "VGB",
-          "units": [],
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "USD",
           "dependent": true
         },
         {
@@ -2050,14 +2379,25 @@
           "dependent": true
         },
         {
-          "name": "Saint Barthélemy",
-          "alpha2": "BL",
-          "alpha3": "BLM",
+          "name": "Saint Martin (French Part)",
+          "alpha2": "MF",
+          "alpha3": "MAF",
           "units": [
             "Euro",
             "Cent"
           ],
           "iso4217": "EUR",
+          "dependent": true
+        },
+        {
+          "name": "Sint Maarten (Dutch part)",
+          "alpha2": "SX",
+          "alpha3": "SXM",
+          "units": [
+            "Guilder",
+            "Cent"
+          ],
+          "iso4217": "ANG",
           "dependent": true
         }
       ]
