@@ -269,7 +269,11 @@
       "name": "United Republic of Tanzania",
       "alpha2": "TZ",
       "alpha3": "TZA",
-      "units": []
+      "units": [
+        "Shilling",
+        "Senti"
+      ],
+      "iso4217": "TZS"
     },
     {
       "name": "Zambia",
@@ -345,7 +349,11 @@
       "name": "Democratic Republic of the Congo",
       "alpha2": "CD",
       "alpha3": "COD",
-      "units": []
+      "units": [
+        "Franc",
+        "Centime"
+      ],
+      "iso4217": "CDF"
     },
     {
       "name": "Equatorial Guinea",
@@ -461,7 +469,11 @@
       "name": "Côte d’Ivoire",
       "alpha2": "CI",
       "alpha3": "CIV",
-      "units": []
+      "units": [
+        "Franc",
+        "Centime"
+      ],
+      "iso4217": "XOF"
     },
     {
       "name": "Gambia",
@@ -557,7 +569,11 @@
       "name": "Saint Helena",
       "alpha2": "SH",
       "alpha3": "SHN",
-      "units": [],
+      "units": [
+        "Pound",
+        "Penny"
+      ],
+      "iso4217": "SHP",
       "dependent": true
     },
     {
@@ -654,7 +670,11 @@
       "name": "British Virgin Islands",
       "alpha2": "VG",
       "alpha3": "VGB",
-      "units": [],
+      "units": [
+        "Dollar",
+        "Cent"
+      ],
+      "iso4217": "USD",
       "dependent": true
     },
     {
@@ -871,7 +891,11 @@
       "name": "United States Virgin Islands",
       "alpha2": "VI",
       "alpha3": "VIR",
-      "units": [],
+      "units": [
+        "Dollar",
+        "Cent"
+      ],
+      "iso4217": "USD",
       "dependent": true
     },
     {
@@ -1029,7 +1053,11 @@
       "name": "Falkland Islands (Malvinas)",
       "alpha2": "FK",
       "alpha3": "FLK",
-      "units": [],
+      "units": [
+        "Pound",
+        "Penny"
+      ],
+      "iso4217": "FKP",
       "dependent": true
     },
     {
@@ -1234,21 +1262,33 @@
       "name": "China, Hong Kong Special Administrative Region",
       "alpha2": "HK",
       "alpha3": "HKG",
-      "units": [],
+      "units": [
+        "Dollar",
+        "Cent"
+      ],
+      "iso4217": "HKD",
       "dependent": true
     },
     {
       "name": "China, Macao Special Administrative Region",
       "alpha2": "MO",
       "alpha3": "MAC",
-      "units": [],
+      "units": [
+        "Pataca",
+        "Avo"
+      ],
+      "iso4217": "MOP",
       "dependent": true
     },
     {
       "name": "Democratic People's Republic of Korea",
       "alpha2": "KP",
       "alpha3": "PRK",
-      "units": []
+      "units": [
+        "Won",
+        "Chon"
+      ],
+      "iso4217": "KPW"
     },
     {
       "name": "Japan",
@@ -1274,7 +1314,11 @@
       "name": "Republic of Korea",
       "alpha2": "KR",
       "alpha3": "KOR",
-      "units": []
+      "units": [
+        "Won",
+        "Jeon"
+      ],
+      "iso4217": "KRW"
     },
     {
       "name": "Brunei Darussalam",
@@ -1310,7 +1354,11 @@
       "name": "Lao People's Democratic Republic",
       "alpha2": "LA",
       "alpha3": "LAO",
-      "units": []
+      "units": [
+        "Kip",
+        "Att"
+      ],
+      "iso4217": "LAK"
     },
     {
       "name": "Malaysia",
@@ -1623,7 +1671,11 @@
       "name": "Türkiye",
       "alpha2": "TR",
       "alpha3": "TUR",
-      "units": []
+      "units": [
+        "Lira",
+        "Kuruş"
+      ],
+      "iso4217": "TRY"
     },
     {
       "name": "United Arab Emirates",
@@ -1699,7 +1751,11 @@
       "name": "Republic of Moldova",
       "alpha2": "MD",
       "alpha3": "MDA",
-      "units": []
+      "units": [
+        "Leu",
+        "Ban"
+      ],
+      "iso4217": "MDL"
     },
     {
       "name": "Romania",
@@ -1880,7 +1936,11 @@
       "name": "Svalbard and Jan Mayen Islands",
       "alpha2": "SJ",
       "alpha3": "SJM",
-      "units": [],
+      "units": [
+        "Krone",
+        "øre"
+      ],
+      "iso4217": "NOK",
       "dependent": true
     },
     {
@@ -2139,7 +2199,11 @@
       "name": "Netherlands (Kingdom of the)",
       "alpha2": "NL",
       "alpha3": "NLD",
-      "units": []
+      "units": [
+        "Euro",
+        "Cent"
+      ],
+      "iso4217": "EUR"
     },
     {
       "name": "Switzerland",
@@ -2449,7 +2513,11 @@
       "name": "Wallis and Futuna Islands",
       "alpha2": "WF",
       "alpha3": "WLF",
-      "units": [],
+      "units": [
+        "Franc",
+        "Centime"
+      ],
+      "iso4217": "XPF",
       "dependent": true
     }
   ]

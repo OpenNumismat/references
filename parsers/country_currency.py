@@ -5,15 +5,23 @@ import json
 import xml.etree.ElementTree as ET
 
 
-def country2iso4217(country, currencies_list):
+def country2iso4217(country, alpha3, currencies_list, alternative_names):
     for key, value in currencies_list.items():
         key = key.replace(' (THE)', '')
-        if key.lower() == country.lower():
-            return value
+        if alpha3 in alternative_names:
+            for alt_country in alternative_names[alpha3]:
+                if key.lower() == alt_country.lower():
+                    return value
+        else:
+            if key.lower() == country.lower():
+                return value
 
 
 with open('../data/dependent_countries.json', encoding='utf-8') as file:
     dependend_data = json.load(file)
+
+with open('../data/countries_alternative_names.json', encoding='utf-8') as file:
+    alternative_names = json.load(file)
 
 countries_list = []
 with open('../src/UNSD — Methodology.csv', encoding='utf-8') as file:
@@ -39,14 +47,16 @@ with open('../src/currencies.json', encoding='utf-8') as orig_file:
 result = {"countries": []}
 for country in countries_list:
     country_name = country[8]
+    alpha2 = country[10]
+    alpha3 = country[11]
     data = {
         "name": country_name,
-        "alpha2": country[10],
-        "alpha3": country[11],
+        "alpha2": alpha2,
+        "alpha3": alpha3,
         "units": [],
     }
 
-    iso4217 = country2iso4217(country_name, currencies_list)
+    iso4217 = country2iso4217(country_name, alpha3, currencies_list, alternative_names)
     if iso4217:
         data["iso4217"] = iso4217
         if iso4217 in currencies_data:
