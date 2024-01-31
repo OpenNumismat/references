@@ -1591,6 +1591,18 @@
           "iso4217": "CNY"
         },
         {
+          "name": "Taiwan",
+          "alpha2": "TW",
+          "alpha3": "TWN",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "TWD",
+          "part_of": "CHN",
+          "unrecognized": true
+        },
+        {
           "name": "Japan",
           "alpha2": "JP",
           "alpha3": "JPN",

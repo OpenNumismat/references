@@ -9,17 +9,21 @@ def str2latin(string):
 def get_alternative_names(country):
     country = country.lower()
     for names in alternative_names.values():
+        names = [name.lower() for name in names]
         for name in names:
-            if name.lower() == country:
+            if name == country:
                 return names
     return [country,]
+
+def compare_county_names(country1, country2):
+    return bool(country2.lower() in get_alternative_names(country1))
 
 def country2countrydata(country, orig_data):
     names = get_alternative_names(country)
     for orig_country in orig_data["countries"]:
         key = orig_country["name"].lower()
         for name in names:
-            if name.lower() == key:
+            if name == key:
                 return orig_country
     return None
 
@@ -32,7 +36,6 @@ with open('../data/countries_alternative_names.json', encoding='utf-8') as file:
 
 with open('../data/country_currency.json', encoding='utf-8') as orig_file:
     orig_data = json.load(orig_file)
-
 
 
 result = {

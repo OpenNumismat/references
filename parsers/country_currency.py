@@ -77,9 +77,17 @@ for country in countries_list:
         print("Missed iso4217 for", country_name)
 
     if 'alpha3' in data and data['alpha3'] in dependend_data:
-        if 'unrecognized' not in data:
-            data['dependent'] = True
+        data['dependent'] = True
+#        if 'unrecognized' not in data:
+#            data['dependent'] = True
 
+    result["countries"].append(data)
+
+with open('../data/unrecognized_countries.json', encoding='utf-8') as file:
+    unrecognized_countries = json.load(file)
+
+for data in unrecognized_countries:
+    data['unrecognized'] = True
     result["countries"].append(data)
 
 with open('../data/country_currency.json', 'w', encoding='utf8') as json_file:

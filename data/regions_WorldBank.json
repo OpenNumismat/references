@@ -566,6 +566,14 @@
             "Tiyin"
           ],
           "iso4217": "UZS"
+        },
+        {
+          "name": "Kosovo",
+          "alpha2": "XK",
+          "alpha3": "XKX",
+          "units": [],
+          "part_of": "SRB",
+          "unrecognized": true
         }
       ]
     },
@@ -2167,6 +2175,18 @@
             "Cent"
           ],
           "iso4217": "AUD"
+        },
+        {
+          "name": "Taiwan",
+          "alpha2": "TW",
+          "alpha3": "TWN",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "TWD",
+          "part_of": "CHN",
+          "unrecognized": true
         },
         {
           "name": "Vietnam",

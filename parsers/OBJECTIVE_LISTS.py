@@ -9,17 +9,21 @@ def str2latin(string):
 def get_alternative_names(country):
     country = country.lower()
     for names in alternative_names.values():
+        names = [name.lower() for name in names]
         for name in names:
-            if name.lower() == country:
+            if name == country:
                 return names
     return [country,]
+
+def compare_county_names(country1, country2):
+    return bool(country2.lower() in get_alternative_names(country1))
 
 def country2countrydata(country, orig_data):
     names = get_alternative_names(country)
     for orig_country in orig_data["countries"]:
         key = orig_country["name"].lower()
         for name in names:
-            if name.lower() == key:
+            if name == key:
                 return orig_country
     return None
 
@@ -34,7 +38,6 @@ with open('../data/country_currency.json', encoding='utf-8') as orig_file:
     orig_data = json.load(orig_file)
 
 
-
 result = {
     "regions": []
 }
@@ -44,7 +47,31 @@ for region in subregions_data:
         "name": region["region"],
         "countries": [],
     })
+'''
+for orig_country in orig_data["countries"]:
+    finded = False
+    for region_data in subregions_data:
+        region = region_data['region']
+        for country in region_data['countries']:
+            if compare_county_names(country, orig_country["name"]):
+                for r in result["regions"]:
+                    if r["name"] == region:
+                        r["countries"].append(orig_country)
+                        finded = True
+                        break
+                break
 
+    if not finded and "unrecognized" in orig_country:
+        for r in result["regions"]:
+            for c in r["countries"]:
+                if c["alpha3"] == orig_country["part_of"]:
+                    r["countries"].append(orig_country)
+                    finded = True
+                    break
+
+    if not finded:
+        print("Missed data for", orig_country["name"])
+'''
 for region in subregions_data:
     region_name = region['region']
     for country in region['countries']:

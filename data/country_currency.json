@@ -2519,6 +2519,107 @@
       ],
       "iso4217": "XPF",
       "dependent": true
+    },
+    {
+      "name": "Abkhazia",
+      "alpha2": "",
+      "alpha3": "",
+      "units": [
+        "Apsar"
+      ],
+      "part_of": "GEO",
+      "unrecognized": true
+    },
+    {
+      "name": "Artsakh",
+      "alpha2": "",
+      "alpha3": "",
+      "units": [
+        "Dram",
+        "Luma"
+      ],
+      "part_of": "AZE",
+      "unrecognized": true
+    },
+    {
+      "name": "Kosovo",
+      "alpha2": "XK",
+      "alpha3": "XKX",
+      "units": [],
+      "part_of": "SRB",
+      "unrecognized": true
+    },
+    {
+      "name": "Northern Cyprus",
+      "alpha2": "",
+      "alpha3": "",
+      "units": [],
+      "part_of": "CYP",
+      "unrecognized": true
+    },
+    {
+      "name": "Palestine",
+      "alpha2": "PS",
+      "alpha3": "PSE",
+      "units": [],
+      "part_of": "ISR",
+      "unrecognized": true
+    },
+    {
+      "name": "Somaliland",
+      "alpha2": "",
+      "alpha3": "XSL",
+      "units": [
+        "Shilling",
+        "Cent"
+      ],
+      "iso4217": "SLS",
+      "part_of": "SOM",
+      "unrecognized": true
+    },
+    {
+      "name": "South Ossetia",
+      "alpha2": "",
+      "alpha3": "",
+      "units": [],
+      "part_of": "GEO",
+      "unrecognized": true
+    },
+    {
+      "name": "Taiwan",
+      "alpha2": "TW",
+      "alpha3": "TWN",
+      "units": [
+        "Dollar",
+        "Cent"
+      ],
+      "iso4217": "TWD",
+      "part_of": "CHN",
+      "unrecognized": true
+    },
+    {
+      "name": "Transnistria",
+      "alpha2": "",
+      "alpha3": "XPR",
+      "units": [
+        "Ruble",
+        "Kopek"
+      ],
+      "iso4217": "PRB",
+      "part_of": "MDA",
+      "unrecognized": true
+    },
+    {
+      "name": "Western Sahara",
+      "alpha2": "EH",
+      "alpha3": "ESH",
+      "units": [
+        "Peseta",
+        "Céntimo"
+      ],
+      "iso4217": "EHP",
+      "part_of": "MAR",
+      "unrecognized": true
     }
   ]
 }
