@@ -124,7 +124,7 @@
           "iso4217": "EUR"
         },
         {
-          "name": "Faroe Islands",
+          "name": "Faroes",
           "alpha2": "FO",
           "alpha3": "FRO",
           "units": [
@@ -586,7 +586,7 @@
           "dependent": true
         },
         {
-          "name": "United States of America",
+          "name": "United States",
           "alpha2": "US",
           "alpha3": "USA",
           "units": [
@@ -910,7 +910,7 @@
           "dependent": true
         },
         {
-          "name": "Korea, North",
+          "name": "North Korea",
           "alpha2": "KP",
           "alpha3": "PRK",
           "units": [
@@ -940,7 +940,7 @@
           "iso4217": "MNT"
         },
         {
-          "name": "Korea, South",
+          "name": "South Korea",
           "alpha2": "KR",
           "alpha3": "KOR",
           "units": [
@@ -1050,7 +1050,7 @@
           "iso4217": "USD"
         },
         {
-          "name": "Vietnam",
+          "name": "Viet Nam",
           "alpha2": "VN",
           "alpha3": "VNM",
           "units": [

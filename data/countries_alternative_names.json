@@ -60,7 +60,7 @@
       "South Georgia and South Sandwich Islands", "South Georgia and the South Sandwich Islands"
     ],
     "USA": [
-      "United States of America"
+      "United States", "United States of America", "U.S.A.", "USA"
     ],
     "HKG": [
       "Hong Kong", "China, Hong Kong Special Administrative Region"
@@ -69,10 +69,10 @@
       "Macao", "China, Macao Special Administrative Region", "Macau"
     ],
     "PRK": [
-      "Korea, North", "Democratic People's Republic of Korea", "KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)", "North Korea"
+      "North Korea", "Korea, North", "Democratic People's Republic of Korea", "KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)"
     ],
     "KOR": [
-      "Korea, South", "Republic of Korea", "KOREA (THE REPUBLIC OF)", "South Korea"
+      "South Korea", "Korea, South", "Republic of Korea", "KOREA (THE REPUBLIC OF)"
     ],
     "LAO": [
       "Laos", "Lao People's Democratic Republic", "LAO PEOPLE’S DEMOCRATIC REPUBLIC"
@@ -96,7 +96,7 @@
       "Russian Federation"
     ],
     "FRO": [
-      "Faroe Islands"
+      "Faroes", "Faroe Islands"
     ],
     "SJM": [
       "Svalbard and Jan Mayen Islands", "SVALBARD AND JAN MAYEN"
@@ -131,9 +131,6 @@
     "RUS": [
       "Russia", "Russian Federation"
     ],
-    "USA": [
-      "United States of America", "United States", "U.S.A.", "USA"
-    ],
     "IRN": [
       "Iran", "Iran (Islamic Republic of)"
     ],
@@ -147,7 +144,7 @@
       "Myanmar", "Burma"
     ],
     "VNM": [
-      "Vietnam", "Viet Nam"
+      "Viet Nam", "Vietnam"
     ],
     "SYR": [
       "Syria", "Syrian Arab Republic"
@@ -181,5 +178,8 @@
     ],
     "TLS": [
       "Timor-Leste", "East Timor"
+    ],
+    "REU": [
+      "Réunion", "Reunion"
     ]
 }

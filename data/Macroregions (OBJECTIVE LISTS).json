@@ -430,7 +430,7 @@
           "iso4217": "EUR"
         },
         {
-          "name": "United States of America",
+          "name": "United States",
           "alpha2": "US",
           "alpha3": "USA",
           "units": [
@@ -1613,7 +1613,7 @@
           "iso4217": "JPY"
         },
         {
-          "name": "Korea, South",
+          "name": "South Korea",
           "alpha2": "KR",
           "alpha3": "KOR",
           "units": [
@@ -1623,7 +1623,7 @@
           "iso4217": "KRW"
         },
         {
-          "name": "Korea, North",
+          "name": "North Korea",
           "alpha2": "KP",
           "alpha3": "PRK",
           "units": [
@@ -1678,7 +1678,7 @@
           "iso4217": "THB"
         },
         {
-          "name": "Vietnam",
+          "name": "Viet Nam",
           "alpha2": "VN",
           "alpha3": "VNM",
           "units": [
