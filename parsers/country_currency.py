@@ -3,6 +3,7 @@
 import csv
 import json
 import xml.etree.ElementTree as ET
+import lxml.html
 
 def get_alternative_names(country):
     country = country.lower()
@@ -46,6 +47,42 @@ for CcyNtry in CcyTbl[0]:
             if CtryNm.text not in currencies_list:
                 currencies_list[CtryNm.text] = Ccy.text
 
+eu_countries_list = {}
+page = lxml.html.parse('../src/en-5000500.html')
+table = page.getroot().get_element_by_id("listOfCountriesTable")
+for tr in table[1:]:
+    tds = tr.getchildren()
+    if len(tds) == 10:
+        alpha2 = tds[3].text
+        # https://publications.europa.eu/code/en/en-5000500.htm#an-1
+        if alpha2 == 'EL':
+            alpha2 = 'GR'
+        if alpha2 == 'UK':
+            alpha2 = 'GB'
+        
+        for text in tds[1].itertext():
+            name = text.replace('(', '').strip()
+            break
+
+        major = tds[7].text
+        if major == '—':
+            major = None
+        if major:
+            major = major.split('(')[0]
+            major = major.split()[-1]
+            major = major.title()
+        minor = tds[9].text
+        if minor == '—':
+            minor = None
+        if minor:
+            minor = minor.replace('[', '').replace(']', '') # TODO: When [] in unit - it's obsolete
+            minor = minor.split('(')[0]
+            minor = minor.title().strip()
+
+        eu_countries_list[alpha2] = {"name": name, "iso4217": tds[8].text, "dependent": bool(tr.get('class')), "major": major, "minor": minor}
+#    else:
+#        print('Check lines:', tds[0].text)
+
 with open('../src/currencies.json', encoding='utf-8') as orig_file:
     currencies_data = json.load(orig_file)
 
@@ -75,6 +112,16 @@ for country in countries_list:
             print("Missed currency for", country_name)
     else:
         print("Missed iso4217 for", country_name)
+    
+    # Upgrade currencies from EU
+    if alpha2 in eu_countries_list:
+        data["units"] = []
+        if eu_countries_list[alpha2]['major']:
+            data["units"].append(eu_countries_list[alpha2]['major'])
+        if eu_countries_list[alpha2]['minor']:
+            data["units"].append(eu_countries_list[alpha2]['minor'])
+    else:
+        print("Missed EU currency for", country_name)
 
     if 'alpha3' in data and data['alpha3'] in dependend_data:
         data['dependent'] = True

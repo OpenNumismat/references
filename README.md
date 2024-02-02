@@ -5,9 +5,10 @@ Sources:
 
 - src/UNSD — Methodology.csv - https://unstats.un.org/unsd/methodology/m49/overview/
 - src/list-one.xml - https://www.six-group.com/en/products-services/financial-information/data-standards.html
-- src/OBJECTIVE_LISTS.html - https://objectivelists.com/2022/12/30/regions-of-the-world/
-- src/Area.csv - https://www.cia.gov/the-world-factbook/field/area/country-comparison/
+- src/en-5000500.html - https://publications.europa.eu/code/en/en-5000500.htm
 - src/CLASS.xlsx - https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html
+- src/Area.csv - https://www.cia.gov/the-world-factbook/field/area/country-comparison/
+- src/OBJECTIVE_LISTS.html - https://objectivelists.com/2022/12/30/regions-of-the-world/
 
 - src/countries.json - https://github.com/stefangabos/world_countries/tree/v2.8.2/data/countries/_combined
 - src/world.json - https://github.com/stefangabos/world_countries/tree/v2.8.2/data/countries/_combined
