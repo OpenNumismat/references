@@ -48,7 +48,7 @@ for CcyNtry in CcyTbl[0]:
                 currencies_list[CtryNm.text] = Ccy.text
 
 eu_countries_list = {}
-page = lxml.html.parse('../src/en-5000500.html')
+page = lxml.html.parse('../src/en-5000500.htm')
 table = page.getroot().get_element_by_id("listOfCountriesTable")
 for tr in table[1:]:
     tds = tr.getchildren()
