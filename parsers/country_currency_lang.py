@@ -128,6 +128,9 @@ def process_countries(lang):
         alpha2 = country[10]
         alpha3 = country[11]
         
+        if alpha3 in ('ATA', 'ESH', 'PSE'):
+            continue
+    
         if alpha3 in alternative_names:
             country_name = alternative_names[alpha3][0]
         
