@@ -51,7 +51,6 @@ def read_eu_countries(lang):
 
             for text in tds[1].itertext():
                 name = text.split('(')[0].strip()
-                #name = text.replace('(', '').strip()
                 break
             major = tds[8].text
 
@@ -88,6 +87,8 @@ def read_eu_countries(lang):
             alpha2 = 'GB'
         
         if major:
+            if lang == 'fr':
+                major.replace('le ', '').replace('la ', '').replace('l’', '')
             major = major.strip()
         if major == '—':
             major = None
@@ -96,7 +97,13 @@ def read_eu_countries(lang):
                 major = major.split(')')[-1]
             else:
                 major = major.split('(')[0]
-            major = major.split()[-1]
+            if lang in ('fr', 'it', 'es', 'el', 'pl', 'pt'):
+                major = major.split()[0]
+            else:
+                major = major.split()[-1]
+                if lang in ('de', 'hu', 'nl', 'sv'):
+                    major = major.split('-')[-1]
+                    major = major.split('/')[-1]
             major = major.title()
 
         if minor == '—':
