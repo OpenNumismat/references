@@ -61,7 +61,7 @@
       "iso4217": "dinaro tunisino"
     },
     {
-      "name": "Sahara occidentale il)",
+      "name": "Sahara occidentale",
       "alpha2": "EH",
       "alpha3": "ESH",
       "units": [
@@ -72,7 +72,7 @@
       "dependent": true
     },
     {
-      "name": "Territorio britannico dell’Oceano Indiano il)",
+      "name": "Territorio britannico dell’Oceano Indiano",
       "alpha2": "IO",
       "alpha3": "IOT",
       "units": [
@@ -131,7 +131,7 @@
       "iso4217": "birr"
     },
     {
-      "name": "Terre australi e antartiche francesi le)",
+      "name": "Terre australi e antartiche francesi",
       "alpha2": "TF",
       "alpha3": "ATF",
       "units": [
@@ -203,7 +203,7 @@
       "iso4217": "metical"
     },
     {
-      "name": "Riunione la)",
+      "name": "Riunione",
       "alpha2": "RE",
       "alpha3": "REU",
       "units": [
@@ -663,7 +663,7 @@
       "dependent": true
     },
     {
-      "name": "Isole Vergini britanniche le)",
+      "name": "Isole Vergini britanniche",
       "alpha2": "VG",
       "alpha3": "VGB",
       "units": [
@@ -674,7 +674,7 @@
       "dependent": true
     },
     {
-      "name": "Isole Cayman le)",
+      "name": "Isole Cayman",
       "alpha2": "KY",
       "alpha3": "CYM",
       "units": [
@@ -736,7 +736,7 @@
       "iso4217": "dollaro dei Caraibi orientali"
     },
     {
-      "name": "Guadalupa la)",
+      "name": "Guadalupa",
       "alpha2": "GP",
       "alpha3": "GLP",
       "units": [
@@ -767,7 +767,7 @@
       "iso4217": "dollaro giamaicano"
     },
     {
-      "name": "Martinica la)",
+      "name": "Martinica",
       "alpha2": "MQ",
       "alpha3": "MTQ",
       "units": [
@@ -873,7 +873,7 @@
       "iso4217": "dollaro di Trinidad e Tobago"
     },
     {
-      "name": "Isole Turks e Caicos le)",
+      "name": "Isole Turks e Caicos",
       "alpha2": "TC",
       "alpha3": "TCA",
       "units": [
@@ -884,7 +884,7 @@
       "dependent": true
     },
     {
-      "name": "Isole Vergini americane le)",
+      "name": "Isole Vergini americane",
       "alpha2": "VI",
       "alpha3": "VIR",
       "units": [
@@ -995,7 +995,7 @@
       "iso4217": "boliviano"
     },
     {
-      "name": "Isola di Bouvet l’)",
+      "name": "Isola di Bouvet",
       "alpha2": "BV",
       "alpha3": "BVT",
       "units": [],
@@ -1043,7 +1043,7 @@
       "iso4217": "dollaro USA"
     },
     {
-      "name": "Isole Falkland le)",
+      "name": "Isole Falkland",
       "alpha2": "FK",
       "alpha3": "FLK",
       "units": [
@@ -1054,7 +1054,7 @@
       "dependent": true
     },
     {
-      "name": "Guyana francese la)",
+      "name": "Guyana francese",
       "alpha2": "GF",
       "alpha3": "GUF",
       "units": [
@@ -1154,7 +1154,7 @@
       "iso4217": "dollaro canadese"
     },
     {
-      "name": "Groenlandia la)",
+      "name": "Groenlandia",
       "alpha2": "GL",
       "alpha3": "GRL",
       "units": [
@@ -1186,7 +1186,7 @@
       "iso4217": "dollaro USA"
     },
     {
-      "name": "Antartide l’)",
+      "name": "Antartide",
       "alpha2": "AQ",
       "alpha3": "ATA",
       "units": [],
@@ -1822,7 +1822,7 @@
       "iso4217": "euro"
     },
     {
-      "name": "Fær Øer le)",
+      "name": "Fær Øer",
       "alpha2": "FO",
       "alpha3": "FRO",
       "units": [
@@ -2216,7 +2216,7 @@
       "iso4217": "dollaro australiano"
     },
     {
-      "name": "Isola Christmas l’)",
+      "name": "Isola Christmas",
       "alpha2": "CX",
       "alpha3": "CXR",
       "units": [
@@ -2227,7 +2227,7 @@
       "dependent": true
     },
     {
-      "name": "Isole Cocos le)",
+      "name": "Isole Cocos",
       "alpha2": "CC",
       "alpha3": "CCK",
       "units": [
@@ -2238,7 +2238,7 @@
       "dependent": true
     },
     {
-      "name": "Isole Heard e McDonald le)",
+      "name": "Isole Heard e McDonald",
       "alpha2": "HM",
       "alpha3": "HMD",
       "units": [],
@@ -2256,7 +2256,7 @@
       "iso4217": "dollaro neozelandese"
     },
     {
-      "name": "Isola Norfolk l’)",
+      "name": "Isola Norfolk",
       "alpha2": "NF",
       "alpha3": "NFK",
       "units": [
@@ -2277,7 +2277,7 @@
       "iso4217": "dollaro delle Figi"
     },
     {
-      "name": "Nuova Caledonia la)",
+      "name": "Nuova Caledonia",
       "alpha2": "NC",
       "alpha3": "NCL",
       "units": [
@@ -2368,7 +2368,7 @@
       "iso4217": "dollaro australiano"
     },
     {
-      "name": "Isole Marianne settentrionali le)",
+      "name": "Isole Marianne settentrionali",
       "alpha2": "MP",
       "alpha3": "MNP",
       "units": [
@@ -2389,7 +2389,7 @@
       "iso4217": "dollaro USA"
     },
     {
-      "name": "Isole minori periferiche degli Stati Uniti le)",
+      "name": "Isole minori periferiche degli Stati Uniti",
       "alpha2": "UM",
       "alpha3": "UMI",
       "units": [
@@ -2400,7 +2400,7 @@
       "dependent": true
     },
     {
-      "name": "Samoa americane le)",
+      "name": "Samoa americane",
       "alpha2": "AS",
       "alpha3": "ASM",
       "units": [
@@ -2422,7 +2422,7 @@
       "dependent": true
     },
     {
-      "name": "Polinesia francese la)",
+      "name": "Polinesia francese",
       "alpha2": "PF",
       "alpha3": "PYF",
       "units": [
@@ -2444,7 +2444,7 @@
       "dependent": true
     },
     {
-      "name": "Isole Pitcairn le)",
+      "name": "Isole Pitcairn",
       "alpha2": "PN",
       "alpha3": "PCN",
       "units": [
@@ -2465,7 +2465,7 @@
       "iso4217": "tala"
     },
     {
-      "name": "Tokelau le)",
+      "name": "Tokelau",
       "alpha2": "TK",
       "alpha3": "TKL",
       "units": [

@@ -50,7 +50,8 @@ def read_eu_countries(lang):
             alpha2 = tds[4].text.strip()
 
             for text in tds[1].itertext():
-                name = text.replace('(', '').strip()
+                name = text.split('(')[0].strip()
+                #name = text.replace('(', '').strip()
                 break
             major = tds[8].text
 
