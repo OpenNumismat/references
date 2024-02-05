@@ -1,0 +1,2627 @@
+{
+  "regions": [
+    {
+      "name": "Europe",
+      "countries": [
+        {
+          "name": "Biélorussie la)",
+          "alpha2": "BY",
+          "alpha3": "BLR",
+          "units": [
+            "Biélorusse",
+            "Kopek"
+          ],
+          "iso4217": "le rouble biélorusse"
+        },
+        {
+          "name": "Bulgarie la)",
+          "alpha2": "BG",
+          "alpha3": "BGR",
+          "units": [
+            "Lev",
+            "Stotinka"
+          ],
+          "iso4217": "le lev"
+        },
+        {
+          "name": "Tchéquie la)",
+          "alpha2": "CZ",
+          "alpha3": "CZE",
+          "units": [
+            "Tchèque",
+            "Halér"
+          ],
+          "iso4217": "la couronne tchèque"
+        },
+        {
+          "name": "Hongrie la)",
+          "alpha2": "HU",
+          "alpha3": "HUN",
+          "units": [
+            "Forint",
+            "Fillér"
+          ],
+          "iso4217": "le forint"
+        },
+        {
+          "name": "Pologne la)",
+          "alpha2": "PL",
+          "alpha3": "POL",
+          "units": [
+            "Zloty",
+            "Grosz"
+          ],
+          "iso4217": "le zloty"
+        },
+        {
+          "name": "Moldavie la)",
+          "alpha2": "MD",
+          "alpha3": "MDA",
+          "units": [
+            "Moldave",
+            "Ban"
+          ],
+          "iso4217": "le leu moldave"
+        },
+        {
+          "name": "Roumanie la)",
+          "alpha2": "RO",
+          "alpha3": "ROU",
+          "units": [
+            "Roumain",
+            "Ban"
+          ],
+          "iso4217": "le leu roumain"
+        },
+        {
+          "name": "Russie la)",
+          "alpha2": "RU",
+          "alpha3": "RUS",
+          "units": [
+            "Russe",
+            "Kopek"
+          ],
+          "iso4217": "le rouble russe"
+        },
+        {
+          "name": "Slovaquie la)",
+          "alpha2": "SK",
+          "alpha3": "SVK",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Ukraine l’)",
+          "alpha2": "UA",
+          "alpha3": "UKR",
+          "units": [
+            "Hryvnia",
+            "Kopiyka"
+          ],
+          "iso4217": "la hryvnia"
+        },
+        {
+          "name": "Îles Åland les)",
+          "alpha2": "AX",
+          "alpha3": "ALA",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)",
+          "dependent": true
+        },
+        {
+          "name": "Danemark le)",
+          "alpha2": "DK",
+          "alpha3": "DNK",
+          "units": [
+            "Danoise",
+            "Øre"
+          ],
+          "iso4217": "la couronne danoise"
+        },
+        {
+          "name": "Estonie l’)",
+          "alpha2": "EE",
+          "alpha3": "EST",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Féroé les)",
+          "alpha2": "FO",
+          "alpha3": "FRO",
+          "units": [
+            "Danoise",
+            "Øre"
+          ],
+          "iso4217": "la couronne danoise",
+          "dependent": true
+        },
+        {
+          "name": "Finlande la)",
+          "alpha2": "FI",
+          "alpha3": "FIN",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Guernesey",
+          "alpha2": "GG",
+          "alpha3": "GGY",
+          "units": [
+            "Guernesey",
+            "Penny"
+          ],
+          "iso4217": "la livre de Guernesey",
+          "dependent": true
+        },
+        {
+          "name": "Islande l’)",
+          "alpha2": "IS",
+          "alpha3": "ISL",
+          "units": [
+            "Islandaise"
+          ],
+          "iso4217": "la couronne islandaise"
+        },
+        {
+          "name": "Irlande l’)",
+          "alpha2": "IE",
+          "alpha3": "IRL",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Île de Man l’)",
+          "alpha2": "IM",
+          "alpha3": "IMN",
+          "units": [
+            "Mannoise",
+            "Penny"
+          ],
+          "iso4217": "la livre mannoise",
+          "dependent": true
+        },
+        {
+          "name": "Jersey",
+          "alpha2": "JE",
+          "alpha3": "JEY",
+          "units": [
+            "Jersey",
+            "Penny"
+          ],
+          "iso4217": "la livre de Jersey",
+          "dependent": true
+        },
+        {
+          "name": "Lettonie la)",
+          "alpha2": "LV",
+          "alpha3": "LVA",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Lituanie la)",
+          "alpha2": "LT",
+          "alpha3": "LTU",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Norvège la)",
+          "alpha2": "NO",
+          "alpha3": "NOR",
+          "units": [
+            "Norvégienne",
+            "Øre"
+          ],
+          "iso4217": "la couronne norvégienne"
+        },
+        {
+          "name": "Svalbard et Jan Mayen",
+          "alpha2": "SJ",
+          "alpha3": "SJM",
+          "units": [
+            "Norvégienne",
+            "Øre"
+          ],
+          "iso4217": "la couronne norvégienne",
+          "dependent": true
+        },
+        {
+          "name": "Suède la)",
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "units": [
+            "Suédoise",
+            "Öre"
+          ],
+          "iso4217": "la couronne suédoise"
+        },
+        {
+          "name": "Royaume-Uni le)",
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "units": [
+            "Sterling",
+            "Penny"
+          ],
+          "iso4217": "la livre sterling"
+        },
+        {
+          "name": "Albanie l’)",
+          "alpha2": "AL",
+          "alpha3": "ALB",
+          "units": [
+            "Lek",
+            "Qindar"
+          ],
+          "iso4217": "le lek"
+        },
+        {
+          "name": "Andorre l’)",
+          "alpha2": "AD",
+          "alpha3": "AND",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Bosnie-Herzégovine la)",
+          "alpha2": "BA",
+          "alpha3": "BIH",
+          "units": [
+            "Convertible",
+            "Fening"
+          ],
+          "iso4217": "le mark convertible"
+        },
+        {
+          "name": "Croatie la)",
+          "alpha2": "HR",
+          "alpha3": "HRV",
+          "units": [],
+          "iso4217": "l'euro (M)"
+        },
+        {
+          "name": "Gibraltar",
+          "alpha2": "GI",
+          "alpha3": "GIB",
+          "units": [
+            "Gibraltar",
+            "Penny"
+          ],
+          "iso4217": "la livre de Gibraltar",
+          "dependent": true
+        },
+        {
+          "name": "Grèce la)",
+          "alpha2": "GR",
+          "alpha3": "GRC",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Saint-Siège le)/État de la Cité du Vatican l’)",
+          "alpha2": "VA",
+          "alpha3": "VAT",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Italie l’)",
+          "alpha2": "IT",
+          "alpha3": "ITA",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Malte",
+          "alpha2": "MT",
+          "alpha3": "MLT",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Monténégro le)",
+          "alpha2": "ME",
+          "alpha3": "MNE",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Macédoine du Nord la)",
+          "alpha2": "MK",
+          "alpha3": "MKD",
+          "units": [
+            "Denar",
+            "Deni"
+          ],
+          "iso4217": "le denar"
+        },
+        {
+          "name": "Portugal le)",
+          "alpha2": "PT",
+          "alpha3": "PRT",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Saint-Marin",
+          "alpha2": "SM",
+          "alpha3": "SMR",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Serbie la)",
+          "alpha2": "RS",
+          "alpha3": "SRB",
+          "units": [
+            "Serbe",
+            "Para"
+          ],
+          "iso4217": "le dinar serbe"
+        },
+        {
+          "name": "Slovénie la)",
+          "alpha2": "SI",
+          "alpha3": "SVN",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Espagne l’)",
+          "alpha2": "ES",
+          "alpha3": "ESP",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Autriche l’)",
+          "alpha2": "AT",
+          "alpha3": "AUT",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Belgique la)",
+          "alpha2": "BE",
+          "alpha3": "BEL",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "France la)",
+          "alpha2": "FR",
+          "alpha3": "FRA",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Allemagne l’)",
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Liechtenstein le)",
+          "alpha2": "LI",
+          "alpha3": "LIE",
+          "units": [
+            "Suisse",
+            "Centime"
+          ],
+          "iso4217": "le franc suisse"
+        },
+        {
+          "name": "Luxembourg le)",
+          "alpha2": "LU",
+          "alpha3": "LUX",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Monaco",
+          "alpha2": "MC",
+          "alpha3": "MCO",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Pays-Bas les)",
+          "alpha2": "NL",
+          "alpha3": "NLD",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Suisse la)",
+          "alpha2": "CH",
+          "alpha3": "CHE",
+          "units": [
+            "Suisse",
+            "Centime"
+          ],
+          "iso4217": "le franc suisse"
+        },
+        {
+          "name": "Kosovo",
+          "alpha2": "XK",
+          "alpha3": "XKX",
+          "units": [],
+          "part_of": "SRB",
+          "unrecognized": true
+        },
+        {
+          "name": "Transnistria",
+          "alpha2": "",
+          "alpha3": "XPR",
+          "units": [
+            "Ruble",
+            "Kopek"
+          ],
+          "iso4217": "PRB",
+          "part_of": "MDA",
+          "unrecognized": true
+        }
+      ]
+    },
+    {
+      "name": "Americas",
+      "countries": [
+        {
+          "name": "Anguilla",
+          "alpha2": "AI",
+          "alpha3": "AIA",
+          "units": [
+            "Orientales",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Caraïbes orientales",
+          "dependent": true
+        },
+        {
+          "name": "Antigua-et-Barbuda",
+          "alpha2": "AG",
+          "alpha3": "ATG",
+          "units": [
+            "Orientales",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Caraïbes orientales"
+        },
+        {
+          "name": "Aruba",
+          "alpha2": "AW",
+          "alpha3": "ABW",
+          "units": [
+            "Arubain",
+            "Cent"
+          ],
+          "iso4217": "le florin arubain",
+          "dependent": true
+        },
+        {
+          "name": "Bahamas les)",
+          "alpha2": "BS",
+          "alpha3": "BHS",
+          "units": [
+            "Bahamas",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Bahamas"
+        },
+        {
+          "name": "Barbade la)",
+          "alpha2": "BB",
+          "alpha3": "BRB",
+          "units": [
+            "Barbade",
+            "Cent"
+          ],
+          "iso4217": "le dollar de la Barbade"
+        },
+        {
+          "name": "Bonaire, Sint Eustatius and Saba",
+          "alpha2": "BQ",
+          "alpha3": "BES",
+          "units": [],
+          "dependent": true
+        },
+        {
+          "name": "Îles Vierges britanniques les)",
+          "alpha2": "VG",
+          "alpha3": "VGB",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis",
+          "dependent": true
+        },
+        {
+          "name": "Îles Caïmans les)",
+          "alpha2": "KY",
+          "alpha3": "CYM",
+          "units": [
+            "Caïmans",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Îles Caïmans",
+          "dependent": true
+        },
+        {
+          "name": "Cuba",
+          "alpha2": "CU",
+          "alpha3": "CUB",
+          "units": [
+            "Cubain",
+            "Centavo"
+          ],
+          "iso4217": "le peso cubain"
+        },
+        {
+          "name": "Curaçao",
+          "alpha2": "CW",
+          "alpha3": "CUW",
+          "units": [
+            "Néerlandaises",
+            "Cent"
+          ],
+          "iso4217": "le florin des Antilles néerlandaises",
+          "dependent": true
+        },
+        {
+          "name": "Dominique la)",
+          "alpha2": "DM",
+          "alpha3": "DMA",
+          "units": [
+            "Orientales",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Caraïbes orientales"
+        },
+        {
+          "name": "République",
+          "alpha2": "DO",
+          "alpha3": "DOM",
+          "units": [
+            "Dominicain",
+            "Centavo"
+          ],
+          "iso4217": "le peso dominicain"
+        },
+        {
+          "name": "Grenade la)",
+          "alpha2": "GD",
+          "alpha3": "GRD",
+          "units": [
+            "Orientales",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Caraïbes orientales"
+        },
+        {
+          "name": "Guadeloupe la)",
+          "alpha2": "GP",
+          "alpha3": "GLP",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)",
+          "dependent": true
+        },
+        {
+          "name": "Haïti",
+          "alpha2": "HT",
+          "alpha3": "HTI",
+          "units": [
+            "Gourde",
+            "Centime"
+          ],
+          "iso4217": "la gourde"
+        },
+        {
+          "name": "Jamaïque la)",
+          "alpha2": "JM",
+          "alpha3": "JAM",
+          "units": [
+            "Jamaïcain",
+            "Cent"
+          ],
+          "iso4217": "le dollar jamaïcain"
+        },
+        {
+          "name": "Martinique la)",
+          "alpha2": "MQ",
+          "alpha3": "MTQ",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)",
+          "dependent": true
+        },
+        {
+          "name": "Montserrat",
+          "alpha2": "MS",
+          "alpha3": "MSR",
+          "units": [
+            "Orientales",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Caraïbes orientales",
+          "dependent": true
+        },
+        {
+          "name": "Porto Rico",
+          "alpha2": "PR",
+          "alpha3": "PRI",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis",
+          "dependent": true
+        },
+        {
+          "name": "Saint-Barthélemy",
+          "alpha2": "BL",
+          "alpha3": "BLM",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)",
+          "dependent": true
+        },
+        {
+          "name": "Saint-Christophe-",
+          "alpha2": "KN",
+          "alpha3": "KNA",
+          "units": [
+            "Orientales",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Caraïbes orientales"
+        },
+        {
+          "name": "Sainte-Lucie",
+          "alpha2": "LC",
+          "alpha3": "LCA",
+          "units": [
+            "Orientales",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Caraïbes orientales"
+        },
+        {
+          "name": "Saint-Martin",
+          "alpha2": "MF",
+          "alpha3": "MAF",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)",
+          "dependent": true
+        },
+        {
+          "name": "Saint-Vincent-",
+          "alpha2": "VC",
+          "alpha3": "VCT",
+          "units": [
+            "Orientales",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Caraïbes orientales"
+        },
+        {
+          "name": "Sint-Maarten",
+          "alpha2": "SX",
+          "alpha3": "SXM",
+          "units": [
+            "Néerlandaises",
+            "Cent"
+          ],
+          "iso4217": "le florin des Antilles néerlandaises",
+          "dependent": true
+        },
+        {
+          "name": "Trinité-et-Tobago",
+          "alpha2": "TT",
+          "alpha3": "TTO",
+          "units": [
+            "Trinité-Et-Tobago",
+            "Cent"
+          ],
+          "iso4217": "le dollar de Trinité-et-Tobago"
+        },
+        {
+          "name": "Îles Turks-et-Caïcos les)",
+          "alpha2": "TC",
+          "alpha3": "TCA",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis",
+          "dependent": true
+        },
+        {
+          "name": "Îles Vierges américaines les)",
+          "alpha2": "VI",
+          "alpha3": "VIR",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis",
+          "dependent": true
+        },
+        {
+          "name": "Belize le)",
+          "alpha2": "BZ",
+          "alpha3": "BLZ",
+          "units": [
+            "Belize",
+            "Cent"
+          ],
+          "iso4217": "le dollar de Belize"
+        },
+        {
+          "name": "Costa Rica le)",
+          "alpha2": "CR",
+          "alpha3": "CRI",
+          "units": [
+            "Costaricien",
+            "Centimo"
+          ],
+          "iso4217": "le colon costaricien"
+        },
+        {
+          "name": "El Salvador l’)",
+          "alpha2": "SV",
+          "alpha3": "SLV",
+          "units": [
+            "Salvadorien",
+            "Centavo"
+          ],
+          "iso4217": "le colon salvadorien ("
+        },
+        {
+          "name": "Guatemala le)",
+          "alpha2": "GT",
+          "alpha3": "GTM",
+          "units": [
+            "Quetzal",
+            "Centavo"
+          ],
+          "iso4217": "le quetzal"
+        },
+        {
+          "name": "Honduras le)",
+          "alpha2": "HN",
+          "alpha3": "HND",
+          "units": [
+            "Lempira",
+            "Centavo"
+          ],
+          "iso4217": "le lempira"
+        },
+        {
+          "name": "Mexique le)",
+          "alpha2": "MX",
+          "alpha3": "MEX",
+          "units": [
+            "Mexicain",
+            "Centavo"
+          ],
+          "iso4217": "le peso mexicain"
+        },
+        {
+          "name": "Nicaragua le)",
+          "alpha2": "NI",
+          "alpha3": "NIC",
+          "units": [
+            "Oro",
+            "Centavo"
+          ],
+          "iso4217": "le córdoba oro"
+        },
+        {
+          "name": "Panama le)",
+          "alpha2": "PA",
+          "alpha3": "PAN",
+          "units": [
+            "Balboa",
+            "Centesimo"
+          ],
+          "iso4217": "le balboa"
+        },
+        {
+          "name": "Argentine l’)",
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "units": [
+            "Argentin",
+            "Centavo"
+          ],
+          "iso4217": "le peso argentin"
+        },
+        {
+          "name": "Bolivie la)",
+          "alpha2": "BO",
+          "alpha3": "BOL",
+          "units": [
+            "Boliviano",
+            "Centavo"
+          ],
+          "iso4217": "le boliviano"
+        },
+        {
+          "name": "Île Bouvet l’)",
+          "alpha2": "BV",
+          "alpha3": "BVT",
+          "units": [],
+          "iso4217": "—",
+          "dependent": true
+        },
+        {
+          "name": "Brésil le)",
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "units": [
+            "Real",
+            "Centavo"
+          ],
+          "iso4217": "le real"
+        },
+        {
+          "name": "Chili le)",
+          "alpha2": "CL",
+          "alpha3": "CHL",
+          "units": [
+            "Chilien",
+            "Centavo"
+          ],
+          "iso4217": "le peso chilien"
+        },
+        {
+          "name": "Colombie la)",
+          "alpha2": "CO",
+          "alpha3": "COL",
+          "units": [
+            "Colombien",
+            "Centavo"
+          ],
+          "iso4217": "le peso colombien"
+        },
+        {
+          "name": "Équateur l’)",
+          "alpha2": "EC",
+          "alpha3": "ECU",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis"
+        },
+        {
+          "name": "Îles Falkland les)",
+          "alpha2": "FK",
+          "alpha3": "FLK",
+          "units": [
+            "Falkland",
+            "Penny"
+          ],
+          "iso4217": "la livre des Falkland",
+          "dependent": true
+        },
+        {
+          "name": "Guyane la)",
+          "alpha2": "GF",
+          "alpha3": "GUF",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)",
+          "dependent": true
+        },
+        {
+          "name": "Guyana le)",
+          "alpha2": "GY",
+          "alpha3": "GUY",
+          "units": [
+            "Guyana",
+            "Cent"
+          ],
+          "iso4217": "le dollar du Guyana"
+        },
+        {
+          "name": "Paraguay le)",
+          "alpha2": "PY",
+          "alpha3": "PRY",
+          "units": [
+            "Guarani",
+            "Centimo"
+          ],
+          "iso4217": "le guarani"
+        },
+        {
+          "name": "Pérou le)",
+          "alpha2": "PE",
+          "alpha3": "PER",
+          "units": [
+            "Sol",
+            "Centimo"
+          ],
+          "iso4217": "le  sol"
+        },
+        {
+          "name": "Îles Géorgie du Sud",
+          "alpha2": "GS",
+          "alpha3": "SGS",
+          "units": [],
+          "iso4217": "—",
+          "dependent": true
+        },
+        {
+          "name": "Suriname le)",
+          "alpha2": "SR",
+          "alpha3": "SUR",
+          "units": [
+            "Surinamais",
+            "Cent"
+          ],
+          "iso4217": "le dollar surinamais"
+        },
+        {
+          "name": "Uruguay l’)",
+          "alpha2": "UY",
+          "alpha3": "URY",
+          "units": [
+            "Uruguayen",
+            "Centesimo"
+          ],
+          "iso4217": "le peso uruguayen"
+        },
+        {
+          "name": "Venezuela le)",
+          "alpha2": "VE",
+          "alpha3": "VEN",
+          "units": [
+            "Souverain",
+            "Centimo"
+          ],
+          "iso4217": "le bolivar souverain"
+        },
+        {
+          "name": "Bermudes les)",
+          "alpha2": "BM",
+          "alpha3": "BMU",
+          "units": [
+            "Bermudes",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Bermudes",
+          "dependent": true
+        },
+        {
+          "name": "Canada le)",
+          "alpha2": "CA",
+          "alpha3": "CAN",
+          "units": [
+            "Canadien",
+            "Cent"
+          ],
+          "iso4217": "le dollar canadien"
+        },
+        {
+          "name": "Groenland le)",
+          "alpha2": "GL",
+          "alpha3": "GRL",
+          "units": [
+            "Danoise",
+            "Øre"
+          ],
+          "iso4217": "la couronne danoise",
+          "dependent": true
+        },
+        {
+          "name": "Saint-Pierre-et-Miquelon",
+          "alpha2": "PM",
+          "alpha3": "SPM",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)",
+          "dependent": true
+        },
+        {
+          "name": "États-Unis les)",
+          "alpha2": "US",
+          "alpha3": "USA",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis"
+        }
+      ]
+    },
+    {
+      "name": "Asia",
+      "countries": [
+        {
+          "name": "Kazakhstan le)",
+          "alpha2": "KZ",
+          "alpha3": "KAZ",
+          "units": [
+            "Tenge",
+            "Tiyn"
+          ],
+          "iso4217": "le tenge"
+        },
+        {
+          "name": "Kirghizstan le)",
+          "alpha2": "KG",
+          "alpha3": "KGZ",
+          "units": [
+            "Som",
+            "Tyiyn"
+          ],
+          "iso4217": "le som"
+        },
+        {
+          "name": "Tadjikistan le)",
+          "alpha2": "TJ",
+          "alpha3": "TJK",
+          "units": [
+            "Somoni",
+            "Diram"
+          ],
+          "iso4217": "le somoni"
+        },
+        {
+          "name": "Turkménistan le)",
+          "alpha2": "TM",
+          "alpha3": "TKM",
+          "units": [
+            "Turkmène",
+            "Tenge"
+          ],
+          "iso4217": "le manat turkmène"
+        },
+        {
+          "name": "Ouzbékistan l’)",
+          "alpha2": "UZ",
+          "alpha3": "UZB",
+          "units": [
+            "Sum",
+            "Tiyin"
+          ],
+          "iso4217": "le sum"
+        },
+        {
+          "name": "Chine la)",
+          "alpha2": "CN",
+          "alpha3": "CHN",
+          "units": [
+            "Yuan",
+            "Jiao"
+          ],
+          "iso4217": "le yuan"
+        },
+        {
+          "name": "Hong Kong",
+          "alpha2": "HK",
+          "alpha3": "HKG",
+          "units": [
+            "Kong",
+            "Cent"
+          ],
+          "iso4217": "le dollar de Hong Kong",
+          "dependent": true
+        },
+        {
+          "name": "Macao",
+          "alpha2": "MO",
+          "alpha3": "MAC",
+          "units": [
+            "Pataca",
+            "Avo"
+          ],
+          "iso4217": "le pataca",
+          "dependent": true
+        },
+        {
+          "name": "Corée du Nord la)",
+          "alpha2": "KP",
+          "alpha3": "PRK",
+          "units": [
+            "Nord-Coréen",
+            "Jeon"
+          ],
+          "iso4217": "le won nord-coréen"
+        },
+        {
+          "name": "Japon le)",
+          "alpha2": "JP",
+          "alpha3": "JPN",
+          "units": [
+            "Yen",
+            "Sen"
+          ],
+          "iso4217": "le yen"
+        },
+        {
+          "name": "Mongolie la)",
+          "alpha2": "MN",
+          "alpha3": "MNG",
+          "units": [
+            "Tugrik",
+            "Möngö"
+          ],
+          "iso4217": "le tugrik"
+        },
+        {
+          "name": "Corée du Sud la)",
+          "alpha2": "KR",
+          "alpha3": "KOR",
+          "units": [
+            "Sud-Coréen",
+            "Jeon"
+          ],
+          "iso4217": "le won sud-coréen"
+        },
+        {
+          "name": "Brunei le)",
+          "alpha2": "BN",
+          "alpha3": "BRN",
+          "units": [
+            "Brunei",
+            "Cent"
+          ],
+          "iso4217": "le dollar de Brunei"
+        },
+        {
+          "name": "Cambodge le)",
+          "alpha2": "KH",
+          "alpha3": "KHM",
+          "units": [
+            "Riel",
+            "Kak"
+          ],
+          "iso4217": "le riel"
+        },
+        {
+          "name": "Indonésie l’)",
+          "alpha2": "ID",
+          "alpha3": "IDN",
+          "units": [
+            "Rupiah",
+            "Sen"
+          ],
+          "iso4217": "la rupiah"
+        },
+        {
+          "name": "Laos le)",
+          "alpha2": "LA",
+          "alpha3": "LAO",
+          "units": [
+            "Kip",
+            "Att"
+          ],
+          "iso4217": "le kip"
+        },
+        {
+          "name": "Malaisie la)",
+          "alpha2": "MY",
+          "alpha3": "MYS",
+          "units": [
+            "Ringgit",
+            "Sen"
+          ],
+          "iso4217": "le ringgit"
+        },
+        {
+          "name": "Myanmar le)/Birmanie la)",
+          "alpha2": "MM",
+          "alpha3": "MMR",
+          "units": [
+            "Kyat",
+            "Pya"
+          ],
+          "iso4217": "le kyat"
+        },
+        {
+          "name": "Philippines les)",
+          "alpha2": "PH",
+          "alpha3": "PHL",
+          "units": [
+            "Philippin",
+            "Centavo"
+          ],
+          "iso4217": "le peso philippin"
+        },
+        {
+          "name": "Singapour",
+          "alpha2": "SG",
+          "alpha3": "SGP",
+          "units": [
+            "Singapour",
+            "Cent"
+          ],
+          "iso4217": "le dollar de Singapour"
+        },
+        {
+          "name": "Thaïlande la)",
+          "alpha2": "TH",
+          "alpha3": "THA",
+          "units": [
+            "Baht",
+            "Satang"
+          ],
+          "iso4217": "le baht"
+        },
+        {
+          "name": "Timor-Oriental le)",
+          "alpha2": "TL",
+          "alpha3": "TLS",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis"
+        },
+        {
+          "name": "Viêt Nam le)",
+          "alpha2": "VN",
+          "alpha3": "VNM",
+          "units": [
+            "Dông",
+            "Hào"
+          ],
+          "iso4217": "le dông"
+        },
+        {
+          "name": "Afghanistan l’)",
+          "alpha2": "AF",
+          "alpha3": "AFG",
+          "units": [
+            "L’Afghani",
+            "Pul"
+          ],
+          "iso4217": "l’afghani (M)"
+        },
+        {
+          "name": "Bangladesh le)",
+          "alpha2": "BD",
+          "alpha3": "BGD",
+          "units": [
+            "Taka",
+            "Poisha"
+          ],
+          "iso4217": "le taka"
+        },
+        {
+          "name": "Bhoutan le)",
+          "alpha2": "BT",
+          "alpha3": "BTN",
+          "units": [
+            "Ngultrum",
+            "Chetrum"
+          ],
+          "iso4217": "le ngultrum"
+        },
+        {
+          "name": "Inde l’)",
+          "alpha2": "IN",
+          "alpha3": "IND",
+          "units": [
+            "Indienne",
+            "Paisa"
+          ],
+          "iso4217": "la roupie indienne"
+        },
+        {
+          "name": "Iran l’)",
+          "alpha2": "IR",
+          "alpha3": "IRN",
+          "units": [
+            "Iranien",
+            "Dinar"
+          ],
+          "iso4217": "le rial iranien"
+        },
+        {
+          "name": "Maldives les)",
+          "alpha2": "MV",
+          "alpha3": "MDV",
+          "units": [
+            "Rufiyaa",
+            "Laari"
+          ],
+          "iso4217": "le rufiyaa"
+        },
+        {
+          "name": "Népal le)",
+          "alpha2": "NP",
+          "alpha3": "NPL",
+          "units": [
+            "Népalaise",
+            "Paisa"
+          ],
+          "iso4217": "la roupie népalaise"
+        },
+        {
+          "name": "Pakistan le)",
+          "alpha2": "PK",
+          "alpha3": "PAK",
+          "units": [
+            "Pakistanaise",
+            "Paisa"
+          ],
+          "iso4217": "la roupie pakistanaise"
+        },
+        {
+          "name": "Sri Lanka",
+          "alpha2": "LK",
+          "alpha3": "LKA",
+          "units": [
+            "Sri-Lankaise",
+            "Cent"
+          ],
+          "iso4217": "la roupie sri-lankaise"
+        },
+        {
+          "name": "Arménie l’)",
+          "alpha2": "AM",
+          "alpha3": "ARM",
+          "units": [
+            "Dram",
+            "Luma"
+          ],
+          "iso4217": "le dram"
+        },
+        {
+          "name": "Azerbaïdjan l’)",
+          "alpha2": "AZ",
+          "alpha3": "AZE",
+          "units": [
+            "Azerbaïdjanais",
+            "Kepik"
+          ],
+          "iso4217": "le manat azerbaïdjanais"
+        },
+        {
+          "name": "Bahreïn",
+          "alpha2": "BH",
+          "alpha3": "BHR",
+          "units": [
+            "Bahreïn",
+            "Fils"
+          ],
+          "iso4217": "le dinar de Bahreïn"
+        },
+        {
+          "name": "Chypre",
+          "alpha2": "CY",
+          "alpha3": "CYP",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)"
+        },
+        {
+          "name": "Géorgie la)",
+          "alpha2": "GE",
+          "alpha3": "GEO",
+          "units": [
+            "Lari",
+            "Tetri"
+          ],
+          "iso4217": "le lari"
+        },
+        {
+          "name": "Iraq l’)",
+          "alpha2": "IQ",
+          "alpha3": "IRQ",
+          "units": [
+            "Iraquien",
+            "Fils"
+          ],
+          "iso4217": "le dinar iraquien"
+        },
+        {
+          "name": "Israël",
+          "alpha2": "IL",
+          "alpha3": "ISR",
+          "units": [
+            "Shekel",
+            "Agora"
+          ],
+          "iso4217": "le shekel"
+        },
+        {
+          "name": "Jordanie la)",
+          "alpha2": "JO",
+          "alpha3": "JOR",
+          "units": [
+            "Jordanien",
+            "Qirsh"
+          ],
+          "iso4217": "le dinar jordanien"
+        },
+        {
+          "name": "Koweït le)",
+          "alpha2": "KW",
+          "alpha3": "KWT",
+          "units": [
+            "Koweïtien",
+            "Fils"
+          ],
+          "iso4217": "le dinar koweïtien"
+        },
+        {
+          "name": "Liban le)",
+          "alpha2": "LB",
+          "alpha3": "LBN",
+          "units": [
+            "Libanaise",
+            "Piastre"
+          ],
+          "iso4217": "la livre libanaise"
+        },
+        {
+          "name": "Oman",
+          "alpha2": "OM",
+          "alpha3": "OMN",
+          "units": [
+            "D’Oman",
+            "Baisa"
+          ],
+          "iso4217": "le rial d’Oman"
+        },
+        {
+          "name": "Qatar le)",
+          "alpha2": "QA",
+          "alpha3": "QAT",
+          "units": [
+            "Qatar",
+            "Dirham"
+          ],
+          "iso4217": "le rial du Qatar"
+        },
+        {
+          "name": "Arabie saoudite l’)",
+          "alpha2": "SA",
+          "alpha3": "SAU",
+          "units": [
+            "Saoudien",
+            "Halala"
+          ],
+          "iso4217": "le riyal saoudien"
+        },
+        {
+          "name": "Palestine",
+          "alpha2": "PS",
+          "alpha3": "PSE",
+          "units": []
+        },
+        {
+          "name": "Syrie la)",
+          "alpha2": "SY",
+          "alpha3": "SYR",
+          "units": [
+            "Syrienne",
+            "Piastre"
+          ],
+          "iso4217": "la livre syrienne"
+        },
+        {
+          "name": "Turquie la)",
+          "alpha2": "TR",
+          "alpha3": "TUR",
+          "units": [
+            "Turque",
+            "Kurus"
+          ],
+          "iso4217": "la livre turque"
+        },
+        {
+          "name": "Émirats arabes unis les)",
+          "alpha2": "AE",
+          "alpha3": "ARE",
+          "units": [
+            "Unis",
+            "Fils"
+          ],
+          "iso4217": "le dirham des Émirats arabes unis"
+        },
+        {
+          "name": "Yémen le)",
+          "alpha2": "YE",
+          "alpha3": "YEM",
+          "units": [
+            "Yéménite",
+            "Fils"
+          ],
+          "iso4217": "le riyal yéménite"
+        },
+        {
+          "name": "Abkhazia",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Apsar"
+          ],
+          "part_of": "GEO",
+          "unrecognized": true
+        },
+        {
+          "name": "Artsakh",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Dram",
+            "Luma"
+          ],
+          "part_of": "AZE",
+          "unrecognized": true
+        },
+        {
+          "name": "Northern Cyprus",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [],
+          "part_of": "CYP",
+          "unrecognized": true
+        },
+        {
+          "name": "Palestine",
+          "alpha2": "PS",
+          "alpha3": "PSE",
+          "units": [],
+          "part_of": "ISR",
+          "unrecognized": true
+        },
+        {
+          "name": "South Ossetia",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [],
+          "part_of": "GEO",
+          "unrecognized": true
+        },
+        {
+          "name": "Taiwan",
+          "alpha2": "TW",
+          "alpha3": "TWN",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "TWD",
+          "part_of": "CHN",
+          "unrecognized": true
+        }
+      ]
+    },
+    {
+      "name": "Africa",
+      "countries": [
+        {
+          "name": "Algérie l’)",
+          "alpha2": "DZ",
+          "alpha3": "DZA",
+          "units": [
+            "Algérien",
+            "Centime"
+          ],
+          "iso4217": "le dinar algérien"
+        },
+        {
+          "name": "Égypte l’)",
+          "alpha2": "EG",
+          "alpha3": "EGY",
+          "units": [
+            "Égyptienne",
+            "Piastre"
+          ],
+          "iso4217": "la livre égyptienne"
+        },
+        {
+          "name": "Libye la)",
+          "alpha2": "LY",
+          "alpha3": "LBY",
+          "units": [
+            "Libyen",
+            "Dirham"
+          ],
+          "iso4217": "le dinar libyen"
+        },
+        {
+          "name": "Maroc le)",
+          "alpha2": "MA",
+          "alpha3": "MAR",
+          "units": [
+            "Marocain",
+            "Centime"
+          ],
+          "iso4217": "le dirham marocain"
+        },
+        {
+          "name": "Soudan le)",
+          "alpha2": "SD",
+          "alpha3": "SDN",
+          "units": [
+            "Soudanaise",
+            "Piastre"
+          ],
+          "iso4217": "la livre soudanaise"
+        },
+        {
+          "name": "Tunisie la)",
+          "alpha2": "TN",
+          "alpha3": "TUN",
+          "units": [
+            "Tunisien",
+            "Millime"
+          ],
+          "iso4217": "le dinar tunisien"
+        },
+        {
+          "name": "Sahara occidental le)",
+          "alpha2": "EH",
+          "alpha3": "ESH",
+          "units": [
+            "Marocain",
+            "Centime"
+          ],
+          "iso4217": "le dirham marocain",
+          "dependent": true
+        },
+        {
+          "name": "Territoire britannique de l’océan Indien le)",
+          "alpha2": "IO",
+          "alpha3": "IOT",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis",
+          "dependent": true
+        },
+        {
+          "name": "Burundi le)",
+          "alpha2": "BI",
+          "alpha3": "BDI",
+          "units": [
+            "Burundais",
+            "Centime"
+          ],
+          "iso4217": "le franc burundais"
+        },
+        {
+          "name": "Comores les)",
+          "alpha2": "KM",
+          "alpha3": "COM",
+          "units": [
+            "Comorien"
+          ],
+          "iso4217": "le franc comorien"
+        },
+        {
+          "name": "Djibouti",
+          "alpha2": "DJ",
+          "alpha3": "DJI",
+          "units": [
+            "Djibouti"
+          ],
+          "iso4217": "le franc de Djibouti"
+        },
+        {
+          "name": "Érythrée l’)",
+          "alpha2": "ER",
+          "alpha3": "ERI",
+          "units": [
+            "Nakfa",
+            "Centime"
+          ],
+          "iso4217": "le nakfa"
+        },
+        {
+          "name": "Éthiopie l’)",
+          "alpha2": "ET",
+          "alpha3": "ETH",
+          "units": [
+            "Birr",
+            "Cent"
+          ],
+          "iso4217": "le birr"
+        },
+        {
+          "name": "Terres australes et antarctiques françaises les)",
+          "alpha2": "TF",
+          "alpha3": "ATF",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)",
+          "dependent": true
+        },
+        {
+          "name": "Kenya le)",
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "units": [
+            "Kényan",
+            "Cent"
+          ],
+          "iso4217": "le shilling kényan"
+        },
+        {
+          "name": "Madagascar",
+          "alpha2": "MG",
+          "alpha3": "MDG",
+          "units": [
+            "L’Ariary",
+            "Iraimbilanja"
+          ],
+          "iso4217": "l’ariary (M)"
+        },
+        {
+          "name": "Malawi le)",
+          "alpha2": "MW",
+          "alpha3": "MWI",
+          "units": [
+            "Malawi",
+            "Tambala"
+          ],
+          "iso4217": "le kwacha du Malawi"
+        },
+        {
+          "name": "Maurice",
+          "alpha2": "MU",
+          "alpha3": "MUS",
+          "units": [
+            "Mauricienne",
+            "Cent"
+          ],
+          "iso4217": "la roupie mauricienne"
+        },
+        {
+          "name": "Mayotte",
+          "alpha2": "YT",
+          "alpha3": "MYT",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)",
+          "dependent": true
+        },
+        {
+          "name": "Mozambique le)",
+          "alpha2": "MZ",
+          "alpha3": "MOZ",
+          "units": [
+            "Metical",
+            "Centavo"
+          ],
+          "iso4217": "le metical"
+        },
+        {
+          "name": "La Réunion",
+          "alpha2": "RE",
+          "alpha3": "REU",
+          "units": [
+            "L’Euro",
+            "Cent"
+          ],
+          "iso4217": "l’euro (M)",
+          "dependent": true
+        },
+        {
+          "name": "Rwanda le)",
+          "alpha2": "RW",
+          "alpha3": "RWA",
+          "units": [
+            "Rwandais",
+            "Centime"
+          ],
+          "iso4217": "le franc rwandais"
+        },
+        {
+          "name": "Seychelles les)",
+          "alpha2": "SC",
+          "alpha3": "SYC",
+          "units": [
+            "Seychelloise",
+            "Cent"
+          ],
+          "iso4217": "la roupie seychelloise"
+        },
+        {
+          "name": "Somalie la)",
+          "alpha2": "SO",
+          "alpha3": "SOM",
+          "units": [
+            "Somalien",
+            "Cent"
+          ],
+          "iso4217": "le shilling somalien"
+        },
+        {
+          "name": "Soudan du Sud le)",
+          "alpha2": "SS",
+          "alpha3": "SSD",
+          "units": [
+            "Sud-Soudanaise",
+            "Piastre"
+          ],
+          "iso4217": "la livre sud-soudanaise"
+        },
+        {
+          "name": "Ouganda l’)",
+          "alpha2": "UG",
+          "alpha3": "UGA",
+          "units": [
+            "Ougandais",
+            "Cent"
+          ],
+          "iso4217": "le shilling ougandais"
+        },
+        {
+          "name": "Tanzanie la)",
+          "alpha2": "TZ",
+          "alpha3": "TZA",
+          "units": [
+            "Tanzanien",
+            "Cent"
+          ],
+          "iso4217": "le shilling tanzanien"
+        },
+        {
+          "name": "Zambie la)",
+          "alpha2": "ZM",
+          "alpha3": "ZMB",
+          "units": [
+            "Zambie",
+            "Ngwee"
+          ],
+          "iso4217": "le kwacha de Zambie"
+        },
+        {
+          "name": "Zimbabwe le)",
+          "alpha2": "ZW",
+          "alpha3": "ZWE",
+          "units": [
+            "Zimbabwéen",
+            "Cent"
+          ],
+          "iso4217": "le dollar zimbabwéen"
+        },
+        {
+          "name": "Angola l’)",
+          "alpha2": "AO",
+          "alpha3": "AGO",
+          "units": [
+            "Kwanza",
+            "Cêntimo"
+          ],
+          "iso4217": "le kwanza"
+        },
+        {
+          "name": "Cameroun le)",
+          "alpha2": "CM",
+          "alpha3": "CMR",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BEAC)"
+        },
+        {
+          "name": "République",
+          "alpha2": "CF",
+          "alpha3": "CAF",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BEAC)"
+        },
+        {
+          "name": "Tchad le)",
+          "alpha2": "TD",
+          "alpha3": "TCD",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BEAC)"
+        },
+        {
+          "name": "Congo le)",
+          "alpha2": "CG",
+          "alpha3": "COG",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BEAC)"
+        },
+        {
+          "name": "République démocratique du Congo la)",
+          "alpha2": "CD",
+          "alpha3": "COD",
+          "units": [
+            "Congolais",
+            "Centime"
+          ],
+          "iso4217": "le franc congolais"
+        },
+        {
+          "name": "Guinée équatoriale la)",
+          "alpha2": "GQ",
+          "alpha3": "GNQ",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BEAC)"
+        },
+        {
+          "name": "Gabon le)",
+          "alpha2": "GA",
+          "alpha3": "GAB",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BEAC)"
+        },
+        {
+          "name": "Sao Tomé-et-Principe",
+          "alpha2": "ST",
+          "alpha3": "STP",
+          "units": [
+            "Dobra",
+            "Cêntimo"
+          ],
+          "iso4217": "le dobra"
+        },
+        {
+          "name": "Botswana le)",
+          "alpha2": "BW",
+          "alpha3": "BWA",
+          "units": [
+            "Pula",
+            "Thebe"
+          ],
+          "iso4217": "le pula"
+        },
+        {
+          "name": "Eswatini l’)",
+          "alpha2": "SZ",
+          "alpha3": "SWZ",
+          "units": [
+            "Lilangeni",
+            "Cent"
+          ],
+          "iso4217": "le lilangeni (pl.: emalangeni)"
+        },
+        {
+          "name": "Lesotho le)",
+          "alpha2": "LS",
+          "alpha3": "LSO",
+          "units": [
+            "Loti",
+            "Sente"
+          ],
+          "iso4217": "le loti"
+        },
+        {
+          "name": "Namibie la)",
+          "alpha2": "NA",
+          "alpha3": "NAM",
+          "units": [
+            "Namibien",
+            "Cent"
+          ],
+          "iso4217": "le dollar namibien"
+        },
+        {
+          "name": "Afrique du Sud l’)",
+          "alpha2": "ZA",
+          "alpha3": "ZAF",
+          "units": [
+            "Rand",
+            "Cent"
+          ],
+          "iso4217": "le rand"
+        },
+        {
+          "name": "Bénin le)",
+          "alpha2": "BJ",
+          "alpha3": "BEN",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BCEAO)"
+        },
+        {
+          "name": "Burkina le)",
+          "alpha2": "BF",
+          "alpha3": "BFA",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BCEAO)"
+        },
+        {
+          "name": "Cabo Verde",
+          "alpha2": "CV",
+          "alpha3": "CPV",
+          "units": [
+            "Verde",
+            "Centavo"
+          ],
+          "iso4217": "l’escudo de Cabo Verde (M)"
+        },
+        {
+          "name": "Côte d’Ivoire la)",
+          "alpha2": "CI",
+          "alpha3": "CIV",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BCEAO)"
+        },
+        {
+          "name": "Gambie la)",
+          "alpha2": "GM",
+          "alpha3": "GMB",
+          "units": [
+            "Dalasi",
+            "Butut"
+          ],
+          "iso4217": "le dalasi"
+        },
+        {
+          "name": "Ghana le)",
+          "alpha2": "GH",
+          "alpha3": "GHA",
+          "units": [
+            "Ghanéen",
+            "Pesewa"
+          ],
+          "iso4217": "le cedi ghanéen"
+        },
+        {
+          "name": "Guinée la)",
+          "alpha2": "GN",
+          "alpha3": "GIN",
+          "units": [
+            "Guinéen"
+          ],
+          "iso4217": "le franc guinéen"
+        },
+        {
+          "name": "Guinée-Bissau la)",
+          "alpha2": "GW",
+          "alpha3": "GNB",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BCEAO)"
+        },
+        {
+          "name": "Liberia le)",
+          "alpha2": "LR",
+          "alpha3": "LBR",
+          "units": [
+            "Libérien",
+            "Cent"
+          ],
+          "iso4217": "le dollar libérien"
+        },
+        {
+          "name": "Mali le)",
+          "alpha2": "ML",
+          "alpha3": "MLI",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BCEAO)"
+        },
+        {
+          "name": "Mauritanie la)",
+          "alpha2": "MR",
+          "alpha3": "MRT",
+          "units": [
+            "L’Ouguiya",
+            "Khoum"
+          ],
+          "iso4217": "l’ouguiya (M)"
+        },
+        {
+          "name": "Niger le)",
+          "alpha2": "NE",
+          "alpha3": "NER",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BCEAO)"
+        },
+        {
+          "name": "Nigeria le)",
+          "alpha2": "NG",
+          "alpha3": "NGA",
+          "units": [
+            "Naira",
+            "Kobo"
+          ],
+          "iso4217": "le naira"
+        },
+        {
+          "name": "Sainte-Hélène, Ascension et Tristan da Cunha",
+          "alpha2": "SH",
+          "alpha3": "SHN",
+          "units": [
+            "Sainte-Hélène",
+            "Penny"
+          ],
+          "iso4217": "la livre de Sainte-Hélène (Sainte-Hélène et Ascension)",
+          "dependent": true
+        },
+        {
+          "name": "Sénégal le)",
+          "alpha2": "SN",
+          "alpha3": "SEN",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BCEAO)"
+        },
+        {
+          "name": "Sierra Leone la)",
+          "alpha2": "SL",
+          "alpha3": "SLE",
+          "units": [
+            "Leone",
+            "Cent"
+          ],
+          "iso4217": "le leone"
+        },
+        {
+          "name": "Togo le)",
+          "alpha2": "TG",
+          "alpha3": "TGO",
+          "units": [
+            "Cfa",
+            "Centime"
+          ],
+          "iso4217": "le franc CFA (BCEAO)"
+        },
+        {
+          "name": "Somaliland",
+          "alpha2": "",
+          "alpha3": "XSL",
+          "units": [
+            "Shilling",
+            "Cent"
+          ],
+          "iso4217": "SLS",
+          "part_of": "SOM",
+          "unrecognized": true
+        },
+        {
+          "name": "Western Sahara",
+          "alpha2": "EH",
+          "alpha3": "ESH",
+          "units": [
+            "Peseta",
+            "Céntimo"
+          ],
+          "iso4217": "EHP",
+          "part_of": "MAR",
+          "unrecognized": true
+        }
+      ]
+    },
+    {
+      "name": "Oceania",
+      "countries": [
+        {
+          "name": "Australie l’)",
+          "alpha2": "AU",
+          "alpha3": "AUS",
+          "units": [
+            "Australien",
+            "Cent"
+          ],
+          "iso4217": "le dollar australien"
+        },
+        {
+          "name": "Île Christmas l’)",
+          "alpha2": "CX",
+          "alpha3": "CXR",
+          "units": [
+            "Australien",
+            "Cent"
+          ],
+          "iso4217": "le dollar australien",
+          "dependent": true
+        },
+        {
+          "name": "Îles Cocos les)",
+          "alpha2": "CC",
+          "alpha3": "CCK",
+          "units": [
+            "Australien",
+            "Cent"
+          ],
+          "iso4217": "le dollar australien",
+          "dependent": true
+        },
+        {
+          "name": "Îles Heard et McDonald les)",
+          "alpha2": "HM",
+          "alpha3": "HMD",
+          "units": [],
+          "iso4217": "—",
+          "dependent": true
+        },
+        {
+          "name": "Nouvelle-Zélande la)",
+          "alpha2": "NZ",
+          "alpha3": "NZL",
+          "units": [
+            "Néo-Zélandais",
+            "Cent"
+          ],
+          "iso4217": "le dollar néo-zélandais"
+        },
+        {
+          "name": "Île Norfolk l’)",
+          "alpha2": "NF",
+          "alpha3": "NFK",
+          "units": [
+            "Australien",
+            "Cent"
+          ],
+          "iso4217": "le dollar australien",
+          "dependent": true
+        },
+        {
+          "name": "Fidji les)",
+          "alpha2": "FJ",
+          "alpha3": "FJI",
+          "units": [
+            "Fidji",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Fidji"
+        },
+        {
+          "name": "Nouvelle-Calédonie la)",
+          "alpha2": "NC",
+          "alpha3": "NCL",
+          "units": [
+            "Cfp",
+            "Centime"
+          ],
+          "iso4217": "le franc CFP",
+          "dependent": true
+        },
+        {
+          "name": "Papouasie -",
+          "alpha2": "PG",
+          "alpha3": "PNG",
+          "units": [
+            "Kina",
+            "Toea"
+          ],
+          "iso4217": "le kina"
+        },
+        {
+          "name": "Îles Salomon les)",
+          "alpha2": "SB",
+          "alpha3": "SLB",
+          "units": [
+            "Salomon",
+            "Cent"
+          ],
+          "iso4217": "le dollar des Îles Salomon"
+        },
+        {
+          "name": "Vanuatu le)",
+          "alpha2": "VU",
+          "alpha3": "VUT",
+          "units": [
+            "Vatu"
+          ],
+          "iso4217": "le vatu"
+        },
+        {
+          "name": "Guam",
+          "alpha2": "GU",
+          "alpha3": "GUM",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis",
+          "dependent": true
+        },
+        {
+          "name": "Kiribati",
+          "alpha2": "KI",
+          "alpha3": "KIR",
+          "units": [
+            "Australien",
+            "Cent"
+          ],
+          "iso4217": "le dollar australien"
+        },
+        {
+          "name": "Îles Marshall les)",
+          "alpha2": "MH",
+          "alpha3": "MHL",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis"
+        },
+        {
+          "name": "Micronésie la)",
+          "alpha2": "FM",
+          "alpha3": "FSM",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis"
+        },
+        {
+          "name": "Nauru",
+          "alpha2": "NR",
+          "alpha3": "NRU",
+          "units": [
+            "Australien",
+            "Cent"
+          ],
+          "iso4217": "le dollar australien"
+        },
+        {
+          "name": "Îles Mariannes du Nord les)",
+          "alpha2": "MP",
+          "alpha3": "MNP",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis",
+          "dependent": true
+        },
+        {
+          "name": "Palaos les)",
+          "alpha2": "PW",
+          "alpha3": "PLW",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis"
+        },
+        {
+          "name": "Îles mineures éloignées des États-Unis les)",
+          "alpha2": "UM",
+          "alpha3": "UMI",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis",
+          "dependent": true
+        },
+        {
+          "name": "Samoa américaines les)",
+          "alpha2": "AS",
+          "alpha3": "ASM",
+          "units": [
+            "États-Unis",
+            "Cent"
+          ],
+          "iso4217": "le dollar des États-Unis",
+          "dependent": true
+        },
+        {
+          "name": "Îles Cook les)",
+          "alpha2": "CK",
+          "alpha3": "COK",
+          "units": [
+            "Néo-Zélandais",
+            "Cent"
+          ],
+          "iso4217": "le dollar néo-zélandais",
+          "dependent": true
+        },
+        {
+          "name": "Polynésie française la)",
+          "alpha2": "PF",
+          "alpha3": "PYF",
+          "units": [
+            "Cfp",
+            "Centime"
+          ],
+          "iso4217": "le franc CFP",
+          "dependent": true
+        },
+        {
+          "name": "Niue",
+          "alpha2": "NU",
+          "alpha3": "NIU",
+          "units": [
+            "Néo-Zélandais",
+            "Cent"
+          ],
+          "iso4217": "le dollar néo-zélandais",
+          "dependent": true
+        },
+        {
+          "name": "Îles Pitcairn les)",
+          "alpha2": "PN",
+          "alpha3": "PCN",
+          "units": [
+            "Néo-Zélandais",
+            "Cent"
+          ],
+          "iso4217": "le dollar néo-zélandais",
+          "dependent": true
+        },
+        {
+          "name": "Samoa le)",
+          "alpha2": "WS",
+          "alpha3": "WSM",
+          "units": [
+            "Tala",
+            "Sene"
+          ],
+          "iso4217": "le tala"
+        },
+        {
+          "name": "Tokélaou les)",
+          "alpha2": "TK",
+          "alpha3": "TKL",
+          "units": [
+            "Néo-Zélandais",
+            "Cent"
+          ],
+          "iso4217": "le dollar néo-zélandais",
+          "dependent": true
+        },
+        {
+          "name": "Tonga les)",
+          "alpha2": "TO",
+          "alpha3": "TON",
+          "units": [
+            "Pa’Anga",
+            "Seniti"
+          ],
+          "iso4217": "le pa’anga"
+        },
+        {
+          "name": "Tuvalu les)",
+          "alpha2": "TV",
+          "alpha3": "TUV",
+          "units": [
+            "Australien",
+            "Cent"
+          ],
+          "iso4217": "le dollar australien"
+        },
+        {
+          "name": "Wallis-et-Futuna",
+          "alpha2": "WF",
+          "alpha3": "WLF",
+          "units": [
+            "Cfp",
+            "Centime"
+          ],
+          "iso4217": "le franc CFP",
+          "dependent": true
+        }
+      ]
+    }
+  ]
+}
