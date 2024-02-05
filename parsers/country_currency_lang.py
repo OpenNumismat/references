@@ -86,6 +86,9 @@ def read_eu_countries(lang):
         if alpha2 == 'UK':
             alpha2 = 'GB'
         
+        name = name.split('/')[0].strip()
+        name = ' '.join(name.split())
+        
         if major:
             if lang == 'fr':
                 major.replace('le ', '').replace('la ', '').replace('l’', '')
