@@ -91,7 +91,7 @@ def read_eu_countries(lang):
         
         if major:
             if lang == 'fr':
-                major.replace('le ', '').replace('la ', '').replace('l’', '')
+                major = major.replace('le ', '').replace('la ', '').replace('l’', '')
             major = major.strip()
         if major == '—':
             major = None
