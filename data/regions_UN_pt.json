@@ -8,7 +8,7 @@
           "alpha2": "BY",
           "alpha3": "BLR",
           "units": [
-            "Bielorrusso",
+            "Rublo",
             "Copeque"
           ],
           "iso4217": "BYN"
@@ -28,7 +28,7 @@
           "alpha2": "CZ",
           "alpha3": "CZE",
           "units": [
-            "Checa",
+            "Coroa",
             "Halér"
           ],
           "iso4217": "CZK"
@@ -58,7 +58,7 @@
           "alpha2": "MD",
           "alpha3": "MDA",
           "units": [
-            "Moldavo",
+            "Leu",
             "Ban"
           ],
           "iso4217": "MDL"
@@ -68,7 +68,7 @@
           "alpha2": "RO",
           "alpha3": "ROU",
           "units": [
-            "Romeno",
+            "Leu",
             "Ban"
           ],
           "iso4217": "RON"
@@ -119,7 +119,7 @@
           "alpha2": "DK",
           "alpha3": "DNK",
           "units": [
-            "Dinamarquesa",
+            "Coroa",
             "Øre"
           ],
           "iso4217": "DKK"
@@ -139,7 +139,7 @@
           "alpha2": "FO",
           "alpha3": "FRO",
           "units": [
-            "Dinamarquesa",
+            "Coroa",
             "Øre"
           ],
           "iso4217": "DKK",
@@ -160,7 +160,7 @@
           "alpha2": "GG",
           "alpha3": "GGY",
           "units": [
-            "Guernesiana",
+            "Libra",
             "Dinheiro"
           ],
           "iso4217": "GGP",
@@ -171,7 +171,7 @@
           "alpha2": "IS",
           "alpha3": "ISL",
           "units": [
-            "Islandesa"
+            "Coroa"
           ],
           "iso4217": "ISK"
         },
@@ -190,7 +190,7 @@
           "alpha2": "IM",
           "alpha3": "IMN",
           "units": [
-            "Manesa",
+            "Libra",
             "Dinheiro"
           ],
           "iso4217": "IMP",
@@ -201,7 +201,7 @@
           "alpha2": "JE",
           "alpha3": "JEY",
           "units": [
-            "Jersiana",
+            "Libra",
             "Dinheiro"
           ],
           "iso4217": "JEP",
@@ -232,17 +232,17 @@
           "alpha2": "NO",
           "alpha3": "NOR",
           "units": [
-            "Norueguesa",
+            "Coroa",
             "Øre"
           ],
           "iso4217": "NOK"
         },
         {
-          "name": "Svalbard e Jan Mayen",
+          "name": "Svalbard e Jan Mayen",
           "alpha2": "SJ",
           "alpha3": "SJM",
           "units": [
-            "Norueguesa",
+            "Coroa",
             "Øre"
           ],
           "iso4217": "NOK",
@@ -253,7 +253,7 @@
           "alpha2": "SE",
           "alpha3": "SWE",
           "units": [
-            "Sueca",
+            "Coroa",
             "Öre"
           ],
           "iso4217": "SEK"
@@ -263,7 +263,7 @@
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
-            "Esterlina",
+            "Libra",
             "Dinheiro"
           ],
           "iso4217": "GBP"
@@ -293,7 +293,7 @@
           "alpha2": "BA",
           "alpha3": "BIH",
           "units": [
-            "Convertível",
+            "Marco",
             "Fening"
           ],
           "iso4217": "BAM"
@@ -312,7 +312,7 @@
           "alpha2": "GI",
           "alpha3": "GIB",
           "units": [
-            "Gibraltarina",
+            "Libra",
             "Dinheiro"
           ],
           "iso4217": "GIP",
@@ -329,7 +329,7 @@
           "iso4217": "EUR"
         },
         {
-          "name": "Santa \r\nSé / Estado da Cidade do Vaticano",
+          "name": "Santa Sé",
           "alpha2": "VA",
           "alpha3": "VAT",
           "units": [
@@ -403,7 +403,7 @@
           "alpha2": "RS",
           "alpha3": "SRB",
           "units": [
-            "Sérvio",
+            "Dinar",
             "Para"
           ],
           "iso4217": "RSD"
@@ -473,7 +473,7 @@
           "alpha2": "LI",
           "alpha3": "LIE",
           "units": [
-            "Suíço",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "CHF"
@@ -513,7 +513,7 @@
           "alpha2": "CH",
           "alpha3": "CHE",
           "units": [
-            "Suíço",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "CHF"
@@ -548,7 +548,7 @@
           "alpha2": "AI",
           "alpha3": "AIA",
           "units": [
-            "Orientais",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "XCD",
@@ -559,7 +559,7 @@
           "alpha2": "AG",
           "alpha3": "ATG",
           "units": [
-            "Orientais",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "XCD"
@@ -569,7 +569,7 @@
           "alpha2": "AW",
           "alpha3": "ABW",
           "units": [
-            "Arubano",
+            "Florim",
             "Cêntimo"
           ],
           "iso4217": "AWG",
@@ -580,7 +580,7 @@
           "alpha2": "BS",
           "alpha3": "BHS",
           "units": [
-            "Baamiano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "BSD"
@@ -590,7 +590,7 @@
           "alpha2": "BB",
           "alpha3": "BRB",
           "units": [
-            "Barbadense",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "BBD"
@@ -607,7 +607,7 @@
           "alpha2": "VG",
           "alpha3": "VGB",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD",
@@ -618,7 +618,7 @@
           "alpha2": "KY",
           "alpha3": "CYM",
           "units": [
-            "Caimanês",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "KYD",
@@ -629,7 +629,7 @@
           "alpha2": "CU",
           "alpha3": "CUB",
           "units": [
-            "Cubano",
+            "Peso",
             "Centavo"
           ],
           "iso4217": "CUP"
@@ -639,7 +639,7 @@
           "alpha2": "CW",
           "alpha3": "CUW",
           "units": [
-            "Neerlandesas",
+            "Florim",
             "Cêntimo"
           ],
           "iso4217": "ANG",
@@ -650,7 +650,7 @@
           "alpha2": "DM",
           "alpha3": "DMA",
           "units": [
-            "Orientais",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "XCD"
@@ -660,7 +660,7 @@
           "alpha2": "DO",
           "alpha3": "DOM",
           "units": [
-            "Dominicano",
+            "Peso",
             "Centavo"
           ],
           "iso4217": "DOP"
@@ -670,7 +670,7 @@
           "alpha2": "GD",
           "alpha3": "GRD",
           "units": [
-            "Orientais",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "XCD"
@@ -701,7 +701,7 @@
           "alpha2": "JM",
           "alpha3": "JAM",
           "units": [
-            "Jamaicano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "JMD"
@@ -722,7 +722,7 @@
           "alpha2": "MS",
           "alpha3": "MSR",
           "units": [
-            "Orientais",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "XCD",
@@ -733,7 +733,7 @@
           "alpha2": "PR",
           "alpha3": "PRI",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD",
@@ -751,11 +751,11 @@
           "dependent": true
         },
         {
-          "name": "São Cristóvão e Neves",
+          "name": "São Cristóvão e Neves",
           "alpha2": "KN",
           "alpha3": "KNA",
           "units": [
-            "Orientais",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "XCD"
@@ -765,7 +765,7 @@
           "alpha2": "LC",
           "alpha3": "LCA",
           "units": [
-            "Orientais",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "XCD"
@@ -782,11 +782,11 @@
           "dependent": true
         },
         {
-          "name": "São Vicente e Granadinas",
+          "name": "São Vicente e Granadinas",
           "alpha2": "VC",
           "alpha3": "VCT",
           "units": [
-            "Orientais",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "XCD"
@@ -796,28 +796,28 @@
           "alpha2": "SX",
           "alpha3": "SXM",
           "units": [
-            "Neerlandesas",
+            "Florim",
             "Cêntimo"
           ],
           "iso4217": "ANG",
           "dependent": true
         },
         {
-          "name": "Trindade e Tobago",
+          "name": "Trindade e Tobago",
           "alpha2": "TT",
           "alpha3": "TTO",
           "units": [
-            "Tobago",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "TTD"
         },
         {
-          "name": "Ilhas Turcas e Caicos",
+          "name": "Ilhas Turcas e Caicos",
           "alpha2": "TC",
           "alpha3": "TCA",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD",
@@ -828,7 +828,7 @@
           "alpha2": "VI",
           "alpha3": "VIR",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD",
@@ -839,7 +839,7 @@
           "alpha2": "BZ",
           "alpha3": "BLZ",
           "units": [
-            "Belizense",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "BZD"
@@ -849,7 +849,7 @@
           "alpha2": "CR",
           "alpha3": "CRI",
           "units": [
-            "Costa-Riquenho",
+            "Colón",
             "Cêntimo"
           ],
           "iso4217": "CRC"
@@ -859,7 +859,7 @@
           "alpha2": "SV",
           "alpha3": "SLV",
           "units": [
-            "Salvadorenho",
+            "Colón",
             "Centavo"
           ],
           "iso4217": "SVC"
@@ -889,7 +889,7 @@
           "alpha2": "MX",
           "alpha3": "MEX",
           "units": [
-            "Mexicano",
+            "Peso",
             "Centavo"
           ],
           "iso4217": "MXN"
@@ -899,7 +899,7 @@
           "alpha2": "NI",
           "alpha3": "NIC",
           "units": [
-            "Ouro",
+            "Córdoba",
             "Centavo"
           ],
           "iso4217": "NIO"
@@ -919,7 +919,7 @@
           "alpha2": "AR",
           "alpha3": "ARG",
           "units": [
-            "Argentino",
+            "Peso",
             "Centavo"
           ],
           "iso4217": "ARS"
@@ -957,7 +957,7 @@
           "alpha2": "CL",
           "alpha3": "CHL",
           "units": [
-            "Chileno",
+            "Peso",
             "Centavo"
           ],
           "iso4217": "CLP"
@@ -967,7 +967,7 @@
           "alpha2": "CO",
           "alpha3": "COL",
           "units": [
-            "Colombiano",
+            "Peso",
             "Centavo"
           ],
           "iso4217": "COP"
@@ -977,7 +977,7 @@
           "alpha2": "EC",
           "alpha3": "ECU",
           "units": [
-            "Unidos",
+            "Dólar",
             "Centavo"
           ],
           "iso4217": "USD"
@@ -987,7 +987,7 @@
           "alpha2": "FK",
           "alpha3": "FLK",
           "units": [
-            "Falklandesa",
+            "Libra",
             "Dinheiro"
           ],
           "iso4217": "FKP",
@@ -1009,7 +1009,7 @@
           "alpha2": "GY",
           "alpha3": "GUY",
           "units": [
-            "Guianês",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "GYD"
@@ -1035,7 +1035,7 @@
           "iso4217": "PEN"
         },
         {
-          "name": "Ilhas Geórgia do Sul e Sandwich do Sul",
+          "name": "Ilhas Geórgia do Sul e Sandwich do Sul",
           "alpha2": "GS",
           "alpha3": "SGS",
           "units": [],
@@ -1047,7 +1047,7 @@
           "alpha2": "SR",
           "alpha3": "SUR",
           "units": [
-            "Surinamês",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "SRD"
@@ -1057,7 +1057,7 @@
           "alpha2": "UY",
           "alpha3": "URY",
           "units": [
-            "Uruguaio",
+            "Peso",
             "Centésimo"
           ],
           "iso4217": "UYU"
@@ -1067,7 +1067,7 @@
           "alpha2": "VE",
           "alpha3": "VEN",
           "units": [
-            "Soberano",
+            "Bolívar",
             "Cêntimo"
           ],
           "iso4217": "VES"
@@ -1077,7 +1077,7 @@
           "alpha2": "BM",
           "alpha3": "BMU",
           "units": [
-            "Bermudense",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "BMD",
@@ -1088,7 +1088,7 @@
           "alpha2": "CA",
           "alpha3": "CAN",
           "units": [
-            "Canadiano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "CAD"
@@ -1098,14 +1098,14 @@
           "alpha2": "GL",
           "alpha3": "GRL",
           "units": [
-            "Dinamarquesa",
+            "Coroa",
             "Øre"
           ],
           "iso4217": "DKK",
           "dependent": true
         },
         {
-          "name": "São Pedro e Miquelão",
+          "name": "São Pedro e Miquelão",
           "alpha2": "PM",
           "alpha3": "SPM",
           "units": [
@@ -1120,7 +1120,7 @@
           "alpha2": "US",
           "alpha3": "USA",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD"
@@ -1165,7 +1165,7 @@
           "alpha2": "TM",
           "alpha3": "TKM",
           "units": [
-            "Turquemeno",
+            "Manat",
             "Tenge"
           ],
           "iso4217": "TMT"
@@ -1195,7 +1195,7 @@
           "alpha2": "HK",
           "alpha3": "HKG",
           "units": [
-            "Kong",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "HKD",
@@ -1217,7 +1217,7 @@
           "alpha2": "KP",
           "alpha3": "PRK",
           "units": [
-            "Norte-Coreano",
+            "Won",
             "Chun"
           ],
           "iso4217": "KPW"
@@ -1247,7 +1247,7 @@
           "alpha2": "KR",
           "alpha3": "KOR",
           "units": [
-            "Sul-Coreano",
+            "Won",
             "Chun"
           ],
           "iso4217": "KRW"
@@ -1257,7 +1257,7 @@
           "alpha2": "BN",
           "alpha3": "BRN",
           "units": [
-            "Bruneíno",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "BND"
@@ -1277,7 +1277,7 @@
           "alpha2": "ID",
           "alpha3": "IDN",
           "units": [
-            "Indonésia",
+            "Rupia",
             "Cêntimo"
           ],
           "iso4217": "IDR"
@@ -1303,7 +1303,7 @@
           "iso4217": "MYR"
         },
         {
-          "name": "Mianmar/Birmânia",
+          "name": "Mianmar",
           "alpha2": "MM",
           "alpha3": "MMR",
           "units": [
@@ -1317,7 +1317,7 @@
           "alpha2": "PH",
           "alpha3": "PHL",
           "units": [
-            "Filipino",
+            "Peso",
             "Centavo"
           ],
           "iso4217": "PHP"
@@ -1327,7 +1327,7 @@
           "alpha2": "SG",
           "alpha3": "SGP",
           "units": [
-            "Singapurense",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "SGD"
@@ -1347,7 +1347,7 @@
           "alpha2": "TL",
           "alpha3": "TLS",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD"
@@ -1397,7 +1397,7 @@
           "alpha2": "IN",
           "alpha3": "IND",
           "units": [
-            "Indiana",
+            "Rupia",
             "Paisa"
           ],
           "iso4217": "INR"
@@ -1407,7 +1407,7 @@
           "alpha2": "IR",
           "alpha3": "IRN",
           "units": [
-            "Iraniano",
+            "Rial",
             "Dinar"
           ],
           "iso4217": "IRR"
@@ -1417,7 +1417,7 @@
           "alpha2": "MV",
           "alpha3": "MDV",
           "units": [
-            "Maldiva",
+            "Rupia",
             "Laari"
           ],
           "iso4217": "MVR"
@@ -1427,7 +1427,7 @@
           "alpha2": "NP",
           "alpha3": "NPL",
           "units": [
-            "Nepalesa",
+            "Rupia",
             "Paisa"
           ],
           "iso4217": "NPR"
@@ -1437,7 +1437,7 @@
           "alpha2": "PK",
           "alpha3": "PAK",
           "units": [
-            "Paquistanesa",
+            "Rupia",
             "Paisa"
           ],
           "iso4217": "PKR"
@@ -1447,7 +1447,7 @@
           "alpha2": "LK",
           "alpha3": "LKA",
           "units": [
-            "Cingalesa",
+            "Rupia",
             "Cêntimo"
           ],
           "iso4217": "LKR"
@@ -1467,7 +1467,7 @@
           "alpha2": "AZ",
           "alpha3": "AZE",
           "units": [
-            "Azerbaijano",
+            "Manat",
             "Kepik"
           ],
           "iso4217": "AZN"
@@ -1477,7 +1477,7 @@
           "alpha2": "BH",
           "alpha3": "BHR",
           "units": [
-            "Baremita",
+            "Dinar",
             "Fils"
           ],
           "iso4217": "BHD"
@@ -1507,7 +1507,7 @@
           "alpha2": "IQ",
           "alpha3": "IRQ",
           "units": [
-            "Iraquiano",
+            "Dinar",
             "Fils"
           ],
           "iso4217": "IQD"
@@ -1527,7 +1527,7 @@
           "alpha2": "JO",
           "alpha3": "JOR",
           "units": [
-            "Jordano",
+            "Dinar",
             "Qirsh"
           ],
           "iso4217": "JOD"
@@ -1537,7 +1537,7 @@
           "alpha2": "KW",
           "alpha3": "KWT",
           "units": [
-            "Koweitiano",
+            "Dinar",
             "Fils"
           ],
           "iso4217": "KWD"
@@ -1547,7 +1547,7 @@
           "alpha2": "LB",
           "alpha3": "LBN",
           "units": [
-            "Libanesa",
+            "Libra",
             "Piastra"
           ],
           "iso4217": "LBP"
@@ -1557,7 +1557,7 @@
           "alpha2": "OM",
           "alpha3": "OMN",
           "units": [
-            "Omanense",
+            "Rial",
             "Baiza"
           ],
           "iso4217": "OMR"
@@ -1567,7 +1567,7 @@
           "alpha2": "QA",
           "alpha3": "QAT",
           "units": [
-            "Catariano",
+            "Rial",
             "Dirame"
           ],
           "iso4217": "QAR"
@@ -1577,23 +1577,17 @@
           "alpha2": "SA",
           "alpha3": "SAU",
           "units": [
-            "Saudita",
+            "Rial",
             "Halala"
           ],
           "iso4217": "SAR"
-        },
-        {
-          "name": "Palestine",
-          "alpha2": "PS",
-          "alpha3": "PSE",
-          "units": []
         },
         {
           "name": "Síria",
           "alpha2": "SY",
           "alpha3": "SYR",
           "units": [
-            "Síria",
+            "Libra",
             "Piastra"
           ],
           "iso4217": "SYP"
@@ -1603,7 +1597,7 @@
           "alpha2": "TR",
           "alpha3": "TUR",
           "units": [
-            "Turca",
+            "Lira",
             "Kurus"
           ],
           "iso4217": "TRY"
@@ -1613,7 +1607,7 @@
           "alpha2": "AE",
           "alpha3": "ARE",
           "units": [
-            "Emiradense",
+            "Dirame",
             "Fils"
           ],
           "iso4217": "AED"
@@ -1623,7 +1617,7 @@
           "alpha2": "YE",
           "alpha3": "YEM",
           "units": [
-            "Iemenita",
+            "Rial",
             "Fils"
           ],
           "iso4217": "YER"
@@ -1695,7 +1689,7 @@
           "alpha2": "DZ",
           "alpha3": "DZA",
           "units": [
-            "Argelino",
+            "Dinar",
             "Cêntimo"
           ],
           "iso4217": "DZD"
@@ -1705,7 +1699,7 @@
           "alpha2": "EG",
           "alpha3": "EGY",
           "units": [
-            "Egípcia",
+            "Libra",
             "Piastra"
           ],
           "iso4217": "EGP"
@@ -1715,7 +1709,7 @@
           "alpha2": "LY",
           "alpha3": "LBY",
           "units": [
-            "Líbio",
+            "Dinar",
             "Dirame"
           ],
           "iso4217": "LYD"
@@ -1725,7 +1719,7 @@
           "alpha2": "MA",
           "alpha3": "MAR",
           "units": [
-            "Marroquino",
+            "Dirame",
             "Cêntimo"
           ],
           "iso4217": "MAD"
@@ -1735,7 +1729,7 @@
           "alpha2": "SD",
           "alpha3": "SDN",
           "units": [
-            "Sudanesa",
+            "Libra",
             "Piastra"
           ],
           "iso4217": "SDG"
@@ -1745,28 +1739,17 @@
           "alpha2": "TN",
           "alpha3": "TUN",
           "units": [
-            "Tunisino",
+            "Dinar",
             "Milésimo"
           ],
           "iso4217": "TND"
         },
         {
-          "name": "Sara Ocidental",
-          "alpha2": "EH",
-          "alpha3": "ESH",
-          "units": [
-            "Marroquino",
-            "Cêntimo"
-          ],
-          "iso4217": "MAD",
-          "dependent": true
-        },
-        {
-          "name": "Território Britânico do Oceano Índico",
+          "name": "Território Britânico do Oceano Índico",
           "alpha2": "IO",
           "alpha3": "IOT",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD",
@@ -1777,7 +1760,7 @@
           "alpha2": "BI",
           "alpha3": "BDI",
           "units": [
-            "Burundiano",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "BIF"
@@ -1787,7 +1770,7 @@
           "alpha2": "KM",
           "alpha3": "COM",
           "units": [
-            "Comoriano"
+            "Franco"
           ],
           "iso4217": "KMF"
         },
@@ -1796,7 +1779,7 @@
           "alpha2": "DJ",
           "alpha3": "DJI",
           "units": [
-            "Jibutiano"
+            "Franco"
           ],
           "iso4217": "DJF"
         },
@@ -1821,7 +1804,7 @@
           "iso4217": "ETB"
         },
         {
-          "name": "Terras Austrais e Antárticas Francesas",
+          "name": "Terras Austrais e Antárticas Francesas",
           "alpha2": "TF",
           "alpha3": "ATF",
           "units": [
@@ -1836,7 +1819,7 @@
           "alpha2": "KE",
           "alpha3": "KEN",
           "units": [
-            "Queniano",
+            "Xelim",
             "Cêntimo"
           ],
           "iso4217": "KES"
@@ -1856,7 +1839,7 @@
           "alpha2": "MW",
           "alpha3": "MWI",
           "units": [
-            "Malauiano",
+            "Kwacha",
             "Tambala"
           ],
           "iso4217": "MWK"
@@ -1866,7 +1849,7 @@
           "alpha2": "MU",
           "alpha3": "MUS",
           "units": [
-            "Mauriciana",
+            "Rupia",
             "Cêntimo"
           ],
           "iso4217": "MUR"
@@ -1908,7 +1891,7 @@
           "alpha2": "RW",
           "alpha3": "RWA",
           "units": [
-            "Ruandês",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "RWF"
@@ -1918,7 +1901,7 @@
           "alpha2": "SC",
           "alpha3": "SYC",
           "units": [
-            "Seichelense",
+            "Rupia",
             "Cêntimo"
           ],
           "iso4217": "SCR"
@@ -1928,7 +1911,7 @@
           "alpha2": "SO",
           "alpha3": "SOM",
           "units": [
-            "Somali",
+            "Xelim",
             "Cêntimo"
           ],
           "iso4217": "SOS"
@@ -1938,7 +1921,7 @@
           "alpha2": "SS",
           "alpha3": "SSD",
           "units": [
-            "Sul-Sudanesa",
+            "Libra",
             "Piastra"
           ],
           "iso4217": "SSP"
@@ -1948,7 +1931,7 @@
           "alpha2": "UG",
           "alpha3": "UGA",
           "units": [
-            "Ugandês",
+            "Xelim",
             "Cêntimo"
           ],
           "iso4217": "UGX"
@@ -1958,7 +1941,7 @@
           "alpha2": "TZ",
           "alpha3": "TZA",
           "units": [
-            "Tanzaniano",
+            "Xelim",
             "Cêntimo"
           ],
           "iso4217": "TZS"
@@ -1968,7 +1951,7 @@
           "alpha2": "ZM",
           "alpha3": "ZMB",
           "units": [
-            "Zambiano",
+            "Kwacha",
             "Êngwee"
           ],
           "iso4217": "ZMW"
@@ -1978,7 +1961,7 @@
           "alpha2": "ZW",
           "alpha3": "ZWE",
           "units": [
-            "Zimbabuense",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "ZWL"
@@ -1998,7 +1981,7 @@
           "alpha2": "CM",
           "alpha3": "CMR",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XAF"
@@ -2008,7 +1991,7 @@
           "alpha2": "CF",
           "alpha3": "CAF",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XAF"
@@ -2018,7 +2001,7 @@
           "alpha2": "TD",
           "alpha3": "TCD",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XAF"
@@ -2028,17 +2011,17 @@
           "alpha2": "CG",
           "alpha3": "COG",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XAF"
         },
         {
-          "name": "República Democrática do Congo",
+          "name": "República Democrática do Congo",
           "alpha2": "CD",
           "alpha3": "COD",
           "units": [
-            "Congolês",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "CDF"
@@ -2048,7 +2031,7 @@
           "alpha2": "GQ",
           "alpha3": "GNQ",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XAF"
@@ -2058,13 +2041,13 @@
           "alpha2": "GA",
           "alpha3": "GAB",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XAF"
         },
         {
-          "name": "São Tomé e Príncipe",
+          "name": "São Tomé e Príncipe",
           "alpha2": "ST",
           "alpha3": "STP",
           "units": [
@@ -2108,7 +2091,7 @@
           "alpha2": "NA",
           "alpha3": "NAM",
           "units": [
-            "Namibiano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "NAD"
@@ -2128,7 +2111,7 @@
           "alpha2": "BJ",
           "alpha3": "BEN",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XOF"
@@ -2138,7 +2121,7 @@
           "alpha2": "BF",
           "alpha3": "BFA",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XOF"
@@ -2148,7 +2131,7 @@
           "alpha2": "CV",
           "alpha3": "CPV",
           "units": [
-            "Cabo-Verdiano",
+            "Escudo",
             "Centavo"
           ],
           "iso4217": "CVE"
@@ -2158,7 +2141,7 @@
           "alpha2": "CI",
           "alpha3": "CIV",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XOF"
@@ -2188,7 +2171,7 @@
           "alpha2": "GN",
           "alpha3": "GIN",
           "units": [
-            "Guineense"
+            "Franco"
           ],
           "iso4217": "GNF"
         },
@@ -2197,7 +2180,7 @@
           "alpha2": "GW",
           "alpha3": "GNB",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XOF"
@@ -2207,7 +2190,7 @@
           "alpha2": "LR",
           "alpha3": "LBR",
           "units": [
-            "Liberiano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "LRD"
@@ -2217,7 +2200,7 @@
           "alpha2": "ML",
           "alpha3": "MLI",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XOF"
@@ -2237,7 +2220,7 @@
           "alpha2": "NE",
           "alpha3": "NER",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XOF"
@@ -2253,11 +2236,11 @@
           "iso4217": "NGN"
         },
         {
-          "name": "Santa Helena, Ascensão e Tristão da Cunha",
+          "name": "Santa Helena, Ascensão e Tristão da Cunha",
           "alpha2": "SH",
           "alpha3": "SHN",
           "units": [
-            "Santa-Helenense",
+            "Libra",
             "Dinheiro"
           ],
           "iso4217": "SHP",
@@ -2268,7 +2251,7 @@
           "alpha2": "SN",
           "alpha3": "SEN",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XOF"
@@ -2288,7 +2271,7 @@
           "alpha2": "TG",
           "alpha3": "TGO",
           "units": [
-            "Cfa",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XOF"
@@ -2310,8 +2293,7 @@
           "alpha2": "EH",
           "alpha3": "ESH",
           "units": [
-            "Peseta",
-            "Céntimo"
+            "Peseta"
           ],
           "iso4217": "EHP",
           "part_of": "MAR",
@@ -2327,7 +2309,7 @@
           "alpha2": "AU",
           "alpha3": "AUS",
           "units": [
-            "Australiano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "AUD"
@@ -2337,7 +2319,7 @@
           "alpha2": "CX",
           "alpha3": "CXR",
           "units": [
-            "Australiano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "AUD",
@@ -2348,14 +2330,14 @@
           "alpha2": "CC",
           "alpha3": "CCK",
           "units": [
-            "Australiano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "AUD",
           "dependent": true
         },
         {
-          "name": "Ilha Heard e Ilhas McDonald",
+          "name": "Ilha Heard e Ilhas McDonald",
           "alpha2": "HM",
           "alpha3": "HMD",
           "units": [],
@@ -2367,7 +2349,7 @@
           "alpha2": "NZ",
           "alpha3": "NZL",
           "units": [
-            "Neozelandês",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "NZD"
@@ -2377,7 +2359,7 @@
           "alpha2": "NF",
           "alpha3": "NFK",
           "units": [
-            "Australiano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "AUD",
@@ -2388,7 +2370,7 @@
           "alpha2": "FJ",
           "alpha3": "FJI",
           "units": [
-            "Fijiano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "FJD"
@@ -2398,7 +2380,7 @@
           "alpha2": "NC",
           "alpha3": "NCL",
           "units": [
-            "Cfp",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XPF",
@@ -2419,7 +2401,7 @@
           "alpha2": "SB",
           "alpha3": "SLB",
           "units": [
-            "Salomonense",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "SBD"
@@ -2438,7 +2420,7 @@
           "alpha2": "GU",
           "alpha3": "GUM",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD",
@@ -2449,7 +2431,7 @@
           "alpha2": "KI",
           "alpha3": "KIR",
           "units": [
-            "Australiano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "AUD"
@@ -2459,7 +2441,7 @@
           "alpha2": "MH",
           "alpha3": "MHL",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD"
@@ -2469,7 +2451,7 @@
           "alpha2": "FM",
           "alpha3": "FSM",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD"
@@ -2479,7 +2461,7 @@
           "alpha2": "NR",
           "alpha3": "NRU",
           "units": [
-            "Australiano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "AUD"
@@ -2489,7 +2471,7 @@
           "alpha2": "MP",
           "alpha3": "MNP",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD",
@@ -2500,17 +2482,17 @@
           "alpha2": "PW",
           "alpha3": "PLW",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD"
         },
         {
-          "name": "Ilhas Menores Afastadas dos Estados Unidos",
+          "name": "Ilhas Menores Afastadas dos Estados Unidos",
           "alpha2": "UM",
           "alpha3": "UMI",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD",
@@ -2521,7 +2503,7 @@
           "alpha2": "AS",
           "alpha3": "ASM",
           "units": [
-            "Unidos",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "USD",
@@ -2532,7 +2514,7 @@
           "alpha2": "CK",
           "alpha3": "COK",
           "units": [
-            "Neozelandês",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "NZD",
@@ -2543,7 +2525,7 @@
           "alpha2": "PF",
           "alpha3": "PYF",
           "units": [
-            "Cfp",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XPF",
@@ -2554,7 +2536,7 @@
           "alpha2": "NU",
           "alpha3": "NIU",
           "units": [
-            "Neozelandês",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "NZD",
@@ -2565,7 +2547,7 @@
           "alpha2": "PN",
           "alpha3": "PCN",
           "units": [
-            "Neozelandês",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "NZD",
@@ -2586,7 +2568,7 @@
           "alpha2": "TK",
           "alpha3": "TKL",
           "units": [
-            "Neozelandês",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "NZD",
@@ -2607,7 +2589,7 @@
           "alpha2": "TV",
           "alpha3": "TUV",
           "units": [
-            "Australiano",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "AUD"
@@ -2617,7 +2599,7 @@
           "alpha2": "WF",
           "alpha3": "WLF",
           "units": [
-            "Cfp",
+            "Franco",
             "Cêntimo"
           ],
           "iso4217": "XPF",

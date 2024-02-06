@@ -329,7 +329,7 @@
           "iso4217": "EUR"
         },
         {
-          "name": "Svētais Krēsls / Vatikāns",
+          "name": "Svētais Krēsls",
           "alpha2": "VA",
           "alpha3": "VAT",
           "units": [
@@ -1303,7 +1303,7 @@
           "iso4217": "MYR"
         },
         {
-          "name": "Mjanma/Birma",
+          "name": "Mjanma",
           "alpha2": "MM",
           "alpha3": "MMR",
           "units": [
@@ -1583,12 +1583,6 @@
           "iso4217": "SAR"
         },
         {
-          "name": "Palestine",
-          "alpha2": "PS",
-          "alpha3": "PSE",
-          "units": []
-        },
-        {
           "name": "Sīrija",
           "alpha2": "SY",
           "alpha3": "SYR",
@@ -1751,17 +1745,6 @@
           "iso4217": "TND"
         },
         {
-          "name": "Rietumsahāra",
-          "alpha2": "EH",
-          "alpha3": "ESH",
-          "units": [
-            "Dirhēms",
-            "Santīms"
-          ],
-          "iso4217": "MAD",
-          "dependent": true
-        },
-        {
           "name": "Britu Indijas Okeāna Teritorija",
           "alpha2": "IO",
           "alpha3": "IOT",
@@ -1821,7 +1804,7 @@
           "iso4217": "ETB"
         },
         {
-          "name": "Francijas Dienvidjūru un Antarktikas Zemes",
+          "name": "Francijas Dienvidjūru un Antarktikas Zemes",
           "alpha2": "TF",
           "alpha3": "ATF",
           "units": [
@@ -2293,8 +2276,7 @@
           "alpha2": "EH",
           "alpha3": "ESH",
           "units": [
-            "Peseta",
-            "Céntimo"
+            "Peseta"
           ],
           "iso4217": "EHP",
           "part_of": "MAR",

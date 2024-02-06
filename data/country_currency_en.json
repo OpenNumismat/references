@@ -61,17 +61,6 @@
       "iso4217": "TND"
     },
     {
-      "name": "Western Sahara",
-      "alpha2": "EH",
-      "alpha3": "ESH",
-      "units": [
-        "Dirham",
-        "Centime"
-      ],
-      "iso4217": "MAD",
-      "dependent": true
-    },
-    {
       "name": "British Indian Ocean Territory",
       "alpha2": "IO",
       "alpha3": "IOT",
@@ -615,7 +604,7 @@
       "dependent": true
     },
     {
-      "name": "Antigua and Barbuda",
+      "name": "Antigua and Barbuda",
       "alpha2": "AG",
       "alpha3": "ATG",
       "units": [
@@ -1095,7 +1084,7 @@
       "iso4217": "PEN"
     },
     {
-      "name": "South Georgia and the South Sandwich Islands",
+      "name": "South Georgia and the South Sandwich Islands",
       "alpha2": "GS",
       "alpha3": "SGS",
       "units": [],
@@ -1184,14 +1173,6 @@
         "Cent"
       ],
       "iso4217": "USD"
-    },
-    {
-      "name": "Antarctica",
-      "alpha2": "AQ",
-      "alpha3": "ATA",
-      "units": [],
-      "iso4217": "—",
-      "dependent": true
     },
     {
       "name": "Kazakhstan",
@@ -1366,7 +1347,7 @@
       "iso4217": "MYR"
     },
     {
-      "name": "Myanmar/Burma",
+      "name": "Myanmar",
       "alpha2": "MM",
       "alpha3": "MMR",
       "units": [
@@ -1644,12 +1625,6 @@
         "Halala"
       ],
       "iso4217": "SAR"
-    },
-    {
-      "name": "Palestine",
-      "alpha2": "PS",
-      "alpha3": "PSE",
-      "units": []
     },
     {
       "name": "Syria",
@@ -2017,7 +1992,7 @@
       "iso4217": "EUR"
     },
     {
-      "name": "the Holy See/",
+      "name": "the Holy See",
       "alpha2": "VA",
       "alpha3": "VAT",
       "units": [
@@ -2601,8 +2576,7 @@
       "alpha2": "EH",
       "alpha3": "ESH",
       "units": [
-        "Peseta",
-        "Céntimo"
+        "Peseta"
       ],
       "iso4217": "EHP",
       "part_of": "MAR",
