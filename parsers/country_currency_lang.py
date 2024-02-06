@@ -134,9 +134,6 @@ def process_countries(lang):
         if alpha3 in ('ATA', 'ESH', 'PSE'):
             continue
     
-        if alpha3 in alternative_names:
-            country_name = alternative_names[alpha3][0]
-        
         data = {
             "name": country_name,
             "alpha2": alpha2,
@@ -146,7 +143,12 @@ def process_countries(lang):
 
         # Upgrade currencies from EU
         if alpha2 in eu_countries_list:
-            data["name"] = eu_countries_list[alpha2]["name"]
+            country_name = eu_countries_list[alpha2]["name"]
+            if lang == 'en':
+                if alpha3 in alternative_names:
+                    country_name = alternative_names[alpha3][0]
+        
+            data["name"] = country_name
             data["units"] = []
             if eu_countries_list[alpha2]['major']:
                 data["units"].append(eu_countries_list[alpha2]['major'])

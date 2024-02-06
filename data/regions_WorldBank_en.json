@@ -1245,7 +1245,7 @@
           "dependent": true
         },
         {
-          "name": "US Virgin Islands",
+          "name": "United States Virgin Islands",
           "alpha2": "VI",
           "alpha3": "VIR",
           "units": [
@@ -1514,7 +1514,7 @@
           "iso4217": "GNF"
         },
         {
-          "name": "The Gambia",
+          "name": "Gambia",
           "alpha2": "GM",
           "alpha3": "GMB",
           "units": [

@@ -238,7 +238,7 @@
           "iso4217": "NOK"
         },
         {
-          "name": "Svalbard and Jan Mayen",
+          "name": "Svalbard and Jan Mayen Islands",
           "alpha2": "SJ",
           "alpha3": "SJM",
           "units": [
@@ -329,7 +329,7 @@
           "iso4217": "EUR"
         },
         {
-          "name": "the Holy See",
+          "name": "Vatican City",
           "alpha2": "VA",
           "alpha3": "VAT",
           "units": [
@@ -824,7 +824,7 @@
           "dependent": true
         },
         {
-          "name": "US Virgin Islands",
+          "name": "United States Virgin Islands",
           "alpha2": "VI",
           "alpha3": "VIR",
           "units": [
@@ -983,7 +983,7 @@
           "iso4217": "USD"
         },
         {
-          "name": "Falkland Islands",
+          "name": "Falkland Islands (Malvinas)",
           "alpha2": "FK",
           "alpha3": "FLK",
           "units": [
@@ -1035,7 +1035,7 @@
           "iso4217": "PEN"
         },
         {
-          "name": "South Georgia and the South Sandwich Islands",
+          "name": "South Georgia and South Sandwich Islands",
           "alpha2": "GS",
           "alpha3": "SGS",
           "units": [],
@@ -1804,7 +1804,7 @@
           "iso4217": "ETB"
         },
         {
-          "name": "French Southern and Antarctic Lands",
+          "name": "French Southern Territories",
           "alpha2": "TF",
           "alpha3": "ATF",
           "units": [
@@ -2147,7 +2147,7 @@
           "iso4217": "XOF"
         },
         {
-          "name": "The Gambia",
+          "name": "Gambia",
           "alpha2": "GM",
           "alpha3": "GMB",
           "units": [
@@ -2236,7 +2236,7 @@
           "iso4217": "NGN"
         },
         {
-          "name": "Saint Helena, Ascension and Tristan da Cunha",
+          "name": "Saint Helena",
           "alpha2": "SH",
           "alpha3": "SHN",
           "units": [
@@ -2326,7 +2326,7 @@
           "dependent": true
         },
         {
-          "name": "Cocos Keeling) Islands",
+          "name": "Cocos (Keeling) Islands",
           "alpha2": "CC",
           "alpha3": "CCK",
           "units": [
@@ -2543,7 +2543,7 @@
           "dependent": true
         },
         {
-          "name": "Pitcairn Islands",
+          "name": "Pitcairn",
           "alpha2": "PN",
           "alpha3": "PCN",
           "units": [
@@ -2595,7 +2595,7 @@
           "iso4217": "AUD"
         },
         {
-          "name": "Wallis and Futuna",
+          "name": "Wallis and Futuna Islands",
           "alpha2": "WF",
           "alpha3": "WLF",
           "units": [
