@@ -183,6 +183,16 @@
           "iso4217": "corona islandese"
         },
         {
+          "name": "Irlanda",
+          "alpha2": "IE",
+          "alpha3": "IRL",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "euro"
+        },
+        {
           "name": "Lettonia",
           "alpha2": "LV",
           "alpha3": "LVA",
@@ -221,6 +231,16 @@
             "Öre"
           ],
           "iso4217": "corona svedese"
+        },
+        {
+          "name": "Regno Unito",
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "units": [
+            "Lira",
+            "Penny"
+          ],
+          "iso4217": "lira sterlina"
         },
         {
           "name": "Albania",
@@ -471,26 +491,6 @@
             "Cent"
           ],
           "iso4217": "dollaro USA"
-        },
-        {
-          "name": "Irlanda",
-          "alpha2": "IE",
-          "alpha3": "IRL",
-          "units": [
-            "Euro",
-            "Cent"
-          ],
-          "iso4217": "euro"
-        },
-        {
-          "name": "Regno Unito",
-          "alpha2": "GB",
-          "alpha3": "GBR",
-          "units": [
-            "Lira",
-            "Penny"
-          ],
-          "iso4217": "lira sterlina"
         }
       ]
     },

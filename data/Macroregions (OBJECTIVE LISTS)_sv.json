@@ -180,6 +180,16 @@
           "iso4217": "ISK"
         },
         {
+          "name": "Irland",
+          "alpha2": "IE",
+          "alpha3": "IRL",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR"
+        },
+        {
           "name": "Lettland",
           "alpha2": "LV",
           "alpha3": "LVA",
@@ -218,6 +228,16 @@
             "Öre"
           ],
           "iso4217": "SEK"
+        },
+        {
+          "name": "Förenade",
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "units": [
+            "Pund",
+            "Penny"
+          ],
+          "iso4217": "GBP"
         },
         {
           "name": "Albanien",
@@ -468,26 +488,6 @@
             "Cent"
           ],
           "iso4217": "USD"
-        },
-        {
-          "name": "Irland",
-          "alpha2": "IE",
-          "alpha3": "IRL",
-          "units": [
-            "Euro",
-            "Cent"
-          ],
-          "iso4217": "EUR"
-        },
-        {
-          "name": "Förenade",
-          "alpha2": "GB",
-          "alpha3": "GBR",
-          "units": [
-            "Pund",
-            "Penny"
-          ],
-          "iso4217": "GBP"
         }
       ]
     },

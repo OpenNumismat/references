@@ -2,6 +2,7 @@
 {
     "region": "Europe",
     "countries": [
+"United Kingdom", "Ireland",
 "Poland", "Czechia", "Hungary", "Bulgaria", "Serbia", "Slovakia", "Croatia",
 "Bosnia & Herzegovina", "North Macedonia", "Slovenia", "Montenegro",
 "Germany", "France", "Netherlands", "Belgium", "Austria", "Switzerland",
@@ -21,7 +22,6 @@
 {
     "region": "North America",
     "countries": [
-"United Kingdom", "Ireland",
 "United States", "Canada"
     ]
 },

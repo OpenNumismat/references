@@ -184,6 +184,16 @@
           "iso4217": "ISK"
         },
         {
+          "name": "Írország",
+          "alpha2": "IE",
+          "alpha3": "IRL",
+          "units": [
+            "Euró",
+            "Cent"
+          ],
+          "iso4217": "EUR"
+        },
+        {
           "name": "Lettország",
           "alpha2": "LV",
           "alpha3": "LVA",
@@ -222,6 +232,16 @@
             "Őre"
           ],
           "iso4217": "SEK"
+        },
+        {
+          "name": "Egyesült Királyság",
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "units": [
+            "Sterling",
+            "Penny"
+          ],
+          "iso4217": "GBP"
         },
         {
           "name": "Albánia",
@@ -472,26 +492,6 @@
             "Cent"
           ],
           "iso4217": "USD"
-        },
-        {
-          "name": "Írország",
-          "alpha2": "IE",
-          "alpha3": "IRL",
-          "units": [
-            "Euró",
-            "Cent"
-          ],
-          "iso4217": "EUR"
-        },
-        {
-          "name": "Egyesült Királyság",
-          "alpha2": "GB",
-          "alpha3": "GBR",
-          "units": [
-            "Sterling",
-            "Penny"
-          ],
-          "iso4217": "GBP"
         }
       ]
     },

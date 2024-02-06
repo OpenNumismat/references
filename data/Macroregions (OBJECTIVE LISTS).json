@@ -4,6 +4,26 @@
       "name": "Europe",
       "countries": [
         {
+          "name": "United Kingdom",
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "units": [
+            "Sterling",
+            "Penny"
+          ],
+          "iso4217": "GBP"
+        },
+        {
+          "name": "Ireland",
+          "alpha2": "IE",
+          "alpha3": "IRL",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR"
+        },
+        {
           "name": "Poland",
           "alpha2": "PL",
           "alpha3": "POL",
@@ -407,26 +427,6 @@
     {
       "name": "North America",
       "countries": [
-        {
-          "name": "United Kingdom",
-          "alpha2": "GB",
-          "alpha3": "GBR",
-          "units": [
-            "Sterling",
-            "Penny"
-          ],
-          "iso4217": "GBP"
-        },
-        {
-          "name": "Ireland",
-          "alpha2": "IE",
-          "alpha3": "IRL",
-          "units": [
-            "Euro",
-            "Cent"
-          ],
-          "iso4217": "EUR"
-        },
         {
           "name": "United States",
           "alpha2": "US",
