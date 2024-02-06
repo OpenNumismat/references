@@ -152,7 +152,7 @@
             "Pound",
             "Penny"
           ],
-          "iso4217": "GBP",
+          "iso4217": "GGP",
           "dependent": true
         },
         {
@@ -182,7 +182,7 @@
             "Pound",
             "Penny"
           ],
-          "iso4217": "GBP",
+          "iso4217": "IMP",
           "dependent": true
         },
         {
@@ -193,7 +193,7 @@
             "Pound",
             "Penny"
           ],
-          "iso4217": "GBP",
+          "iso4217": "JEP",
           "dependent": true
         },
         {
@@ -1189,6 +1189,7 @@
           "alpha2": "GS",
           "alpha3": "SGS",
           "units": [],
+          "iso4217": "—",
           "dependent": true
         },
         {
@@ -1542,7 +1543,7 @@
             "Ngultrum",
             "Chhetrum"
           ],
-          "iso4217": "INR"
+          "iso4217": "BTN"
         },
         {
           "name": "India",
@@ -1918,16 +1919,6 @@
           "iso4217": "XAF"
         },
         {
-          "name": "Sao Tome and Principe",
-          "alpha2": "ST",
-          "alpha3": "STP",
-          "units": [
-            "Dobra",
-            "Centimo"
-          ],
-          "iso4217": "STN"
-        },
-        {
           "name": "Botswana",
           "alpha2": "BW",
           "alpha3": "BWA",
@@ -2135,7 +2126,7 @@
             "Leone",
             "Cent"
           ],
-          "iso4217": "SLE"
+          "iso4217": "SLL"
         },
         {
           "name": "Togo",
@@ -2164,8 +2155,7 @@
           "alpha2": "EH",
           "alpha3": "ESH",
           "units": [
-            "Peseta",
-            "Céntimo"
+            "Peseta"
           ],
           "iso4217": "EHP",
           "part_of": "MAR",
