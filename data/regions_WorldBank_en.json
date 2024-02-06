@@ -273,7 +273,7 @@
             "Pound",
             "Penny"
           ],
-          "iso4217": "GBP",
+          "iso4217": "IMP",
           "dependent": true
         },
         {
@@ -1245,7 +1245,7 @@
           "dependent": true
         },
         {
-          "name": "United States Virgin Islands",
+          "name": "US Virgin Islands",
           "alpha2": "VI",
           "alpha3": "VIR",
           "units": [
@@ -1288,7 +1288,7 @@
             "Ngultrum",
             "Chhetrum"
           ],
-          "iso4217": "INR"
+          "iso4217": "BTN"
         },
         {
           "name": "India",
@@ -1514,7 +1514,7 @@
           "iso4217": "GNF"
         },
         {
-          "name": "Gambia",
+          "name": "The Gambia",
           "alpha2": "GM",
           "alpha3": "GMB",
           "units": [
@@ -1701,7 +1701,7 @@
             "Leone",
             "Cent"
           ],
-          "iso4217": "SLE"
+          "iso4217": "SLL"
         },
         {
           "name": "Somalia",
@@ -1724,7 +1724,7 @@
           "iso4217": "SSP"
         },
         {
-          "name": "Sao Tome and Principe",
+          "name": "São Tomé and Príncipe",
           "alpha2": "ST",
           "alpha3": "STP",
           "units": [
