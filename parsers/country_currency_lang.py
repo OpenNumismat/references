@@ -108,6 +108,12 @@ def read_eu_countries(lang):
                     major = major.split('-')[-1]
                     major = major.split('/')[-1]
             major = major.title()
+        if alpha2 == 'GB' and lang == 'en':
+            major = "Pound"
+        elif alpha2 == 'CN' and lang == 'en':
+            major = "Yuan"
+        elif alpha2 == 'VE' and lang == 'en':
+            major = "Bolívar"
 
         if minor == '—':
             minor = None

@@ -64,13 +64,21 @@ for tr in table[1:]:
             name = text.replace('(', '').strip()
             break
 
-        major = tds[7].text
-        if major == '—':
-            major = None
-        if major:
-            major = major.split('(')[0]
-            major = major.split()[-1]
-            major = major.title()
+        if alpha2 == 'GB':
+            major = "Pound"
+        elif alpha2 == 'CN':
+            major = "Yuan"
+        elif alpha2 == 'VE':
+            major = "Bolívar"
+        else:
+            major = tds[7].text
+            if major == '—':
+                major = None
+            if major:
+                major = major.split('(')[0]
+                major = major.split()[-1]
+                major = major.title()
+
         minor = tds[9].text
         if minor == '—':
             minor = None

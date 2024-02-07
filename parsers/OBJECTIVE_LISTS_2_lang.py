@@ -81,7 +81,7 @@ for lang in ('en', 'bg', 'es', 'cs', 'de', 'el', 'fr', 'it', 'lv', 'hu', 'nl', '
                         break
 
         if not finded:
-            print(f"Missed {lang} data for {orig_country["name"]}")
+            print(f"Missed {lang} data for {orig_country['name']}")
 
     with open(f"../data/Subregions (OBJECTIVE LISTS)_{lang}.json", 'w', encoding='utf8') as json_file:
         json.dump(result, json_file, ensure_ascii=False, indent=2)

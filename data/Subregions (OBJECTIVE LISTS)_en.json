@@ -38,7 +38,7 @@
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
-            "Sterling",
+            "Pound",
             "Penny"
           ],
           "iso4217": "GBP"
@@ -795,7 +795,7 @@
           "alpha2": "VE",
           "alpha3": "VEN",
           "units": [
-            "Soberano",
+            "Bolívar",
             "Céntimo"
           ],
           "iso4217": "VES"
@@ -1716,7 +1716,7 @@
           "alpha2": "CN",
           "alpha3": "CHN",
           "units": [
-            "Renminbi-Yuan",
+            "Yuan",
             "Jiao"
           ],
           "iso4217": "CNY"
