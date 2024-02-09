@@ -72,7 +72,7 @@
       "North Korea", "Korea, North", "Democratic People's Republic of Korea", "KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)"
     ],
     "KOR": [
-      "South Korea", "Korea, South", "Republic of Korea", "KOREA (THE REPUBLIC OF)"
+      "South Korea", "Korea, South", "Republic of Korea", "KOREA (THE REPUBLIC OF)", "Korea, Republic of"
     ],
     "LAO": [
       "Laos", "Lao People's Democratic Republic", "LAO PEOPLE’S DEMOCRATIC REPUBLIC"
@@ -181,5 +181,8 @@
     ],
     "REU": [
       "Réunion", "Reunion"
+    ],
+    "CZE": [
+      "Czechia", "Czech Republic"
     ]
 }
