@@ -124,7 +124,8 @@
     "from_year": 2004
   },
   {
-    "name": "Casa da Moeda do Brasil (Mint of Brazil)",
+    "name": "Mint of Brazil",
+    "local_name": "Casa da Moeda do Brasil",
     "country": {
       "BRA": "Brazil"
     },
@@ -132,7 +133,8 @@
     "from_year": 1694
   },
   {
-    "name": "Casa de Moneda de Chile (Chilean Mint)",
+    "name": "Chilean Mint",
+    "local_name": "Casa de Moneda de Chile",
     "country": {
       "CHL": "Chile"
     },
@@ -140,7 +142,8 @@
     "from_year": 1743
   },
   {
-    "name": "Casa de Moneda de Jubia (National Mint of Xuvia)",
+    "name": "National Mint of Xuvia",
+    "local_name": "Casa de Moneda de Jubia",
     "country": {
       "ESP": "Spain"
     },
@@ -149,7 +152,8 @@
     "to_year": 1868
   },
   {
-    "name": "Casa de Moneda de la República Argentina (Mint of Argentina)",
+    "name": "Mint of Argentina",
+    "local_name": "Casa de Moneda de la República Argentina",
     "country": {
       "ARG": "Argentina"
     },
@@ -157,7 +161,8 @@
     "from_year": 1881
   },
   {
-    "name": "Casa de Moneda de México (Mexican Mint)",
+    "name": "Mexican Mint",
+    "local_name": "Casa de Moneda de México",
     "country": {
       "MEX": "Mexico"
     },
@@ -173,7 +178,8 @@
     "from_year": 1920
   },
   {
-    "name": "Česká mincovna (Czech Mint)",
+    "name": "Czech Mint",
+    "local_name": "Česká mincovna",
     "country": {
       "CZE": "Czechia"
     },
@@ -270,7 +276,8 @@
     "from_year": 2013
   },
   {
-    "name": "Fábrica Nacional de Moneda y Timbre (Royal Mint of Spain)",
+    "name": "Royal Mint of Spain",
+    "local_name": "Fábrica Nacional de Moneda y Timbre",
     "country": {
       "ESP": "Spain"
     },
@@ -392,7 +399,8 @@
     "to_year": 1868
   },
   {
-    "name": "Hrvatski novčarski zavod (Croatian Monetary Institute)",
+    "name": "Croatian Monetary Institute",
+    "local_name": "Hrvatski novčarski zavod",
     "country": {
       "HRV": "Croatia"
     },
@@ -464,7 +472,8 @@
     "from_year": 1958
   },
   {
-    "name": "Istituto Poligrafico e Zecca dello Stato (Italian Mint)",
+    "name": "Italian Mint",
+    "local_name": "Istituto Poligrafico e Zecca dello Stato",
     "country": {
       "ITA": "Italy"
     },
@@ -540,7 +549,8 @@
     "from_year": 1951
   },
   {
-    "name": "Koninklijke Nederlandse Munt (Royal Dutch Mint)",
+    "name": "Royal Dutch Mint",
+    "local_name": "Koninklijke Nederlandse Munt",
     "country": {
       "NLD": "Netherlands"
     },
@@ -548,7 +558,8 @@
     "from_year": 1567
   },
   {
-    "name": "La Monnaie royale de Belgique / Koninklijke Munt van België (Royal Mint of Belgium)",
+    "name": "Royal Mint of Belgium",
+    "local_name": "La Monnaie royale de Belgique / Koninklijke Munt van België",
     "country": {
       "BEL": "Belgium"
     },
@@ -572,7 +583,8 @@
     "from_year": 2006
   },
   {
-    "name": "Lietuvos monetų kalykla (Lithuanian Mint)",
+    "name": "Lithuanian Mint",
+    "local_name": "Lietuvos monetų kalykla",
     "country": {
       "LTU": "Lithuania"
     },
@@ -639,7 +651,8 @@
     "to_year": 1970
   },
   {
-    "name": "Mennica Polska (Mint of Poland)",
+    "name": "Mint of Poland",
+    "local_name": "Mennica Polska",
     "country": {
       "POL": "Poland"
     },
@@ -647,7 +660,8 @@
     "from_year": 1766
   },
   {
-    "name": "Mincovňa Kremnica (Kremnica Mint, ex Kremnitz)",
+    "name": "Kremnica Mint, ex Kremnitz",
+    "local_name": "Mincovňa Kremnica",
     "country": {
       "SVK": "Slovakia"
     },
@@ -679,7 +693,8 @@
     "from_year": 2008
   },
   {
-    "name": "Monnaie de Paris (Paris Mint)",
+    "name": "Paris Mint",
+    "local_name": "Monnaie de Paris",
     "country": {
       "FRA": "France"
     },
@@ -695,7 +710,8 @@
     "from_year": 1900
   },
   {
-    "name": "Münze Österreich (Austrian Mint)",
+    "name": "Austrian Mint",
+    "local_name": "Münze Österreich",
     "country": {
       "AUT": "Austria"
     },
@@ -1030,7 +1046,8 @@
     "from_year": 1979
   },
   {
-    "name": "Suomen Rahapaja (Mint of Finland)",
+    "name": "Mint of Finland",
+    "local_name": "Suomen Rahapaja",
     "country": {
       "FIN": "Finland"
     },
@@ -1087,7 +1104,7 @@
     "to_year": 1986
   },
   {
-    "name": "United States Mint, Carson City",
+    "name": "Carson City Mint",
     "country": {
       "USA": "United States"
     },
@@ -1096,7 +1113,7 @@
     "to_year": 1893
   },
   {
-    "name": "United States Mint, Charlotte",
+    "name": "Charlotte Mint",
     "country": {
       "USA": "United States"
     },
@@ -1105,7 +1122,7 @@
     "to_year": 1861
   },
   {
-    "name": "United States Mint, Dahlonega",
+    "name": "Dahlonega Mint",
     "country": {
       "USA": "United States"
     },
@@ -1114,7 +1131,7 @@
     "to_year": 1861
   },
   {
-    "name": "United States Mint, Denver",
+    "name": "Denver Mint",
     "country": {
       "USA": "United States"
     },
@@ -1122,7 +1139,7 @@
     "from_year": 1906
   },
   {
-    "name": "United States Mint, Manila",
+    "name": "Mint of the Philippine Islands",
     "country": {
       "PHL": "Philippines"
     },
@@ -1131,7 +1148,7 @@
     "to_year": 1946
   },
   {
-    "name": "United States Mint, New Orleans",
+    "name": "New Orleans Mint",
     "country": {
       "USA": "United States"
     },
@@ -1140,7 +1157,7 @@
     "to_year": 1909
   },
   {
-    "name": "United States Mint, Philadelphia",
+    "name": "Philadelphia Mint",
     "country": {
       "USA": "United States"
     },
@@ -1148,7 +1165,7 @@
     "from_year": 1792
   },
   {
-    "name": "United States Mint, San Francisco",
+    "name": "San Francisco Mint",
     "country": {
       "USA": "United States"
     },
@@ -1156,7 +1173,7 @@
     "from_year": 1854
   },
   {
-    "name": "United States Mint, Washington",
+    "name": "Washington Mint",
     "country": {
       "USA": "United States"
     },
@@ -1164,18 +1181,12 @@
     "from_year": 1792
   },
   {
-    "name": "United States Mint, West Point",
+    "name": "West Point Mint",
     "country": {
       "USA": "United States"
     },
     "location": "West Point",
     "from_year": 1937
-  },
-  {
-    "name": "(unknown mint)",
-    "country": {},
-    "location": "(unknown)",
-    "from_year": 1900
   },
   {
     "name": "Valcambi",
@@ -1217,7 +1228,8 @@
     "from_year": 1929
   },
   {
-    "name": "Монетен двор (Bulgarian Mint)",
+    "name": "Bulgarian Mint",
+    "local_name": "Монетен двор",
     "country": {
       "BGR": "Bulgaria"
     },
@@ -1225,7 +1237,8 @@
     "from_year": 1952
   },
   {
-    "name": "Московский монетный двор (Moscow Mint)",
+    "name": "Moscow Mint",
+    "local_name": "Московский монетный двор",
     "country": {
       "RUS": "Russia"
     },
@@ -1233,7 +1246,8 @@
     "from_year": 1942
   },
   {
-    "name": "Санкт-Петербургский монетный двор (Saint Petersburg Mint)",
+    "name": "Saint Petersburg Mint",
+    "local_name": "Санкт-Петербургский монетный двор",
     "country": {
       "RUS": "Russia"
     },
@@ -1241,7 +1255,8 @@
     "from_year": 1724
   },
   {
-    "name": "สำนักกษาปณ์ (Royal Thai Mint)",
+    "name": "Royal Thai Mint",
+    "local_name": "สำนักกษาปณ์",
     "country": {
       "THA": "Thailand"
     },
@@ -1265,7 +1280,8 @@
     "from_year": 1984
   },
   {
-    "name": "中央造幣廠 (Central Mint of Taiwan)",
+    "name": "Central Mint of Taiwan",
+    "local_name": "中央造幣廠",
     "country": {
       "TWN": "Taiwan"
     },
@@ -1289,7 +1305,8 @@
     "from_year": 1984
   },
   {
-    "name": "独立行政法人 造幣局 (Japan Mint)",
+    "name": "Japan Mint",
+    "local_name": "独立行政法人 造幣局",
     "country": {
       "JPN": "Japan"
     },
