@@ -129,6 +129,19 @@ def read_eu_countries(lang):
     
     return eu_countries_list
 
+
+def get_country_mints(alpha3):
+    with open('../data/mints.json', encoding='utf-8') as file:
+        mints_data = json.load(file)
+
+    result = []
+    for mint_data in mints_data:
+        if alpha3 in mint_data["country"]:
+            result.append(mint_data)
+
+    return result
+
+
 def process_countries(lang):
     eu_countries_list = read_eu_countries(lang)
     result = {"countries": []}
@@ -164,10 +177,14 @@ def process_countries(lang):
         else:
             print(f"Missed {lang} currency for {country_name}")
 
-        if 'alpha3' in data and data['alpha3'] in dependend_data:
+        if 'alpha3' in data and alpha3 in dependend_data:
             data['dependent'] = True
     #        if 'unrecognized' not in data:
     #            data['dependent'] = True
+
+        mints = get_country_mints(alpha3)
+        if mints:
+            data['mints'] = mints
 
         result["countries"].append(data)
 
