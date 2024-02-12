@@ -190,6 +190,12 @@ def process_countries(lang):
 
     for data in unrecognized_countries:
         data['unrecognized'] = True
+
+        alpha3 = data['alpha3']
+        mints = get_country_mints(alpha3)
+        if mints:
+            data['mints'] = mints
+
         result["countries"].append(data)
 
     with open(f"../data/country_currency_{lang}.json", 'w', encoding='utf8') as json_file:

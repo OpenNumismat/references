@@ -3536,7 +3536,26 @@
           ],
           "iso4217": "TWD",
           "part_of": "CHN",
-          "unrecognized": true
+          "unrecognized": true,
+          "mints": [
+            {
+              "name": "Central Mint",
+              "country": {
+                "TWN": "Taiwan"
+              },
+              "location": "Taoyuan City",
+              "from_year": 1920
+            },
+            {
+              "name": "Central Mint of Taiwan",
+              "local_name": "中央造幣廠",
+              "country": {
+                "TWN": "Taiwan"
+              },
+              "location": "Guishan",
+              "from_year": 1920
+            }
+          ]
         },
         {
           "name": "Vietnám",

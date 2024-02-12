@@ -1312,5 +1312,14 @@
     },
     "location": "Osaka",
     "from_year": 1871
+  },
+  {
+    "name": "Tiraspol Mint",
+    "local_name": "Тираспольский монетный двор",
+    "country": {
+      "XPR": "Transnistria"
+    },
+    "location": "Tiraspol",
+    "from_year": 2005
   }
 ]
