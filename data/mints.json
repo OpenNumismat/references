@@ -219,7 +219,8 @@
     "from_year": 1978
   },
   {
-    "name": "Darphane (Turkish State Mint)",
+    "name": "Turkish State Mint",
+    "local_name": "Darphane",
     "country": {
       "TUR": "Türkiye"
     },
@@ -227,7 +228,8 @@
     "from_year": 1467
   },
   {
-    "name": "Den Kongelige Mønt (Royal Danish Mint)",
+    "name": "Royal Danish Mint",
+    "local_name": "Den Kongelige Mønt",
     "country": {
       "DNK": "Denmark"
     },
@@ -235,7 +237,8 @@
     "from_year": 1541
   },
   {
-    "name": "Det Norske Myntverket (Mint of Norway; ex Den Kongelige Mynt)",
+    "name": "Mint of Norway; ex Den Kongelige Mynt",
+    "local_name": "Det Norske Myntverket",
     "country": {
       "NOR": "Norway"
     },
@@ -416,7 +419,8 @@
     "from_year": 1925
   },
   {
-    "name": "Imprensa Nacional-Casa da Moeda (Mint of Portugal)",
+    "name": "Mint of Portugal",
+    "local_name": "Imprensa Nacional-Casa da Moeda",
     "country": {
       "PRT": "Portugal"
     },
@@ -1264,7 +1268,8 @@
     "from_year": 1860
   },
   {
-    "name": "上海造币有限公司 (CBPMC - Shanghai Mint)",
+    "name": "CBPMC - Shanghai Mint",
+    "local_name": "上海造币有限公司",
     "country": {
       "CHN": "China"
     },
@@ -1272,7 +1277,8 @@
     "from_year": 1984
   },
   {
-    "name": "中国印钞造币总公司 (China Banknote Printing and Minting Corporation)",
+    "name": "China Banknote Printing and Minting Corporation",
+    "local_name": "中国印钞造币总公司",
     "country": {
       "CHN": "China"
     },
@@ -1289,7 +1295,8 @@
     "from_year": 1920
   },
   {
-    "name": "南京造币有限公司 (CBPMC - Nanjing Mint)",
+    "name": "CBPMC - Nanjing Mint",
+    "local_name": "南京造币有限公司",
     "country": {
       "CHN": "China"
     },
@@ -1297,7 +1304,8 @@
     "from_year": 1984
   },
   {
-    "name": "沈阳造币有限公司 (CBPMC - Shenyang Mint)",
+    "name": "CBPMC - Shenyang Mint",
+    "local_name": "沈阳造币有限公司",
     "country": {
       "CHN": "China"
     },
