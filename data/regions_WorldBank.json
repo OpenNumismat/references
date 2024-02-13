@@ -569,7 +569,11 @@
           "name": "Kosovo",
           "alpha2": "XK",
           "alpha3": "XKX",
-          "units": [],
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
           "part_of": "SRB",
           "unrecognized": true
         }
