@@ -22,14 +22,22 @@
     "name": "Kosovo",
     "alpha2": "XK",
     "alpha3": "XKX",
-    "units": [],
+    "units": [
+      "Euro",
+      "Cent"
+    ],
+    "iso4217": "EUR",
     "part_of": "SRB"
   },
   {
     "name": "Northern Cyprus",
     "alpha2": "",
     "alpha3": "",
-    "units": [],
+    "units": [
+      "Lira",
+      "Kurus"
+    ],
+    "iso4217": "TRY",
     "part_of": "CYP"
   },
   {
@@ -54,7 +62,11 @@
     "name": "South Ossetia",
     "alpha2": "",
     "alpha3": "",
-    "units": [],
+    "units": [
+      "Rouble",
+      "Kopek"
+    ],
+    "iso4217": "RUB",
     "part_of": "GEO"
   },
   {
