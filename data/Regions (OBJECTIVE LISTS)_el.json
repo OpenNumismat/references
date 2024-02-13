@@ -288,7 +288,11 @@
             "Ευρώ",
             "Λεπτό"
           ],
-          "iso4217": "EUR"
+          "iso4217": "EUR",
+          "contemporary_units": [
+            "Pound",
+            "Cent"
+          ]
         },
         {
           "name": "Γεωργία",
@@ -484,6 +488,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Koruna",
+            "Halier"
+          ],
           "mints": [
             {
               "name": "Kremnica Mint, ex Kremnitz",
@@ -553,6 +561,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Kroon",
+            "Sent"
+          ],
           "mints": [
             {
               "name": "European Mint",
@@ -581,6 +593,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Markka",
+            "Penni"
+          ],
           "mints": [
             {
               "name": "Mint of Finland",
@@ -600,7 +616,11 @@
           "units": [
             "Ισλανδική"
           ],
-          "iso4217": "ISK"
+          "iso4217": "ISK",
+          "contemporary_units": [
+            "Króna",
+            "Eyrir"
+          ]
         },
         {
           "name": "Ιρλανδία",
@@ -611,6 +631,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Pound",
+            "Penny"
+          ],
           "mints": [
             {
               "name": "Currency Centre (Irish Mint)",
@@ -630,7 +654,11 @@
             "Ευρώ",
             "Λεπτό"
           ],
-          "iso4217": "EUR"
+          "iso4217": "EUR",
+          "contemporary_units": [
+            "Lats",
+            "Santīms"
+          ]
         },
         {
           "name": "Λιθουανία",
@@ -641,6 +669,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Litas",
+            "Centas"
+          ],
           "mints": [
             {
               "name": "Lithuanian Mint",
@@ -834,6 +866,10 @@
             "Ευρώ"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Kuna",
+            "Lipa"
+          ],
           "mints": [
             {
               "name": "Croatian Monetary Institute",
@@ -855,6 +891,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Drachma",
+            "Leptοn"
+          ],
           "mints": [
             {
               "name": "Aegina Mint",
@@ -885,6 +925,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Lira",
+            "Centesimo"
+          ],
           "mints": [
             {
               "name": "Gori & Zucchi (Arezzo Mint)",
@@ -933,6 +977,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Escudo",
+            "Centavo"
+          ],
           "mints": [
             {
               "name": "Mint of Portugal",
@@ -973,7 +1021,11 @@
             "Ευρώ",
             "Λεπτό"
           ],
-          "iso4217": "EUR"
+          "iso4217": "EUR",
+          "contemporary_units": [
+            "Tolar",
+            "Stotin"
+          ]
         },
         {
           "name": "Ισπανία",
@@ -984,6 +1036,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Peseta",
+            "Céntimo"
+          ],
           "mints": [
             {
               "name": "National Mint of Xuvia",
@@ -1033,6 +1089,11 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Krone",
+            "Schilling",
+            "Groschen"
+          ],
           "mints": [
             {
               "name": "Austrian Mint",
@@ -1054,6 +1115,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Franc",
+            "Centime"
+          ],
           "mints": [
             {
               "name": "Royal Mint of Belgium",
@@ -1091,6 +1156,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Franc",
+            "Centime"
+          ],
           "mints": [
             {
               "name": "Art Mint",
@@ -1138,6 +1207,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Mark",
+            "Pfennig"
+          ],
           "mints": [
             {
               "name": "AllCollect",
@@ -1296,7 +1369,11 @@
             "Ευρώ",
             "Λεπτό"
           ],
-          "iso4217": "EUR"
+          "iso4217": "EUR",
+          "contemporary_units": [
+            "Franc",
+            "Centime"
+          ]
         },
         {
           "name": "Κάτω Χώρες",
@@ -1307,6 +1384,10 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "contemporary_units": [
+            "Guilder",
+            "Cent"
+          ],
           "mints": [
             {
               "name": "Royal Dutch Mint",
@@ -1748,7 +1829,11 @@
             "Κόρδομπα",
             "Σεντάβο"
           ],
-          "iso4217": "NIO"
+          "iso4217": "NIO",
+          "contemporary_units": [
+            "Córdoba",
+            "Centavo"
+          ]
         },
         {
           "name": "Παναμάς",
@@ -1800,6 +1885,10 @@
             "Σεντάβο"
           ],
           "iso4217": "BRL",
+          "contemporary_units": [
+            "Cruzado",
+            "Cruzeiro"
+          ],
           "mints": [
             {
               "name": "Mint of Brazil",
@@ -1851,7 +1940,11 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "USD"
+          "iso4217": "USD",
+          "contemporary_units": [
+            "Sucre",
+            "Centavo"
+          ]
         },
         {
           "name": "Γαλλική Γουιάνα",
@@ -1892,7 +1985,12 @@
             "Σολ",
             "Σέντιμο"
           ],
-          "iso4217": "PEN"
+          "iso4217": "PEN",
+          "contemporary_units": [
+            "Inti",
+            "Sol",
+            "Centavo"
+          ]
         },
         {
           "name": "Σουρινάμ",
@@ -1902,7 +2000,11 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "SRD"
+          "iso4217": "SRD",
+          "contemporary_units": [
+            "Guilder",
+            "Cent"
+          ]
         },
         {
           "name": "Ουρουγουάη",
@@ -2038,6 +2140,11 @@
             "Άρκορα"
           ],
           "iso4217": "ILS",
+          "contemporary_units": [
+            "Pound",
+            "Pruta",
+            "Mil"
+          ],
           "mints": [
             {
               "name": "Israel Coins and Medals Corp.",
@@ -2171,7 +2278,10 @@
             "Λίρα",
             "Πιάστρα"
           ],
-          "iso4217": "SDG"
+          "iso4217": "SDG",
+          "contemporary_units": [
+            "Dinar"
+          ]
         },
         {
           "name": "Τζιμπουτί",
@@ -2297,7 +2407,10 @@
             "Αριάρι",
             "Ιραϊμπιλάνγια"
           ],
-          "iso4217": "MGA"
+          "iso4217": "MGA",
+          "contemporary_units": [
+            "Franc"
+          ]
         },
         {
           "name": "Μαλάουι",
@@ -2317,7 +2430,11 @@
             "Μετικάλ",
             "Σεντάβο"
           ],
-          "iso4217": "MZN"
+          "iso4217": "MZN",
+          "contemporary_units": [
+            "Escudo",
+            "Centavo"
+          ]
         },
         {
           "name": "Ρουάντα",
@@ -2437,7 +2554,11 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XAF"
+          "iso4217": "XAF",
+          "contemporary_units": [
+            "Ekwele",
+            "Peseta"
+          ]
         },
         {
           "name": "Γκαμπόν",
@@ -2582,7 +2703,11 @@
           "units": [
             "Φράγκο"
           ],
-          "iso4217": "GNF"
+          "iso4217": "GNF",
+          "contemporary_units": [
+            "Syli",
+            "Cauri"
+          ]
         },
         {
           "name": "Γουινέα Μπισάου",

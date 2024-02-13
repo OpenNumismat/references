@@ -268,6 +268,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Pound",
+            "Penny"
+          ],
           "mints": [
             {
               "name": "Currency Centre (Irish Mint)",
@@ -540,7 +544,11 @@
             "Euro",
             "Cent"
           ],
-          "iso4217": "euro"
+          "iso4217": "euro",
+          "contemporary_units": [
+            "Pound",
+            "Cent"
+          ]
         },
         {
           "name": "Bulgaria",
@@ -676,6 +684,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Koruna",
+            "Halier"
+          ],
           "mints": [
             {
               "name": "Kremnica Mint, ex Kremnitz",
@@ -735,6 +747,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Kroon",
+            "Sent"
+          ],
           "mints": [
             {
               "name": "European Mint",
@@ -763,6 +779,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Markka",
+            "Penni"
+          ],
           "mints": [
             {
               "name": "Mint of Finland",
@@ -782,7 +802,11 @@
           "units": [
             "Corona"
           ],
-          "iso4217": "corona islandese"
+          "iso4217": "corona islandese",
+          "contemporary_units": [
+            "Króna",
+            "Eyrir"
+          ]
         },
         {
           "name": "Lettonia",
@@ -792,7 +816,11 @@
             "Euro",
             "Cent"
           ],
-          "iso4217": "euro"
+          "iso4217": "euro",
+          "contemporary_units": [
+            "Lats",
+            "Santīms"
+          ]
         },
         {
           "name": "Lituania",
@@ -803,6 +831,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Litas",
+            "Centas"
+          ],
           "mints": [
             {
               "name": "Lithuanian Mint",
@@ -874,6 +906,10 @@
             "Euro"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Kuna",
+            "Lipa"
+          ],
           "mints": [
             {
               "name": "Croatian Monetary Institute",
@@ -895,6 +931,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Drachma",
+            "Leptοn"
+          ],
           "mints": [
             {
               "name": "Aegina Mint",
@@ -925,6 +965,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Lira",
+            "Centesimo"
+          ],
           "mints": [
             {
               "name": "Gori & Zucchi (Arezzo Mint)",
@@ -974,6 +1018,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Escudo",
+            "Centavo"
+          ],
           "mints": [
             {
               "name": "Mint of Portugal",
@@ -1014,7 +1062,11 @@
             "Euro",
             "Cent"
           ],
-          "iso4217": "euro"
+          "iso4217": "euro",
+          "contemporary_units": [
+            "Tolar",
+            "Stotin"
+          ]
         },
         {
           "name": "Spagna",
@@ -1025,6 +1077,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Peseta",
+            "Céntimo"
+          ],
           "mints": [
             {
               "name": "National Mint of Xuvia",
@@ -1074,6 +1130,11 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Krone",
+            "Schilling",
+            "Groschen"
+          ],
           "mints": [
             {
               "name": "Austrian Mint",
@@ -1095,6 +1156,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Franc",
+            "Centime"
+          ],
           "mints": [
             {
               "name": "Royal Mint of Belgium",
@@ -1132,6 +1197,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Franc",
+            "Centime"
+          ],
           "mints": [
             {
               "name": "Art Mint",
@@ -1179,6 +1248,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Mark",
+            "Pfennig"
+          ],
           "mints": [
             {
               "name": "AllCollect",
@@ -1337,7 +1410,11 @@
             "Euro",
             "Cent"
           ],
-          "iso4217": "euro"
+          "iso4217": "euro",
+          "contemporary_units": [
+            "Franc",
+            "Centime"
+          ]
         },
         {
           "name": "Paesi Bassi",
@@ -1348,6 +1425,10 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "contemporary_units": [
+            "Guilder",
+            "Cent"
+          ],
           "mints": [
             {
               "name": "Royal Dutch Mint",
@@ -1645,7 +1726,11 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro del Suriname"
+          "iso4217": "dollaro del Suriname",
+          "contemporary_units": [
+            "Guilder",
+            "Cent"
+          ]
         }
       ]
     },
@@ -1752,7 +1837,11 @@
             "Córdoba",
             "Centavo"
           ],
-          "iso4217": "córdoba oro"
+          "iso4217": "córdoba oro",
+          "contemporary_units": [
+            "Córdoba",
+            "Centavo"
+          ]
         },
         {
           "name": "Panama",
@@ -1804,6 +1893,10 @@
             "Centavo"
           ],
           "iso4217": "real",
+          "contemporary_units": [
+            "Cruzado",
+            "Cruzeiro"
+          ],
           "mints": [
             {
               "name": "Mint of Brazil",
@@ -1855,7 +1948,11 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro USA"
+          "iso4217": "dollaro USA",
+          "contemporary_units": [
+            "Sucre",
+            "Centavo"
+          ]
         },
         {
           "name": "Guyana francese",
@@ -1886,7 +1983,12 @@
             "Sol",
             "Centesimo"
           ],
-          "iso4217": "sol"
+          "iso4217": "sol",
+          "contemporary_units": [
+            "Inti",
+            "Sol",
+            "Centavo"
+          ]
         },
         {
           "name": "Uruguay",
@@ -2147,6 +2249,11 @@
             "Agora"
           ],
           "iso4217": "shekel",
+          "contemporary_units": [
+            "Pound",
+            "Pruta",
+            "Mil"
+          ],
           "mints": [
             {
               "name": "Israel Coins and Medals Corp.",
@@ -2206,7 +2313,10 @@
             "Sterlina",
             "Piastra"
           ],
-          "iso4217": "sterlina sudanese"
+          "iso4217": "sterlina sudanese",
+          "contemporary_units": [
+            "Dinar"
+          ]
         },
         {
           "name": "Gibuti",
@@ -2312,7 +2422,10 @@
             "Ariary",
             "Iraimbilanja"
           ],
-          "iso4217": "ariary"
+          "iso4217": "ariary",
+          "contemporary_units": [
+            "Franc"
+          ]
         },
         {
           "name": "Malawi",
@@ -2332,7 +2445,11 @@
             "Metical",
             "Centavo"
           ],
-          "iso4217": "metical"
+          "iso4217": "metical",
+          "contemporary_units": [
+            "Escudo",
+            "Centavo"
+          ]
         },
         {
           "name": "Ruanda",
@@ -2442,7 +2559,11 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BEAC)"
+          "iso4217": "franco CFA (BEAC)",
+          "contemporary_units": [
+            "Ekwele",
+            "Peseta"
+          ]
         },
         {
           "name": "Gabon",
@@ -2511,7 +2632,11 @@
           "units": [
             "Franco"
           ],
-          "iso4217": "franco della Guinea"
+          "iso4217": "franco della Guinea",
+          "contemporary_units": [
+            "Syli",
+            "Cauri"
+          ]
         },
         {
           "name": "Guinea-Bissau",

@@ -1,0 +1,301 @@
+[
+  {
+    "name": "Andorra",
+    "alpha3": "AND",
+    "units": [
+      "Diner",
+      "Céntim"
+    ],
+    "iso4217": "ADP"
+  },
+    {
+      "name": "Austria",
+      "alpha3": "AUT",
+      "units": [
+        "Krone",
+        "Schilling",
+        "Groschen"
+      ],
+      "iso4217": "ATS"
+    },
+    {
+      "name": "Belgium",
+      "alpha3": "BEL",
+      "units": [
+        "Franc",
+        "Centime"
+      ],
+      "iso4217": "BEF"
+    },
+    {
+      "name": "Brazil",
+      "alpha3": "BRA",
+      "units": [
+        "Cruzado",
+        "Cruzeiro"
+      ],
+      "iso4217": "BRE"
+    },
+    {
+      "name": "Cyprus",
+      "alpha3": "CYP",
+      "units": [
+        "Pound",
+        "Cent"
+      ],
+      "iso4217": "CYP"
+    },
+    {
+      "name": "Germany",
+      "alpha3": "DEU",
+      "units": [
+        "Mark",
+        "Pfennig"
+      ],
+      "iso4217": "DEM"
+    },
+    {
+      "name": "Ecuador",
+      "alpha3": "ECU",
+      "units": [
+        "Sucre",
+        "Centavo"
+      ],
+      "iso4217": "ECS"
+    },
+    {
+      "name": "Estonia",
+      "alpha3": "EST",
+      "units": [
+        "Kroon",
+        "Sent"
+      ],
+      "iso4217": "EEK"
+    },
+    {
+      "name": "Spain",
+      "alpha3": "ESP",
+      "units": [
+        "Peseta",
+        "Céntimo"
+      ],
+      "iso4217": "ESP"
+    },
+    {
+      "name": "Finland",
+      "alpha3": "FIN",
+      "units": [
+        "Markka",
+        "Penni"
+      ],
+      "iso4217": "FIM"
+    },
+  {
+    "name": "France",
+    "alpha3": "FRA",
+    "units": [
+      "Franc",
+      "Centime"
+    ],
+    "iso4217": "FRF"
+  },
+    {
+      "name": "Guinea",
+      "alpha3": "GIN",
+      "units": [
+        "Syli",
+        "Cauri"
+      ],
+      "iso4217": "GNE"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "alpha3": "GNQ",
+      "units": [
+        "Ekwele",
+        "Peseta"
+      ],
+      "iso4217": "GQE"
+    },
+    {
+      "name": "Greece",
+      "alpha3": "GRC",
+      "units": [
+        "Drachma",
+        "Leptοn"
+      ],
+      "iso4217": "GRD"
+    },
+    {
+      "name": "Croatia",
+      "alpha3": "HRV",
+      "units": [
+        "Kuna",
+        "Lipa"
+      ],
+      "iso4217": "HRK"
+    },
+    {
+      "name": "Ireland",
+      "alpha3": "IRL",
+      "units": [
+        "Pound",
+        "Penny"
+      ],
+      "iso4217": "IEP"
+    },
+    {
+      "name": "Israel",
+      "alpha3": "ISR",
+      "units": [
+        "Pound",
+        "Pruta",
+        "Mil"
+      ],
+      "iso4217": "ILP"
+    },
+    {
+      "name": "Iceland",
+      "alpha3": "ISL",
+      "units": [
+        "Króna",
+        "Eyrir"
+      ],
+      "iso4217": "ISJ"
+    },
+    {
+      "name": "Italy",
+      "alpha3": "ITA",
+      "units": [
+        "Lira",
+        "Centesimo"
+      ],
+      "iso4217": "ITL"
+    },
+    {
+      "name": "Lithuania",
+      "alpha3": "LTU",
+      "units": [
+        "Litas",
+        "Centas"
+      ],
+      "iso4217": "LTL"
+    },
+    {
+      "name": "Luxembourg",
+      "alpha3": "LUX",
+      "units": [
+        "Franc",
+        "Centime"
+      ],
+      "iso4217": "LUF"
+    },
+    {
+      "name": "Latvia",
+      "alpha3": "LVA",
+      "units": [
+        "Lats",
+        "Santīms"
+      ],
+      "iso4217": "LVL"
+    },
+    {
+      "name": "Madagascar",
+      "alpha3": "MDG",
+      "units": [
+        "Franc"
+      ],
+      "iso4217": "MGF"
+    },
+    {
+      "name": "Malta",
+      "alpha3": "MLT",
+      "units": [
+        "Lira",
+        "Cent"
+      ],
+      "iso4217": "MTL"
+    },
+    {
+      "name": "Mozambique",
+      "alpha3": "MOZ",
+      "units": [
+        "Escudo",
+        "Centavo"
+      ],
+      "iso4217": "MZE"
+    },
+    {
+      "name": "Nicaragua",
+      "alpha3": "NIC",
+      "units": [
+        "Córdoba",
+        "Centavo"
+      ],
+      "iso4217": "NIC"
+    },
+    {
+      "name": "Netherlands",
+      "alpha2": "NL",
+      "alpha3": "NLD",
+      "units": [
+        "Guilder",
+        "Cent"
+      ],
+      "iso4217": "NLG"
+    },
+    {
+      "name": "Peru",
+      "alpha3": "PER",
+      "units": [
+        "Inti",
+        "Sol",
+        "Centavo"
+      ],
+      "iso4217": "PEI"
+    },
+    {
+      "name": "Portugal",
+      "alpha3": "PRT",
+      "units": [
+        "Escudo",
+        "Centavo"
+      ],
+      "iso4217": "PTE"
+    },
+    {
+      "name": "Sudan",
+      "alpha3": "SDN",
+      "units": [
+        "Dinar"
+      ],
+      "iso4217": "SDD"
+    },
+    {
+      "name": "Slovenia",
+      "alpha3": "SVN",
+      "units": [
+        "Tolar",
+        "Stotin"
+      ],
+      "iso4217": "SIT"
+    },
+    {
+      "name": "Slovakia",
+      "alpha3": "SVK",
+      "units": [
+        "Koruna",
+        "Halier"
+      ],
+      "iso4217": "SKK"
+    },
+    {
+      "name": "Suriname",
+      "alpha3": "SUR",
+      "units": [
+        "Guilder",
+        "Cent"
+      ],
+      "iso4217": "SRG"
+    }
+]

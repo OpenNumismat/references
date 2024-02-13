@@ -32,6 +32,9 @@ with open('../data/unrecognized_countries.json', encoding='utf-8') as file:
 with open('../data/countries_alternative_names.json', encoding='utf-8') as file:
     alternative_names = json.load(file)
 
+with open('../data/contemporary_currency.json', encoding='utf-8') as file:
+    contemporary_currencies = json.load(file)
+
 countries_list = []
 with open('../src/UNSD — Methodology.csv', encoding='utf-8') as file:
     reader = csv.reader(file, delimiter=';')
@@ -176,6 +179,11 @@ def process_countries(lang):
             data["iso4217"] = eu_countries_list[alpha2]['iso4217']
         else:
             print(f"Missed {lang} currency for {country_name}")
+
+        for contemporary in contemporary_currencies:
+            if contemporary['alpha3'] == alpha3:
+                data["contemporary_units"] = contemporary['units']
+                break
 
         if 'alpha3' in data and alpha3 in dependend_data:
             data['dependent'] = True
