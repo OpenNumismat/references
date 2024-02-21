@@ -9,16 +9,6 @@
     "part_of": "GEO"
   },
   {
-    "name": "Artsakh",
-    "alpha2": "",
-    "alpha3": "",
-    "units": [
-      "Dram",
-      "Luma"
-    ],
-    "part_of": "AZE"
-  },
-  {
     "name": "Kosovo",
     "alpha2": "XK",
     "alpha3": "XKX",
