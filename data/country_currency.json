@@ -2496,17 +2496,6 @@
       "unrecognized": true
     },
     {
-      "name": "Artsakh",
-      "alpha2": "",
-      "alpha3": "",
-      "units": [
-        "Dram",
-        "Luma"
-      ],
-      "part_of": "AZE",
-      "unrecognized": true
-    },
-    {
       "name": "Kosovo",
       "alpha2": "XK",
       "alpha3": "XKX",

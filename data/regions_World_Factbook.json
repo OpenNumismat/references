@@ -786,17 +786,6 @@
           "unrecognized": true
         },
         {
-          "name": "Artsakh",
-          "alpha2": "",
-          "alpha3": "",
-          "units": [
-            "Dram",
-            "Luma"
-          ],
-          "part_of": "AZE",
-          "unrecognized": true
-        },
-        {
           "name": "Palestine",
           "alpha2": "PS",
           "alpha3": "PSE",

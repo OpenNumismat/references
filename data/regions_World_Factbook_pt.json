@@ -1343,6 +1343,48 @@
               "from_year": 2005
             }
           ]
+        },
+        {
+          "name": "Czechoslovakia",
+          "alpha2": "CS",
+          "alpha3": "CSK",
+          "units": [
+            "Koruna",
+            "Halér"
+          ],
+          "part_of": "CZE",
+          "iso4217": "CSK",
+          "from_year": 1918,
+          "to_year": 1992,
+          "disappeared": true
+        },
+        {
+          "name": "East Germany",
+          "alpha2": "DD",
+          "alpha3": "DDR",
+          "units": [
+            "Mark",
+            "Pfennig"
+          ],
+          "part_of": "DEU",
+          "iso4217": "DDM",
+          "from_year": 1949,
+          "to_year": 1990,
+          "disappeared": true
+        },
+        {
+          "name": "Yugoslavia",
+          "alpha2": "YU",
+          "alpha3": "YUG",
+          "units": [
+            "Dinar",
+            "Para"
+          ],
+          "part_of": "SRB",
+          "iso4217": "YUD",
+          "from_year": 1918,
+          "to_year": 1992,
+          "disappeared": true
         }
       ]
     },
@@ -1871,17 +1913,6 @@
           "unrecognized": true
         },
         {
-          "name": "Artsakh",
-          "alpha2": "",
-          "alpha3": "",
-          "units": [
-            "Dram",
-            "Luma"
-          ],
-          "part_of": "AZE",
-          "unrecognized": true
-        },
-        {
           "name": "Palestine",
           "alpha2": "PS",
           "alpha3": "PSE",
@@ -1900,6 +1931,34 @@
           "iso4217": "RUB",
           "part_of": "GEO",
           "unrecognized": true
+        },
+        {
+          "name": "Artsakh",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Dram",
+            "Luma"
+          ],
+          "part_of": "AZE",
+          "from_year": 1991,
+          "to_year": 2023,
+          "unrecognized": true,
+          "disappeared": true
+        },
+        {
+          "name": "South Yemen",
+          "alpha2": "YD",
+          "alpha3": "YMD",
+          "units": [
+            "Dinar",
+            "Fils"
+          ],
+          "part_of": "YEM",
+          "iso4217": "YDD",
+          "from_year": 1967,
+          "to_year": 1990,
+          "disappeared": true
         }
       ]
     },
@@ -1985,6 +2044,20 @@
               "from_year": 1724
             }
           ]
+        },
+        {
+          "name": "USSR",
+          "alpha2": "SU",
+          "alpha3": "SUN",
+          "units": [
+            "Rouble",
+            "Kopek"
+          ],
+          "part_of": "RUS",
+          "iso4217": "RUB",
+          "from_year": 1922,
+          "to_year": 1991,
+          "disappeared": true
         }
       ]
     },
@@ -2366,6 +2439,35 @@
               "from_year": 1920
             }
           ]
+        },
+        {
+          "name": "South Vietnam",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Dong",
+            "Xu"
+          ],
+          "part_of": "VNM",
+          "from_year": 1955,
+          "to_year": 1976,
+          "unrecognized": true,
+          "disappeared": true
+        },
+        {
+          "name": "Tibet",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Skar",
+            "Srang",
+            "Tangka"
+          ],
+          "part_of": "CHN",
+          "from_year": 1912,
+          "to_year": 1951,
+          "unrecognized": true,
+          "disappeared": true
         }
       ]
     },
@@ -3080,6 +3182,17 @@
             "Cêntimo"
           ],
           "iso4217": "LKR"
+        },
+        {
+          "name": "Sikkim",
+          "alpha2": "",
+          "alpha3": "SKM",
+          "units": [],
+          "part_of": "IND",
+          "from_year": 1642,
+          "to_year": 1975,
+          "dependent": true,
+          "disappeared": true
         }
       ]
     },

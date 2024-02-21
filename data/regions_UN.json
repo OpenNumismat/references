@@ -1640,17 +1640,6 @@
           "unrecognized": true
         },
         {
-          "name": "Artsakh",
-          "alpha2": "",
-          "alpha3": "",
-          "units": [
-            "Dram",
-            "Luma"
-          ],
-          "part_of": "AZE",
-          "unrecognized": true
-        },
-        {
           "name": "Northern Cyprus",
           "alpha2": "",
           "alpha3": "",

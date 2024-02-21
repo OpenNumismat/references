@@ -29,6 +29,9 @@ with open('../data/dependent_countries.json', encoding='utf-8') as file:
 with open('../data/unrecognized_countries.json', encoding='utf-8') as file:
     unrecognized_countries = json.load(file)
 
+with open('../data/disappeared_countries.json', encoding='utf-8') as file:
+    disappeared_countries = json.load(file)
+
 with open('../data/countries_alternative_names.json', encoding='utf-8') as file:
     alternative_names = json.load(file)
 
@@ -198,6 +201,16 @@ def process_countries(lang):
 
     for data in unrecognized_countries:
         data['unrecognized'] = True
+
+        alpha3 = data['alpha3']
+        mints = get_country_mints(alpha3)
+        if mints:
+            data['mints'] = mints
+
+        result["countries"].append(data)
+
+    for data in disappeared_countries:
+        data['disappeared'] = True
 
         alpha3 = data['alpha3']
         mints = get_country_mints(alpha3)

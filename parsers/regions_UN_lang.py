@@ -60,7 +60,7 @@ for lang in ('en', 'bg', 'es', 'cs', 'de', 'el', 'fr', 'it', 'lv', 'hu', 'nl', '
                         break
                 break
 
-        if not finded and "unrecognized" in orig_country:
+        if not finded and ("unrecognized" in orig_country or "disappeared" in orig_country):
             for r in result["regions"]:
                 for c in r["countries"]:
                     if c["alpha3"] == orig_country["part_of"]:
