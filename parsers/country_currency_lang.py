@@ -208,7 +208,12 @@ def process_countries(lang):
         if mints:
             data['mints'] = mints
 
-        data["key"] = "_" + data["name"].lower().replace(' ', '-')
+        alpha2 = data['alpha2']
+        if alpha2:
+            data["key"] = alpha2
+        else:
+            data["key"] = "_" + data["name"].lower().replace(' ', '-')
+
         result["countries"].append(data)
 
     for data in disappeared_countries:
@@ -219,7 +224,12 @@ def process_countries(lang):
         if mints:
             data['mints'] = mints
 
-        data["key"] = "_" + data["name"].lower().replace(' ', '-')
+        alpha2 = data['alpha2']
+        if alpha2:
+            data["key"] = alpha2
+        else:
+            data["key"] = "_" + data["name"].lower().replace(' ', '-')
+
         result["countries"].append(data)
 
     with open(f"../data/country_currency_{lang}.json", 'w', encoding='utf8') as json_file:

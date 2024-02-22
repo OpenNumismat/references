@@ -1352,7 +1352,7 @@
           "iso4217": "EUR",
           "part_of": "SRB",
           "unrecognized": true,
-          "key": "_kosovo"
+          "key": "XK"
         },
         {
           "name": "Northern Cyprus",
@@ -1419,7 +1419,7 @@
           "from_year": 1949,
           "to_year": 1990,
           "disappeared": true,
-          "key": "_east-germany"
+          "key": "DD"
         },
         {
           "name": "Yugoslavia",
@@ -1434,7 +1434,7 @@
           "from_year": 1918,
           "to_year": 1992,
           "disappeared": true,
-          "key": "_yugoslavia"
+          "key": "YU"
         }
       ]
     },
@@ -1993,7 +1993,7 @@
           "units": [],
           "part_of": "ISR",
           "unrecognized": true,
-          "key": "_palestine"
+          "key": "PS"
         },
         {
           "name": "South Ossetia",
@@ -2036,7 +2036,7 @@
           "from_year": 1967,
           "to_year": 1990,
           "disappeared": true,
-          "key": "_south-yemen"
+          "key": "YD"
         }
       ]
     },
@@ -2142,7 +2142,7 @@
           "from_year": 1922,
           "to_year": 1991,
           "disappeared": true,
-          "key": "_ussr"
+          "key": "SU"
         }
       ]
     },
@@ -2543,7 +2543,7 @@
               "from_year": 1920
             }
           ],
-          "key": "_taiwan"
+          "key": "TW"
         },
         {
           "name": "South Vietnam",
@@ -4010,7 +4010,7 @@
           "iso4217": "EHP",
           "part_of": "MAR",
           "unrecognized": true,
-          "key": "_western-sahara"
+          "key": "EH"
         }
       ]
     },

@@ -2,6 +2,7 @@ Sources:
 - data/icons/flags/famfamfam - https://github.com/legacy-icons/famfamfam-flags/tree/1.0.0
 - data/icons/flags/GoSquared - https://github.com/gosquared/flags
 - data/icons/flags/StefanGabos - https://github.com/stefangabos/world_countries/tree/v2.8.2
+- data/icons/flags/Wikipedia - https://github.com/rinvex/countries/tree/v9.0.1
 
 - src/UNSD — Methodology.csv - https://unstats.un.org/unsd/methodology/m49/overview/
 - src/list-one.xml - https://www.six-group.com/en/products-services/financial-information/data-standards.html

@@ -1449,7 +1449,7 @@
           "iso4217": "EUR",
           "part_of": "SRB",
           "unrecognized": true,
-          "key": "_kosovo"
+          "key": "XK"
         }
       ]
     },
@@ -1932,7 +1932,7 @@
           "units": [],
           "part_of": "ISR",
           "unrecognized": true,
-          "key": "_palestine"
+          "key": "PS"
         },
         {
           "name": "Katar",
@@ -3914,7 +3914,7 @@
               "from_year": 1920
             }
           ],
-          "key": "_taiwan"
+          "key": "TW"
         },
         {
           "name": "Vietnám",
