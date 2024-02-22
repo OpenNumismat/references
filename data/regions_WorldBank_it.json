@@ -11,7 +11,8 @@
             "Lek",
             "Qintare"
           ],
-          "iso4217": "lek"
+          "iso4217": "lek",
+          "key": "AL"
         },
         {
           "name": "Andorra",
@@ -22,6 +23,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "AD",
           "contemporary_units": [
             "Diner",
             "Céntim"
@@ -35,7 +37,8 @@
             "Dram",
             "Luma"
           ],
-          "iso4217": "dram"
+          "iso4217": "dram",
+          "key": "AM"
         },
         {
           "name": "Austria",
@@ -46,6 +49,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "AT",
           "contemporary_units": [
             "Krone",
             "Schilling",
@@ -71,7 +75,8 @@
             "Manat",
             "Qepik"
           ],
-          "iso4217": "manat azero"
+          "iso4217": "manat azero",
+          "key": "AZ"
         },
         {
           "name": "Belgio",
@@ -82,6 +87,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "BE",
           "contemporary_units": [
             "Franc",
             "Centime"
@@ -123,6 +129,7 @@
             "Stotinka"
           ],
           "iso4217": "lev",
+          "key": "BG",
           "mints": [
             {
               "name": "Bulmint",
@@ -151,7 +158,8 @@
             "Marco",
             "Feninga"
           ],
-          "iso4217": "marco convertibile"
+          "iso4217": "marco convertibile",
+          "key": "BA"
         },
         {
           "name": "Bielorussia",
@@ -161,7 +169,8 @@
             "Rublo",
             "Copeco"
           ],
-          "iso4217": "rublo bielorusso"
+          "iso4217": "rublo bielorusso",
+          "key": "BY"
         },
         {
           "name": "Svizzera",
@@ -172,6 +181,7 @@
             "Centesimo"
           ],
           "iso4217": "franco svizzero",
+          "key": "CH",
           "mints": [
             {
               "name": "Argor-Heraeus",
@@ -233,6 +243,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "CY",
           "contemporary_units": [
             "Pound",
             "Cent"
@@ -247,6 +258,7 @@
             "Heller"
           ],
           "iso4217": "corona ceca",
+          "key": "CZ",
           "mints": [
             {
               "name": "Czech Mint",
@@ -268,6 +280,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "DE",
           "contemporary_units": [
             "Mark",
             "Pfennig"
@@ -431,6 +444,7 @@
             "Øre"
           ],
           "iso4217": "corona danese",
+          "key": "DK",
           "mints": [
             {
               "name": "Altona Mint",
@@ -461,6 +475,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "ES",
           "contemporary_units": [
             "Peseta",
             "Céntimo"
@@ -514,6 +529,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "EE",
           "contemporary_units": [
             "Kroon",
             "Sent"
@@ -546,6 +562,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "FI",
           "contemporary_units": [
             "Markka",
             "Penni"
@@ -571,6 +588,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "FR",
           "contemporary_units": [
             "Franc",
             "Centime"
@@ -622,6 +640,7 @@
             "Øre"
           ],
           "iso4217": "corona danese",
+          "key": "FO",
           "dependent": true
         },
         {
@@ -633,6 +652,7 @@
             "Penny"
           ],
           "iso4217": "lira sterlina",
+          "key": "GB",
           "mints": [
             {
               "name": "Commonwealth Mint",
@@ -754,7 +774,8 @@
             "Lari",
             "Tetri"
           ],
-          "iso4217": "lari"
+          "iso4217": "lari",
+          "key": "GE"
         },
         {
           "name": "Gibilterra",
@@ -765,6 +786,7 @@
             "Penny"
           ],
           "iso4217": "sterlina di Gibilterra",
+          "key": "GI",
           "dependent": true
         },
         {
@@ -776,6 +798,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "GR",
           "contemporary_units": [
             "Drachma",
             "Leptοn"
@@ -810,6 +833,7 @@
             "Øre"
           ],
           "iso4217": "corona danese",
+          "key": "GL",
           "dependent": true
         },
         {
@@ -820,6 +844,7 @@
             "Euro"
           ],
           "iso4217": "euro",
+          "key": "HR",
           "contemporary_units": [
             "Kuna",
             "Lipa"
@@ -845,6 +870,7 @@
             "Fillér"
           ],
           "iso4217": "fiorino ungherese",
+          "key": "HU",
           "mints": [
             {
               "name": "Hungarian Mint",
@@ -865,6 +891,7 @@
             "Penny"
           ],
           "iso4217": "sterlina di Man (",
+          "key": "IM",
           "dependent": true
         },
         {
@@ -876,6 +903,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "IE",
           "contemporary_units": [
             "Pound",
             "Penny"
@@ -899,6 +927,7 @@
             "Corona"
           ],
           "iso4217": "corona islandese",
+          "key": "IS",
           "contemporary_units": [
             "Króna",
             "Eyrir"
@@ -913,6 +942,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "IT",
           "contemporary_units": [
             "Lira",
             "Centesimo"
@@ -945,7 +975,8 @@
             "Tenge",
             "Tiyn"
           ],
-          "iso4217": "tenge"
+          "iso4217": "tenge",
+          "key": "KZ"
         },
         {
           "name": "Kirghizistan",
@@ -955,7 +986,8 @@
             "Som",
             "Tyiyn"
           ],
-          "iso4217": "som"
+          "iso4217": "som",
+          "key": "KG"
         },
         {
           "name": "Liechtenstein",
@@ -966,6 +998,7 @@
             "Centesimo"
           ],
           "iso4217": "franco svizzero",
+          "key": "LI",
           "mints": [
             {
               "name": "CIT Coin Invest",
@@ -986,6 +1019,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "LT",
           "contemporary_units": [
             "Litas",
             "Centas"
@@ -1011,6 +1045,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "LU",
           "contemporary_units": [
             "Franc",
             "Centime"
@@ -1025,6 +1060,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "LV",
           "contemporary_units": [
             "Lats",
             "Santīms"
@@ -1038,7 +1074,8 @@
             "Euro",
             "Cent"
           ],
-          "iso4217": "euro"
+          "iso4217": "euro",
+          "key": "MC"
         },
         {
           "name": "Moldova",
@@ -1048,7 +1085,8 @@
             "Leu",
             "Ban"
           ],
-          "iso4217": "leu moldovo"
+          "iso4217": "leu moldovo",
+          "key": "MD"
         },
         {
           "name": "Macedonia del Nord",
@@ -1058,7 +1096,8 @@
             "Denar",
             "Deni"
           ],
-          "iso4217": "denar"
+          "iso4217": "denar",
+          "key": "MK"
         },
         {
           "name": "Montenegro",
@@ -1068,7 +1107,8 @@
             "Euro",
             "Cent"
           ],
-          "iso4217": "euro"
+          "iso4217": "euro",
+          "key": "ME"
         },
         {
           "name": "Paesi Bassi",
@@ -1079,6 +1119,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "NL",
           "contemporary_units": [
             "Guilder",
             "Cent"
@@ -1112,6 +1153,7 @@
             "Øre"
           ],
           "iso4217": "corona norvegese",
+          "key": "NO",
           "mints": [
             {
               "name": "Mint of Norway; ex Den Kongelige Mynt",
@@ -1133,6 +1175,7 @@
             "Grosz"
           ],
           "iso4217": "zloty",
+          "key": "PL",
           "mints": [
             {
               "name": "Germania Mint",
@@ -1178,6 +1221,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "PT",
           "contemporary_units": [
             "Escudo",
             "Centavo"
@@ -1202,7 +1246,8 @@
             "Leu",
             "Bani"
           ],
-          "iso4217": "leu rumeno"
+          "iso4217": "leu rumeno",
+          "key": "RO"
         },
         {
           "name": "Russia",
@@ -1213,6 +1258,7 @@
             "Copeco"
           ],
           "iso4217": "rublo russo",
+          "key": "RU",
           "mints": [
             {
               "name": "Moscow Mint",
@@ -1242,7 +1288,8 @@
             "Euro",
             "Cent"
           ],
-          "iso4217": "euro"
+          "iso4217": "euro",
+          "key": "SM"
         },
         {
           "name": "Serbia",
@@ -1253,6 +1300,7 @@
             "Para"
           ],
           "iso4217": "dinaro serbo",
+          "key": "RS",
           "mints": [
             {
               "name": "Zavod za izradu novčanica i kovanog novca Topčider",
@@ -1273,6 +1321,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "SK",
           "contemporary_units": [
             "Koruna",
             "Halier"
@@ -1306,6 +1355,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "SI",
           "contemporary_units": [
             "Tolar",
             "Stotin"
@@ -1319,7 +1369,8 @@
             "Corona",
             "Öre"
           ],
-          "iso4217": "corona svedese"
+          "iso4217": "corona svedese",
+          "key": "SE"
         },
         {
           "name": "Tagikistan",
@@ -1329,7 +1380,8 @@
             "Somoni",
             "Diram"
           ],
-          "iso4217": "somoni"
+          "iso4217": "somoni",
+          "key": "TJ"
         },
         {
           "name": "Turkmenistan",
@@ -1339,7 +1391,8 @@
             "Manat",
             "Tenge"
           ],
-          "iso4217": "manat turkmeno"
+          "iso4217": "manat turkmeno",
+          "key": "TM"
         },
         {
           "name": "Turchia",
@@ -1350,6 +1403,7 @@
             "Kurus"
           ],
           "iso4217": "lira turca",
+          "key": "TR",
           "mints": [
             {
               "name": "Turkish State Mint",
@@ -1369,7 +1423,8 @@
           "units": [
             "Copeco"
           ],
-          "iso4217": "hryvnia"
+          "iso4217": "hryvnia",
+          "key": "UA"
         },
         {
           "name": "Uzbekistan",
@@ -1379,7 +1434,8 @@
             "Sum",
             "Tiyin"
           ],
-          "iso4217": "sum"
+          "iso4217": "sum",
+          "key": "UZ"
         },
         {
           "name": "Kosovo",
@@ -1391,7 +1447,8 @@
           ],
           "iso4217": "EUR",
           "part_of": "SRB",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_kosovo"
         }
       ]
     },
@@ -1407,6 +1464,7 @@
             "Cent"
           ],
           "iso4217": "dollaro delle Bermuda",
+          "key": "BM",
           "dependent": true
         },
         {
@@ -1418,6 +1476,7 @@
             "Cent"
           ],
           "iso4217": "dollaro canadese",
+          "key": "CA",
           "mints": [
             {
               "name": "Argentia Precious Metals",
@@ -1446,6 +1505,7 @@
             "Cent"
           ],
           "iso4217": "dollaro USA",
+          "key": "US",
           "mints": [
             {
               "name": "American Medallion Corporation",
@@ -1678,7 +1738,8 @@
             "Dirham",
             "Fils"
           ],
-          "iso4217": "dirham degli EAU"
+          "iso4217": "dirham degli EAU",
+          "key": "AE"
         },
         {
           "name": "Bahrein",
@@ -1688,7 +1749,8 @@
             "Dinaro",
             "Fils"
           ],
-          "iso4217": "dinaro del Bahrein"
+          "iso4217": "dinaro del Bahrein",
+          "key": "BH"
         },
         {
           "name": "Gibuti",
@@ -1697,7 +1759,8 @@
           "units": [
             "Franco"
           ],
-          "iso4217": "franco di Gibuti"
+          "iso4217": "franco di Gibuti",
+          "key": "DJ"
         },
         {
           "name": "Algeria",
@@ -1707,7 +1770,8 @@
             "Dinar",
             "Centesimo"
           ],
-          "iso4217": "dinar algerino"
+          "iso4217": "dinar algerino",
+          "key": "DZ"
         },
         {
           "name": "Egitto",
@@ -1717,7 +1781,8 @@
             "Lira",
             "Piastra"
           ],
-          "iso4217": "lira egiziana"
+          "iso4217": "lira egiziana",
+          "key": "EG"
         },
         {
           "name": "Iran",
@@ -1727,7 +1792,8 @@
             "Rial",
             "Dinaro"
           ],
-          "iso4217": "rial iraniano"
+          "iso4217": "rial iraniano",
+          "key": "IR"
         },
         {
           "name": "Iraq",
@@ -1737,7 +1803,8 @@
             "Dinaro",
             "Fils"
           ],
-          "iso4217": "dinaro iracheno"
+          "iso4217": "dinaro iracheno",
+          "key": "IQ"
         },
         {
           "name": "Israele",
@@ -1748,6 +1815,7 @@
             "Agora"
           ],
           "iso4217": "shekel",
+          "key": "IL",
           "contemporary_units": [
             "Pound",
             "Pruta",
@@ -1772,7 +1840,8 @@
             "Dinaro",
             "Qirsh"
           ],
-          "iso4217": "dinaro giordano"
+          "iso4217": "dinaro giordano",
+          "key": "JO"
         },
         {
           "name": "Kuwait",
@@ -1782,7 +1851,8 @@
             "Dinaro",
             "Fils"
           ],
-          "iso4217": "dinaro kuwaitiano"
+          "iso4217": "dinaro kuwaitiano",
+          "key": "KW"
         },
         {
           "name": "Libano",
@@ -1792,7 +1862,8 @@
             "Lira",
             "Piastra"
           ],
-          "iso4217": "lira libanese"
+          "iso4217": "lira libanese",
+          "key": "LB"
         },
         {
           "name": "Libia",
@@ -1802,7 +1873,8 @@
             "Dinaro",
             "Dirham"
           ],
-          "iso4217": "dinaro libico"
+          "iso4217": "dinaro libico",
+          "key": "LY"
         },
         {
           "name": "Marocco",
@@ -1812,7 +1884,8 @@
             "Dirham",
             "Centesimo"
           ],
-          "iso4217": "dirham marocchino"
+          "iso4217": "dirham marocchino",
+          "key": "MA"
         },
         {
           "name": "Malta",
@@ -1823,6 +1896,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "MT",
           "contemporary_units": [
             "Lira",
             "Cent"
@@ -1847,7 +1921,8 @@
             "Rial",
             "Baisa"
           ],
-          "iso4217": "rial omanita"
+          "iso4217": "rial omanita",
+          "key": "OM"
         },
         {
           "name": "Palestine",
@@ -1855,7 +1930,8 @@
           "alpha3": "PSE",
           "units": [],
           "part_of": "ISR",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_palestine"
         },
         {
           "name": "Qatar",
@@ -1865,7 +1941,8 @@
             "Rial",
             "Dirham"
           ],
-          "iso4217": "rial qatariano"
+          "iso4217": "rial qatariano",
+          "key": "QA"
         },
         {
           "name": "Arabia Saudita",
@@ -1875,7 +1952,8 @@
             "Riyal",
             "Hallala"
           ],
-          "iso4217": "riyal"
+          "iso4217": "riyal",
+          "key": "SA"
         },
         {
           "name": "Siria",
@@ -1885,7 +1963,8 @@
             "Lira",
             "Piastra"
           ],
-          "iso4217": "lira sterlina siriana"
+          "iso4217": "lira sterlina siriana",
+          "key": "SY"
         },
         {
           "name": "Tunisia",
@@ -1895,7 +1974,8 @@
             "Dinaro",
             "Millime"
           ],
-          "iso4217": "dinaro tunisino"
+          "iso4217": "dinaro tunisino",
+          "key": "TN"
         },
         {
           "name": "Yemen",
@@ -1905,7 +1985,8 @@
             "Rial",
             "Fils"
           ],
-          "iso4217": "rial yemenita"
+          "iso4217": "rial yemenita",
+          "key": "YE"
         }
       ]
     },
@@ -1921,6 +2002,7 @@
             "Cent"
           ],
           "iso4217": "fiorino di Aruba",
+          "key": "AW",
           "dependent": true
         },
         {
@@ -1932,6 +2014,7 @@
             "Centavo"
           ],
           "iso4217": "peso argentino",
+          "key": "AR",
           "mints": [
             {
               "name": "Mint of Argentina",
@@ -1952,7 +2035,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro dei Caraibi orientali"
+          "iso4217": "dollaro dei Caraibi orientali",
+          "key": "AG"
         },
         {
           "name": "Bahamas",
@@ -1962,7 +2046,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro delle Bahamas"
+          "iso4217": "dollaro delle Bahamas",
+          "key": "BS"
         },
         {
           "name": "Belize",
@@ -1972,7 +2057,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro del Belize"
+          "iso4217": "dollaro del Belize",
+          "key": "BZ"
         },
         {
           "name": "Bolivia",
@@ -1982,7 +2068,8 @@
             "Boliviano",
             "Centavo"
           ],
-          "iso4217": "boliviano"
+          "iso4217": "boliviano",
+          "key": "BO"
         },
         {
           "name": "Brasile",
@@ -1993,6 +2080,7 @@
             "Centavo"
           ],
           "iso4217": "real",
+          "key": "BR",
           "contemporary_units": [
             "Cruzado",
             "Cruzeiro"
@@ -2017,7 +2105,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro di Barbados"
+          "iso4217": "dollaro di Barbados",
+          "key": "BB"
         },
         {
           "name": "Cile",
@@ -2028,6 +2117,7 @@
             "Centavo"
           ],
           "iso4217": "peso cileno",
+          "key": "CL",
           "mints": [
             {
               "name": "Chilean Mint",
@@ -2048,7 +2138,8 @@
             "Peso",
             "Centavo"
           ],
-          "iso4217": "peso colombiano"
+          "iso4217": "peso colombiano",
+          "key": "CO"
         },
         {
           "name": "Costa Rica",
@@ -2058,7 +2149,8 @@
             "Colón",
             "Centimo"
           ],
-          "iso4217": "colón costaricano"
+          "iso4217": "colón costaricano",
+          "key": "CR"
         },
         {
           "name": "Cuba",
@@ -2068,7 +2160,8 @@
             "Peso",
             "Centavo"
           ],
-          "iso4217": "peso cubano"
+          "iso4217": "peso cubano",
+          "key": "CU"
         },
         {
           "name": "Curaçao",
@@ -2079,6 +2172,7 @@
             "Cent"
           ],
           "iso4217": "fiorino delle Antille olandesi",
+          "key": "CW",
           "dependent": true
         },
         {
@@ -2090,6 +2184,7 @@
             "Cent"
           ],
           "iso4217": "dollaro delle Isole Cayman",
+          "key": "KY",
           "dependent": true
         },
         {
@@ -2100,7 +2195,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro dei Caraibi orientali"
+          "iso4217": "dollaro dei Caraibi orientali",
+          "key": "DM"
         },
         {
           "name": "Repubblica dominicana",
@@ -2110,7 +2206,8 @@
             "Peso",
             "Centavo"
           ],
-          "iso4217": "peso dominicano"
+          "iso4217": "peso dominicano",
+          "key": "DO"
         },
         {
           "name": "Ecuador",
@@ -2121,6 +2218,7 @@
             "Cent"
           ],
           "iso4217": "dollaro USA",
+          "key": "EC",
           "contemporary_units": [
             "Sucre",
             "Centavo"
@@ -2134,7 +2232,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro dei Caraibi orientali"
+          "iso4217": "dollaro dei Caraibi orientali",
+          "key": "GD"
         },
         {
           "name": "Guatemala",
@@ -2144,7 +2243,8 @@
             "Quetzal",
             "Centavo"
           ],
-          "iso4217": "quetzal"
+          "iso4217": "quetzal",
+          "key": "GT"
         },
         {
           "name": "Guyana",
@@ -2154,7 +2254,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro della Guyana"
+          "iso4217": "dollaro della Guyana",
+          "key": "GY"
         },
         {
           "name": "Honduras",
@@ -2164,7 +2265,8 @@
             "Lempira",
             "Centavo"
           ],
-          "iso4217": "lempira"
+          "iso4217": "lempira",
+          "key": "HN"
         },
         {
           "name": "Haiti",
@@ -2174,7 +2276,8 @@
             "Gourde",
             "Centesimo"
           ],
-          "iso4217": "gourde"
+          "iso4217": "gourde",
+          "key": "HT"
         },
         {
           "name": "Giamaica",
@@ -2184,7 +2287,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro giamaicano"
+          "iso4217": "dollaro giamaicano",
+          "key": "JM"
         },
         {
           "name": "Saint Kitts e Nevis",
@@ -2194,7 +2298,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro dei Caraibi orientali"
+          "iso4217": "dollaro dei Caraibi orientali",
+          "key": "KN"
         },
         {
           "name": "Santa Lucia",
@@ -2204,7 +2309,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro dei Caraibi orientali"
+          "iso4217": "dollaro dei Caraibi orientali",
+          "key": "LC"
         },
         {
           "name": "Saint-Martin",
@@ -2215,6 +2321,7 @@
             "Cent"
           ],
           "iso4217": "euro",
+          "key": "MF",
           "dependent": true
         },
         {
@@ -2226,6 +2333,7 @@
             "Centavo"
           ],
           "iso4217": "peso messicano",
+          "key": "MX",
           "mints": [
             {
               "name": "Mexican Mint",
@@ -2247,6 +2355,7 @@
             "Centavo"
           ],
           "iso4217": "córdoba oro",
+          "key": "NI",
           "contemporary_units": [
             "Córdoba",
             "Centavo"
@@ -2260,7 +2369,8 @@
             "Balboa",
             "Centesimo"
           ],
-          "iso4217": "balboa"
+          "iso4217": "balboa",
+          "key": "PA"
         },
         {
           "name": "Perù",
@@ -2271,6 +2381,7 @@
             "Centesimo"
           ],
           "iso4217": "sol",
+          "key": "PE",
           "contemporary_units": [
             "Inti",
             "Sol",
@@ -2286,6 +2397,7 @@
             "Cent"
           ],
           "iso4217": "dollaro USA",
+          "key": "PR",
           "dependent": true
         },
         {
@@ -2296,7 +2408,8 @@
             "Guarani",
             "Centesimo"
           ],
-          "iso4217": "guarani"
+          "iso4217": "guarani",
+          "key": "PY"
         },
         {
           "name": "El Salvador",
@@ -2306,7 +2419,8 @@
             "Colón",
             "Centavo"
           ],
-          "iso4217": "colón salvadoregno ("
+          "iso4217": "colón salvadoregno (",
+          "key": "SV"
         },
         {
           "name": "Suriname",
@@ -2317,6 +2431,7 @@
             "Cent"
           ],
           "iso4217": "dollaro del Suriname",
+          "key": "SR",
           "contemporary_units": [
             "Guilder",
             "Cent"
@@ -2331,6 +2446,7 @@
             "Cent"
           ],
           "iso4217": "fiorino delle Antille olandesi",
+          "key": "SX",
           "dependent": true
         },
         {
@@ -2342,6 +2458,7 @@
             "Cent"
           ],
           "iso4217": "dollaro USA",
+          "key": "TC",
           "dependent": true
         },
         {
@@ -2352,7 +2469,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro di Trinidad e Tobago"
+          "iso4217": "dollaro di Trinidad e Tobago",
+          "key": "TT"
         },
         {
           "name": "Uruguay",
@@ -2362,7 +2480,8 @@
             "Peso",
             "Centesimo"
           ],
-          "iso4217": "peso uruguayano"
+          "iso4217": "peso uruguayano",
+          "key": "UY"
         },
         {
           "name": "Saint Vincent e Grenadine",
@@ -2372,7 +2491,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro dei Caraibi orientali"
+          "iso4217": "dollaro dei Caraibi orientali",
+          "key": "VC"
         },
         {
           "name": "Venezuela",
@@ -2382,7 +2502,8 @@
             "Bolivar",
             "Centesimo"
           ],
-          "iso4217": "bolivar sovrano"
+          "iso4217": "bolivar sovrano",
+          "key": "VE"
         },
         {
           "name": "Isole Vergini britanniche",
@@ -2393,6 +2514,7 @@
             "Cent"
           ],
           "iso4217": "dollaro USA",
+          "key": "VG",
           "dependent": true
         },
         {
@@ -2404,6 +2526,7 @@
             "Cent"
           ],
           "iso4217": "dollaro USA",
+          "key": "VI",
           "dependent": true
         }
       ]
@@ -2419,7 +2542,8 @@
             "Afghani",
             "Pul"
           ],
-          "iso4217": "afghani"
+          "iso4217": "afghani",
+          "key": "AF"
         },
         {
           "name": "Bangladesh",
@@ -2429,7 +2553,8 @@
             "Taka",
             "Poisha"
           ],
-          "iso4217": "taka"
+          "iso4217": "taka",
+          "key": "BD"
         },
         {
           "name": "Bhutan",
@@ -2439,7 +2564,8 @@
             "Ngultrum",
             "Chhetrum"
           ],
-          "iso4217": "ngultrum"
+          "iso4217": "ngultrum",
+          "key": "BT"
         },
         {
           "name": "India",
@@ -2450,6 +2576,7 @@
             "Paisa"
           ],
           "iso4217": "rupia indiana",
+          "key": "IN",
           "mints": [
             {
               "name": "India Government Mint, Hyderabad (ex Nizam’s Mint)",
@@ -2501,7 +2628,8 @@
             "Rupia",
             "Cent"
           ],
-          "iso4217": "rupia di Sri Lanka"
+          "iso4217": "rupia di Sri Lanka",
+          "key": "LK"
         },
         {
           "name": "Maldive",
@@ -2511,7 +2639,8 @@
             "Rupia",
             "Laari"
           ],
-          "iso4217": "rupia maldiviana"
+          "iso4217": "rupia maldiviana",
+          "key": "MV"
         },
         {
           "name": "Nepal",
@@ -2522,6 +2651,7 @@
             "Paisa"
           ],
           "iso4217": "rupia nepalese",
+          "key": "NP",
           "mints": [
             {
               "name": "Nepal Rastra Bank",
@@ -2541,7 +2671,8 @@
             "Rupia",
             "Paisa"
           ],
-          "iso4217": "rupia pakistana"
+          "iso4217": "rupia pakistana",
+          "key": "PK"
         }
       ]
     },
@@ -2556,7 +2687,8 @@
             "Kwanza",
             "Centimo"
           ],
-          "iso4217": "kwanza"
+          "iso4217": "kwanza",
+          "key": "AO"
         },
         {
           "name": "Burundi",
@@ -2566,7 +2698,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco del Burundi"
+          "iso4217": "franco del Burundi",
+          "key": "BI"
         },
         {
           "name": "Benin",
@@ -2576,7 +2709,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BCEAO)"
+          "iso4217": "franco CFA (BCEAO)",
+          "key": "BJ"
         },
         {
           "name": "Burkina Faso",
@@ -2586,7 +2720,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BCEAO)"
+          "iso4217": "franco CFA (BCEAO)",
+          "key": "BF"
         },
         {
           "name": "Botswana",
@@ -2596,7 +2731,8 @@
             "Pula",
             "Thebe"
           ],
-          "iso4217": "pula"
+          "iso4217": "pula",
+          "key": "BW"
         },
         {
           "name": "Repubblica",
@@ -2606,7 +2742,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BEAC)"
+          "iso4217": "franco CFA (BEAC)",
+          "key": "CF"
         },
         {
           "name": "Costa d’Avorio",
@@ -2616,7 +2753,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BCEAO)"
+          "iso4217": "franco CFA (BCEAO)",
+          "key": "CI"
         },
         {
           "name": "Camerun",
@@ -2626,7 +2764,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BEAC)"
+          "iso4217": "franco CFA (BEAC)",
+          "key": "CM"
         },
         {
           "name": "Repubblica democratica del Congo",
@@ -2636,7 +2775,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco congolese"
+          "iso4217": "franco congolese",
+          "key": "CD"
         },
         {
           "name": "Congo",
@@ -2646,7 +2786,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BEAC)"
+          "iso4217": "franco CFA (BEAC)",
+          "key": "CG"
         },
         {
           "name": "Comore",
@@ -2655,7 +2796,8 @@
           "units": [
             "Franco"
           ],
-          "iso4217": "franco comoriano"
+          "iso4217": "franco comoriano",
+          "key": "KM"
         },
         {
           "name": "Cabo Verde",
@@ -2665,7 +2807,8 @@
             "Escudo",
             "Centavo"
           ],
-          "iso4217": "escudo capoverdiano"
+          "iso4217": "escudo capoverdiano",
+          "key": "CV"
         },
         {
           "name": "Eritrea",
@@ -2675,7 +2818,8 @@
             "Nakfa",
             "Centesimo"
           ],
-          "iso4217": "nakfa"
+          "iso4217": "nakfa",
+          "key": "ER"
         },
         {
           "name": "Etiopia",
@@ -2685,7 +2829,8 @@
             "Birr",
             "Cent"
           ],
-          "iso4217": "birr"
+          "iso4217": "birr",
+          "key": "ET"
         },
         {
           "name": "Gabon",
@@ -2695,7 +2840,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BEAC)"
+          "iso4217": "franco CFA (BEAC)",
+          "key": "GA"
         },
         {
           "name": "Ghana",
@@ -2705,7 +2851,8 @@
             "Cedi",
             "Pesewa"
           ],
-          "iso4217": "cedi ghanese"
+          "iso4217": "cedi ghanese",
+          "key": "GH"
         },
         {
           "name": "Guinea",
@@ -2715,6 +2862,7 @@
             "Franco"
           ],
           "iso4217": "franco della Guinea",
+          "key": "GN",
           "contemporary_units": [
             "Syli",
             "Cauri"
@@ -2728,7 +2876,8 @@
             "Dalasi",
             "Butut"
           ],
-          "iso4217": "dalasi"
+          "iso4217": "dalasi",
+          "key": "GM"
         },
         {
           "name": "Guinea-Bissau",
@@ -2738,7 +2887,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BCEAO)"
+          "iso4217": "franco CFA (BCEAO)",
+          "key": "GW"
         },
         {
           "name": "Guinea equatoriale",
@@ -2749,6 +2899,7 @@
             "Centesimo"
           ],
           "iso4217": "franco CFA (BEAC)",
+          "key": "GQ",
           "contemporary_units": [
             "Ekwele",
             "Peseta"
@@ -2762,7 +2913,8 @@
             "Scellino",
             "Cent"
           ],
-          "iso4217": "scellino del Kenya"
+          "iso4217": "scellino del Kenya",
+          "key": "KE"
         },
         {
           "name": "Liberia",
@@ -2772,7 +2924,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro liberiano"
+          "iso4217": "dollaro liberiano",
+          "key": "LR"
         },
         {
           "name": "Lesotho",
@@ -2782,7 +2935,8 @@
             "Loti",
             "Sente"
           ],
-          "iso4217": "loti"
+          "iso4217": "loti",
+          "key": "LS"
         },
         {
           "name": "Madagascar",
@@ -2793,6 +2947,7 @@
             "Iraimbilanja"
           ],
           "iso4217": "ariary",
+          "key": "MG",
           "contemporary_units": [
             "Franc"
           ]
@@ -2805,7 +2960,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BCEAO)"
+          "iso4217": "franco CFA (BCEAO)",
+          "key": "ML"
         },
         {
           "name": "Mozambico",
@@ -2816,6 +2972,7 @@
             "Centavo"
           ],
           "iso4217": "metical",
+          "key": "MZ",
           "contemporary_units": [
             "Escudo",
             "Centavo"
@@ -2829,7 +2986,8 @@
             "Ouguiya",
             "Khoum"
           ],
-          "iso4217": "ouguiya"
+          "iso4217": "ouguiya",
+          "key": "MR"
         },
         {
           "name": "Maurizio",
@@ -2839,7 +2997,8 @@
             "Rupia",
             "Cent"
           ],
-          "iso4217": "rupia mauriziana"
+          "iso4217": "rupia mauriziana",
+          "key": "MU"
         },
         {
           "name": "Malawi",
@@ -2849,7 +3008,8 @@
             "Kwacha",
             "Tambala"
           ],
-          "iso4217": "kwacha del Malawi"
+          "iso4217": "kwacha del Malawi",
+          "key": "MW"
         },
         {
           "name": "Namibia",
@@ -2859,7 +3019,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro namibiano"
+          "iso4217": "dollaro namibiano",
+          "key": "NA"
         },
         {
           "name": "Niger",
@@ -2869,7 +3030,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BCEAO)"
+          "iso4217": "franco CFA (BCEAO)",
+          "key": "NE"
         },
         {
           "name": "Nigeria",
@@ -2879,7 +3041,8 @@
             "Naira",
             "Kobo"
           ],
-          "iso4217": "naira"
+          "iso4217": "naira",
+          "key": "NG"
         },
         {
           "name": "Ruanda",
@@ -2889,7 +3052,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco ruandese"
+          "iso4217": "franco ruandese",
+          "key": "RW"
         },
         {
           "name": "Sudan",
@@ -2900,6 +3064,7 @@
             "Piastra"
           ],
           "iso4217": "sterlina sudanese",
+          "key": "SD",
           "contemporary_units": [
             "Dinar"
           ]
@@ -2912,7 +3077,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BCEAO)"
+          "iso4217": "franco CFA (BCEAO)",
+          "key": "SN"
         },
         {
           "name": "Sierra Leone",
@@ -2922,7 +3088,8 @@
             "Leone",
             "Cent"
           ],
-          "iso4217": "leone"
+          "iso4217": "leone",
+          "key": "SL"
         },
         {
           "name": "Somalia",
@@ -2932,7 +3099,8 @@
             "Scellino",
             "Cent"
           ],
-          "iso4217": "scellino somalo"
+          "iso4217": "scellino somalo",
+          "key": "SO"
         },
         {
           "name": "Sud Sudan",
@@ -2942,7 +3110,8 @@
             "Sterlina",
             "Piastra"
           ],
-          "iso4217": "sterlina sud-sudanese"
+          "iso4217": "sterlina sud-sudanese",
+          "key": "SS"
         },
         {
           "name": "Sao Tomé e Principe",
@@ -2952,7 +3121,8 @@
             "Dobra",
             "Centimo"
           ],
-          "iso4217": "dobra"
+          "iso4217": "dobra",
+          "key": "ST"
         },
         {
           "name": "Eswatini",
@@ -2962,7 +3132,8 @@
             "Lilangeni",
             "Cent"
           ],
-          "iso4217": "lilangeni"
+          "iso4217": "lilangeni",
+          "key": "SZ"
         },
         {
           "name": "Seychelles",
@@ -2972,7 +3143,8 @@
             "Rupia",
             "Cent"
           ],
-          "iso4217": "rupia delle Seychelles"
+          "iso4217": "rupia delle Seychelles",
+          "key": "SC"
         },
         {
           "name": "Ciad",
@@ -2982,7 +3154,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BEAC)"
+          "iso4217": "franco CFA (BEAC)",
+          "key": "TD"
         },
         {
           "name": "Togo",
@@ -2992,7 +3165,8 @@
             "Franco",
             "Centesimo"
           ],
-          "iso4217": "franco CFA (BCEAO)"
+          "iso4217": "franco CFA (BCEAO)",
+          "key": "TG"
         },
         {
           "name": "Tanzania",
@@ -3002,7 +3176,8 @@
             "Scellino",
             "Cent"
           ],
-          "iso4217": "scellino della Tanzania"
+          "iso4217": "scellino della Tanzania",
+          "key": "TZ"
         },
         {
           "name": "Uganda",
@@ -3012,7 +3187,8 @@
             "Scellino",
             "Cent"
           ],
-          "iso4217": "scellino ugandese"
+          "iso4217": "scellino ugandese",
+          "key": "UG"
         },
         {
           "name": "Sud Africa",
@@ -3023,6 +3199,7 @@
             "Cent"
           ],
           "iso4217": "rand",
+          "key": "ZA",
           "mints": [
             {
               "name": "Gold Reef City Mint",
@@ -3058,7 +3235,8 @@
             "Kwacha",
             "Ngwee"
           ],
-          "iso4217": "kwacha zambiano"
+          "iso4217": "kwacha zambiano",
+          "key": "ZM"
         },
         {
           "name": "Zimbabwe",
@@ -3068,7 +3246,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro dello Zimbabwe"
+          "iso4217": "dollaro dello Zimbabwe",
+          "key": "ZW"
         }
       ]
     },
@@ -3084,6 +3263,7 @@
             "Cent"
           ],
           "iso4217": "dollaro USA",
+          "key": "AS",
           "dependent": true
         },
         {
@@ -3095,6 +3275,7 @@
             "Cent"
           ],
           "iso4217": "dollaro australiano",
+          "key": "AU",
           "mints": [
             {
               "name": "ABC Refinery",
@@ -3189,7 +3370,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro del Brunei"
+          "iso4217": "dollaro del Brunei",
+          "key": "BN"
         },
         {
           "name": "Cina",
@@ -3200,6 +3382,7 @@
             "Jiao"
           ],
           "iso4217": "renminbi-yuan",
+          "key": "CN",
           "mints": [
             {
               "name": "Shanghai New Century",
@@ -3255,7 +3438,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro delle Figi"
+          "iso4217": "dollaro delle Figi",
+          "key": "FJ"
         },
         {
           "name": "Micronesia",
@@ -3265,7 +3449,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro USA"
+          "iso4217": "dollaro USA",
+          "key": "FM"
         },
         {
           "name": "Guam",
@@ -3276,6 +3461,7 @@
             "Cent"
           ],
           "iso4217": "dollaro USA",
+          "key": "GU",
           "dependent": true
         },
         {
@@ -3287,6 +3473,7 @@
             "Cent"
           ],
           "iso4217": "dollaro di Hong Kong",
+          "key": "HK",
           "dependent": true,
           "mints": [
             {
@@ -3308,6 +3495,7 @@
             "Sen"
           ],
           "iso4217": "rupia indonesiana",
+          "key": "ID",
           "mints": [
             {
               "name": "Perum Peruri",
@@ -3328,6 +3516,7 @@
             "Sen"
           ],
           "iso4217": "yen",
+          "key": "JP",
           "mints": [
             {
               "name": "Asahi Refining",
@@ -3356,7 +3545,8 @@
             "Riel",
             "Kak"
           ],
-          "iso4217": "riel"
+          "iso4217": "riel",
+          "key": "KH"
         },
         {
           "name": "Kiribati",
@@ -3366,7 +3556,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro australiano"
+          "iso4217": "dollaro australiano",
+          "key": "KI"
         },
         {
           "name": "Corea del Sud",
@@ -3377,6 +3568,7 @@
             "Chon"
           ],
           "iso4217": "won sudcoreano",
+          "key": "KR",
           "mints": [
             {
               "name": "KOMSCO",
@@ -3396,7 +3588,8 @@
             "Kip",
             "Att"
           ],
-          "iso4217": "kip"
+          "iso4217": "kip",
+          "key": "LA"
         },
         {
           "name": "Macao",
@@ -3407,6 +3600,7 @@
             "Avo"
           ],
           "iso4217": "pataca",
+          "key": "MO",
           "dependent": true
         },
         {
@@ -3417,7 +3611,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro USA"
+          "iso4217": "dollaro USA",
+          "key": "MH"
         },
         {
           "name": "Myanmar",
@@ -3427,7 +3622,8 @@
             "Kyat",
             "Pya"
           ],
-          "iso4217": "kyat"
+          "iso4217": "kyat",
+          "key": "MM"
         },
         {
           "name": "Mongolia",
@@ -3437,7 +3633,8 @@
             "Tughrik",
             "Mongo"
           ],
-          "iso4217": "tughrik"
+          "iso4217": "tughrik",
+          "key": "MN"
         },
         {
           "name": "Isole Marianne settentrionali",
@@ -3448,6 +3645,7 @@
             "Cent"
           ],
           "iso4217": "dollaro USA",
+          "key": "MP",
           "dependent": true
         },
         {
@@ -3458,7 +3656,8 @@
             "Ringgit",
             "Sen"
           ],
-          "iso4217": "ringgit"
+          "iso4217": "ringgit",
+          "key": "MY"
         },
         {
           "name": "Nuova Caledonia",
@@ -3469,6 +3668,7 @@
             "Centesimo"
           ],
           "iso4217": "franco CFP",
+          "key": "NC",
           "dependent": true
         },
         {
@@ -3479,7 +3679,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro australiano"
+          "iso4217": "dollaro australiano",
+          "key": "NR"
         },
         {
           "name": "Nuova Zelanda",
@@ -3490,6 +3691,7 @@
             "Cent"
           ],
           "iso4217": "dollaro neozelandese",
+          "key": "NZ",
           "mints": [
             {
               "name": "New Zealand Mint",
@@ -3510,6 +3712,7 @@
             "Centavo"
           ],
           "iso4217": "peso filippino",
+          "key": "PH",
           "mints": [
             {
               "name": "Mint of the Philippine Islands",
@@ -3530,7 +3733,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro USA"
+          "iso4217": "dollaro USA",
+          "key": "PW"
         },
         {
           "name": "Papua",
@@ -3540,7 +3744,8 @@
             "Kina",
             "Toea"
           ],
-          "iso4217": "kina"
+          "iso4217": "kina",
+          "key": "PG"
         },
         {
           "name": "Corea del Nord",
@@ -3550,7 +3755,8 @@
             "Won",
             "Chon"
           ],
-          "iso4217": "won nordcoreano"
+          "iso4217": "won nordcoreano",
+          "key": "KP"
         },
         {
           "name": "Polinesia francese",
@@ -3561,6 +3767,7 @@
             "Centesimo"
           ],
           "iso4217": "franco CFP",
+          "key": "PF",
           "dependent": true
         },
         {
@@ -3572,6 +3779,7 @@
             "Cent"
           ],
           "iso4217": "dollaro di Singapore",
+          "key": "SG",
           "mints": [
             {
               "name": "PMC",
@@ -3617,7 +3825,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro delle Isole Salomone"
+          "iso4217": "dollaro delle Isole Salomone",
+          "key": "SB"
         },
         {
           "name": "Thailandia",
@@ -3628,6 +3837,7 @@
             "Satang"
           ],
           "iso4217": "baht",
+          "key": "TH",
           "mints": [
             {
               "name": "Royal Thai Mint",
@@ -3648,7 +3858,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro USA"
+          "iso4217": "dollaro USA",
+          "key": "TL"
         },
         {
           "name": "Tonga",
@@ -3658,7 +3869,8 @@
             "Paanga",
             "Seniti"
           ],
-          "iso4217": "paanga"
+          "iso4217": "paanga",
+          "key": "TO"
         },
         {
           "name": "Tuvalu",
@@ -3668,7 +3880,8 @@
             "Dollaro",
             "Cent"
           ],
-          "iso4217": "dollaro australiano"
+          "iso4217": "dollaro australiano",
+          "key": "TV"
         },
         {
           "name": "Taiwan",
@@ -3699,7 +3912,8 @@
               "location": "Guishan",
               "from_year": 1920
             }
-          ]
+          ],
+          "key": "_taiwan"
         },
         {
           "name": "Vietnam",
@@ -3709,7 +3923,8 @@
             "Dong",
             "Hào"
           ],
-          "iso4217": "dong"
+          "iso4217": "dong",
+          "key": "VN"
         },
         {
           "name": "Vanuatu",
@@ -3718,7 +3933,8 @@
           "units": [
             "Vatu"
           ],
-          "iso4217": "vatu"
+          "iso4217": "vatu",
+          "key": "VU"
         },
         {
           "name": "Samoa",
@@ -3728,7 +3944,8 @@
             "Tala",
             "Sene"
           ],
-          "iso4217": "tala"
+          "iso4217": "tala",
+          "key": "WS"
         }
       ]
     }

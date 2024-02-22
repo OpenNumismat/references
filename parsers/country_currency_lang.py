@@ -180,6 +180,7 @@ def process_countries(lang):
             if eu_countries_list[alpha2]['minor']:
                 data["units"].append(eu_countries_list[alpha2]['minor'])
             data["iso4217"] = eu_countries_list[alpha2]['iso4217']
+            data["key"] = alpha2
         else:
             print(f"Missed {lang} currency for {country_name}")
 
@@ -207,6 +208,7 @@ def process_countries(lang):
         if mints:
             data['mints'] = mints
 
+        data["key"] = "_" + data["name"].lower().replace(' ', '-')
         result["countries"].append(data)
 
     for data in disappeared_countries:
@@ -217,6 +219,7 @@ def process_countries(lang):
         if mints:
             data['mints'] = mints
 
+        data["key"] = "_" + data["name"].lower().replace(' ', '-')
         result["countries"].append(data)
 
     with open(f"../data/country_currency_{lang}.json", 'w', encoding='utf8') as json_file:

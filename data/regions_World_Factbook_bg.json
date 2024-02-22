@@ -12,6 +12,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "CY",
           "contemporary_units": [
             "Pound",
             "Cent"
@@ -25,7 +26,8 @@
             "Рубла",
             "Копейка"
           ],
-          "iso4217": "BYN"
+          "iso4217": "BYN",
+          "key": "BY"
         },
         {
           "name": "България",
@@ -36,6 +38,7 @@
             "Стотинка"
           ],
           "iso4217": "BGN",
+          "key": "BG",
           "mints": [
             {
               "name": "Bulmint",
@@ -65,6 +68,7 @@
             "Халер"
           ],
           "iso4217": "CZK",
+          "key": "CZ",
           "mints": [
             {
               "name": "Czech Mint",
@@ -86,6 +90,7 @@
             "Филер"
           ],
           "iso4217": "HUF",
+          "key": "HU",
           "mints": [
             {
               "name": "Hungarian Mint",
@@ -106,6 +111,7 @@
             "Грош"
           ],
           "iso4217": "PLN",
+          "key": "PL",
           "mints": [
             {
               "name": "Germania Mint",
@@ -150,7 +156,8 @@
             "Лея",
             "Бан"
           ],
-          "iso4217": "MDL"
+          "iso4217": "MDL",
+          "key": "MD"
         },
         {
           "name": "Румъния",
@@ -160,7 +167,8 @@
             "Лея",
             "Бан"
           ],
-          "iso4217": "RON"
+          "iso4217": "RON",
+          "key": "RO"
         },
         {
           "name": "Словакия",
@@ -171,6 +179,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "SK",
           "contemporary_units": [
             "Koruna",
             "Halier"
@@ -203,7 +212,8 @@
             "Гривня",
             "Копейка"
           ],
-          "iso4217": "UAH"
+          "iso4217": "UAH",
+          "key": "UA"
         },
         {
           "name": "Дания",
@@ -214,6 +224,7 @@
             "Йоре"
           ],
           "iso4217": "DKK",
+          "key": "DK",
           "mints": [
             {
               "name": "Altona Mint",
@@ -244,6 +255,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "EE",
           "contemporary_units": [
             "Kroon",
             "Sent"
@@ -276,6 +288,7 @@
             "Йоре"
           ],
           "iso4217": "DKK",
+          "key": "FO",
           "dependent": true
         },
         {
@@ -287,6 +300,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "FI",
           "contemporary_units": [
             "Markka",
             "Penni"
@@ -312,6 +326,7 @@
             "Пенс"
           ],
           "iso4217": "GGP",
+          "key": "GG",
           "dependent": true
         },
         {
@@ -322,6 +337,7 @@
             "Крона"
           ],
           "iso4217": "ISK",
+          "key": "IS",
           "contemporary_units": [
             "Króna",
             "Eyrir"
@@ -336,6 +352,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "IE",
           "contemporary_units": [
             "Pound",
             "Penny"
@@ -360,6 +377,7 @@
             "Пенс"
           ],
           "iso4217": "IMP",
+          "key": "IM",
           "dependent": true
         },
         {
@@ -371,6 +389,7 @@
             "Пенс"
           ],
           "iso4217": "JEP",
+          "key": "JE",
           "dependent": true
         },
         {
@@ -382,6 +401,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "LV",
           "contemporary_units": [
             "Lats",
             "Santīms"
@@ -396,6 +416,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "LT",
           "contemporary_units": [
             "Litas",
             "Centas"
@@ -421,6 +442,7 @@
             "Йоре"
           ],
           "iso4217": "NOK",
+          "key": "NO",
           "mints": [
             {
               "name": "Mint of Norway; ex Den Kongelige Mynt",
@@ -441,7 +463,8 @@
             "Крона",
             "Йоре"
           ],
-          "iso4217": "SEK"
+          "iso4217": "SEK",
+          "key": "SE"
         },
         {
           "name": "Обединено кралство",
@@ -452,6 +475,7 @@
             "Пенс"
           ],
           "iso4217": "GBP",
+          "key": "GB",
           "mints": [
             {
               "name": "Commonwealth Mint",
@@ -573,7 +597,8 @@
             "Лек",
             "Чиндарка"
           ],
-          "iso4217": "ALL"
+          "iso4217": "ALL",
+          "key": "AL"
         },
         {
           "name": "Андора",
@@ -584,6 +609,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "AD",
           "contemporary_units": [
             "Diner",
             "Céntim"
@@ -597,7 +623,8 @@
             "Марка",
             "Фенинг"
           ],
-          "iso4217": "BAM"
+          "iso4217": "BAM",
+          "key": "BA"
         },
         {
           "name": "Хърватия",
@@ -607,6 +634,7 @@
             "Евро"
           ],
           "iso4217": "EUR",
+          "key": "HR",
           "contemporary_units": [
             "Kuna",
             "Lipa"
@@ -632,6 +660,7 @@
             "Пенс"
           ],
           "iso4217": "GIP",
+          "key": "GI",
           "dependent": true
         },
         {
@@ -643,6 +672,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "GR",
           "contemporary_units": [
             "Drachma",
             "Leptοn"
@@ -676,7 +706,8 @@
             "Евро",
             "Цент"
           ],
-          "iso4217": "EUR"
+          "iso4217": "EUR",
+          "key": "VA"
         },
         {
           "name": "Италия",
@@ -687,6 +718,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "IT",
           "contemporary_units": [
             "Lira",
             "Centesimo"
@@ -720,6 +752,7 @@
             "Цент"
           ],
           "iso4217": "MTL",
+          "key": "MT",
           "contemporary_units": [
             "Lira",
             "Cent"
@@ -744,7 +777,8 @@
             "Евро",
             "Цент"
           ],
-          "iso4217": "EUR"
+          "iso4217": "EUR",
+          "key": "ME"
         },
         {
           "name": "Северна Македония",
@@ -754,7 +788,8 @@
             "Денар",
             "Ден"
           ],
-          "iso4217": "MKD"
+          "iso4217": "MKD",
+          "key": "MK"
         },
         {
           "name": "Португалия",
@@ -765,6 +800,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "PT",
           "contemporary_units": [
             "Escudo",
             "Centavo"
@@ -789,7 +825,8 @@
             "Евро",
             "Цент"
           ],
-          "iso4217": "EUR"
+          "iso4217": "EUR",
+          "key": "SM"
         },
         {
           "name": "Сърбия",
@@ -800,6 +837,7 @@
             "Пара"
           ],
           "iso4217": "RSD",
+          "key": "RS",
           "mints": [
             {
               "name": "Zavod za izradu novčanica i kovanog novca Topčider",
@@ -820,6 +858,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "SI",
           "contemporary_units": [
             "Tolar",
             "Stotin"
@@ -834,6 +873,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "ES",
           "contemporary_units": [
             "Peseta",
             "Céntimo"
@@ -887,6 +927,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "AT",
           "contemporary_units": [
             "Krone",
             "Schilling",
@@ -913,6 +954,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "BE",
           "contemporary_units": [
             "Franc",
             "Centime"
@@ -954,6 +996,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "FR",
           "contemporary_units": [
             "Franc",
             "Centime"
@@ -1005,6 +1048,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "DE",
           "contemporary_units": [
             "Mark",
             "Pfennig"
@@ -1168,6 +1212,7 @@
             "Сантим"
           ],
           "iso4217": "CHF",
+          "key": "LI",
           "mints": [
             {
               "name": "CIT Coin Invest",
@@ -1188,6 +1233,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "LU",
           "contemporary_units": [
             "Franc",
             "Centime"
@@ -1201,7 +1247,8 @@
             "Евро",
             "Цент"
           ],
-          "iso4217": "EUR"
+          "iso4217": "EUR",
+          "key": "MC"
         },
         {
           "name": "Нидерландия",
@@ -1212,6 +1259,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "NL",
           "contemporary_units": [
             "Guilder",
             "Cent"
@@ -1245,6 +1293,7 @@
             "Сантим"
           ],
           "iso4217": "CHF",
+          "key": "CH",
           "mints": [
             {
               "name": "Argor-Heraeus",
@@ -1307,7 +1356,8 @@
           ],
           "iso4217": "EUR",
           "part_of": "SRB",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_kosovo"
         },
         {
           "name": "Northern Cyprus",
@@ -1319,7 +1369,8 @@
           ],
           "iso4217": "TRY",
           "part_of": "CYP",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_northern-cyprus"
         },
         {
           "name": "Transnistria",
@@ -1342,11 +1393,12 @@
               "location": "Tiraspol",
               "from_year": 2005
             }
-          ]
+          ],
+          "key": "_transnistria"
         },
         {
           "name": "Czechoslovakia",
-          "alpha2": "CS",
+          "alpha2": "",
           "alpha3": "CSK",
           "units": [
             "Koruna",
@@ -1356,7 +1408,8 @@
           "iso4217": "CSK",
           "from_year": 1918,
           "to_year": 1992,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_czechoslovakia"
         },
         {
           "name": "East Germany",
@@ -1370,7 +1423,8 @@
           "iso4217": "DDM",
           "from_year": 1949,
           "to_year": 1990,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_east-germany"
         },
         {
           "name": "Yugoslavia",
@@ -1384,7 +1438,8 @@
           "iso4217": "YUD",
           "from_year": 1918,
           "to_year": 1992,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_yugoslavia"
         }
       ]
     },
@@ -1400,6 +1455,7 @@
             "Сентаво"
           ],
           "iso4217": "MXN",
+          "key": "MX",
           "mints": [
             {
               "name": "Mexican Mint",
@@ -1421,6 +1477,7 @@
             "Цент"
           ],
           "iso4217": "BMD",
+          "key": "BM",
           "dependent": true
         },
         {
@@ -1432,6 +1489,7 @@
             "Цент"
           ],
           "iso4217": "CAD",
+          "key": "CA",
           "mints": [
             {
               "name": "Argentia Precious Metals",
@@ -1460,6 +1518,7 @@
             "Йоре"
           ],
           "iso4217": "DKK",
+          "key": "GL",
           "dependent": true
         },
         {
@@ -1471,6 +1530,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "PM",
           "dependent": true
         },
         {
@@ -1482,6 +1542,7 @@
             "Цент"
           ],
           "iso4217": "USD",
+          "key": "US",
           "mints": [
             {
               "name": "American Medallion Corporation",
@@ -1714,7 +1775,8 @@
             "Риал",
             "Динар"
           ],
-          "iso4217": "IRR"
+          "iso4217": "IRR",
+          "key": "IR"
         },
         {
           "name": "Армения",
@@ -1724,7 +1786,8 @@
             "Драм",
             "Лума"
           ],
-          "iso4217": "AMD"
+          "iso4217": "AMD",
+          "key": "AM"
         },
         {
           "name": "Азербайджан",
@@ -1734,7 +1797,8 @@
             "Манат",
             "Кепик"
           ],
-          "iso4217": "AZN"
+          "iso4217": "AZN",
+          "key": "AZ"
         },
         {
           "name": "Бахрейн",
@@ -1744,7 +1808,8 @@
             "Динар",
             "Филс"
           ],
-          "iso4217": "BHD"
+          "iso4217": "BHD",
+          "key": "BH"
         },
         {
           "name": "Грузия",
@@ -1754,7 +1819,8 @@
             "Лари",
             "Тетра"
           ],
-          "iso4217": "GEL"
+          "iso4217": "GEL",
+          "key": "GE"
         },
         {
           "name": "Ирак",
@@ -1764,7 +1830,8 @@
             "Динар",
             "Филс"
           ],
-          "iso4217": "IQD"
+          "iso4217": "IQD",
+          "key": "IQ"
         },
         {
           "name": "Израел",
@@ -1775,6 +1842,7 @@
             "Агора"
           ],
           "iso4217": "ILS",
+          "key": "IL",
           "contemporary_units": [
             "Pound",
             "Pruta",
@@ -1799,7 +1867,8 @@
             "Динар",
             "Кирш"
           ],
-          "iso4217": "JOD"
+          "iso4217": "JOD",
+          "key": "JO"
         },
         {
           "name": "Кувейт",
@@ -1809,7 +1878,8 @@
             "Динар",
             "Филс"
           ],
-          "iso4217": "KWD"
+          "iso4217": "KWD",
+          "key": "KW"
         },
         {
           "name": "Ливан",
@@ -1819,7 +1889,8 @@
             "Лира",
             "Пиастър"
           ],
-          "iso4217": "LBP"
+          "iso4217": "LBP",
+          "key": "LB"
         },
         {
           "name": "Оман",
@@ -1829,7 +1900,8 @@
             "Риал",
             "Байза"
           ],
-          "iso4217": "OMR"
+          "iso4217": "OMR",
+          "key": "OM"
         },
         {
           "name": "Катар",
@@ -1839,7 +1911,8 @@
             "Риал",
             "Дирхам"
           ],
-          "iso4217": "QAR"
+          "iso4217": "QAR",
+          "key": "QA"
         },
         {
           "name": "Саудитска Арабия",
@@ -1849,7 +1922,8 @@
             "Риал",
             "Халала"
           ],
-          "iso4217": "SAR"
+          "iso4217": "SAR",
+          "key": "SA"
         },
         {
           "name": "Сирия",
@@ -1859,7 +1933,8 @@
             "Лира",
             "Пиастър"
           ],
-          "iso4217": "SYP"
+          "iso4217": "SYP",
+          "key": "SY"
         },
         {
           "name": "Турция",
@@ -1870,6 +1945,7 @@
             "Куруш"
           ],
           "iso4217": "TRY",
+          "key": "TR",
           "mints": [
             {
               "name": "Turkish State Mint",
@@ -1890,7 +1966,8 @@
             "Оае",
             "Филс"
           ],
-          "iso4217": "AED"
+          "iso4217": "AED",
+          "key": "AE"
         },
         {
           "name": "Йемен",
@@ -1900,7 +1977,8 @@
             "Риал",
             "Филс"
           ],
-          "iso4217": "YER"
+          "iso4217": "YER",
+          "key": "YE"
         },
         {
           "name": "Abkhazia",
@@ -1910,7 +1988,8 @@
             "Apsar"
           ],
           "part_of": "GEO",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_abkhazia"
         },
         {
           "name": "Palestine",
@@ -1918,7 +1997,8 @@
           "alpha3": "PSE",
           "units": [],
           "part_of": "ISR",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_palestine"
         },
         {
           "name": "South Ossetia",
@@ -1930,7 +2010,8 @@
           ],
           "iso4217": "RUB",
           "part_of": "GEO",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_south-ossetia"
         },
         {
           "name": "Artsakh",
@@ -1944,7 +2025,8 @@
           "from_year": 1991,
           "to_year": 2023,
           "unrecognized": true,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_artsakh"
         },
         {
           "name": "South Yemen",
@@ -1958,7 +2040,8 @@
           "iso4217": "YDD",
           "from_year": 1967,
           "to_year": 1990,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_south-yemen"
         }
       ]
     },
@@ -1973,7 +2056,8 @@
             "Тенге",
             "Тийн"
           ],
-          "iso4217": "KZT"
+          "iso4217": "KZT",
+          "key": "KZ"
         },
         {
           "name": "Киргизстан",
@@ -1983,7 +2067,8 @@
             "Сом",
             "Тийн"
           ],
-          "iso4217": "KGS"
+          "iso4217": "KGS",
+          "key": "KG"
         },
         {
           "name": "Таджикистан",
@@ -1993,7 +2078,8 @@
             "Сомони",
             "Дирам"
           ],
-          "iso4217": "TJS"
+          "iso4217": "TJS",
+          "key": "TJ"
         },
         {
           "name": "Туркменистан",
@@ -2003,7 +2089,8 @@
             "Манат",
             "Тенге"
           ],
-          "iso4217": "TMT"
+          "iso4217": "TMT",
+          "key": "TM"
         },
         {
           "name": "Узбекистан",
@@ -2013,7 +2100,8 @@
             "Сум",
             "Тийн"
           ],
-          "iso4217": "UZS"
+          "iso4217": "UZS",
+          "key": "UZ"
         },
         {
           "name": "Русия",
@@ -2024,6 +2112,7 @@
             "Копейка"
           ],
           "iso4217": "RUB",
+          "key": "RU",
           "mints": [
             {
               "name": "Moscow Mint",
@@ -2057,7 +2146,8 @@
           "iso4217": "RUB",
           "from_year": 1922,
           "to_year": 1991,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_ussr"
         }
       ]
     },
@@ -2073,6 +2163,7 @@
             "Яо"
           ],
           "iso4217": "CNY",
+          "key": "CN",
           "mints": [
             {
               "name": "Shanghai New Century",
@@ -2129,6 +2220,7 @@
             "Цент"
           ],
           "iso4217": "HKD",
+          "key": "HK",
           "dependent": true,
           "mints": [
             {
@@ -2150,6 +2242,7 @@
             "Аво"
           ],
           "iso4217": "MOP",
+          "key": "MO",
           "dependent": true
         },
         {
@@ -2160,7 +2253,8 @@
             "Вон",
             "Чон"
           ],
-          "iso4217": "KPW"
+          "iso4217": "KPW",
+          "key": "KP"
         },
         {
           "name": "Япония",
@@ -2171,6 +2265,7 @@
             "Сен"
           ],
           "iso4217": "JPY",
+          "key": "JP",
           "mints": [
             {
               "name": "Asahi Refining",
@@ -2199,7 +2294,8 @@
             "Тугрик",
             "Монго"
           ],
-          "iso4217": "MNT"
+          "iso4217": "MNT",
+          "key": "MN"
         },
         {
           "name": "Южна Корея",
@@ -2210,6 +2306,7 @@
             "Чон"
           ],
           "iso4217": "KRW",
+          "key": "KR",
           "mints": [
             {
               "name": "KOMSCO",
@@ -2229,7 +2326,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "BND"
+          "iso4217": "BND",
+          "key": "BN"
         },
         {
           "name": "Камбоджа",
@@ -2239,7 +2337,8 @@
             "Риел",
             "Как"
           ],
-          "iso4217": "KHR"
+          "iso4217": "KHR",
+          "key": "KH"
         },
         {
           "name": "Индонезия",
@@ -2250,6 +2349,7 @@
             "Сен"
           ],
           "iso4217": "IDR",
+          "key": "ID",
           "mints": [
             {
               "name": "Perum Peruri",
@@ -2269,7 +2369,8 @@
             "Кип",
             "Ат"
           ],
-          "iso4217": "LAK"
+          "iso4217": "LAK",
+          "key": "LA"
         },
         {
           "name": "Малайзия",
@@ -2279,7 +2380,8 @@
             "Рингит",
             "Сен"
           ],
-          "iso4217": "MYR"
+          "iso4217": "MYR",
+          "key": "MY"
         },
         {
           "name": "Мианмар",
@@ -2289,7 +2391,8 @@
             "Киат",
             "Пия"
           ],
-          "iso4217": "MMK"
+          "iso4217": "MMK",
+          "key": "MM"
         },
         {
           "name": "Филипини",
@@ -2300,6 +2403,7 @@
             "Сентаво"
           ],
           "iso4217": "PHP",
+          "key": "PH",
           "mints": [
             {
               "name": "Mint of the Philippine Islands",
@@ -2321,6 +2425,7 @@
             "Цент"
           ],
           "iso4217": "SGD",
+          "key": "SG",
           "mints": [
             {
               "name": "PMC",
@@ -2367,6 +2472,7 @@
             "Сатанг"
           ],
           "iso4217": "THB",
+          "key": "TH",
           "mints": [
             {
               "name": "Royal Thai Mint",
@@ -2387,7 +2493,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "USD"
+          "iso4217": "USD",
+          "key": "TL"
         },
         {
           "name": "Виетнам",
@@ -2397,7 +2504,8 @@
             "Донг",
             "Хао"
           ],
-          "iso4217": "VND"
+          "iso4217": "VND",
+          "key": "VN"
         },
         {
           "name": "Папуа-Нова Гвинея",
@@ -2407,7 +2515,8 @@
             "Кина",
             "Тоа"
           ],
-          "iso4217": "PGK"
+          "iso4217": "PGK",
+          "key": "PG"
         },
         {
           "name": "Taiwan",
@@ -2438,7 +2547,8 @@
               "location": "Guishan",
               "from_year": 1920
             }
-          ]
+          ],
+          "key": "_taiwan"
         },
         {
           "name": "South Vietnam",
@@ -2452,7 +2562,8 @@
           "from_year": 1955,
           "to_year": 1976,
           "unrecognized": true,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_south-vietnam"
         },
         {
           "name": "Tibet",
@@ -2467,7 +2578,8 @@
           "from_year": 1912,
           "to_year": 1951,
           "unrecognized": true,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_tibet"
         }
       ]
     },
@@ -2483,6 +2595,7 @@
             "Сентаво"
           ],
           "iso4217": "ARS",
+          "key": "AR",
           "mints": [
             {
               "name": "Mint of Argentina",
@@ -2503,7 +2616,8 @@
             "Боливиано",
             "Сентаво"
           ],
-          "iso4217": "BOB"
+          "iso4217": "BOB",
+          "key": "BO"
         },
         {
           "name": "Бразилия",
@@ -2514,6 +2628,7 @@
             "Сентаво"
           ],
           "iso4217": "BRL",
+          "key": "BR",
           "contemporary_units": [
             "Cruzado",
             "Cruzeiro"
@@ -2539,6 +2654,7 @@
             "Сентаво"
           ],
           "iso4217": "CLP",
+          "key": "CL",
           "mints": [
             {
               "name": "Chilean Mint",
@@ -2559,7 +2675,8 @@
             "Песо",
             "Сентаво"
           ],
-          "iso4217": "COP"
+          "iso4217": "COP",
+          "key": "CO"
         },
         {
           "name": "Еквадор",
@@ -2570,6 +2687,7 @@
             "Цент"
           ],
           "iso4217": "USD",
+          "key": "EC",
           "contemporary_units": [
             "Sucre",
             "Centavo"
@@ -2584,6 +2702,7 @@
             "Пенс"
           ],
           "iso4217": "FKP",
+          "key": "FK",
           "dependent": true
         },
         {
@@ -2594,7 +2713,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "GYD"
+          "iso4217": "GYD",
+          "key": "GY"
         },
         {
           "name": "Парагвай",
@@ -2604,7 +2724,8 @@
             "Гуарани",
             "Сентимо"
           ],
-          "iso4217": "PYG"
+          "iso4217": "PYG",
+          "key": "PY"
         },
         {
           "name": "Перу",
@@ -2615,6 +2736,7 @@
             "Сентимо"
           ],
           "iso4217": "PEN",
+          "key": "PE",
           "contemporary_units": [
             "Inti",
             "Sol",
@@ -2627,6 +2749,7 @@
           "alpha3": "SGS",
           "units": [],
           "iso4217": "—",
+          "key": "GS",
           "dependent": true
         },
         {
@@ -2638,6 +2761,7 @@
             "Цент"
           ],
           "iso4217": "SRD",
+          "key": "SR",
           "contemporary_units": [
             "Guilder",
             "Cent"
@@ -2651,7 +2775,8 @@
             "Песо",
             "Сентисимо"
           ],
-          "iso4217": "UYU"
+          "iso4217": "UYU",
+          "key": "UY"
         },
         {
           "name": "Венесуела",
@@ -2661,7 +2786,8 @@
             "Боливар",
             "Сентимо"
           ],
-          "iso4217": "VES"
+          "iso4217": "VES",
+          "key": "VE"
         }
       ]
     },
@@ -2677,6 +2803,7 @@
             "Цент"
           ],
           "iso4217": "AUD",
+          "key": "AU",
           "mints": [
             {
               "name": "ABC Refinery",
@@ -2772,6 +2899,7 @@
             "Цент"
           ],
           "iso4217": "AUD",
+          "key": "CX",
           "dependent": true
         },
         {
@@ -2783,6 +2911,7 @@
             "Цент"
           ],
           "iso4217": "AUD",
+          "key": "CC",
           "dependent": true
         },
         {
@@ -2794,6 +2923,7 @@
             "Цент"
           ],
           "iso4217": "NZD",
+          "key": "NZ",
           "mints": [
             {
               "name": "New Zealand Mint",
@@ -2814,6 +2944,7 @@
             "Цент"
           ],
           "iso4217": "AUD",
+          "key": "NF",
           "dependent": true
         },
         {
@@ -2824,7 +2955,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "FJD"
+          "iso4217": "FJD",
+          "key": "FJ"
         },
         {
           "name": "Нова Каледония",
@@ -2835,6 +2967,7 @@
             "Сантим"
           ],
           "iso4217": "XPF",
+          "key": "NC",
           "dependent": true
         },
         {
@@ -2845,7 +2978,8 @@
             "Острови",
             "Цент"
           ],
-          "iso4217": "SBD"
+          "iso4217": "SBD",
+          "key": "SB"
         },
         {
           "name": "Вануату",
@@ -2854,7 +2988,8 @@
           "units": [
             "Вату"
           ],
-          "iso4217": "VUV"
+          "iso4217": "VUV",
+          "key": "VU"
         },
         {
           "name": "Гуам",
@@ -2865,6 +3000,7 @@
             "Цент"
           ],
           "iso4217": "USD",
+          "key": "GU",
           "dependent": true
         },
         {
@@ -2875,7 +3011,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "AUD"
+          "iso4217": "AUD",
+          "key": "KI"
         },
         {
           "name": "Маршалови острови",
@@ -2885,7 +3022,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "USD"
+          "iso4217": "USD",
+          "key": "MH"
         },
         {
           "name": "Микронезия",
@@ -2895,7 +3033,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "USD"
+          "iso4217": "USD",
+          "key": "FM"
         },
         {
           "name": "Науру",
@@ -2905,7 +3044,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "AUD"
+          "iso4217": "AUD",
+          "key": "NR"
         },
         {
           "name": "Северни Мариански острови",
@@ -2916,6 +3056,7 @@
             "Цент"
           ],
           "iso4217": "USD",
+          "key": "MP",
           "dependent": true
         },
         {
@@ -2926,7 +3067,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "USD"
+          "iso4217": "USD",
+          "key": "PW"
         },
         {
           "name": "Американска Самоа",
@@ -2937,6 +3079,7 @@
             "Цент"
           ],
           "iso4217": "USD",
+          "key": "AS",
           "dependent": true
         },
         {
@@ -2948,6 +3091,7 @@
             "Цент"
           ],
           "iso4217": "NZD",
+          "key": "CK",
           "dependent": true
         },
         {
@@ -2959,6 +3103,7 @@
             "Сантим"
           ],
           "iso4217": "XPF",
+          "key": "PF",
           "dependent": true
         },
         {
@@ -2970,6 +3115,7 @@
             "Цент"
           ],
           "iso4217": "NZD",
+          "key": "NU",
           "dependent": true
         },
         {
@@ -2981,6 +3127,7 @@
             "Цент"
           ],
           "iso4217": "NZD",
+          "key": "PN",
           "dependent": true
         },
         {
@@ -2991,7 +3138,8 @@
             "Тала",
             "Сене"
           ],
-          "iso4217": "WST"
+          "iso4217": "WST",
+          "key": "WS"
         },
         {
           "name": "Токелау",
@@ -3002,6 +3150,7 @@
             "Цент"
           ],
           "iso4217": "NZD",
+          "key": "TK",
           "dependent": true
         },
         {
@@ -3012,7 +3161,8 @@
             "Паянга",
             "Сенит"
           ],
-          "iso4217": "TOP"
+          "iso4217": "TOP",
+          "key": "TO"
         },
         {
           "name": "Тувалу",
@@ -3022,7 +3172,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "AUD"
+          "iso4217": "AUD",
+          "key": "TV"
         },
         {
           "name": "Уолис и Футуна",
@@ -3033,6 +3184,7 @@
             "Сантим"
           ],
           "iso4217": "XPF",
+          "key": "WF",
           "dependent": true
         }
       ]
@@ -3049,6 +3201,7 @@
             "Цент"
           ],
           "iso4217": "USD",
+          "key": "IO",
           "dependent": true
         },
         {
@@ -3059,7 +3212,8 @@
             "Афган",
             "Пул"
           ],
-          "iso4217": "AFN"
+          "iso4217": "AFN",
+          "key": "AF"
         },
         {
           "name": "Бангладеш",
@@ -3069,7 +3223,8 @@
             "Така",
             "Пойша"
           ],
-          "iso4217": "BDT"
+          "iso4217": "BDT",
+          "key": "BD"
         },
         {
           "name": "Бутан",
@@ -3079,7 +3234,8 @@
             "Нгултрум",
             "Четрум"
           ],
-          "iso4217": "BTN"
+          "iso4217": "BTN",
+          "key": "BT"
         },
         {
           "name": "Индия",
@@ -3090,6 +3246,7 @@
             "Пайса"
           ],
           "iso4217": "INR",
+          "key": "IN",
           "mints": [
             {
               "name": "India Government Mint, Hyderabad (ex Nizam’s Mint)",
@@ -3141,7 +3298,8 @@
             "Руфия",
             "Лаар"
           ],
-          "iso4217": "MVR"
+          "iso4217": "MVR",
+          "key": "MV"
         },
         {
           "name": "Непал",
@@ -3152,6 +3310,7 @@
             "Пайса"
           ],
           "iso4217": "NPR",
+          "key": "NP",
           "mints": [
             {
               "name": "Nepal Rastra Bank",
@@ -3171,7 +3330,8 @@
             "Рупия",
             "Пайса"
           ],
-          "iso4217": "PKR"
+          "iso4217": "PKR",
+          "key": "PK"
         },
         {
           "name": "Шри Ланка",
@@ -3181,7 +3341,8 @@
             "Рупия",
             "Цент"
           ],
-          "iso4217": "LKR"
+          "iso4217": "LKR",
+          "key": "LK"
         },
         {
           "name": "Sikkim",
@@ -3192,7 +3353,8 @@
           "from_year": 1642,
           "to_year": 1975,
           "dependent": true,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_sikkim"
         }
       ]
     },
@@ -3207,7 +3369,8 @@
             "Динар",
             "Сантим"
           ],
-          "iso4217": "DZD"
+          "iso4217": "DZD",
+          "key": "DZ"
         },
         {
           "name": "Египет",
@@ -3217,7 +3380,8 @@
             "Лира",
             "Пиастър"
           ],
-          "iso4217": "EGP"
+          "iso4217": "EGP",
+          "key": "EG"
         },
         {
           "name": "Либия",
@@ -3227,7 +3391,8 @@
             "Динар",
             "Дирхам"
           ],
-          "iso4217": "LYD"
+          "iso4217": "LYD",
+          "key": "LY"
         },
         {
           "name": "Мароко",
@@ -3237,7 +3402,8 @@
             "Дирхам",
             "Сантим"
           ],
-          "iso4217": "MAD"
+          "iso4217": "MAD",
+          "key": "MA"
         },
         {
           "name": "Судан",
@@ -3248,6 +3414,7 @@
             "Пиастър"
           ],
           "iso4217": "SDG",
+          "key": "SD",
           "contemporary_units": [
             "Dinar"
           ]
@@ -3260,7 +3427,8 @@
             "Динар",
             "Милим"
           ],
-          "iso4217": "TND"
+          "iso4217": "TND",
+          "key": "TN"
         },
         {
           "name": "Бурунди",
@@ -3270,7 +3438,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "BIF"
+          "iso4217": "BIF",
+          "key": "BI"
         },
         {
           "name": "Коморски острови",
@@ -3279,7 +3448,8 @@
           "units": [
             "Франк"
           ],
-          "iso4217": "KMF"
+          "iso4217": "KMF",
+          "key": "KM"
         },
         {
           "name": "Джибути",
@@ -3288,7 +3458,8 @@
           "units": [
             "Франк"
           ],
-          "iso4217": "DJF"
+          "iso4217": "DJF",
+          "key": "DJ"
         },
         {
           "name": "Еритрея",
@@ -3298,7 +3469,8 @@
             "Накфа",
             "Цент"
           ],
-          "iso4217": "ERN"
+          "iso4217": "ERN",
+          "key": "ER"
         },
         {
           "name": "Етиопия",
@@ -3308,7 +3480,8 @@
             "Бир",
             "Цент"
           ],
-          "iso4217": "ETB"
+          "iso4217": "ETB",
+          "key": "ET"
         },
         {
           "name": "Кения",
@@ -3318,7 +3491,8 @@
             "Шилинг",
             "Цент"
           ],
-          "iso4217": "KES"
+          "iso4217": "KES",
+          "key": "KE"
         },
         {
           "name": "Мадагаскар",
@@ -3329,6 +3503,7 @@
             "Ираимбиланя"
           ],
           "iso4217": "MGA",
+          "key": "MG",
           "contemporary_units": [
             "Franc"
           ]
@@ -3341,7 +3516,8 @@
             "Куача",
             "Тамбала"
           ],
-          "iso4217": "MWK"
+          "iso4217": "MWK",
+          "key": "MW"
         },
         {
           "name": "Мавриций",
@@ -3351,7 +3527,8 @@
             "Рупия",
             "Цент"
           ],
-          "iso4217": "MUR"
+          "iso4217": "MUR",
+          "key": "MU"
         },
         {
           "name": "Мозамбик",
@@ -3362,6 +3539,7 @@
             "Сентаво"
           ],
           "iso4217": "MZN",
+          "key": "MZ",
           "contemporary_units": [
             "Escudo",
             "Centavo"
@@ -3375,7 +3553,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "PWF"
+          "iso4217": "PWF",
+          "key": "RW"
         },
         {
           "name": "Сейшелски острови",
@@ -3385,7 +3564,8 @@
             "Рупия",
             "Цент"
           ],
-          "iso4217": "SCR"
+          "iso4217": "SCR",
+          "key": "SC"
         },
         {
           "name": "Сомалия",
@@ -3395,7 +3575,8 @@
             "Шилинг",
             "Цент"
           ],
-          "iso4217": "SOS"
+          "iso4217": "SOS",
+          "key": "SO"
         },
         {
           "name": "Южен Судан",
@@ -3405,7 +3586,8 @@
             "Лира",
             "Пиастър"
           ],
-          "iso4217": "SSP"
+          "iso4217": "SSP",
+          "key": "SS"
         },
         {
           "name": "Уганда",
@@ -3415,7 +3597,8 @@
             "Шилинг",
             "Цент"
           ],
-          "iso4217": "UGX"
+          "iso4217": "UGX",
+          "key": "UG"
         },
         {
           "name": "Танзания",
@@ -3425,7 +3608,8 @@
             "Шилинг",
             "Цент"
           ],
-          "iso4217": "TZS"
+          "iso4217": "TZS",
+          "key": "TZ"
         },
         {
           "name": "Замбия",
@@ -3435,7 +3619,8 @@
             "Куача",
             "Нгве"
           ],
-          "iso4217": "ZMW"
+          "iso4217": "ZMW",
+          "key": "ZM"
         },
         {
           "name": "Зимбабве",
@@ -3445,7 +3630,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "ZWL"
+          "iso4217": "ZWL",
+          "key": "ZW"
         },
         {
           "name": "Ангола",
@@ -3455,7 +3641,8 @@
             "Кванза",
             "Сентимо"
           ],
-          "iso4217": "AOA"
+          "iso4217": "AOA",
+          "key": "AO"
         },
         {
           "name": "Камерун",
@@ -3465,7 +3652,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XAF"
+          "iso4217": "XAF",
+          "key": "CM"
         },
         {
           "name": "Централноафриканска република",
@@ -3475,7 +3663,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XAF"
+          "iso4217": "XAF",
+          "key": "CF"
         },
         {
           "name": "Чад",
@@ -3485,7 +3674,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XAF"
+          "iso4217": "XAF",
+          "key": "TD"
         },
         {
           "name": "Конго",
@@ -3495,7 +3685,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XAF"
+          "iso4217": "XAF",
+          "key": "CG"
         },
         {
           "name": "Демократична република Конго",
@@ -3505,7 +3696,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "CDF"
+          "iso4217": "CDF",
+          "key": "CD"
         },
         {
           "name": "Екваториална Гвинея",
@@ -3516,6 +3708,7 @@
             "Сантим"
           ],
           "iso4217": "XAF",
+          "key": "GQ",
           "contemporary_units": [
             "Ekwele",
             "Peseta"
@@ -3529,7 +3722,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XAF"
+          "iso4217": "XAF",
+          "key": "GA"
         },
         {
           "name": "Ботсуана",
@@ -3539,7 +3733,8 @@
             "Пула",
             "Тебе"
           ],
-          "iso4217": "BWT"
+          "iso4217": "BWT",
+          "key": "BW"
         },
         {
           "name": "Есватини",
@@ -3549,7 +3744,8 @@
             "Емалангени",
             "Цент"
           ],
-          "iso4217": "SZL"
+          "iso4217": "SZL",
+          "key": "SZ"
         },
         {
           "name": "Лесото",
@@ -3559,7 +3755,8 @@
             "Малоти",
             "Сенте,"
           ],
-          "iso4217": "LSL"
+          "iso4217": "LSL",
+          "key": "LS"
         },
         {
           "name": "Намибия",
@@ -3569,7 +3766,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "NAD"
+          "iso4217": "NAD",
+          "key": "NA"
         },
         {
           "name": "Южна Африка",
@@ -3580,6 +3778,7 @@
             "Цент"
           ],
           "iso4217": "ZAR",
+          "key": "ZA",
           "mints": [
             {
               "name": "Gold Reef City Mint",
@@ -3615,7 +3814,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "BJ"
         },
         {
           "name": "Буркина Фасо",
@@ -3625,7 +3825,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "BF"
         },
         {
           "name": "Кабо Верде",
@@ -3635,7 +3836,8 @@
             "Верде",
             "Сентаво"
           ],
-          "iso4217": "CVE"
+          "iso4217": "CVE",
+          "key": "CV"
         },
         {
           "name": "Кот д’Ивоар",
@@ -3645,7 +3847,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "CI"
         },
         {
           "name": "Гамбия",
@@ -3655,7 +3858,8 @@
             "Даласи",
             "Бутут"
           ],
-          "iso4217": "GMD"
+          "iso4217": "GMD",
+          "key": "GM"
         },
         {
           "name": "Гана",
@@ -3665,7 +3869,8 @@
             "Седи",
             "Песев"
           ],
-          "iso4217": "GHS"
+          "iso4217": "GHS",
+          "key": "GH"
         },
         {
           "name": "Гвинея",
@@ -3675,6 +3880,7 @@
             "Франк"
           ],
           "iso4217": "GNF",
+          "key": "GN",
           "contemporary_units": [
             "Syli",
             "Cauri"
@@ -3688,7 +3894,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "GW"
         },
         {
           "name": "Либерия",
@@ -3698,7 +3905,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "LRD"
+          "iso4217": "LRD",
+          "key": "LR"
         },
         {
           "name": "Мали",
@@ -3708,7 +3916,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "ML"
         },
         {
           "name": "Мавритания",
@@ -3718,7 +3927,8 @@
             "Угия",
             "Кхум"
           ],
-          "iso4217": "MRU"
+          "iso4217": "MRU",
+          "key": "MR"
         },
         {
           "name": "Нигер",
@@ -3728,7 +3938,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "NE"
         },
         {
           "name": "Нигерия",
@@ -3738,7 +3949,8 @@
             "Найра",
             "Кобо"
           ],
-          "iso4217": "NGN"
+          "iso4217": "NGN",
+          "key": "NG"
         },
         {
           "name": "Света Елена, Възнесение и Тристан да Куня",
@@ -3749,6 +3961,7 @@
             "Пенс"
           ],
           "iso4217": "SHP",
+          "key": "SH",
           "dependent": true
         },
         {
@@ -3759,7 +3972,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "SN"
         },
         {
           "name": "Сиера Леоне",
@@ -3769,7 +3983,8 @@
             "Леоне",
             "Цент"
           ],
-          "iso4217": "SLL"
+          "iso4217": "SLL",
+          "key": "SL"
         },
         {
           "name": "Того",
@@ -3779,7 +3994,8 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "TG"
         },
         {
           "name": "Somaliland",
@@ -3791,7 +4007,8 @@
           ],
           "iso4217": "SLS",
           "part_of": "SOM",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_somaliland"
         },
         {
           "name": "Western Sahara",
@@ -3802,7 +4019,8 @@
           ],
           "iso4217": "EHP",
           "part_of": "MAR",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_western-sahara"
         }
       ]
     },
@@ -3818,6 +4036,7 @@
             "Цент"
           ],
           "iso4217": "XCD",
+          "key": "AI",
           "dependent": true
         },
         {
@@ -3828,7 +4047,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "XCD"
+          "iso4217": "XCD",
+          "key": "AG"
         },
         {
           "name": "Аруба",
@@ -3839,6 +4059,7 @@
             "Цент"
           ],
           "iso4217": "AWG",
+          "key": "AW",
           "dependent": true
         },
         {
@@ -3849,7 +4070,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "BSD"
+          "iso4217": "BSD",
+          "key": "BS"
         },
         {
           "name": "Барбадос",
@@ -3859,7 +4081,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "BBD"
+          "iso4217": "BBD",
+          "key": "BB"
         },
         {
           "name": "Британски Вирджински острови",
@@ -3870,6 +4093,7 @@
             "Цент"
           ],
           "iso4217": "USD",
+          "key": "VG",
           "dependent": true
         },
         {
@@ -3881,6 +4105,7 @@
             "Цент"
           ],
           "iso4217": "KYD",
+          "key": "KY",
           "dependent": true
         },
         {
@@ -3891,7 +4116,8 @@
             "Песо",
             "Сентаво"
           ],
-          "iso4217": "CUP"
+          "iso4217": "CUP",
+          "key": "CU"
         },
         {
           "name": "Кюрасао",
@@ -3902,6 +4128,7 @@
             "Цент"
           ],
           "iso4217": "ANG",
+          "key": "CW",
           "dependent": true
         },
         {
@@ -3912,7 +4139,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "XCD"
+          "iso4217": "XCD",
+          "key": "DM"
         },
         {
           "name": "Доминиканска република",
@@ -3922,7 +4150,8 @@
             "Песо",
             "Сентаво"
           ],
-          "iso4217": "DOP"
+          "iso4217": "DOP",
+          "key": "DO"
         },
         {
           "name": "Гренада",
@@ -3932,7 +4161,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "XCD"
+          "iso4217": "XCD",
+          "key": "GD"
         },
         {
           "name": "Хаити",
@@ -3942,7 +4172,8 @@
             "Гурде",
             "Сантим"
           ],
-          "iso4217": "HTG"
+          "iso4217": "HTG",
+          "key": "HT"
         },
         {
           "name": "Ямайка",
@@ -3952,7 +4183,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "JMD"
+          "iso4217": "JMD",
+          "key": "JM"
         },
         {
           "name": "Монтсерат",
@@ -3963,6 +4195,7 @@
             "Цент"
           ],
           "iso4217": "XCD",
+          "key": "MS",
           "dependent": true
         },
         {
@@ -3974,6 +4207,7 @@
             "Цент"
           ],
           "iso4217": "USD",
+          "key": "PR",
           "dependent": true
         },
         {
@@ -3984,7 +4218,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "XCD"
+          "iso4217": "XCD",
+          "key": "KN"
         },
         {
           "name": "Сейнт Лусия",
@@ -3994,7 +4229,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "XCD"
+          "iso4217": "XCD",
+          "key": "LC"
         },
         {
           "name": "Сен Мартен",
@@ -4005,6 +4241,7 @@
             "Цент"
           ],
           "iso4217": "EUR",
+          "key": "MF",
           "dependent": true
         },
         {
@@ -4015,7 +4252,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "XCD"
+          "iso4217": "XCD",
+          "key": "VC"
         },
         {
           "name": "Синт Мартен",
@@ -4026,6 +4264,7 @@
             "Цент"
           ],
           "iso4217": "ANG",
+          "key": "SX",
           "dependent": true
         },
         {
@@ -4036,7 +4275,8 @@
             "Тобаго",
             "Цент"
           ],
-          "iso4217": "TTD"
+          "iso4217": "TTD",
+          "key": "TT"
         },
         {
           "name": "Търкс и Кайкос",
@@ -4047,6 +4287,7 @@
             "Цент"
           ],
           "iso4217": "USD",
+          "key": "TC",
           "dependent": true
         },
         {
@@ -4058,6 +4299,7 @@
             "Цент"
           ],
           "iso4217": "USD",
+          "key": "VI",
           "dependent": true
         },
         {
@@ -4068,7 +4310,8 @@
             "Долар",
             "Цент"
           ],
-          "iso4217": "BZD"
+          "iso4217": "BZD",
+          "key": "BZ"
         },
         {
           "name": "Коста Рика",
@@ -4078,7 +4321,8 @@
             "Колон",
             "Сентимо"
           ],
-          "iso4217": "CRC"
+          "iso4217": "CRC",
+          "key": "CR"
         },
         {
           "name": "Ел Салвадор",
@@ -4088,7 +4332,8 @@
             "Колон",
             "Сентаво"
           ],
-          "iso4217": "SVC"
+          "iso4217": "SVC",
+          "key": "SV"
         },
         {
           "name": "Гватемала",
@@ -4098,7 +4343,8 @@
             "Кетцал",
             "Сентаво"
           ],
-          "iso4217": "GTQ"
+          "iso4217": "GTQ",
+          "key": "GT"
         },
         {
           "name": "Хондурас",
@@ -4108,7 +4354,8 @@
             "Лемпира",
             "Сентаво"
           ],
-          "iso4217": "HNL"
+          "iso4217": "HNL",
+          "key": "HN"
         },
         {
           "name": "Никарагуа",
@@ -4119,6 +4366,7 @@
             "Сентаво"
           ],
           "iso4217": "NIO",
+          "key": "NI",
           "contemporary_units": [
             "Córdoba",
             "Centavo"
@@ -4132,7 +4380,8 @@
             "Балбоа",
             "Сентесимо"
           ],
-          "iso4217": "PAB"
+          "iso4217": "PAB",
+          "key": "PA"
         }
       ]
     }

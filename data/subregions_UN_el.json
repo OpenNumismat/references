@@ -12,6 +12,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "AT",
           "contemporary_units": [
             "Krone",
             "Schilling",
@@ -38,6 +39,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "BE",
           "contemporary_units": [
             "Franc",
             "Centime"
@@ -79,6 +81,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "FR",
           "contemporary_units": [
             "Franc",
             "Centime"
@@ -130,6 +133,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "DE",
           "contemporary_units": [
             "Mark",
             "Pfennig"
@@ -293,6 +297,7 @@
             "Σαντίμ"
           ],
           "iso4217": "CHF",
+          "key": "LI",
           "mints": [
             {
               "name": "CIT Coin Invest",
@@ -313,6 +318,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "LU",
           "contemporary_units": [
             "Franc",
             "Centime"
@@ -326,7 +332,8 @@
             "Ευρώ",
             "Λεπτό"
           ],
-          "iso4217": "EUR"
+          "iso4217": "EUR",
+          "key": "MC"
         },
         {
           "name": "Κάτω Χώρες",
@@ -337,6 +344,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "NL",
           "contemporary_units": [
             "Guilder",
             "Cent"
@@ -370,6 +378,7 @@
             "Σαντίμ"
           ],
           "iso4217": "CHF",
+          "key": "CH",
           "mints": [
             {
               "name": "Argor-Heraeus",
@@ -434,7 +443,8 @@
           "iso4217": "DDM",
           "from_year": 1949,
           "to_year": 1990,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_east-germany"
         }
       ]
     },
@@ -450,6 +460,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "AX",
           "dependent": true
         },
         {
@@ -461,6 +472,7 @@
             "Έρε"
           ],
           "iso4217": "DKK",
+          "key": "DK",
           "mints": [
             {
               "name": "Altona Mint",
@@ -491,6 +503,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "EE",
           "contemporary_units": [
             "Kroon",
             "Sent"
@@ -523,6 +536,7 @@
             "Έρε"
           ],
           "iso4217": "DKK",
+          "key": "FO",
           "dependent": true
         },
         {
@@ -534,6 +548,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "FI",
           "contemporary_units": [
             "Markka",
             "Penni"
@@ -559,6 +574,7 @@
             "Πένα"
           ],
           "iso4217": "GGP",
+          "key": "GG",
           "dependent": true
         },
         {
@@ -569,6 +585,7 @@
             "Ισλανδική"
           ],
           "iso4217": "ISK",
+          "key": "IS",
           "contemporary_units": [
             "Króna",
             "Eyrir"
@@ -583,6 +600,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "IE",
           "contemporary_units": [
             "Pound",
             "Penny"
@@ -607,6 +625,7 @@
             "Πένα"
           ],
           "iso4217": "IMP",
+          "key": "IM",
           "dependent": true
         },
         {
@@ -618,6 +637,7 @@
             "Πένα"
           ],
           "iso4217": "JEP",
+          "key": "JE",
           "dependent": true
         },
         {
@@ -629,6 +649,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "LV",
           "contemporary_units": [
             "Lats",
             "Santīms"
@@ -643,6 +664,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "LT",
           "contemporary_units": [
             "Litas",
             "Centas"
@@ -668,6 +690,7 @@
             "Έρε"
           ],
           "iso4217": "NOK",
+          "key": "NO",
           "mints": [
             {
               "name": "Mint of Norway; ex Den Kongelige Mynt",
@@ -689,6 +712,7 @@
             "Έρε"
           ],
           "iso4217": "NOK",
+          "key": "SJ",
           "dependent": true
         },
         {
@@ -699,7 +723,8 @@
             "Σουηδική",
             "Έρε"
           ],
-          "iso4217": "SEK"
+          "iso4217": "SEK",
+          "key": "SE"
         },
         {
           "name": "Ηνωμένο Βασίλειο",
@@ -710,6 +735,7 @@
             "Πένα"
           ],
           "iso4217": "GBP",
+          "key": "GB",
           "mints": [
             {
               "name": "Commonwealth Mint",
@@ -836,7 +862,8 @@
             "Λεκ",
             "Κιντάρ"
           ],
-          "iso4217": "ALL"
+          "iso4217": "ALL",
+          "key": "AL"
         },
         {
           "name": "Ανδόρα",
@@ -847,6 +874,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "AD",
           "contemporary_units": [
             "Diner",
             "Céntim"
@@ -860,7 +888,8 @@
             "Μετατρέψιμο",
             "Φένινγκ"
           ],
-          "iso4217": "BAM"
+          "iso4217": "BAM",
+          "key": "BA"
         },
         {
           "name": "Κροατία",
@@ -870,6 +899,7 @@
             "Ευρώ"
           ],
           "iso4217": "EUR",
+          "key": "HR",
           "contemporary_units": [
             "Kuna",
             "Lipa"
@@ -895,6 +925,7 @@
             "Πένα"
           ],
           "iso4217": "GIP",
+          "key": "GI",
           "dependent": true
         },
         {
@@ -906,6 +937,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "GR",
           "contemporary_units": [
             "Drachma",
             "Leptοn"
@@ -939,7 +971,8 @@
             "Ευρώ",
             "Λεπτό"
           ],
-          "iso4217": "EUR"
+          "iso4217": "EUR",
+          "key": "VA"
         },
         {
           "name": "Ιταλία",
@@ -950,6 +983,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "IT",
           "contemporary_units": [
             "Lira",
             "Centesimo"
@@ -983,6 +1017,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "MT",
           "contemporary_units": [
             "Lira",
             "Cent"
@@ -1007,7 +1042,8 @@
             "Ευρώ",
             "Λεπτό"
           ],
-          "iso4217": "EUR"
+          "iso4217": "EUR",
+          "key": "ME"
         },
         {
           "name": "Βόρεια Μακεδονία",
@@ -1016,7 +1052,8 @@
           "units": [
             "Δήνι"
           ],
-          "iso4217": "MKD"
+          "iso4217": "MKD",
+          "key": "MK"
         },
         {
           "name": "Πορτογαλία",
@@ -1027,6 +1064,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "PT",
           "contemporary_units": [
             "Escudo",
             "Centavo"
@@ -1051,7 +1089,8 @@
             "Ευρώ",
             "Λεπτό"
           ],
-          "iso4217": "EUR"
+          "iso4217": "EUR",
+          "key": "SM"
         },
         {
           "name": "Σερβία",
@@ -1062,6 +1101,7 @@
             "Πάρα"
           ],
           "iso4217": "RSD",
+          "key": "RS",
           "mints": [
             {
               "name": "Zavod za izradu novčanica i kovanog novca Topčider",
@@ -1082,6 +1122,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "SI",
           "contemporary_units": [
             "Tolar",
             "Stotin"
@@ -1096,6 +1137,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "ES",
           "contemporary_units": [
             "Peseta",
             "Céntimo"
@@ -1150,7 +1192,8 @@
           ],
           "iso4217": "EUR",
           "part_of": "SRB",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_kosovo"
         },
         {
           "name": "Yugoslavia",
@@ -1164,7 +1207,8 @@
           "iso4217": "YUD",
           "from_year": 1918,
           "to_year": 1992,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_yugoslavia"
         }
       ]
     },
@@ -1179,7 +1223,8 @@
             "Ρούβλι",
             "Καπίκι"
           ],
-          "iso4217": "BYN"
+          "iso4217": "BYN",
+          "key": "BY"
         },
         {
           "name": "Βουλγαρία",
@@ -1190,6 +1235,7 @@
             "Στοτίνκα"
           ],
           "iso4217": "BGN",
+          "key": "BG",
           "mints": [
             {
               "name": "Bulmint",
@@ -1219,6 +1265,7 @@
             "Χαλέρ"
           ],
           "iso4217": "CZK",
+          "key": "CZ",
           "mints": [
             {
               "name": "Czech Mint",
@@ -1240,6 +1287,7 @@
             "Φιλέρ"
           ],
           "iso4217": "HUF",
+          "key": "HU",
           "mints": [
             {
               "name": "Hungarian Mint",
@@ -1260,6 +1308,7 @@
             "Γρόσι"
           ],
           "iso4217": "PLN",
+          "key": "PL",
           "mints": [
             {
               "name": "Germania Mint",
@@ -1304,7 +1353,8 @@
             "Λέου",
             "Βαν"
           ],
-          "iso4217": "MDL"
+          "iso4217": "MDL",
+          "key": "MD"
         },
         {
           "name": "Ρουμανία",
@@ -1314,7 +1364,8 @@
             "Ρουμανικό",
             "Μπάνι"
           ],
-          "iso4217": "RON"
+          "iso4217": "RON",
+          "key": "RO"
         },
         {
           "name": "Ρωσία",
@@ -1325,6 +1376,7 @@
             "Καπίκι"
           ],
           "iso4217": "RUB",
+          "key": "RU",
           "mints": [
             {
               "name": "Moscow Mint",
@@ -1355,6 +1407,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "SK",
           "contemporary_units": [
             "Koruna",
             "Halier"
@@ -1387,7 +1440,8 @@
             "Χρίβνια",
             "Καπίκι"
           ],
-          "iso4217": "UAH"
+          "iso4217": "UAH",
+          "key": "UA"
         },
         {
           "name": "Transnistria",
@@ -1410,11 +1464,12 @@
               "location": "Tiraspol",
               "from_year": 2005
             }
-          ]
+          ],
+          "key": "_transnistria"
         },
         {
           "name": "Czechoslovakia",
-          "alpha2": "CS",
+          "alpha2": "",
           "alpha3": "CSK",
           "units": [
             "Koruna",
@@ -1424,7 +1479,8 @@
           "iso4217": "CSK",
           "from_year": 1918,
           "to_year": 1992,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_czechoslovakia"
         },
         {
           "name": "USSR",
@@ -1438,7 +1494,8 @@
           "iso4217": "RUB",
           "from_year": 1922,
           "to_year": 1991,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_ussr"
         }
       ]
     },
@@ -1454,6 +1511,7 @@
             "Σεντ"
           ],
           "iso4217": "BMD",
+          "key": "BM",
           "dependent": true
         },
         {
@@ -1465,6 +1523,7 @@
             "Σεντ"
           ],
           "iso4217": "CAD",
+          "key": "CA",
           "mints": [
             {
               "name": "Argentia Precious Metals",
@@ -1493,6 +1552,7 @@
             "Έρε"
           ],
           "iso4217": "DKK",
+          "key": "GL",
           "dependent": true
         },
         {
@@ -1504,6 +1564,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "PM",
           "dependent": true
         },
         {
@@ -1515,6 +1576,7 @@
             "Σεντ"
           ],
           "iso4217": "USD",
+          "key": "US",
           "mints": [
             {
               "name": "American Medallion Corporation",
@@ -1747,7 +1809,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "BZD"
+          "iso4217": "BZD",
+          "key": "BZ"
         },
         {
           "name": "Κόστα Ρίκα",
@@ -1757,7 +1820,8 @@
             "Κολόν",
             "Σέντιμο"
           ],
-          "iso4217": "CRC"
+          "iso4217": "CRC",
+          "key": "CR"
         },
         {
           "name": "Ελ Σαλβαδόρ",
@@ -1767,7 +1831,8 @@
             "Κολόν",
             "Σεντάβο"
           ],
-          "iso4217": "SVC"
+          "iso4217": "SVC",
+          "key": "SV"
         },
         {
           "name": "Γουατεμάλα",
@@ -1777,7 +1842,8 @@
             "Κετσάλ",
             "Σεντάβο"
           ],
-          "iso4217": "GTQ"
+          "iso4217": "GTQ",
+          "key": "GT"
         },
         {
           "name": "Ονδούρα",
@@ -1787,7 +1853,8 @@
             "Λεμπίρα",
             "Σεντάβο"
           ],
-          "iso4217": "HNL"
+          "iso4217": "HNL",
+          "key": "HN"
         },
         {
           "name": "Μεξικό",
@@ -1798,6 +1865,7 @@
             "Σεντάβο"
           ],
           "iso4217": "MXN",
+          "key": "MX",
           "mints": [
             {
               "name": "Mexican Mint",
@@ -1819,6 +1887,7 @@
             "Σεντάβο"
           ],
           "iso4217": "NIO",
+          "key": "NI",
           "contemporary_units": [
             "Córdoba",
             "Centavo"
@@ -1832,7 +1901,8 @@
             "Μπαλμπόα",
             "Σεντέσιμο"
           ],
-          "iso4217": "PAB"
+          "iso4217": "PAB",
+          "key": "PA"
         }
       ]
     },
@@ -1848,6 +1918,7 @@
             "Σεντ"
           ],
           "iso4217": "XCD",
+          "key": "AI",
           "dependent": true
         },
         {
@@ -1858,7 +1929,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "XCD"
+          "iso4217": "XCD",
+          "key": "AG"
         },
         {
           "name": "Αρούμπα",
@@ -1869,6 +1941,7 @@
             "Σεντ"
           ],
           "iso4217": "AWG",
+          "key": "AW",
           "dependent": true
         },
         {
@@ -1879,7 +1952,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "BSD"
+          "iso4217": "BSD",
+          "key": "BS"
         },
         {
           "name": "Μπαρμπέιντος τα)",
@@ -1889,7 +1963,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "BBD"
+          "iso4217": "BBD",
+          "key": "BB"
         },
         {
           "name": "Bonaire, Sint Eustatius and Saba",
@@ -1907,6 +1982,7 @@
             "Σεντ"
           ],
           "iso4217": "USD",
+          "key": "VG",
           "dependent": true
         },
         {
@@ -1918,6 +1994,7 @@
             "Σεντ"
           ],
           "iso4217": "KYD",
+          "key": "KY",
           "dependent": true
         },
         {
@@ -1928,7 +2005,8 @@
             "Πέσο",
             "Σεντάβο"
           ],
-          "iso4217": "CUP"
+          "iso4217": "CUP",
+          "key": "CU"
         },
         {
           "name": "Κουρασάο",
@@ -1939,6 +2017,7 @@
             "Σεντ"
           ],
           "iso4217": "ANG",
+          "key": "CW",
           "dependent": true
         },
         {
@@ -1949,7 +2028,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "XCD"
+          "iso4217": "XCD",
+          "key": "DM"
         },
         {
           "name": "Δομινικανή Δημοκρατία",
@@ -1959,7 +2039,8 @@
             "Δομινικανό",
             "Σεντάβο"
           ],
-          "iso4217": "DOP"
+          "iso4217": "DOP",
+          "key": "DO"
         },
         {
           "name": "Γρενάδα",
@@ -1969,7 +2050,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "XCD"
+          "iso4217": "XCD",
+          "key": "GD"
         },
         {
           "name": "Γουαδελούπη",
@@ -1980,6 +2062,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "GP",
           "dependent": true
         },
         {
@@ -1990,7 +2073,8 @@
             "Γκουρντ",
             "Σαντίμ"
           ],
-          "iso4217": "HTG"
+          "iso4217": "HTG",
+          "key": "HT"
         },
         {
           "name": "Τζαμάικα",
@@ -2000,7 +2084,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "JMD"
+          "iso4217": "JMD",
+          "key": "JM"
         },
         {
           "name": "Μαρτινίκα",
@@ -2011,6 +2096,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "MQ",
           "dependent": true
         },
         {
@@ -2022,6 +2108,7 @@
             "Σεντ"
           ],
           "iso4217": "XCD",
+          "key": "MS",
           "dependent": true
         },
         {
@@ -2033,6 +2120,7 @@
             "Σεντ"
           ],
           "iso4217": "USD",
+          "key": "PR",
           "dependent": true
         },
         {
@@ -2044,6 +2132,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "BL",
           "dependent": true
         },
         {
@@ -2054,7 +2143,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "XCD"
+          "iso4217": "XCD",
+          "key": "KN"
         },
         {
           "name": "Αγία Λουκία",
@@ -2064,7 +2154,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "XCD"
+          "iso4217": "XCD",
+          "key": "LC"
         },
         {
           "name": "Άγιος Μαρτίνος",
@@ -2075,6 +2166,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "MF",
           "dependent": true
         },
         {
@@ -2085,7 +2177,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "XCD"
+          "iso4217": "XCD",
+          "key": "VC"
         },
         {
           "name": "Άγιος Μαρτίνος",
@@ -2096,6 +2189,7 @@
             "Σεντ"
           ],
           "iso4217": "ANG",
+          "key": "SX",
           "dependent": true
         },
         {
@@ -2106,7 +2200,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "TTD"
+          "iso4217": "TTD",
+          "key": "TT"
         },
         {
           "name": "Νήσοι Τερκς και Κάικος",
@@ -2117,6 +2212,7 @@
             "Σεντ"
           ],
           "iso4217": "USD",
+          "key": "TC",
           "dependent": true
         },
         {
@@ -2128,6 +2224,7 @@
             "Σεντ"
           ],
           "iso4217": "USD",
+          "key": "VI",
           "dependent": true
         }
       ]
@@ -2144,6 +2241,7 @@
             "Σεντάβο"
           ],
           "iso4217": "ARS",
+          "key": "AR",
           "mints": [
             {
               "name": "Mint of Argentina",
@@ -2164,7 +2262,8 @@
             "Μπολιβιάνο",
             "Σεντάβο"
           ],
-          "iso4217": "BOB"
+          "iso4217": "BOB",
+          "key": "BO"
         },
         {
           "name": "Νήσος Μπουβέ",
@@ -2172,6 +2271,7 @@
           "alpha3": "BVT",
           "units": [],
           "iso4217": "—",
+          "key": "BV",
           "dependent": true
         },
         {
@@ -2183,6 +2283,7 @@
             "Σεντάβο"
           ],
           "iso4217": "BRL",
+          "key": "BR",
           "contemporary_units": [
             "Cruzado",
             "Cruzeiro"
@@ -2208,6 +2309,7 @@
             "Σεντάβο"
           ],
           "iso4217": "CLP",
+          "key": "CL",
           "mints": [
             {
               "name": "Chilean Mint",
@@ -2228,7 +2330,8 @@
             "Πέσο",
             "Σεντάβο"
           ],
-          "iso4217": "COP"
+          "iso4217": "COP",
+          "key": "CO"
         },
         {
           "name": "Ισημερινός",
@@ -2239,6 +2342,7 @@
             "Σεντ"
           ],
           "iso4217": "USD",
+          "key": "EC",
           "contemporary_units": [
             "Sucre",
             "Centavo"
@@ -2253,6 +2357,7 @@
             "Πένα"
           ],
           "iso4217": "FKP",
+          "key": "FK",
           "dependent": true
         },
         {
@@ -2264,6 +2369,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "GF",
           "dependent": true
         },
         {
@@ -2274,7 +2380,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "GYD"
+          "iso4217": "GYD",
+          "key": "GY"
         },
         {
           "name": "Παραγουάη",
@@ -2284,7 +2391,8 @@
             "Γκουαρανί",
             "Σέντιμο"
           ],
-          "iso4217": "PYG"
+          "iso4217": "PYG",
+          "key": "PY"
         },
         {
           "name": "Περού",
@@ -2295,6 +2403,7 @@
             "Σέντιμο"
           ],
           "iso4217": "PEN",
+          "key": "PE",
           "contemporary_units": [
             "Inti",
             "Sol",
@@ -2307,6 +2416,7 @@
           "alpha3": "SGS",
           "units": [],
           "iso4217": "—",
+          "key": "GS",
           "dependent": true
         },
         {
@@ -2318,6 +2428,7 @@
             "Σεντ"
           ],
           "iso4217": "SRD",
+          "key": "SR",
           "contemporary_units": [
             "Guilder",
             "Cent"
@@ -2331,7 +2442,8 @@
             "Πέσο",
             "Σεντέσιμο"
           ],
-          "iso4217": "UYU"
+          "iso4217": "UYU",
+          "key": "UY"
         },
         {
           "name": "Βενεζουέλα",
@@ -2341,7 +2453,8 @@
             "Κυρίαρχο",
             "Σέντιμο"
           ],
-          "iso4217": "VES"
+          "iso4217": "VES",
+          "key": "VE"
         }
       ]
     },
@@ -2356,7 +2469,8 @@
             "Ντραμ",
             "Λούμα"
           ],
-          "iso4217": "AMD"
+          "iso4217": "AMD",
+          "key": "AM"
         },
         {
           "name": "Αζερμπαϊτζάν",
@@ -2366,7 +2480,8 @@
             "Μανάτ",
             "Καπίκι"
           ],
-          "iso4217": "AZN"
+          "iso4217": "AZN",
+          "key": "AZ"
         },
         {
           "name": "Μπαχρέιν",
@@ -2376,7 +2491,8 @@
             "Δηνάριο",
             "Φιλς"
           ],
-          "iso4217": "BHD"
+          "iso4217": "BHD",
+          "key": "BH"
         },
         {
           "name": "Κύπρος",
@@ -2387,6 +2503,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "CY",
           "contemporary_units": [
             "Pound",
             "Cent"
@@ -2400,7 +2517,8 @@
             "Λάρι",
             "Τέτρι"
           ],
-          "iso4217": "GEL"
+          "iso4217": "GEL",
+          "key": "GE"
         },
         {
           "name": "Ιράκ",
@@ -2410,7 +2528,8 @@
             "Δηνάριο",
             "Φιλς"
           ],
-          "iso4217": "IQD"
+          "iso4217": "IQD",
+          "key": "IQ"
         },
         {
           "name": "Ισραήλ",
@@ -2421,6 +2540,7 @@
             "Άρκορα"
           ],
           "iso4217": "ILS",
+          "key": "IL",
           "contemporary_units": [
             "Pound",
             "Pruta",
@@ -2445,7 +2565,8 @@
             "Δηνάριο",
             "Κιρς"
           ],
-          "iso4217": "JOD"
+          "iso4217": "JOD",
+          "key": "JO"
         },
         {
           "name": "Κουβέιτ",
@@ -2455,7 +2576,8 @@
             "Δηνάριο",
             "Φιλς"
           ],
-          "iso4217": "KWD"
+          "iso4217": "KWD",
+          "key": "KW"
         },
         {
           "name": "Λίβανος",
@@ -2465,7 +2587,8 @@
             "Λίρα",
             "Πιάστρα"
           ],
-          "iso4217": "LBP"
+          "iso4217": "LBP",
+          "key": "LB"
         },
         {
           "name": "Ομάν",
@@ -2475,7 +2598,8 @@
             "Ριάλ",
             "Μπάιζα"
           ],
-          "iso4217": "OMR"
+          "iso4217": "OMR",
+          "key": "OM"
         },
         {
           "name": "Κατάρ",
@@ -2485,7 +2609,8 @@
             "Ριάλ",
             "Ντιρχάμ"
           ],
-          "iso4217": "QAR"
+          "iso4217": "QAR",
+          "key": "QA"
         },
         {
           "name": "Σαουδική Αραβία",
@@ -2495,7 +2620,8 @@
             "Ριάλ",
             "Χαλάλα"
           ],
-          "iso4217": "SAR"
+          "iso4217": "SAR",
+          "key": "SA"
         },
         {
           "name": "Συρία",
@@ -2505,7 +2631,8 @@
             "Λίρα",
             "Πιάστρα"
           ],
-          "iso4217": "SYP"
+          "iso4217": "SYP",
+          "key": "SY"
         },
         {
           "name": "Τουρκία",
@@ -2516,6 +2643,7 @@
             "Κουρούς"
           ],
           "iso4217": "TRY",
+          "key": "TR",
           "mints": [
             {
               "name": "Turkish State Mint",
@@ -2536,7 +2664,8 @@
             "Ντιράμ",
             "Φιλς"
           ],
-          "iso4217": "AED"
+          "iso4217": "AED",
+          "key": "AE"
         },
         {
           "name": "Υεμένη",
@@ -2546,7 +2675,8 @@
             "Ριάλ",
             "Φιλς"
           ],
-          "iso4217": "YER"
+          "iso4217": "YER",
+          "key": "YE"
         },
         {
           "name": "Abkhazia",
@@ -2556,7 +2686,8 @@
             "Apsar"
           ],
           "part_of": "GEO",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_abkhazia"
         },
         {
           "name": "Northern Cyprus",
@@ -2568,7 +2699,8 @@
           ],
           "iso4217": "TRY",
           "part_of": "CYP",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_northern-cyprus"
         },
         {
           "name": "Palestine",
@@ -2576,7 +2708,8 @@
           "alpha3": "PSE",
           "units": [],
           "part_of": "ISR",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_palestine"
         },
         {
           "name": "South Ossetia",
@@ -2588,7 +2721,8 @@
           ],
           "iso4217": "RUB",
           "part_of": "GEO",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_south-ossetia"
         },
         {
           "name": "Artsakh",
@@ -2602,7 +2736,8 @@
           "from_year": 1991,
           "to_year": 2023,
           "unrecognized": true,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_artsakh"
         },
         {
           "name": "South Yemen",
@@ -2616,7 +2751,8 @@
           "iso4217": "YDD",
           "from_year": 1967,
           "to_year": 1990,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_south-yemen"
         }
       ]
     },
@@ -2631,7 +2767,8 @@
             "Τένγκε",
             "Τιίν"
           ],
-          "iso4217": "KZT"
+          "iso4217": "KZT",
+          "key": "KZ"
         },
         {
           "name": "Κιργιζία",
@@ -2641,7 +2778,8 @@
             "Σομ",
             "Τγιν"
           ],
-          "iso4217": "KGS"
+          "iso4217": "KGS",
+          "key": "KG"
         },
         {
           "name": "Τατζικιστάν",
@@ -2651,7 +2789,8 @@
             "Σομόνι",
             "Ντιράμ"
           ],
-          "iso4217": "TJS"
+          "iso4217": "TJS",
+          "key": "TJ"
         },
         {
           "name": "Τουρκμενιστάν",
@@ -2661,7 +2800,8 @@
             "Μάνατ",
             "Τένγκε"
           ],
-          "iso4217": "TMT"
+          "iso4217": "TMT",
+          "key": "TM"
         },
         {
           "name": "Ουζμπεκιστάν",
@@ -2671,7 +2811,8 @@
             "Σουμ",
             "Τιγίν"
           ],
-          "iso4217": "UZS"
+          "iso4217": "UZS",
+          "key": "UZ"
         }
       ]
     },
@@ -2686,7 +2827,8 @@
             "Αφγκάνι",
             "Πουλ"
           ],
-          "iso4217": "AFN"
+          "iso4217": "AFN",
+          "key": "AF"
         },
         {
           "name": "Μπανγκλαντές",
@@ -2696,7 +2838,8 @@
             "Τάκα",
             "Ποΐσα"
           ],
-          "iso4217": "BDT"
+          "iso4217": "BDT",
+          "key": "BD"
         },
         {
           "name": "Μπουτάν",
@@ -2706,7 +2849,8 @@
             "Νγκούλτρουμ",
             "Σετρούμ"
           ],
-          "iso4217": "BTN"
+          "iso4217": "BTN",
+          "key": "BT"
         },
         {
           "name": "Ινδία",
@@ -2717,6 +2861,7 @@
             "Παΐζα"
           ],
           "iso4217": "INR",
+          "key": "IN",
           "mints": [
             {
               "name": "India Government Mint, Hyderabad (ex Nizam’s Mint)",
@@ -2768,7 +2913,8 @@
             "Ιρανικό",
             "Δηνάριο"
           ],
-          "iso4217": "IRR"
+          "iso4217": "IRR",
+          "key": "IR"
         },
         {
           "name": "Μαλδίβες",
@@ -2778,7 +2924,8 @@
             "Ρουφίγια",
             "Λαάρι"
           ],
-          "iso4217": "MVR"
+          "iso4217": "MVR",
+          "key": "MV"
         },
         {
           "name": "Νεπάλ",
@@ -2789,6 +2936,7 @@
             "Πάισα"
           ],
           "iso4217": "NPR",
+          "key": "NP",
           "mints": [
             {
               "name": "Nepal Rastra Bank",
@@ -2808,7 +2956,8 @@
             "Ρουπία",
             "Πάισα"
           ],
-          "iso4217": "PKR"
+          "iso4217": "PKR",
+          "key": "PK"
         },
         {
           "name": "Σρι Λάνκα",
@@ -2818,7 +2967,8 @@
             "Ρουπία",
             "Σεντ"
           ],
-          "iso4217": "LKR"
+          "iso4217": "LKR",
+          "key": "LK"
         },
         {
           "name": "Sikkim",
@@ -2829,7 +2979,8 @@
           "from_year": 1642,
           "to_year": 1975,
           "dependent": true,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_sikkim"
         }
       ]
     },
@@ -2845,6 +2996,7 @@
             "Τζιάο"
           ],
           "iso4217": "CNY",
+          "key": "CN",
           "mints": [
             {
               "name": "Shanghai New Century",
@@ -2901,6 +3053,7 @@
             "Σεντ"
           ],
           "iso4217": "HKD",
+          "key": "HK",
           "dependent": true,
           "mints": [
             {
@@ -2922,6 +3075,7 @@
             "Άβο"
           ],
           "iso4217": "MOP",
+          "key": "MO",
           "dependent": true
         },
         {
@@ -2932,7 +3086,8 @@
             "Βόρειας",
             "Τσον"
           ],
-          "iso4217": "KPW"
+          "iso4217": "KPW",
+          "key": "KP"
         },
         {
           "name": "Ιαπωνία",
@@ -2943,6 +3098,7 @@
             "Σεν"
           ],
           "iso4217": "JPY",
+          "key": "JP",
           "mints": [
             {
               "name": "Asahi Refining",
@@ -2971,7 +3127,8 @@
             "Τουγκρίκ",
             "Μόνγο"
           ],
-          "iso4217": "MNT"
+          "iso4217": "MNT",
+          "key": "MN"
         },
         {
           "name": "Νότια Κορέα",
@@ -2982,6 +3139,7 @@
             "Τσον"
           ],
           "iso4217": "KRW",
+          "key": "KR",
           "mints": [
             {
               "name": "KOMSCO",
@@ -3022,7 +3180,8 @@
               "location": "Guishan",
               "from_year": 1920
             }
-          ]
+          ],
+          "key": "_taiwan"
         },
         {
           "name": "Tibet",
@@ -3037,7 +3196,8 @@
           "from_year": 1912,
           "to_year": 1951,
           "unrecognized": true,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_tibet"
         }
       ]
     },
@@ -3052,7 +3212,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "BND"
+          "iso4217": "BND",
+          "key": "BN"
         },
         {
           "name": "Καμπότζη",
@@ -3062,7 +3223,8 @@
             "Ρίελ",
             "Κακ"
           ],
-          "iso4217": "KHR"
+          "iso4217": "KHR",
+          "key": "KH"
         },
         {
           "name": "Ινδονησία",
@@ -3073,6 +3235,7 @@
             "Σεν"
           ],
           "iso4217": "IDR",
+          "key": "ID",
           "mints": [
             {
               "name": "Perum Peruri",
@@ -3092,7 +3255,8 @@
             "Κιπ",
             "Ατ"
           ],
-          "iso4217": "LAK"
+          "iso4217": "LAK",
+          "key": "LA"
         },
         {
           "name": "Μαλαισία",
@@ -3102,7 +3266,8 @@
             "Ρινγκίτ",
             "Σεν"
           ],
-          "iso4217": "MYR"
+          "iso4217": "MYR",
+          "key": "MY"
         },
         {
           "name": "Μιανμάρ",
@@ -3112,7 +3277,8 @@
             "Κιάτ",
             "Πια"
           ],
-          "iso4217": "MMK"
+          "iso4217": "MMK",
+          "key": "MM"
         },
         {
           "name": "Φιλιππίνες",
@@ -3123,6 +3289,7 @@
             "Σεντάβο"
           ],
           "iso4217": "PHP",
+          "key": "PH",
           "mints": [
             {
               "name": "Mint of the Philippine Islands",
@@ -3144,6 +3311,7 @@
             "Σεντ"
           ],
           "iso4217": "SGD",
+          "key": "SG",
           "mints": [
             {
               "name": "PMC",
@@ -3190,6 +3358,7 @@
             "Σατάνγκ"
           ],
           "iso4217": "THB",
+          "key": "TH",
           "mints": [
             {
               "name": "Royal Thai Mint",
@@ -3210,7 +3379,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "USD"
+          "iso4217": "USD",
+          "key": "TL"
         },
         {
           "name": "Βιετνάμ",
@@ -3220,7 +3390,8 @@
             "Ντονγκ",
             "Χάο"
           ],
-          "iso4217": "VND"
+          "iso4217": "VND",
+          "key": "VN"
         },
         {
           "name": "South Vietnam",
@@ -3234,7 +3405,8 @@
           "from_year": 1955,
           "to_year": 1976,
           "unrecognized": true,
-          "disappeared": true
+          "disappeared": true,
+          "key": "_south-vietnam"
         }
       ]
     },
@@ -3249,7 +3421,8 @@
             "Δηνάριο",
             "Σαντίμ"
           ],
-          "iso4217": "DZD"
+          "iso4217": "DZD",
+          "key": "DZ"
         },
         {
           "name": "Αίγυπτος",
@@ -3259,7 +3432,8 @@
             "Λίρα",
             "Πιάστρα"
           ],
-          "iso4217": "EGP"
+          "iso4217": "EGP",
+          "key": "EG"
         },
         {
           "name": "Λιβύη",
@@ -3269,7 +3443,8 @@
             "Δηνάριο",
             "Ντιρχάμ"
           ],
-          "iso4217": "LYD"
+          "iso4217": "LYD",
+          "key": "LY"
         },
         {
           "name": "Μαρόκο",
@@ -3279,7 +3454,8 @@
             "Μαροκινό",
             "Σαντίμ"
           ],
-          "iso4217": "MAD"
+          "iso4217": "MAD",
+          "key": "MA"
         },
         {
           "name": "Σουδάν",
@@ -3290,6 +3466,7 @@
             "Πιάστρα"
           ],
           "iso4217": "SDG",
+          "key": "SD",
           "contemporary_units": [
             "Dinar"
           ]
@@ -3302,7 +3479,8 @@
             "Δηνάριο",
             "Μιλίμε"
           ],
-          "iso4217": "TND"
+          "iso4217": "TND",
+          "key": "TN"
         },
         {
           "name": "Western Sahara",
@@ -3313,7 +3491,8 @@
           ],
           "iso4217": "EHP",
           "part_of": "MAR",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_western-sahara"
         }
       ]
     },
@@ -3328,7 +3507,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "BJ"
         },
         {
           "name": "Μπουρκίνα η)",
@@ -3338,7 +3518,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "BF"
         },
         {
           "name": "Πράσινο Ακρωτήριο",
@@ -3348,7 +3529,8 @@
             "Εσκούδο",
             "Σεντάβο"
           ],
-          "iso4217": "CVE"
+          "iso4217": "CVE",
+          "key": "CV"
         },
         {
           "name": "Ακτή Ελεφαντοστού",
@@ -3358,7 +3540,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "CI"
         },
         {
           "name": "Γκάμπια",
@@ -3368,7 +3551,8 @@
             "Νταλάσι",
             "Μπούτουτ"
           ],
-          "iso4217": "GMD"
+          "iso4217": "GMD",
+          "key": "GM"
         },
         {
           "name": "Γκάνα",
@@ -3378,7 +3562,8 @@
             "Σέντι",
             "Πεσέβα"
           ],
-          "iso4217": "GHS"
+          "iso4217": "GHS",
+          "key": "GH"
         },
         {
           "name": "Γουινέα",
@@ -3388,6 +3573,7 @@
             "Φράγκο"
           ],
           "iso4217": "GNF",
+          "key": "GN",
           "contemporary_units": [
             "Syli",
             "Cauri"
@@ -3401,7 +3587,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "GW"
         },
         {
           "name": "Λιβερία",
@@ -3411,7 +3598,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "LRD"
+          "iso4217": "LRD",
+          "key": "LR"
         },
         {
           "name": "Μαλί",
@@ -3421,7 +3609,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "ML"
         },
         {
           "name": "Μαυριτανία",
@@ -3431,7 +3620,8 @@
             "Ουγκίγια",
             "Χουμ"
           ],
-          "iso4217": "MRU"
+          "iso4217": "MRU",
+          "key": "MR"
         },
         {
           "name": "Νίγηρας",
@@ -3441,7 +3631,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "NE"
         },
         {
           "name": "Νιγηρία",
@@ -3451,7 +3642,8 @@
             "Νάιρα",
             "Κόμπο"
           ],
-          "iso4217": "NGN"
+          "iso4217": "NGN",
+          "key": "NG"
         },
         {
           "name": "Αγία Ελένη,",
@@ -3462,6 +3654,7 @@
             "Πένα"
           ],
           "iso4217": "SHP",
+          "key": "SH",
           "dependent": true
         },
         {
@@ -3472,7 +3665,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "SN"
         },
         {
           "name": "Σιέρα Λεόνε",
@@ -3482,7 +3676,8 @@
             "Λεόνε",
             "Σεντ"
           ],
-          "iso4217": "SLL"
+          "iso4217": "SLL",
+          "key": "SL"
         },
         {
           "name": "Τόγκο",
@@ -3492,7 +3687,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XOF"
+          "iso4217": "XOF",
+          "key": "TG"
         }
       ]
     },
@@ -3507,7 +3703,8 @@
             "Κουάνζα",
             "Σέντιμο"
           ],
-          "iso4217": "AOA"
+          "iso4217": "AOA",
+          "key": "AO"
         },
         {
           "name": "Καμερούν",
@@ -3517,7 +3714,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XAF"
+          "iso4217": "XAF",
+          "key": "CM"
         },
         {
           "name": "Κεντροαφρικανική Δημοκρατία",
@@ -3527,7 +3725,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XAF"
+          "iso4217": "XAF",
+          "key": "CF"
         },
         {
           "name": "Τσαντ",
@@ -3537,7 +3736,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XAF"
+          "iso4217": "XAF",
+          "key": "TD"
         },
         {
           "name": "Κονγκό",
@@ -3547,7 +3747,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XAF"
+          "iso4217": "XAF",
+          "key": "CG"
         },
         {
           "name": "Λαϊκή Δημοκρατία του Κονγκό",
@@ -3557,7 +3758,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "CDF"
+          "iso4217": "CDF",
+          "key": "CD"
         },
         {
           "name": "Ισημερινή Γουινέα",
@@ -3568,6 +3770,7 @@
             "Σαντίμ"
           ],
           "iso4217": "XAF",
+          "key": "GQ",
           "contemporary_units": [
             "Ekwele",
             "Peseta"
@@ -3581,7 +3784,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "XAF"
+          "iso4217": "XAF",
+          "key": "GA"
         },
         {
           "name": "Σάο Τομέ και Πρίνσιπε",
@@ -3591,7 +3795,8 @@
             "Ντόμπρα",
             "Σεντίμο"
           ],
-          "iso4217": "STN"
+          "iso4217": "STN",
+          "key": "ST"
         }
       ]
     },
@@ -3607,6 +3812,7 @@
             "Σεντ"
           ],
           "iso4217": "USD",
+          "key": "IO",
           "dependent": true
         },
         {
@@ -3617,7 +3823,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "BIF"
+          "iso4217": "BIF",
+          "key": "BI"
         },
         {
           "name": "Κομόρες",
@@ -3626,7 +3833,8 @@
           "units": [
             "Φράγκο"
           ],
-          "iso4217": "KMF"
+          "iso4217": "KMF",
+          "key": "KM"
         },
         {
           "name": "Τζιμπουτί",
@@ -3635,7 +3843,8 @@
           "units": [
             "Φράγκο"
           ],
-          "iso4217": "DJF"
+          "iso4217": "DJF",
+          "key": "DJ"
         },
         {
           "name": "Ερυθραία",
@@ -3645,7 +3854,8 @@
             "Νάκφα",
             "Σεντ"
           ],
-          "iso4217": "ERN"
+          "iso4217": "ERN",
+          "key": "ER"
         },
         {
           "name": "Αιθιοπία",
@@ -3655,7 +3865,8 @@
             "Μπιρ",
             "Σεντ"
           ],
-          "iso4217": "ETB"
+          "iso4217": "ETB",
+          "key": "ET"
         },
         {
           "name": "Γαλλικές περιοχές του νότιου ημισφαιρίου και της Ανταρκτικής",
@@ -3666,6 +3877,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "TF",
           "dependent": true
         },
         {
@@ -3676,7 +3888,8 @@
             "Σελίνι",
             "Σεντ"
           ],
-          "iso4217": "KES"
+          "iso4217": "KES",
+          "key": "KE"
         },
         {
           "name": "Μαδαγασκάρη",
@@ -3687,6 +3900,7 @@
             "Ιραϊμπιλάνγια"
           ],
           "iso4217": "MGA",
+          "key": "MG",
           "contemporary_units": [
             "Franc"
           ]
@@ -3699,7 +3913,8 @@
             "Κουάτσα",
             "Ταμπάλα"
           ],
-          "iso4217": "MWK"
+          "iso4217": "MWK",
+          "key": "MW"
         },
         {
           "name": "Μαυρίκιος",
@@ -3709,7 +3924,8 @@
             "Ρουπία",
             "Σεντ"
           ],
-          "iso4217": "MUR"
+          "iso4217": "MUR",
+          "key": "MU"
         },
         {
           "name": "Μαγιότ το)",
@@ -3720,6 +3936,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "YT",
           "dependent": true
         },
         {
@@ -3731,6 +3948,7 @@
             "Σεντάβο"
           ],
           "iso4217": "MZN",
+          "key": "MZ",
           "contemporary_units": [
             "Escudo",
             "Centavo"
@@ -3745,6 +3963,7 @@
             "Λεπτό"
           ],
           "iso4217": "EUR",
+          "key": "RE",
           "dependent": true
         },
         {
@@ -3755,7 +3974,8 @@
             "Φράγκο",
             "Σαντίμ"
           ],
-          "iso4217": "RWF"
+          "iso4217": "RWF",
+          "key": "RW"
         },
         {
           "name": "Σεϋχέλλες",
@@ -3765,7 +3985,8 @@
             "Ρουπία",
             "Σεντ"
           ],
-          "iso4217": "SCR"
+          "iso4217": "SCR",
+          "key": "SC"
         },
         {
           "name": "Σομαλία",
@@ -3775,7 +3996,8 @@
             "Σελίνι",
             "Σεντ"
           ],
-          "iso4217": "SOS"
+          "iso4217": "SOS",
+          "key": "SO"
         },
         {
           "name": "Νότιο Σουδάν",
@@ -3785,7 +4007,8 @@
             "Λίρα",
             "Πιάστρα"
           ],
-          "iso4217": "SSP"
+          "iso4217": "SSP",
+          "key": "SS"
         },
         {
           "name": "Ουγκάντα",
@@ -3795,7 +4018,8 @@
             "Σελίνι",
             "Σεντ"
           ],
-          "iso4217": "UGX"
+          "iso4217": "UGX",
+          "key": "UG"
         },
         {
           "name": "Τανζανία",
@@ -3805,7 +4029,8 @@
             "Σελίνι",
             "Σεντ"
           ],
-          "iso4217": "TZS"
+          "iso4217": "TZS",
+          "key": "TZ"
         },
         {
           "name": "Ζάμπια",
@@ -3815,7 +4040,8 @@
             "Κουάτσα",
             "Νγκουί"
           ],
-          "iso4217": "ZMW"
+          "iso4217": "ZMW",
+          "key": "ZM"
         },
         {
           "name": "Ζιμπάμπουε",
@@ -3825,7 +4051,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "ZWL"
+          "iso4217": "ZWL",
+          "key": "ZW"
         },
         {
           "name": "Somaliland",
@@ -3837,7 +4064,8 @@
           ],
           "iso4217": "SLS",
           "part_of": "SOM",
-          "unrecognized": true
+          "unrecognized": true,
+          "key": "_somaliland"
         }
       ]
     },
@@ -3852,7 +4080,8 @@
             "Πούλα",
             "Τέμπε"
           ],
-          "iso4217": "BWP"
+          "iso4217": "BWP",
+          "key": "BW"
         },
         {
           "name": "Εσουατίνι",
@@ -3862,7 +4091,8 @@
             "Λιλανγκένι",
             "Σεντ"
           ],
-          "iso4217": "SZL"
+          "iso4217": "SZL",
+          "key": "SZ"
         },
         {
           "name": "Λεσότο",
@@ -3872,7 +4102,8 @@
             "Λότι",
             "Σέντε"
           ],
-          "iso4217": "LSL"
+          "iso4217": "LSL",
+          "key": "LS"
         },
         {
           "name": "Ναμίμπια",
@@ -3882,7 +4113,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "NAD"
+          "iso4217": "NAD",
+          "key": "NA"
         },
         {
           "name": "Νότια Αφρική",
@@ -3893,6 +4125,7 @@
             "Σεντ"
           ],
           "iso4217": "ZAR",
+          "key": "ZA",
           "mints": [
             {
               "name": "Gold Reef City Mint",
@@ -3934,6 +4167,7 @@
             "Σεντ"
           ],
           "iso4217": "AUD",
+          "key": "AU",
           "mints": [
             {
               "name": "ABC Refinery",
@@ -4029,6 +4263,7 @@
             "Σεντ"
           ],
           "iso4217": "AUD",
+          "key": "CX",
           "dependent": true
         },
         {
@@ -4040,6 +4275,7 @@
             "Σεντ"
           ],
           "iso4217": "AUD",
+          "key": "CC",
           "dependent": true
         },
         {
@@ -4048,6 +4284,7 @@
           "alpha3": "HMD",
           "units": [],
           "iso4217": "—",
+          "key": "HM",
           "dependent": true
         },
         {
@@ -4059,6 +4296,7 @@
             "Σεντ"
           ],
           "iso4217": "NZD",
+          "key": "NZ",
           "mints": [
             {
               "name": "New Zealand Mint",
@@ -4079,6 +4317,7 @@
             "Σεντ"
           ],
           "iso4217": "AUD",
+          "key": "NF",
           "dependent": true
         }
       ]
@@ -4094,7 +4333,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "FJD"
+          "iso4217": "FJD",
+          "key": "FJ"
         },
         {
           "name": "Νέα Καληδονία",
@@ -4105,6 +4345,7 @@
             "Σαντίμ"
           ],
           "iso4217": "XPF",
+          "key": "NC",
           "dependent": true
         },
         {
@@ -4115,7 +4356,8 @@
             "Κίνα",
             "Τοέα"
           ],
-          "iso4217": "PGK"
+          "iso4217": "PGK",
+          "key": "PG"
         },
         {
           "name": "Νήσοι Σολομώντος",
@@ -4125,7 +4367,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "SBD"
+          "iso4217": "SBD",
+          "key": "SB"
         },
         {
           "name": "Βανουάτου",
@@ -4134,7 +4377,8 @@
           "units": [
             "Βάτου"
           ],
-          "iso4217": "VUV"
+          "iso4217": "VUV",
+          "key": "VU"
         }
       ]
     },
@@ -4150,6 +4394,7 @@
             "Σεντ"
           ],
           "iso4217": "USD",
+          "key": "GU",
           "dependent": true
         },
         {
@@ -4160,7 +4405,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "AUD"
+          "iso4217": "AUD",
+          "key": "KI"
         },
         {
           "name": "Νήσοι Μάρσαλ",
@@ -4170,7 +4416,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "USD"
+          "iso4217": "USD",
+          "key": "MH"
         },
         {
           "name": "Μικρονησία",
@@ -4180,7 +4427,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "USD"
+          "iso4217": "USD",
+          "key": "FM"
         },
         {
           "name": "Ναούρου",
@@ -4190,7 +4438,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "AUD"
+          "iso4217": "AUD",
+          "key": "NR"
         },
         {
           "name": "Βόρειες Μαριάνες Νήσοι",
@@ -4201,6 +4450,7 @@
             "Σεντ"
           ],
           "iso4217": "USD",
+          "key": "MP",
           "dependent": true
         },
         {
@@ -4211,7 +4461,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "USD"
+          "iso4217": "USD",
+          "key": "PW"
         },
         {
           "name": "Απομακρυσμένες Νησίδες των Ηνωμένων Πολιτειών",
@@ -4222,6 +4473,7 @@
             "Σεντ"
           ],
           "iso4217": "USD",
+          "key": "UM",
           "dependent": true
         }
       ]
@@ -4238,6 +4490,7 @@
             "Σεντ"
           ],
           "iso4217": "USD",
+          "key": "AS",
           "dependent": true
         },
         {
@@ -4249,6 +4502,7 @@
             "Σεντ"
           ],
           "iso4217": "NZD",
+          "key": "CK",
           "dependent": true
         },
         {
@@ -4260,6 +4514,7 @@
             "Σαντίμ"
           ],
           "iso4217": "XPF",
+          "key": "PF",
           "dependent": true
         },
         {
@@ -4271,6 +4526,7 @@
             "Σεντ"
           ],
           "iso4217": "NZD",
+          "key": "NU",
           "dependent": true
         },
         {
@@ -4282,6 +4538,7 @@
             "Σεντ"
           ],
           "iso4217": "NZD",
+          "key": "PN",
           "dependent": true
         },
         {
@@ -4292,7 +4549,8 @@
             "Τάλα",
             "Σένε"
           ],
-          "iso4217": "WST"
+          "iso4217": "WST",
+          "key": "WS"
         },
         {
           "name": "Τοκελάου το)",
@@ -4303,6 +4561,7 @@
             "Σεντ"
           ],
           "iso4217": "NZD",
+          "key": "TK",
           "dependent": true
         },
         {
@@ -4313,7 +4572,8 @@
             "Παάνγκα",
             "Σενίτι"
           ],
-          "iso4217": "TOP"
+          "iso4217": "TOP",
+          "key": "TO"
         },
         {
           "name": "Τουβαλού",
@@ -4323,7 +4583,8 @@
             "Δολάριο",
             "Σεντ"
           ],
-          "iso4217": "AUD"
+          "iso4217": "AUD",
+          "key": "TV"
         },
         {
           "name": "Ουάλις και Φουτούνα",
@@ -4334,6 +4595,7 @@
             "Σαντίμ"
           ],
           "iso4217": "XPF",
+          "key": "WF",
           "dependent": true
         }
       ]
