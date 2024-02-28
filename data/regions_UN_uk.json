@@ -3994,95 +3994,95 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "NE",
+          "alpha3": "NER",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "XOF",
+          "key": "NE"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "NG",
+          "alpha3": "NGA",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "NGN",
+          "key": "NG"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "SH",
+          "alpha3": "SHN",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "SHP",
+          "key": "SH",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "SN",
+          "alpha3": "SEN",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "XOF",
+          "key": "SN"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "SL",
+          "alpha3": "SLE",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "SLL",
+          "key": "SL"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "TG",
+          "alpha3": "TGO",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "XOF",
+          "key": "TG"
         },
         {
           "name": "",
           "alpha2": "",
-          "alpha3": "",
+          "alpha3": "XSL",
           "units": [
             "",
+            ""
+          ],
+          "iso4217": "SLS",
+          "part_of": "SOM",
+          "unrecognized": true,
+          "key": "_somaliland"
+        },
+        {
+          "name": "",
+          "alpha2": "EH",
+          "alpha3": "ESH",
+          "units": [
             ""
           ],
           "iso4217": "",
           "part_of": "",
           "unrecognized": true,
-          "key": ""
-        },
-        {
-          "name": "",
-          "alpha2": "",
-          "alpha3": "",
-          "units": [
-            ""
-          ],
-          "iso4217": "",
-          "part_of": "",
-          "unrecognized": true,
-          "key": ""
+          "key": "EH"
         }
       ]
     },
@@ -4091,14 +4091,14 @@
       "countries": [
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "AU",
+          "alpha3": "AUS",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "AUD",
+          "key": "AU",
           "mints": [
             {
               "name": "",
@@ -4187,47 +4187,47 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CX",
+          "alpha3": "CXR",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "AUD",
+          "key": "CX",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CC",
+          "alpha3": "CCK",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "AUD",
+          "key": "CC",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "HM",
+          "alpha3": "HMD",
           "units": [],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "—",
+          "key": "HM",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "NZ",
+          "alpha3": "NZL",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "NZD",
+          "key": "NZ",
           "mints": [
             {
               "name": "",
@@ -4241,8 +4241,8 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "NF",
+          "alpha3": "NFK",
           "units": [
             "",
             ""
