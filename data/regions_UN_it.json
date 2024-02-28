@@ -350,7 +350,7 @@
           "alpha2": "GG",
           "alpha3": "GGY",
           "units": [
-            "Pound",
+            "Pound - lira egiziana",
             "Penny"
           ],
           "iso4217": "GGP",
@@ -832,7 +832,7 @@
           "key": "MK"
         },
         {
-          "name": "Portugal",
+          "name": "Portogallo",
           "alpha2": "PT",
           "alpha3": "PRT",
           "units": [
@@ -1695,7 +1695,7 @@
           "alpha2": "PR",
           "alpha3": "PRI",
           "units": [
-            "Dollar",
+            "Dollaro",
             "Cent"
           ],
           "iso4217": "USD",
