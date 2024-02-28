@@ -1613,23 +1613,23 @@
         {
           "name": "Dominikanska republiken",
           "alpha2": "DO",
-          "alpha3": "",
+          "alpha3": "DOM",
           "units": [
             "Peso",
             ""
           ],
           "iso4217": "DOP",
-          "key": ""
+          "key": "DO"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "GD",
           "alpha3": "GRD",
           "units": [
             "",
             "Cent"
           ],
-          "iso4217": "",
+          "iso4217": "XCD",
           "key": "GD"
         },
         {
@@ -1641,30 +1641,30 @@
             ""
           ],
           "iso4217": "EUR",
-          "key": "",
+          "key": "GP",
           "dependent": true
         },
         {
           "name": "",
           "alpha2": "HT",
-          "alpha3": "",
+          "alpha3": "HTI",
           "units": [
             "",
             "Centime"
           ],
           "iso4217": "HTG",
-          "key": ""
+          "key": "HT"
         },
         {
           "name": "",
           "alpha2": "JM",
-          "alpha3": "",
+          "alpha3": "JAM",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "JMD",
+          "key": "JM"
         },
         {
           "name": "Martinique",
@@ -1674,26 +1674,26 @@
             "Euro",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "EUR",
+          "key": "MQ",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "MS",
           "alpha3": "MSR",
           "units": [
             "Dollar",
             "Cent"
           ],
-          "iso4217": "",
+          "iso4217": "XCD",
           "key": "MS",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "PR",
+          "alpha3": "PRI",
           "units": [
             "Dollar",
             ""
@@ -1704,26 +1704,26 @@
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "BL",
           "alpha3": "BLM",
           "units": [
             "Euro",
-            ""
+            "Cent"
           ],
-          "iso4217": "",
+          "iso4217": "EUR",
           "key": "BL",
           "dependent": true
         },
         {
           "name": "Saint Kitts and Nevis",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "KN",
+          "alpha3": "KNA",
           "units": [
             "Dollar",
             "Cent"
           ],
           "iso4217": "XCD",
-          "key": ""
+          "key": "KN"
         },
         {
           "name": "Saint Lucia",
@@ -1738,20 +1738,20 @@
         },
         {
           "name": "Saint Martin",
-          "alpha2": "",
+          "alpha2": "MF",
           "alpha3": "MAF",
           "units": [
             "",
             "Cent"
           ],
-          "iso4217": "",
+          "iso4217": "EUR",
           "key": "MF",
           "dependent": true
         },
         {
           "name": "Saint Vincent and the Grenadines",
           "alpha2": "VC",
-          "alpha3": "",
+          "alpha3": "VCT",
           "units": [
             "Dollar",
             "Cent"
@@ -1768,7 +1768,7 @@
             ""
           ],
           "iso4217": "ANG",
-          "key": "",
+          "key": "SX",
           "dependent": true
         },
         {
@@ -1790,25 +1790,25 @@
             "",
             "Cent"
           ],
-          "iso4217": "",
+          "iso4217": "USD",
           "key": "TC",
           "dependent": true
         },
         {
           "name": "United States Virgin Islands",
           "alpha2": "VI",
-          "alpha3": "",
+          "alpha3": "VIR",
           "units": [
             "Dollar",
             "Cent"
           ],
-          "iso4217": "",
+          "iso4217": "USD",
           "key": "VI",
           "dependent": true
         },
         {
           "name": "Belize",
-          "alpha2": "",
+          "alpha2": "BZ",
           "alpha3": "BLZ",
           "units": [
             "Dollar",
@@ -1825,13 +1825,13 @@
             "",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "CRC",
           "key": "CR"
         },
         {
           "name": "El Salvador",
           "alpha2": "SV",
-          "alpha3": "",
+          "alpha3": "SLV",
           "units": [
             "Colón",
             "entavo"
@@ -1842,7 +1842,7 @@
         {
           "name": "Guatemala",
           "alpha2": "GT",
-          "alpha3": "",
+          "alpha3": "GTM",
           "units": [
             "",
             "entavo"
@@ -1853,17 +1853,17 @@
         {
           "name": "Honduras",
           "alpha2": "HN",
-          "alpha3": "",
+          "alpha3": "HND",
           "units": [
             "Lempira",
             ""
           ],
           "iso4217": "HNL",
-          "key": ""
+          "key": "HN"
         },
         {
           "name": "Mexiko",
-          "alpha2": "",
+          "alpha2": "MX",
           "alpha3": "MEX",
           "units": [
             "Peso",
@@ -1874,7 +1874,7 @@
           "mints": [
             {
               "name": "Mexican Mint",
-              "local_name": "",
+              "local_name": "Casa de Moneda de México",
               "country": {
                 "MEX": "Mexiko"
               },
@@ -1885,14 +1885,14 @@
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "NI",
           "alpha3": "NIC",
           "units": [
             "Oro",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "NIO",
+          "key": "NI",
           "contemporary_units": [
             "Córdoba",
             "entavo"
@@ -1900,13 +1900,13 @@
         },
         {
           "name": "Panama",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "PA",
+          "alpha3": "PAN",
           "units": [
             "Balboa",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "PAB",
           "key": "PA"
         },
         {
@@ -1917,12 +1917,12 @@
             "Peso",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "ARS",
+          "key": "AR",
           "mints": [
             {
               "name": "Mint of Argentina",
-              "local_name": "",
+              "local_name": "Casa de Moneda de la República Argentina",
               "country": {
                 "ARG": "Argentina"
               },
@@ -1940,7 +1940,7 @@
             "entavo"
           ],
           "iso4217": "BOB",
-          "key": ""
+          "key": "BO"
         },
         {
           "name": "Bouvet Island",
@@ -1980,17 +1980,17 @@
         {
           "name": "Chile",
           "alpha2": "CL",
-          "alpha3": "",
+          "alpha3": "CHL",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "CLP",
+          "key": "CL",
           "mints": [
             {
               "name": "",
-              "local_name": "",
+              "local_name": "Casa de Moneda de Chile",
               "country": {
                 "CHL": ""
               },
@@ -2001,25 +2001,25 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CO",
+          "alpha3": "COL",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "COP",
+          "key": "CO"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "EC",
           "alpha3": "ECU",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "USD",
+          "key": "EC",
           "contemporary_units": [
             "Sucre",
             ""
@@ -2027,60 +2027,60 @@
         },
         {
           "name": "Falkland Islands (Malvinas)",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "FK",
+          "alpha3": "FLK",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "FKP",
           "key": "FK",
           "dependent": true
         },
         {
           "name": "",
           "alpha2": "GF",
-          "alpha3": "",
+          "alpha3": "GUF",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "EUR",
           "key": "GF",
           "dependent": true
         },
         {
           "name": "Guyana",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "GY",
+          "alpha3": "GUY",
           "units": [
             "",
             ""
           ],
           "iso4217": "GYD",
-          "key": ""
+          "key": "GY"
         },
         {
           "name": "",
           "alpha2": "PY",
-          "alpha3": "",
+          "alpha3": "PRY",
           "units": [
             "Guaraní",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "PYG",
+          "key": "PY"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "PE",
           "alpha3": "PER",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "PEN",
+          "key": "PE",
           "contemporary_units": [
             "",
             "",
@@ -2092,20 +2092,20 @@
           "alpha2": "GS",
           "alpha3": "SGS",
           "units": [],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "—",
+          "key": "GS",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "SR",
           "alpha3": "SUR",
           "units": [
             "Dollar",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "SRD",
+          "key": "SR",
           "contemporary_units": [
             "Guilder",
             "Cent"
@@ -2113,51 +2113,51 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "UY",
+          "alpha3": "URY",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "UYU",
+          "key": "UY"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "VE",
+          "alpha3": "VEN",
           "units": [
             "Bolívar",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "VES",
+          "key": "VE"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "BM",
+          "alpha3": "BMU",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "BMD",
+          "key": "BM",
           "dependent": true
         },
         {
           "name": "Kanada",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CA",
+          "alpha3": "CAN",
           "units": [
             "",
             ""
           ],
           "iso4217": "CAD",
-          "key": "",
+          "key": "CA",
           "mints": [
             {
-              "name": "",
+              "name": "Argentia Precious Metals",
               "country": {
                 "CAN": ""
               },
@@ -2176,14 +2176,14 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "GL",
+          "alpha3": "GRL",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "DKK",
+          "key": "GL",
           "dependent": true
         },
         {
