@@ -257,7 +257,7 @@
             {
               "name": "Altona Mint",
               "country": {
-                "DNK": "Denmark"
+                "DNK": "Denemarken"
               },
               "location": "Altona",
               "from_year": 1771,
@@ -1071,7 +1071,7 @@
             {
               "name": "Strasbourg Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "Frankrijk"
               },
               "location": "Strasbourg",
               "from_year": 962,
