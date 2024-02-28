@@ -3950,47 +3950,47 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "GW",
+          "alpha3": "GNB",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "XOF",
+          "key": "GW"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "LR",
+          "alpha3": "LBR",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "LRD",
+          "key": "LR"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "ML",
+          "alpha3": "MLI",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "XOF",
+          "key": "ML"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "MR",
+          "alpha3": "MRT",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "MRU",
+          "key": "MR"
         },
         {
           "name": "",
