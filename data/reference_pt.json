@@ -1,0 +1,328 @@
+[
+  {
+    "name": "category",
+    "title": "Categoria",
+    "has_icons": false,
+    "values": {
+      "coin": "Moeda",
+      "banknote": "Nota bancária",
+      "stamp": "Selo",
+      "postcard": "Postal"
+    }
+  },
+  {
+    "name": "rarity",
+    "title": "Raridade",
+    "has_icons": false,
+    "values": {
+      "common": "Comum",
+      "normal": "Normal",
+      "scarce": "Escassa",
+      "rare": "Rara",
+      "unique": "Única",
+      "in-sets-only": "Só em conjuntos"
+    }
+  },
+  {
+    "name": "quality",
+    "title": "Qualidade",
+    "has_icons": false,
+    "values": {
+      "uncirculated": "Não circulada",
+      "brilliant-uncirculated": "Brilhante não circulada",
+      "proof": "Proof",
+      "proof-like": "Tipo Proof",
+      "reverse-frosted": "Reverso congelado"
+    }
+  },
+  {
+    "name": "defect",
+    "title": "Defeito",
+    "has_icons": false,
+    "values": {
+      "clipped-planchet": "Peça aparada",
+      "lamination": "Laminação",
+      "off-center-strike": "Descentrada",
+      "multiple-strike": "Cunhagem múltipla",
+      "mule": "Mulo",
+      "doubled-die": "Dupla impressão",
+      "brockage": "Brocado"
+    }
+  },
+  {
+    "name": "type",
+    "title": "Tipo",
+    "has_icons": false,
+    "values": {
+      "regular-issue": "Emissão regular",
+      "commemorative": "Comemorativa",
+      "bullion": "Lingote",
+      "restrike": "Recunhagem",
+      "pattern": "Padrão"
+    }
+  },
+  {
+    "name": "format",
+    "title": "Formato",
+    "has_icons": false,
+    "values": {
+      "single": "Única",
+      "set": "Conjunto",
+      "coincard": "Coincard",
+      "roll": "Rolo"
+    }
+  },
+  {
+    "name": "obvrev",
+    "title": "ObvRev",
+    "has_icons": false,
+    "values": {
+      "↑↑-medallic": "↑↑ Medalhística",
+      "↑↓-coin": "↑↓ Moeda",
+      "↺-variable": "↺ Variável"
+    }
+  },
+  {
+    "name": "edge",
+    "title": "Rebordo",
+    "has_icons": false,
+    "values": {
+      "reeded": "Recartilhado",
+      "plain": "Lisa",
+      "decorated": "Decorada",
+      "segmented-reeding": "Rendilhado segmentado",
+      "lettered": "Letrado"
+    }
+  },
+  {
+    "name": "shape",
+    "title": "Forma",
+    "has_icons": true,
+    "values": {
+      "round": "Redondo",
+      "irregular": "Redonda (irregular)",
+      "square": "Quadrada",
+      "polygon": "Polígonal",
+      "spanish": "Flor espanhola",
+      "hole": "Redonda com buraco",
+      "half": "Meio círculo",
+      "klippe": "Klippe",
+      "scalloped": "Recortada"
+    }
+  },
+  {
+    "name": "material",
+    "title": "Material",
+    "has_icons": false,
+    "values": {
+      "acmonital": "Acmonital",
+      "aluminium": "Alumínio",
+      "aluminium-bronze": "Alumínio-Bronze",
+      "antimony": "Antimónio",
+      "brass": "Latão",
+      "bronze": "Bronze",
+      "cobalt": "Cobalto",
+      "copper": "Cobre",
+      "cupronickel": "Cupro-níquel",
+      "gold": "Ouro",
+      "iron": "Ferro",
+      "magnesium": "Magnésio",
+      "manganese": "Manganês",
+      "melchior": "Melchior",
+      "nickel": "Níquel",
+      "nickel-silver": "Níquel-Prata",
+      "nordic-gold": "Ouro branco",
+      "palladium": "Paládio",
+      "platinum": "Platina",
+      "silver": "Prata",
+      "steel": "Aço",
+      "tantalum": "Tântalo",
+      "tombac": "Tombac",
+      "tellurium": "Telúrio",
+      "tin": "Lata",
+      "zinc": "Zinco"
+    }
+  },
+  {
+    "name": "composition",
+    "title": "Composição",
+    "has_icons": false,
+    "values": {
+      "single": "Única",
+      "plated": "Folheada",
+      "clad": "Revestida",
+      "bimetallic": "Bimetálica"
+    }
+  },
+  {
+    "name": "technique",
+    "title": "Técnica",
+    "has_icons": false,
+    "values": {
+      "milled": "Fresada",
+      "cast": "Fundida",
+      "hammered": "Martelada",
+      "engraved": "Gravada",
+      "cobs": "Espigas",
+      "klippe": "Klippe",
+      "wire": "Fio",
+      "scyphate": "Scyphate"
+    }
+  },
+  {
+    "name": "modification",
+    "title": "Modificação",
+    "has_icons": false,
+    "values": {
+      "colored": "Colorida",
+      "countermarked": "Contra-marca",
+      "holed": "Furada",
+      "cut": "Cortada"
+    }
+  },
+  {
+    "name": "grade",
+    "title": "Grau",
+    "has_icons": false,
+    "values": {
+      "unc": "S/FDC",
+      "au": "QNC",
+      "xf": "Bela",
+      "vf": "MBC",
+      "f": "F",
+      "vg": "VG"
+    }
+  },
+  {
+    "name": "grader",
+    "title": "Calibrador",
+    "has_icons": true,
+    "values": {
+      "anacs": "ANACS",
+      "iccs": "ICCS",
+      "icg": "ICG",
+      "ngc": "NGC",
+      "pcgs": "PCGS",
+      "pmg": "PMG",
+      "rnga": "RNGA"
+    }
+  },
+  {
+    "name": "place",
+    "title": "Local",
+    "has_icons": true,
+    "values": {
+      "ebay": "eBay",
+      "heritage": "Heritage"
+    }
+  },
+  {
+    "name": "color",
+    "title": "Colors",
+    "has_icons": true,
+    "values": {
+      "multicolor": "Multi-cor",
+      "black-white": "Preto e branco",
+      "brown-lake": "Castanho lago",
+      "lake": "Lago",
+      "crimson": "Carmesim",
+      "carmine": "Carmim",
+      "rose": "Rosa",
+      "rose-red": "Rosa avermelhado",
+      "rosine": "Rosina",
+      "carmine-red": "Carmesim avermelhado",
+      "scarlet": "Escarlate",
+      "vermilion": "Vermelhão",
+      "red": "Vermelho",
+      "brown-red": "Castanho avermelhado",
+      "venetian-red": "Vermelho Veneza",
+      "flesh": "Carne",
+      "salmon": "Salmão",
+      "orange-red": "Laranja avermelhado",
+      "red-orange": "Vermelho alaranjado",
+      "orange": "Laranja",
+      "yellow-orange": "Amarelo alaranjado",
+      "orange-yellow": "Laranja amarelado",
+      "yellow": "Amarelo",
+      "lemon": "Limão",
+      "greenish-yellow": "Amarelo esverdeado",
+      "olive-yellow": "Amarelo azeitona",
+      "yellow-olive": "Azeitona amarelado",
+      "olive-green": "Verde azeitona",
+      "sage-green": "Verde prudente",
+      "apple-green": "Verde maçã",
+      "yellow-green": "Amarelo esverdeado",
+      "bright-green": "Verde brilhante",
+      "bronze-green": "Verde bronze",
+      "blackish-olive": "Azeitona escuro",
+      "blackish-green": "Verde escuro",
+      "slate-green": "Verde ardósia",
+      "grey-green": "Verde acinzentado",
+      "dull-green": "Verde baço",
+      "green": "Verde",
+      "myrtle-green": "Verde mirtilo",
+      "emerald": "Esmeralda",
+      "blue-green": "Verde azulado",
+      "deep-bluish-green": "Verde escuro azulado",
+      "turquoise-green": "Verde turquesa",
+      "turquoise-blue": "Azul turquesa",
+      "light-blue": "Azul claro",
+      "greenish-blue": "Azul esverdeado",
+      "new-blue": "Azul novo",
+      "blue": "Azul",
+      "steel-blue": "Azul aço",
+      "prussian-blue": "Azul Prússia",
+      "slate-blue": "Azul ardósia",
+      "indigo": "Índigo",
+      "grey-blue": "Azul acinzentado",
+      "deep-blue": "Azul profundo",
+      "cobalt": "Cobalto",
+      "bright-blue": "Azul brilhante",
+      "royal-blue": "Azul real",
+      "chalky-blue": "Azul giz",
+      "ultramarine": "Ultramarino",
+      "violet-blue": "Azul violeta",
+      "lavender": "Lavanda",
+      "bluish-violet": "Violeta azulado",
+      "violet": "Violeta",
+      "reddish-violet": "Violeta avermelhado",
+      "slate-violet": "Violeta ardósia",
+      "agate": "Ágata",
+      "slate-purple": "Púrpura ardósia",
+      "slate-lilac": "Lilás ardósia",
+      "lilac": "Lilás",
+      "reddish-lilac": "Lilás avermelhado",
+      "dull-purple": "Púrpura  baço",
+      "claret": "Clarete",
+      "cerise": "Cereja",
+      "magenta": "Magenta",
+      "mauve": "Malva",
+      "bright-purple": "Púrpura brilhante",
+      "purple": "Púrpura",
+      "plum": "Ameixa",
+      "reddish-purple": "Púrpura avermelhado",
+      "maroon": "Castanho",
+      "brown-purple": "Castanho púrpura",
+      "purple-brown": "Púrpura acastanhado",
+      "chocolate": "Chocolate",
+      "lake-brown": "Castanho lago",
+      "red-brown": "Vermelho acastanhado",
+      "chestnut": "Avelã",
+      "orange-brown": "Laranja acastanhado",
+      "cinnamon": "Canela",
+      "buff": "Castanho amarelado",
+      "ochre": "Ocre",
+      "yellow-brown": "Amarelo acastanhado",
+      "brown": "Castanho",
+      "blackish-brown": "Castanho escuro",
+      "sepia": "Sépia",
+      "bistre-brown": "Castanho bistre",
+      "bistre": "Bistre",
+      "olive-brown": "Azeitona acastanhado",
+      "drab": "Monótono",
+      "olive-grey": "Azeitona acinzentado",
+      "grey": "Cinzento",
+      "slate": "Ardósia"
+    }
+  }
+]
