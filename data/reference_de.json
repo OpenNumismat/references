@@ -1,0 +1,328 @@
+[
+  {
+    "name": "category",
+    "title": "Kategorie",
+    "has_icons": false,
+    "values": {
+      "coin": "Münze",
+      "banknote": "Banknote",
+      "stamp": "Briefmarke",
+      "postcard": "Postkarte"
+    }
+  },
+  {
+    "name": "rarity",
+    "title": "Seltenheit",
+    "has_icons": false,
+    "values": {
+      "common": "üblich",
+      "normal": "normal",
+      "scarce": "ungewöhnlich",
+      "rare": "selten",
+      "unique": "einzigartig",
+      "in-sets-only": "Nur in Sets"
+    }
+  },
+  {
+    "name": "quality",
+    "title": "Qualität",
+    "has_icons": false,
+    "values": {
+      "uncirculated": "bankfrisch",
+      "brilliant-uncirculated": "bankfrisch / stgl",
+      "proof": "Polierte Platte",
+      "proof-like": "Spiegelglanz",
+      "reverse-frosted": "Rückseite mattiert"
+    }
+  },
+  {
+    "name": "defect",
+    "title": "Fehler",
+    "has_icons": false,
+    "values": {
+      "clipped-planchet": "Beschnittener Schrötling",
+      "lamination": "Beschichtung",
+      "off-center-strike": "dezentrierte Prägung",
+      "multiple-strike": "Mehrfach-Prägung",
+      "mule": "Zwitterprägung",
+      "doubled-die": "Doppelprägung",
+      "brockage": "\"Brockage\"-Fehler"
+    }
+  },
+  {
+    "name": "type",
+    "title": "Typ",
+    "has_icons": false,
+    "values": {
+      "regular-issue": "Normal-Ausgabe",
+      "commemorative": "Gedenkausgabe",
+      "bullion": "Barren/Anlagemünze",
+      "restrike": "Nachprägung",
+      "pattern": "Probe/Muster"
+    }
+  },
+  {
+    "name": "format",
+    "title": "Format",
+    "has_icons": false,
+    "values": {
+      "single": "einzeln",
+      "set": "Set",
+      "coincard": "Coincard",
+      "roll": "Rolle"
+    }
+  },
+  {
+    "name": "obvrev",
+    "title": "Av/Rück",
+    "has_icons": false,
+    "values": {
+      "↑↑-medallic": "↑↑ ",
+      "↑↓-coin": "↑↓",
+      "↺-variable": "↺ Variable"
+    }
+  },
+  {
+    "name": "edge",
+    "title": "Rand",
+    "has_icons": false,
+    "values": {
+      "reeded": "geriffelt",
+      "plain": "glatt",
+      "decorated": "verziert",
+      "segmented-reeding": "segmentiert geriffelt",
+      "lettered": "beschriftet"
+    }
+  },
+  {
+    "name": "shape",
+    "title": "Form",
+    "has_icons": true,
+    "values": {
+      "round": "rund",
+      "irregular": "rund (unregelmäßig)",
+      "square": "quadratisch",
+      "polygon": "mehreckig",
+      "spanish": "Spanische Blume",
+      "hole": "rund mit Loch",
+      "half": "Halbkreis",
+      "klippe": "Klippe",
+      "scalloped": "gewellt"
+    }
+  },
+  {
+    "name": "material",
+    "title": "Material",
+    "has_icons": false,
+    "values": {
+      "acmonital": "Acmonital",
+      "aluminium": "Aluminium",
+      "aluminium-bronze": "Aluminiumbronze",
+      "antimony": "Antimon",
+      "brass": "Messing",
+      "bronze": "Bronze",
+      "cobalt": "Kobalt",
+      "copper": "Kupfer",
+      "cupronickel": "Kupfer-Nickel",
+      "gold": "Gold",
+      "iron": "Eisen",
+      "magnesium": "Magnesium",
+      "manganese": "Mangan",
+      "melchior": "Neusilber",
+      "nickel": "Nickel",
+      "nickel-silver": "Neusilber",
+      "nordic-gold": "Nordisches Gold",
+      "palladium": "Palladium",
+      "platinum": "Platin",
+      "silver": "Silber",
+      "steel": "Stahl",
+      "tantalum": "Tantal",
+      "tombac": "Tombak",
+      "tellurium": "Tellur",
+      "tin": "Zinn",
+      "zinc": "Zink"
+    }
+  },
+  {
+    "name": "composition",
+    "title": "Zusammensetzung",
+    "has_icons": false,
+    "values": {
+      "single": "einzeln",
+      "plated": "plattiert",
+      "clad": "gekleidet",
+      "bimetallic": "Bi-Metall"
+    }
+  },
+  {
+    "name": "technique",
+    "title": "Verfahren",
+    "has_icons": false,
+    "values": {
+      "milled": "gefräst",
+      "cast": "gegossen",
+      "hammered": "gehämmert",
+      "engraved": "graviert",
+      "cobs": "Cobs",
+      "klippe": "Klippe",
+      "wire": "Draht",
+      "scyphate": "tassen-/tellerförmig"
+    }
+  },
+  {
+    "name": "modification",
+    "title": "Abweichung",
+    "has_icons": false,
+    "values": {
+      "colored": "farbig",
+      "countermarked": "gegengestempelt",
+      "holed": "durchlöchert",
+      "cut": "geschnitten"
+    }
+  },
+  {
+    "name": "grade",
+    "title": "Erhaltung",
+    "has_icons": false,
+    "values": {
+      "unc": "pfr",
+      "au": "AU",
+      "xf": "vz",
+      "vf": "ss",
+      "f": "F",
+      "vg": "VG"
+    }
+  },
+  {
+    "name": "grader",
+    "title": "Zertifizierer",
+    "has_icons": true,
+    "values": {
+      "anacs": "ANACS",
+      "iccs": "ICCS",
+      "icg": "ICG",
+      "ngc": "NGC",
+      "pcgs": "PCGS",
+      "pmg": "PMG",
+      "rnga": "RNGA"
+    }
+  },
+  {
+    "name": "place",
+    "title": "Ort",
+    "has_icons": true,
+    "values": {
+      "ebay": "eBay",
+      "heritage": "Heritage"
+    }
+  },
+  {
+    "name": "color",
+    "title": "Colors",
+    "has_icons": true,
+    "values": {
+      "multicolor": "Mehrfarbig",
+      "black-white": "Schwarz-Weiß",
+      "brown-lake": "braun-seefarben",
+      "lake": "seefarben",
+      "crimson": "Karmesinrot",
+      "carmine": "karminfarben",
+      "rose": "Rosa",
+      "rose-red": "Rosa-Rot",
+      "rosine": "rosinenfarben",
+      "carmine-red": "Karmesinrot",
+      "scarlet": "Scharlachrot",
+      "vermilion": "Zinnoberrot ",
+      "red": "Rot",
+      "brown-red": "Rotbraun",
+      "venetian-red": "Venezianisch Rot",
+      "flesh": "Fleischfarben",
+      "salmon": "Lachs",
+      "orange-red": "Orange-Rot",
+      "red-orange": "Rot-Orange",
+      "orange": "Orange",
+      "yellow-orange": "Gelb-Orange",
+      "orange-yellow": "Orange-Gelb",
+      "yellow": "Gelb",
+      "lemon": "Limone",
+      "greenish-yellow": "Grüngelb",
+      "olive-yellow": "Olivgelb",
+      "yellow-olive": "Gelb-Oliv",
+      "olive-green": "Olivgrün",
+      "sage-green": "Salbeigrün",
+      "apple-green": "Apfelgrün",
+      "yellow-green": "Gelbgrün",
+      "bright-green": "Hellgrün",
+      "bronze-green": "Bronze-Grün",
+      "blackish-olive": "schwarzoliv",
+      "blackish-green": "schwarzgrün",
+      "slate-green": "Schiefergrün",
+      "grey-green": "Graugrün",
+      "dull-green": "Stumpfes Grün",
+      "green": "Grün",
+      "myrtle-green": "Myrtengrün",
+      "emerald": "Smaragdgrün",
+      "blue-green": "Blaugrün",
+      "deep-bluish-green": "Tiefes Blaugrün",
+      "turquoise-green": "Türkiesgrün",
+      "turquoise-blue": "Türkiesblau",
+      "light-blue": "Hellblau",
+      "greenish-blue": "Grünliches Blau",
+      "new-blue": "neues Blau",
+      "blue": "Blau",
+      "steel-blue": "Stahlblau",
+      "prussian-blue": "Preussisch Blau",
+      "slate-blue": "Schieferblau",
+      "indigo": "Indigo",
+      "grey-blue": "Graublau",
+      "deep-blue": "Tiefblau",
+      "cobalt": "Kobalt",
+      "bright-blue": "Hellblau",
+      "royal-blue": "Royalblau",
+      "chalky-blue": "kreideblau",
+      "ultramarine": "Ultramarin",
+      "violet-blue": "Violettblau",
+      "lavender": "Lavendel",
+      "bluish-violet": "Bläuliches Violett",
+      "violet": "Violett",
+      "reddish-violet": "Rötliches Violett",
+      "slate-violet": "schiefer-violett",
+      "agate": "Achat",
+      "slate-purple": "schiefer-ila",
+      "slate-lilac": "schiefer-/fliederfarben",
+      "lilac": "Flieder",
+      "reddish-lilac": "rötlich lila",
+      "dull-purple": "Stumpfes Lila",
+      "claret": "rotweinfarbig",
+      "cerise": "kirschrot",
+      "magenta": "Magenta",
+      "mauve": "Malve",
+      "bright-purple": "helles Lila",
+      "purple": "Purpur",
+      "plum": "Kastanienbraun",
+      "reddish-purple": "rot-lila",
+      "maroon": "Kastanie",
+      "brown-purple": "braun-lila",
+      "purple-brown": "lila-braun",
+      "chocolate": "Schokolade",
+      "lake-brown": "see-braun",
+      "red-brown": "Rotbraun",
+      "chestnut": "Kastanie",
+      "orange-brown": "Orangebraun",
+      "cinnamon": "Zimt",
+      "buff": "Ocker",
+      "ochre": "Ocker",
+      "yellow-brown": "Gelbraun",
+      "brown": "Braun",
+      "blackish-brown": "Schwarzbraun",
+      "sepia": "Sepia",
+      "bistre-brown": "bistro-braun",
+      "bistre": "Bister",
+      "olive-brown": "Olivbraun",
+      "drab": "farblos",
+      "olive-grey": "Olivgrau",
+      "grey": "Grau",
+      "slate": "Schiefer"
+    }
+  }
+]
