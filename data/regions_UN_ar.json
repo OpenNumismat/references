@@ -56,7 +56,7 @@
           "key": "CZ",
           "mints": [
             {
-              "name": "",
+              "name": "Czech Mint",
               "local_name": "Česká mincovna",
               "country": {
                 "CZE": "Czechia"
