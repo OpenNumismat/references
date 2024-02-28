@@ -2871,18 +2871,18 @@
             ""
           ],
           "iso4217": "BTN",
-          "key": ""
+          "key": "BT"
         },
         {
           "name": "",
           "alpha2": "IN",
-          "alpha3": "",
+          "alpha3": "IND",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "INR",
+          "key": "IN",
           "mints": [
             {
               "name": "",
@@ -2928,36 +2928,36 @@
         },
         {
           "name": "Iran",
-          "alpha2": "",
+          "alpha2": "IR",
           "alpha3": "IRN",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "IRR",
+          "key": "IR"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "MV",
+          "alpha3": "MDV",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "MVR",
+          "key": "MV"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "NP",
+          "alpha3": "NPL",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "NPR",
+          "key": "NP",
           "mints": [
             {
               "name": "",
@@ -2971,69 +2971,69 @@
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "PK",
           "alpha3": "PAK",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "PKR",
+          "key": "PK"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "LK",
+          "alpha3": "LKA",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "LKR",
+          "key": "LK"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "AM",
+          "alpha3": "ARM",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "AMD",
+          "key": "AM"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "AZ",
           "alpha3": "AZE",
           "units": [
             "Manat",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "AZN",
+          "key": "AZ"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "BH",
           "alpha3": "BHR",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "BHD",
+          "key": "BH"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CY",
+          "alpha3": "CYP",
           "units": [
             "Euro",
             ""
           ],
           "iso4217": "EUR",
-          "key": "",
+          "key": "CY",
           "contemporary_units": [
             "",
             ""
@@ -3041,36 +3041,36 @@
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "GE",
           "alpha3": "GEO",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "GEL",
+          "key": "GE"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "IQ",
           "alpha3": "IRQ",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "IQD",
+          "key": "IQ"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "IL",
           "alpha3": "ISR",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "ILS",
+          "key": "IL",
           "contemporary_units": [
             "",
             "",
@@ -3089,58 +3089,58 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "JO",
+          "alpha3": "JOR",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "JOD",
+          "key": "JO"
         },
         {
           "name": "",
           "alpha2": "KW",
-          "alpha3": "",
+          "alpha3": "KWT",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "KWD",
+          "key": "KW"
         },
         {
           "name": "Lebanon",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "LB",
+          "alpha3": "LBN",
           "units": [
             "Pound",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "LBP",
+          "key": "LB"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "OM",
+          "alpha3": "OMN",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "OMR",
           "key": "OM"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "QA",
+          "alpha3": "QAT",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "QAR",
+          "key": "QA"
         },
         {
           "name": "",
