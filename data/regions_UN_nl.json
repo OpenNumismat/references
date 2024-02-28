@@ -28,7 +28,7 @@
             {
               "name": "Bulmint",
               "country": {
-                "BGR": "Bulgaria"
+                "BGR": "Bulgarije"
               },
               "location": "Plovdiv",
               "from_year": 2004
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "name": "Czechia",
+          "name": "Tsjechië",
           "alpha2": "CZ",
           "alpha3": "CZE",
           "units": [
@@ -476,7 +476,7 @@
               "name": "Mint of Norway; ex Den Kongelige Mynt",
               "local_name": "Det Norske Myntverket",
               "country": {
-                "NOR": "Norway"
+                "NOR": "Noorwegen"
               },
               "location": "Kongsberg",
               "from_year": 1686
@@ -507,7 +507,7 @@
           "key": "SE"
         },
         {
-          "name": "United Kingdom",
+          "name": "Verenigd Koninkrijk",
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
@@ -545,7 +545,7 @@
             {
               "name": "John Pinches Medallists",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Verenigd Koninkrijk"
               },
               "location": "London",
               "from_year": 1840,
@@ -572,7 +572,7 @@
             {
               "name": "Pobjoy Mint",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Verenigd Koninkrijk"
               },
               "location": "Surrey",
               "from_year": 1965
@@ -739,7 +739,7 @@
           ]
         },
         {
-          "name": "Vatican City",
+          "name": "Vaticaanstad",
           "alpha2": "VA",
           "alpha3": "VAT",
           "units": [
@@ -941,7 +941,7 @@
             {
               "name": "Granada Mint",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Spanje"
               },
               "location": "Granada",
               "from_year": 1492,
@@ -978,7 +978,7 @@
               "name": "Austrian Mint",
               "local_name": "Münze Österreich",
               "country": {
-                "AUT": "Austria"
+                "AUT": "Oostenrijk"
               },
               "location": "Vienna",
               "from_year": 1194
@@ -1054,7 +1054,7 @@
               "name": "Paris Mint",
               "local_name": "Monnaie de Paris",
               "country": {
-                "FRA": "France"
+                "FRA": "Frankrijk"
               },
               "location": "Pessac",
               "from_year": 864
@@ -1062,7 +1062,7 @@
             {
               "name": "Poissy Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "Frankrijk"
               },
               "location": "Poissy",
               "from_year": 1922,
@@ -1121,7 +1121,7 @@
             {
               "name": "Geiger Edelmetalle",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Duitsland"
               },
               "location": "Leipzig",
               "from_year": 1218
@@ -1227,7 +1227,7 @@
             {
               "name": "Staatliche Münzen Baden-Württemberg",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Duitsland"
               },
               "location": "Karlsruhe and Stuttgart",
               "from_year": 1998
@@ -1265,7 +1265,7 @@
           ]
         },
         {
-          "name": "Luxembourg",
+          "name": "Luxemburg",
           "alpha2": "LU",
           "alpha3": "LUX",
           "units": [
@@ -1910,7 +1910,7 @@
           "key": "PA"
         },
         {
-          "name": "Argentina",
+          "name": "Argentinië",
           "alpha2": "AR",
           "alpha3": "ARG",
           "units": [
@@ -2561,7 +2561,7 @@
               "country": {
                 "HKG": ""
               },
-              "location": "Hong Kong",
+              "location": "Hongkong",
               "from_year": 2012
             }
           ]
@@ -3187,7 +3187,7 @@
           ]
         },
         {
-          "name": "United Arab Emirates",
+          "name": "Verenigde Arabische Emiraten",
           "alpha2": "",
           "alpha3": "",
           "units": [
