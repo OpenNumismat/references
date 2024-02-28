@@ -2108,7 +2108,7 @@
           "key": "SR",
           "contemporary_units": [
             "Guilder",
-            "Cent"
+            "Цент"
           ]
         },
         {
@@ -3036,7 +3036,7 @@
           "key": "CY",
           "contemporary_units": [
             "Pound",
-            "Cent"
+            "Цент"
           ]
         },
         {
@@ -3260,7 +3260,7 @@
           "alpha3": "TWN",
           "units": [
             "Dollar",
-            "Cent"
+            "Цент"
           ],
           "iso4217": "TWD",
           "part_of": "CHN",
