@@ -3843,229 +3843,229 @@
           "key": "ZA",
           "mints": [
             {
-              "name": "Gold Reef City Mint",
+              "name": "",
               "country": {
-                "ZAF": "South Africa"
+                "ZAF": ""
               },
-              "location": "Germiston",
+              "location": "",
               "from_year": 1976
             },
             {
-              "name": "Rand Refinery",
+              "name": "",
               "country": {
-                "ZAF": "South Africa"
+                "ZAF": ""
               },
-              "location": "Germiston",
+              "location": "",
               "from_year": 1920
             },
             {
-              "name": "South African Mint",
+              "name": "",
               "country": {
-                "ZAF": "South Africa"
+                "ZAF": ""
               },
-              "location": "Centurion",
+              "location": "",
               "from_year": 1923
             }
           ]
         },
         {
-          "name": "Benin",
+          "name": "",
           "alpha2": "BJ",
-          "alpha3": "BEN",
+          "alpha3": "",
           "units": [
-            "Franc",
-            "Centime"
+            "",
+            ""
           ],
           "iso4217": "XOF",
           "key": "BJ"
         },
         {
-          "name": "Burkina Faso",
+          "name": "",
           "alpha2": "BF",
           "alpha3": "BFA",
           "units": [
-            "Franc",
-            "Centime"
+            "",
+            ""
           ],
           "iso4217": "XOF",
           "key": "BF"
         },
         {
-          "name": "Cabo Verde",
+          "name": "",
           "alpha2": "CV",
           "alpha3": "CPV",
           "units": [
-            "Escudo",
-            "Centavo"
+            "",
+            ""
           ],
           "iso4217": "CVE",
           "key": "CV"
         },
         {
-          "name": "Côte d’Ivoire",
+          "name": "",
           "alpha2": "CI",
           "alpha3": "CIV",
           "units": [
-            "Franc",
-            "Centime"
+            "",
+            ""
           ],
           "iso4217": "XOF",
           "key": "CI"
         },
         {
-          "name": "Gambia",
+          "name": "",
           "alpha2": "GM",
           "alpha3": "GMB",
           "units": [
-            "Dalasi",
-            "Butut"
+            "",
+            ""
           ],
           "iso4217": "GMD",
           "key": "GM"
         },
         {
-          "name": "Ghana",
+          "name": "",
           "alpha2": "GH",
           "alpha3": "GHA",
           "units": [
-            "Cedi",
-            "Pesewa"
+            "",
+            ""
           ],
           "iso4217": "GHS",
           "key": "GH"
         },
         {
-          "name": "Guinea",
+          "name": "",
           "alpha2": "GN",
           "alpha3": "GIN",
           "units": [
-            "Franc"
+            ""
           ],
           "iso4217": "GNF",
           "key": "GN",
           "contemporary_units": [
-            "Syli",
-            "Cauri"
+            "",
+            ""
           ]
         },
         {
-          "name": "Guinea-Bissau",
+          "name": "",
           "alpha2": "GW",
           "alpha3": "GNB",
           "units": [
-            "Franc",
-            "Centime"
+            "",
+            ""
           ],
           "iso4217": "XOF",
           "key": "GW"
         },
         {
-          "name": "Liberia",
+          "name": "",
           "alpha2": "LR",
           "alpha3": "LBR",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "LRD",
           "key": "LR"
         },
         {
-          "name": "Mali",
+          "name": "",
           "alpha2": "ML",
           "alpha3": "MLI",
           "units": [
-            "Franc",
-            "Centime"
+            "",
+            ""
           ],
           "iso4217": "XOF",
           "key": "ML"
         },
         {
-          "name": "Mauritania",
+          "name": "",
           "alpha2": "MR",
           "alpha3": "MRT",
           "units": [
-            "Ouguiya",
-            "Khoum"
+            "",
+            ""
           ],
           "iso4217": "MRU",
           "key": "MR"
         },
         {
-          "name": "Niger",
+          "name": "",
           "alpha2": "NE",
           "alpha3": "NER",
           "units": [
-            "Franc",
-            "Centime"
+            "",
+            ""
           ],
           "iso4217": "XOF",
           "key": "NE"
         },
         {
-          "name": "Nigeria",
+          "name": "",
           "alpha2": "NG",
           "alpha3": "NGA",
           "units": [
-            "Naira",
-            "Kobo"
+            "",
+            ""
           ],
           "iso4217": "NGN",
           "key": "NG"
         },
         {
-          "name": "Saint Helena",
+          "name": "",
           "alpha2": "SH",
           "alpha3": "SHN",
           "units": [
-            "Pound",
-            "Penny"
+            "",
+            ""
           ],
           "iso4217": "SHP",
           "key": "SH",
           "dependent": true
         },
         {
-          "name": "Senegal",
+          "name": "",
           "alpha2": "SN",
           "alpha3": "SEN",
           "units": [
-            "Franc",
-            "Centime"
+            "",
+            ""
           ],
           "iso4217": "XOF",
           "key": "SN"
         },
         {
-          "name": "Sierra Leone",
+          "name": "",
           "alpha2": "SL",
           "alpha3": "SLE",
           "units": [
-            "Leone",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "SLL",
           "key": "SL"
         },
         {
-          "name": "Togo",
+          "name": "",
           "alpha2": "TG",
           "alpha3": "TGO",
           "units": [
-            "Franc",
-            "Centime"
+            "",
+            ""
           ],
           "iso4217": "XOF",
           "key": "TG"
         },
         {
-          "name": "Somaliland",
+          "name": "",
           "alpha2": "",
           "alpha3": "XSL",
           "units": [
-            "Shilling",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "SLS",
           "part_of": "SOM",
@@ -4073,11 +4073,11 @@
           "key": "_somaliland"
         },
         {
-          "name": "Western Sahara",
+          "name": "",
           "alpha2": "EH",
           "alpha3": "ESH",
           "units": [
-            "Peseta"
+            ""
           ],
           "iso4217": "EHP",
           "part_of": "MAR",
@@ -4087,130 +4087,130 @@
       ]
     },
     {
-      "name": "Oceania",
+      "name": "",
       "countries": [
         {
-          "name": "Australia",
+          "name": "",
           "alpha2": "AU",
           "alpha3": "AUS",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "AUD",
           "key": "AU",
           "mints": [
             {
-              "name": "ABC Refinery",
+              "name": "",
               "country": {
-                "AUS": "Australia"
+                "AUS": ""
               },
-              "location": "Sydney",
+              "location": "",
               "from_year": 1978
             },
             {
-              "name": "Adelaide Assay Office",
+              "name": "",
               "country": {
-                "AUS": "Australia"
+                "AUS": ""
               },
-              "location": "Adelaide",
+              "location": "",
               "from_year": 1852,
               "to_year": 1852
             },
             {
-              "name": "Downies",
+              "name": "",
               "country": {
-                "AUS": "Australia"
+                "AUS": ""
               },
-              "location": "Melbourne",
+              "location": "",
               "from_year": 1932
             },
             {
-              "name": "Macquarie Mint",
+              "name": "",
               "country": {
-                "AUS": "Australia"
+                "AUS": ""
               },
-              "location": "Melbourne",
+              "location": "",
               "from_year": 2005
             },
             {
-              "name": "Melbourne Mint",
+              "name": "",
               "country": {
-                "AUS": "Australia"
+                "AUS": ""
               },
-              "location": "Melbourne",
+              "location": "",
               "from_year": 1872,
               "to_year": 1970
             },
             {
-              "name": "Perth Mint",
+              "name": "",
               "country": {
-                "AUS": "Australia"
+                "AUS": ""
               },
-              "location": "Perth",
+              "location": "",
               "from_year": 1899
             },
             {
-              "name": "Royal Australian Mint",
+              "name": "",
               "country": {
-                "AUS": "Australia"
+                "AUS": ""
               },
-              "location": "Canberra",
+              "location": "",
               "from_year": 1963
             },
             {
-              "name": "Sydney Mint",
+              "name": "",
               "country": {
-                "AUS": "Australia"
+                "AUS": ""
               },
-              "location": "Sydney",
+              "location": "",
               "from_year": 1854,
               "to_year": 1926
             },
             {
-              "name": "The Coin Company",
+              "name": "",
               "country": {
-                "AUS": "Australia"
+                "AUS": ""
               },
-              "location": "Perth",
+              "location": "",
               "from_year": 2017
             },
             {
-              "name": "Victorian Mint",
+              "name": "",
               "country": {
-                "AUS": "Australia"
+                "AUS": ""
               },
-              "location": "Melbourne",
+              "location": "",
               "from_year": 2016
             }
           ]
         },
         {
-          "name": "Christmas Island",
+          "name": "",
           "alpha2": "CX",
           "alpha3": "CXR",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "AUD",
           "key": "CX",
           "dependent": true
         },
         {
-          "name": "Cocos (Keeling) Islands",
+          "name": "",
           "alpha2": "CC",
           "alpha3": "CCK",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "AUD",
           "key": "CC",
           "dependent": true
         },
         {
-          "name": "Heard Island",
+          "name": "",
           "alpha2": "HM",
           "alpha3": "HMD",
           "units": [],
@@ -4219,296 +4219,296 @@
           "dependent": true
         },
         {
-          "name": "New Zealand",
+          "name": "",
           "alpha2": "NZ",
           "alpha3": "NZL",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "NZD",
           "key": "NZ",
           "mints": [
             {
-              "name": "New Zealand Mint",
+              "name": "",
               "country": {
-                "NZL": "New Zealand"
+                "NZL": ""
               },
-              "location": "Auckland",
+              "location": "",
               "from_year": 1967
             }
           ]
         },
         {
-          "name": "Norfolk Island",
+          "name": "",
           "alpha2": "NF",
           "alpha3": "NFK",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "AUD",
           "key": "NF",
           "dependent": true
         },
         {
-          "name": "Fiji",
+          "name": "",
           "alpha2": "FJ",
           "alpha3": "FJI",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "FJD",
           "key": "FJ"
         },
         {
-          "name": "New Caledonia",
+          "name": "",
           "alpha2": "NC",
           "alpha3": "NCL",
           "units": [
-            "Franc",
-            "Centime"
+            "",
+            ""
           ],
           "iso4217": "XPF",
           "key": "NC",
           "dependent": true
         },
         {
-          "name": "Papua New Guinea",
+          "name": "",
           "alpha2": "PG",
           "alpha3": "PNG",
           "units": [
-            "Kina",
-            "Toea"
+            "",
+            ""
           ],
           "iso4217": "PGK",
           "key": "PG"
         },
         {
-          "name": "Solomon Islands",
+          "name": "",
           "alpha2": "SB",
           "alpha3": "SLB",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "SBD",
           "key": "SB"
         },
         {
-          "name": "Vanuatu",
+          "name": "",
           "alpha2": "VU",
           "alpha3": "VUT",
           "units": [
-            "Vatu"
+            ""
           ],
           "iso4217": "VUV",
           "key": "VU"
         },
         {
-          "name": "Guam",
+          "name": "",
           "alpha2": "GU",
           "alpha3": "GUM",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "USD",
           "key": "GU",
           "dependent": true
         },
         {
-          "name": "Kiribati",
+          "name": "",
           "alpha2": "KI",
           "alpha3": "KIR",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "AUD",
           "key": "KI"
         },
         {
-          "name": "Marshall Islands",
+          "name": "",
           "alpha2": "MH",
           "alpha3": "MHL",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "USD",
           "key": "MH"
         },
         {
-          "name": "Micronesia",
+          "name": "",
           "alpha2": "FM",
           "alpha3": "FSM",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "USD",
           "key": "FM"
         },
         {
-          "name": "Nauru",
+          "name": "",
           "alpha2": "NR",
           "alpha3": "NRU",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "AUD",
           "key": "NR"
         },
         {
-          "name": "Northern Mariana Islands",
+          "name": "",
           "alpha2": "MP",
           "alpha3": "MNP",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "USD",
           "key": "MP",
           "dependent": true
         },
         {
-          "name": "Palau",
+          "name": "",
           "alpha2": "PW",
           "alpha3": "PLW",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "USD",
           "key": "PW"
         },
         {
-          "name": "United States Minor Outlying Islands",
+          "name": "",
           "alpha2": "UM",
           "alpha3": "UMI",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "USD",
           "key": "UM",
           "dependent": true
         },
         {
-          "name": "American Samoa",
+          "name": "",
           "alpha2": "AS",
           "alpha3": "ASM",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "USD",
           "key": "AS",
           "dependent": true
         },
         {
-          "name": "Cook Islands",
+          "name": "",
           "alpha2": "CK",
           "alpha3": "COK",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "NZD",
           "key": "CK",
           "dependent": true
         },
         {
-          "name": "French Polynesia",
+          "name": "",
           "alpha2": "PF",
           "alpha3": "PYF",
           "units": [
-            "Franc",
-            "Centime"
+            "",
+            ""
           ],
           "iso4217": "XPF",
           "key": "PF",
           "dependent": true
         },
         {
-          "name": "Niue",
+          "name": "",
           "alpha2": "NU",
           "alpha3": "NIU",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "NZD",
           "key": "NU",
           "dependent": true
         },
         {
-          "name": "Pitcairn",
+          "name": "",
           "alpha2": "PN",
           "alpha3": "PCN",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "NZD",
           "key": "PN",
           "dependent": true
         },
         {
-          "name": "Samoa",
+          "name": "",
           "alpha2": "WS",
           "alpha3": "WSM",
           "units": [
-            "Tala",
-            "Sene"
+            "",
+            ""
           ],
           "iso4217": "WST",
           "key": "WS"
         },
         {
-          "name": "Tokelau",
+          "name": "",
           "alpha2": "TK",
           "alpha3": "TKL",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "NZD",
           "key": "TK",
           "dependent": true
         },
         {
-          "name": "Tonga",
+          "name": "",
           "alpha2": "TO",
           "alpha3": "TON",
           "units": [
-            "Pa’Anga",
-            "Seniti"
+            "",
+            ""
           ],
           "iso4217": "TOP",
           "key": "TO"
         },
         {
-          "name": "Tuvalu",
+          "name": "",
           "alpha2": "TV",
           "alpha3": "TUV",
           "units": [
-            "Dollar",
-            "Cent"
+            "",
+            ""
           ],
           "iso4217": "AUD",
           "key": "TV"
         },
         {
-          "name": "Wallis and Futuna Islands",
+          "name": "",
           "alpha2": "WF",
           "alpha3": "WLF",
           "units": [
-            "Franc",
-            "Centime"
+            "",
+            ""
           ],
           "iso4217": "XPF",
           "key": "WF",
