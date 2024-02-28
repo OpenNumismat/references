@@ -218,7 +218,7 @@
   },
   {
     "name": "color",
-    "title": "Цвета",
+    "title": "Цвет",
     "has_icons": true,
     "values": {
       "multicolor": "Цветная",
