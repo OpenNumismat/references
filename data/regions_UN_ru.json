@@ -75,7 +75,7 @@
             "Филлер"
           ],
           "iso4217": "HUF",
-          "key": "",
+          "key": "HU",
           "mints": [
             {
               "name": "Hungarian Mint",
