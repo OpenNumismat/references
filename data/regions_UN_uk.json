@@ -236,7 +236,7 @@
           "alpha2": "AX",
           "alpha3": "ALA",
           "units": [
-            "Euro",
+            "Євро",
             "Cent"
           ],
           "iso4217": "EUR",
@@ -257,7 +257,7 @@
             {
               "name": "Altona Mint",
               "country": {
-                "DNK": "Denmark"
+                "DNK": "Данія"
               },
               "location": "Altona",
               "from_year": 1771,
@@ -362,7 +362,7 @@
           "alpha2": "IS",
           "alpha3": "ISL",
           "units": [
-            "Króna"
+            "Крона"
           ],
           "iso4217": "ISK",
           "key": "IS",
@@ -754,7 +754,7 @@
           "alpha2": "IT",
           "alpha3": "ITA",
           "units": [
-            "Euro",
+            "Євро",
             "Cent"
           ],
           "iso4217": "EUR",
@@ -874,7 +874,7 @@
           "alpha3": "SRB",
           "units": [
             "Dinar",
-            "Para"
+            "Пара"
           ],
           "iso4217": "RSD",
           "key": "RS",
@@ -1581,7 +1581,7 @@
           "alpha2": "CU",
           "alpha3": "CUB",
           "units": [
-            "Peso",
+            "Песо",
             "Centavo"
           ],
           "iso4217": "CUP",
@@ -1823,7 +1823,7 @@
           "alpha3": "CRI",
           "units": [
             "Colón",
-            "Céntimo"
+            "Сентімо"
           ],
           "iso4217": "CRC",
           "key": "CR"
