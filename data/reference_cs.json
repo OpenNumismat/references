@@ -1,10 +1,10 @@
 [
   {
     "name": "category",
-    "title": "Category",
+    "title": "Kategorie",
     "has_icons": false,
     "values": {
-      "coin": "Coin",
+      "coin": "Mince",
       "banknote": "Banknote",
       "stamp": "Stamp",
       "postcard": "Postcard"
@@ -12,7 +12,7 @@
   },
   {
     "name": "rarity",
-    "title": "Rarity",
+    "title": "Vzácnost",
     "has_icons": false,
     "values": {
       "common": "Common",
@@ -25,7 +25,7 @@
   },
   {
     "name": "quality",
-    "title": "Quality",
+    "title": "Kvalita",
     "has_icons": false,
     "values": {
       "uncirculated": "Uncirculated",
@@ -37,7 +37,7 @@
   },
   {
     "name": "defect",
-    "title": "Defect",
+    "title": "Vada",
     "has_icons": false,
     "values": {
       "clipped-planchet": "Clipped planchet",
@@ -51,7 +51,7 @@
   },
   {
     "name": "type",
-    "title": "Type",
+    "title": "Typ",
     "has_icons": false,
     "values": {
       "regular-issue": "Regular issue",
@@ -74,7 +74,7 @@
   },
   {
     "name": "obvrev",
-    "title": "ObvRev",
+    "title": "Líc a rub",
     "has_icons": false,
     "values": {
       "↑↑-medallic": "↑↑ Medallic",
@@ -84,7 +84,7 @@
   },
   {
     "name": "edge",
-    "title": "Edge",
+    "title": "Okraj",
     "has_icons": false,
     "values": {
       "reeded": "Reeded",
@@ -96,7 +96,7 @@
   },
   {
     "name": "shape",
-    "title": "Shape",
+    "title": "Tvar",
     "has_icons": true,
     "values": {
       "round": "Round",
@@ -112,35 +112,35 @@
   },
   {
     "name": "material",
-    "title": "Material",
+    "title": "Materiál",
     "has_icons": false,
     "values": {
       "acmonital": "Acmonital",
       "aluminium": "Aluminium",
       "aluminium-bronze": "Aluminium bronze",
       "antimony": "Antimony",
-      "brass": "Brass",
-      "bronze": "Bronze",
-      "cobalt": "Cobalt",
-      "copper": "Copper",
+      "brass": "Mosaz",
+      "bronze": "Bronz",
+      "cobalt": "Kobalt",
+      "copper": "Měď",
       "cupronickel": "Cupronickel",
-      "gold": "Gold",
-      "iron": "Iron",
-      "magnesium": "Magnesium",
-      "manganese": "Manganese",
+      "gold": "Zlato",
+      "iron": "Železo",
+      "magnesium": "Hořčík",
+      "manganese": "Mangan",
       "melchior": "Melchior",
-      "nickel": "Nickel",
-      "nickel-silver": "Nickel silver",
-      "nordic-gold": "Nordic gold",
-      "palladium": "Palladium",
-      "platinum": "Platinum",
-      "silver": "Silver",
-      "steel": "Steel",
-      "tantalum": "Tantalum",
-      "tombac": "Tombac",
-      "tellurium": "Tellurium",
-      "tin": "Tin",
-      "zinc": "Zinc"
+      "nickel": "Nikl",
+      "nickel-silver": "Niklové stříbro",
+      "nordic-gold": "Nordické zlato",
+      "palladium": "Paladium",
+      "platinum": "Platina",
+      "silver": "Stříbro",
+      "steel": "Ocel",
+      "tantalum": "Tantal",
+      "tombac": "Tombak",
+      "tellurium": "Tellur",
+      "tin": "Cín",
+      "zinc": "Zinek"
     }
   },
   {
@@ -182,10 +182,10 @@
   },
   {
     "name": "grade",
-    "title": "Grade",
+    "title": "Jakost",
     "has_icons": false,
     "values": {
-      "unc": "Unc",
+      "unc": "UNC",
       "au": "AU",
       "xf": "XF",
       "vf": "VF",
@@ -209,7 +209,7 @@
   },
   {
     "name": "place",
-    "title": "Place",
+    "title": "Místo",
     "has_icons": true,
     "values": {
       "ebay": "eBay",
@@ -218,7 +218,7 @@
   },
   {
     "name": "color",
-    "title": "Color",
+    "title": "Colors",
     "has_icons": true,
     "values": {
       "multicolor": "Multicolor",
@@ -276,7 +276,7 @@
       "indigo": "Indigo",
       "grey-blue": "Grey-Blue",
       "deep-blue": "Deep Blue",
-      "cobalt": "Cobalt",
+      "cobalt": "Kobalt",
       "bright-blue": "Bright Blue",
       "royal-blue": "Royal Blue",
       "chalky-blue": "Chalky Blue",

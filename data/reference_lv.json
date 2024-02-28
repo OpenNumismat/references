@@ -1,10 +1,10 @@
 [
   {
     "name": "category",
-    "title": "Category",
+    "title": "Kategorija",
     "has_icons": false,
     "values": {
-      "coin": "Coin",
+      "coin": "Monēta",
       "banknote": "Banknote",
       "stamp": "Stamp",
       "postcard": "Postcard"
@@ -12,7 +12,7 @@
   },
   {
     "name": "rarity",
-    "title": "Rarity",
+    "title": "Retums",
     "has_icons": false,
     "values": {
       "common": "Common",
@@ -25,7 +25,7 @@
   },
   {
     "name": "quality",
-    "title": "Quality",
+    "title": "Kvalitāte",
     "has_icons": false,
     "values": {
       "uncirculated": "Uncirculated",
@@ -37,7 +37,7 @@
   },
   {
     "name": "defect",
-    "title": "Defect",
+    "title": "Defekts",
     "has_icons": false,
     "values": {
       "clipped-planchet": "Clipped planchet",
@@ -51,7 +51,7 @@
   },
   {
     "name": "type",
-    "title": "Type",
+    "title": "Tips",
     "has_icons": false,
     "values": {
       "regular-issue": "Regular issue",
@@ -63,7 +63,7 @@
   },
   {
     "name": "format",
-    "title": "Format",
+    "title": "Formāts",
     "has_icons": false,
     "values": {
       "single": "Single",
@@ -74,7 +74,7 @@
   },
   {
     "name": "obvrev",
-    "title": "ObvRev",
+    "title": "AvRev",
     "has_icons": false,
     "values": {
       "↑↑-medallic": "↑↑ Medallic",
@@ -84,7 +84,7 @@
   },
   {
     "name": "edge",
-    "title": "Edge",
+    "title": "Mala",
     "has_icons": false,
     "values": {
       "reeded": "Reeded",
@@ -96,7 +96,7 @@
   },
   {
     "name": "shape",
-    "title": "Shape",
+    "title": "Forma",
     "has_icons": true,
     "values": {
       "round": "Round",
@@ -112,7 +112,7 @@
   },
   {
     "name": "material",
-    "title": "Material",
+    "title": "Materiāls",
     "has_icons": false,
     "values": {
       "acmonital": "Acmonital",
@@ -182,7 +182,7 @@
   },
   {
     "name": "grade",
-    "title": "Grade",
+    "title": "Kvalitāte",
     "has_icons": false,
     "values": {
       "unc": "Unc",
@@ -209,7 +209,7 @@
   },
   {
     "name": "place",
-    "title": "Place",
+    "title": "Vieta",
     "has_icons": true,
     "values": {
       "ebay": "eBay",
@@ -218,10 +218,10 @@
   },
   {
     "name": "color",
-    "title": "Color",
+    "title": "Colors",
     "has_icons": true,
     "values": {
-      "multicolor": "Multicolor",
+      "multicolor": "Daudzkrāsaina",
       "black-white": "Black-White",
       "brown-lake": "Brown-Lake",
       "lake": "Lake",

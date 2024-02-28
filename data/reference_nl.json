@@ -4,7 +4,7 @@
     "title": "Category",
     "has_icons": false,
     "values": {
-      "coin": "Coin",
+      "coin": "Munt",
       "banknote": "Banknote",
       "stamp": "Stamp",
       "postcard": "Postcard"
@@ -12,38 +12,38 @@
   },
   {
     "name": "rarity",
-    "title": "Rarity",
+    "title": "Zeldzaam",
     "has_icons": false,
     "values": {
-      "common": "Common",
-      "normal": "Normal",
-      "scarce": "Scarce",
-      "rare": "Rare",
-      "unique": "Unique",
-      "in-sets-only": "In sets only"
+      "common": "Gemeenschappelijk",
+      "normal": "Normaal",
+      "scarce": "Schaars",
+      "rare": "Zeldzaam",
+      "unique": "Uniek",
+      "in-sets-only": "alleen in een set"
     }
   },
   {
     "name": "quality",
-    "title": "Quality",
+    "title": "Kwaliteit",
     "has_icons": false,
     "values": {
-      "uncirculated": "Uncirculated",
-      "brilliant-uncirculated": "Brilliant uncirculated",
+      "uncirculated": "Oncirculeerd",
+      "brilliant-uncirculated": "Brilliant ongecirculeerd",
       "proof": "Proof",
       "proof-like": "Proof like",
-      "reverse-frosted": "Reverse frosted"
+      "reverse-frosted": "Matte achterzijde "
     }
   },
   {
     "name": "defect",
-    "title": "Defect",
+    "title": "Beschadiging",
     "has_icons": false,
     "values": {
-      "clipped-planchet": "Clipped planchet",
-      "lamination": "Lamination",
-      "off-center-strike": "Off center strike",
-      "multiple-strike": "Multiple strike",
+      "clipped-planchet": "geknipt planchet",
+      "lamination": "Lamineren",
+      "off-center-strike": "Misslag",
+      "multiple-strike": "meerder slagen",
       "mule": "Mule",
       "doubled-die": "Doubled die",
       "brockage": "Brockage"
@@ -54,10 +54,10 @@
     "title": "Type",
     "has_icons": false,
     "values": {
-      "regular-issue": "Regular issue",
-      "commemorative": "Commemorative",
-      "bullion": "Bullion",
-      "restrike": "Restrike",
+      "regular-issue": "normaal",
+      "commemorative": "herdenking",
+      "bullion": "ongemunt goud",
+      "restrike": "Herslag",
       "pattern": "Pattern"
     }
   },
@@ -66,7 +66,7 @@
     "title": "Format",
     "has_icons": false,
     "values": {
-      "single": "Single",
+      "single": "Enkel",
       "set": "Set",
       "coincard": "Coincard",
       "roll": "Roll"
@@ -74,7 +74,7 @@
   },
   {
     "name": "obvrev",
-    "title": "ObvRev",
+    "title": "Voor/achter",
     "has_icons": false,
     "values": {
       "↑↑-medallic": "↑↑ Medallic",
@@ -84,10 +84,10 @@
   },
   {
     "name": "edge",
-    "title": "Edge",
+    "title": "Rand",
     "has_icons": false,
     "values": {
-      "reeded": "Reeded",
+      "reeded": "Geribbeld",
       "plain": "Plain",
       "decorated": "Decorated",
       "segmented-reeding": "Segmented reeding",
@@ -96,7 +96,7 @@
   },
   {
     "name": "shape",
-    "title": "Shape",
+    "title": "Vorm",
     "has_icons": true,
     "values": {
       "round": "Round",
@@ -112,7 +112,7 @@
   },
   {
     "name": "material",
-    "title": "Material",
+    "title": "Materiaal",
     "has_icons": false,
     "values": {
       "acmonital": "Acmonital",
@@ -124,7 +124,7 @@
       "cobalt": "Cobalt",
       "copper": "Copper",
       "cupronickel": "Cupronickel",
-      "gold": "Gold",
+      "gold": "Goud",
       "iron": "Iron",
       "magnesium": "Magnesium",
       "manganese": "Manganese",
@@ -134,7 +134,7 @@
       "nordic-gold": "Nordic gold",
       "palladium": "Palladium",
       "platinum": "Platinum",
-      "silver": "Silver",
+      "silver": "Zilver",
       "steel": "Steel",
       "tantalum": "Tantalum",
       "tombac": "Tombac",
@@ -148,7 +148,7 @@
     "title": "Composition",
     "has_icons": false,
     "values": {
-      "single": "Single",
+      "single": "Enkel",
       "plated": "Plated",
       "clad": "Clad",
       "bimetallic": "Bimetallic"
@@ -182,14 +182,14 @@
   },
   {
     "name": "grade",
-    "title": "Grade",
+    "title": "Kwaliteitsgraad",
     "has_icons": false,
     "values": {
       "unc": "Unc",
       "au": "AU",
-      "xf": "XF",
-      "vf": "VF",
-      "f": "F",
+      "xf": "Prachtig",
+      "vf": "Zeer fraai",
+      "f": "V",
       "vg": "VG"
     }
   },
@@ -209,7 +209,7 @@
   },
   {
     "name": "place",
-    "title": "Place",
+    "title": "Plaats",
     "has_icons": true,
     "values": {
       "ebay": "eBay",
@@ -218,7 +218,7 @@
   },
   {
     "name": "color",
-    "title": "Color",
+    "title": "Colors",
     "has_icons": true,
     "values": {
       "multicolor": "Multicolor",
