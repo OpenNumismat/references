@@ -28,7 +28,7 @@
             {
               "name": "Bulmint",
               "country": {
-                "BGR": "Bulgaria"
+                "BGR": "Βουλγαρία"
               },
               "location": "",
               "from_year": 2004
@@ -350,7 +350,7 @@
           "alpha2": "",
           "alpha3": "GGY",
           "units": [
-            "Pound",
+            "Λίρα Αιγύπτου",
             ""
           ],
           "iso4217": "",
@@ -426,7 +426,7 @@
           "alpha3": "",
           "units": [
             "Ευρώ",
-            "Cent"
+            "Λεπτό"
           ],
           "iso4217": "",
           "key": "LV",
@@ -440,7 +440,7 @@
           "alpha2": "LT",
           "alpha3": "",
           "units": [
-            "Euro",
+            "Ευρώ",
             ""
           ],
           "iso4217": "",
@@ -832,7 +832,7 @@
           "key": "MK"
         },
         {
-          "name": "Portugal",
+          "name": "Πορτογαλία",
           "alpha2": "",
           "alpha3": "PRT",
           "units": [
@@ -1227,7 +1227,7 @@
             {
               "name": "Staatliche Münzen Baden-Württemberg",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Γερμανία"
               },
               "location": "",
               "from_year": 1998
@@ -1695,7 +1695,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Dollar",
+            "Δολάριο",
             ""
           ],
           "iso4217": "USD",
@@ -1720,7 +1720,7 @@
           "alpha3": "",
           "units": [
             "Dollar",
-            "Cent"
+            "Λεπτό"
           ],
           "iso4217": "XCD",
           "key": ""
