@@ -15,7 +15,7 @@
           "key": "BY"
         },
         {
-          "name": "Bulgaria",
+          "name": "Bulgarien",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -126,7 +126,7 @@
             {
               "name": "Mint XXI",
               "country": {
-                "POL": "Poland"
+                "POL": "Polen"
               },
               "location": "Warsaw",
               "from_year": 2019
@@ -187,7 +187,7 @@
           ]
         },
         {
-          "name": "Slovakia",
+          "name": "Slovakien",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -205,7 +205,7 @@
               "name": "Kremnica Mint, ex Kremnitz",
               "local_name": "Mincovňa Kremnica",
               "country": {
-                "SVK": "Slovakia"
+                "SVK": "Slovakien"
               },
               "location": "",
               "from_year": 1328
@@ -267,7 +267,7 @@
               "name": "Royal Danish Mint",
               "local_name": "",
               "country": {
-                "DNK": "Denmark"
+                "DNK": "Danmark"
               },
               "location": "Copenhagen",
               "from_year": 1541
@@ -454,7 +454,7 @@
               "name": "Lithuanian Mint",
               "local_name": "",
               "country": {
-                "LTU": "Lithuania"
+                "LTU": "Litauen"
               },
               "location": "Vilnius",
               "from_year": 1990
@@ -950,7 +950,7 @@
             {
               "name": "Seville Mint",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Spanien"
               },
               "location": "Seville",
               "from_year": 1252,
@@ -1004,7 +1004,7 @@
               "name": "Royal Mint of Belgium",
               "local_name": "",
               "country": {
-                "BEL": "Belgium"
+                "BEL": "Belgien"
               },
               "location": "",
               "from_year": 1880
@@ -1045,7 +1045,7 @@
             {
               "name": "Art Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "Frankrike"
               },
               "location": "Paris",
               "from_year": 2013
@@ -1170,7 +1170,7 @@
             {
               "name": "Leipziger Edelmetallverarbeitung",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Tyskland"
               },
               "location": "",
               "from_year": 2006
@@ -1203,7 +1203,7 @@
             {
               "name": "",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Tyskland"
               },
               "location": "",
               "from_year": 1913
@@ -1219,7 +1219,7 @@
             {
               "name": "",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Tyskland"
               },
               "location": "Berlin",
               "from_year": 1750
@@ -1611,7 +1611,7 @@
           "key": ""
         },
         {
-          "name": "Dominican Republic",
+          "name": "Dominikanska republiken",
           "alpha2": "DO",
           "alpha3": "",
           "units": [
@@ -1834,7 +1834,7 @@
           "alpha3": "",
           "units": [
             "Colón",
-            "Centavo"
+            "entavo"
           ],
           "iso4217": "SVC",
           "key": "SV"
@@ -1845,7 +1845,7 @@
           "alpha3": "",
           "units": [
             "",
-            "Centavo"
+            "entavo"
           ],
           "iso4217": "GTQ",
           "key": "GT"
@@ -2167,7 +2167,7 @@
             {
               "name": "Royal Canadian Mint",
               "country": {
-                "CAN": "Canada"
+                "CAN": "Kanada"
               },
               "location": "",
               "from_year": 1908
@@ -2510,7 +2510,7 @@
               "name": "CBPMC - Shanghai Mint",
               "local_name": "",
               "country": {
-                "CHN": "China"
+                "CHN": "Kina"
               },
               "location": "",
               "from_year": 1984
@@ -3110,7 +3110,7 @@
           "key": ""
         },
         {
-          "name": "Lebanon",
+          "name": "Libanon",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3608,7 +3608,7 @@
           "key": ""
         },
         {
-          "name": "Seychelles",
+          "name": "Seychelleerna",
           "alpha2": "SC",
           "alpha3": "",
           "units": [
