@@ -1,0 +1,328 @@
+[
+  {
+    "name": "category",
+    "title": "Categoria",
+    "has_icons": false,
+    "values": {
+      "coin": "Moneta",
+      "banknote": "Banknote",
+      "stamp": "Stamp",
+      "postcard": "Postcard"
+    }
+  },
+  {
+    "name": "rarity",
+    "title": "Rarità",
+    "has_icons": false,
+    "values": {
+      "common": "Comune",
+      "normal": "Regolare",
+      "scarce": "Non comune",
+      "rare": "Rara",
+      "unique": "Unica",
+      "in-sets-only": "Solo in set"
+    }
+  },
+  {
+    "name": "quality",
+    "title": "Qualità",
+    "has_icons": false,
+    "values": {
+      "uncirculated": "Fior di conio",
+      "brilliant-uncirculated": "Brillante fior di conio",
+      "proof": "Fondo specchio",
+      "proof-like": "Simil fondo specchio",
+      "reverse-frosted": "Fondo specchio inverito"
+    }
+  },
+  {
+    "name": "defect",
+    "title": "Difetti",
+    "has_icons": false,
+    "values": {
+      "clipped-planchet": "Tagliata dal conio",
+      "lamination": "Squame o crepe",
+      "off-center-strike": "Decentrata",
+      "multiple-strike": "Battiture multiple",
+      "mule": "Disegni non destinati a stare insieme",
+      "doubled-die": "Doppio conio",
+      "brockage": "Colpita fuori dal collare"
+    }
+  },
+  {
+    "name": "type",
+    "title": "Tipo",
+    "has_icons": false,
+    "values": {
+      "regular-issue": "Emissione regolare",
+      "commemorative": "Commemorativa",
+      "bullion": "Metallo prezioso",
+      "restrike": "Riemesso",
+      "pattern": "Modello"
+    }
+  },
+  {
+    "name": "format",
+    "title": "Formato",
+    "has_icons": false,
+    "values": {
+      "single": "Singolo",
+      "set": "Set",
+      "coincard": "Coincard",
+      "roll": "Rotolo"
+    }
+  },
+  {
+    "name": "obvrev",
+    "title": "Dri/Rov",
+    "has_icons": false,
+    "values": {
+      "↑↑-medallic": "↑↑ Medallic",
+      "↑↓-coin": "↑↓ Coin",
+      "↺-variable": "↺ Variable"
+    }
+  },
+  {
+    "name": "edge",
+    "title": "Bordo",
+    "has_icons": false,
+    "values": {
+      "reeded": "Zigrinato",
+      "plain": "Plain",
+      "decorated": "Decorato",
+      "segmented-reeding": "Segmented reeding",
+      "lettered": "Marcato con lettere"
+    }
+  },
+  {
+    "name": "shape",
+    "title": "Forma",
+    "has_icons": true,
+    "values": {
+      "round": "Rotonda",
+      "irregular": "Round (irregular)",
+      "square": "Quadrata",
+      "polygon": "Poligono",
+      "spanish": "Fiore spagnolo",
+      "hole": "Round with hole",
+      "half": "Half circle",
+      "klippe": "Klippe",
+      "scalloped": "Scalloped"
+    }
+  },
+  {
+    "name": "material",
+    "title": "Materiale",
+    "has_icons": false,
+    "values": {
+      "acmonital": "Acmonital - Acciaio monetario italiano",
+      "aluminium": "Alluminio",
+      "aluminium-bronze": "Alluminio bronzo",
+      "antimony": "Antimonio",
+      "brass": "Ottone",
+      "bronze": "Bronzo",
+      "cobalt": "Blu cobalto",
+      "copper": "Rame",
+      "cupronickel": "Nichelrame",
+      "gold": "Oro",
+      "iron": "Ferro",
+      "magnesium": "Magnesio",
+      "manganese": "Manganese",
+      "melchior": "Ramenichel",
+      "nickel": "Nichel",
+      "nickel-silver": "Nichel argento",
+      "nordic-gold": "Oro nordico",
+      "palladium": "Palladio",
+      "platinum": "Platino",
+      "silver": "Argento",
+      "steel": "Acciaio",
+      "tantalum": "Tantalio",
+      "tombac": "Tombacco",
+      "tellurium": "Tellurio",
+      "tin": "Stagno",
+      "zinc": "Zinco"
+    }
+  },
+  {
+    "name": "composition",
+    "title": "Composition",
+    "has_icons": false,
+    "values": {
+      "single": "Singolo",
+      "plated": "Plated",
+      "clad": "Clad",
+      "bimetallic": "Bimetallic"
+    }
+  },
+  {
+    "name": "technique",
+    "title": "Technique",
+    "has_icons": false,
+    "values": {
+      "milled": "Milled",
+      "cast": "Cast",
+      "hammered": "Hammered",
+      "engraved": "Engraved",
+      "cobs": "Cobs",
+      "klippe": "Klippe",
+      "wire": "Wire",
+      "scyphate": "Scyphate"
+    }
+  },
+  {
+    "name": "modification",
+    "title": "Modification",
+    "has_icons": false,
+    "values": {
+      "colored": "Colored",
+      "countermarked": "Countermarked",
+      "holed": "Holed",
+      "cut": "Cut"
+    }
+  },
+  {
+    "name": "grade",
+    "title": "Conservazione",
+    "has_icons": false,
+    "values": {
+      "unc": "Fior di conio",
+      "au": "QFDC",
+      "xf": "Splendida",
+      "vf": "Bellissima",
+      "f": "F",
+      "vg": "VG"
+    }
+  },
+  {
+    "name": "grader",
+    "title": "Grader",
+    "has_icons": true,
+    "values": {
+      "anacs": "ANACS",
+      "iccs": "ICCS",
+      "icg": "ICG",
+      "ngc": "NGC",
+      "pcgs": "PCGS",
+      "pmg": "PMG",
+      "rnga": "RNGA"
+    }
+  },
+  {
+    "name": "place",
+    "title": "Sito",
+    "has_icons": true,
+    "values": {
+      "ebay": "eBay",
+      "heritage": "Heritage"
+    }
+  },
+  {
+    "name": "color",
+    "title": "Colors",
+    "has_icons": true,
+    "values": {
+      "multicolor": "Multicolore",
+      "black-white": "Bianco-Nero",
+      "brown-lake": "Laccato marrone",
+      "lake": "Rosso laccato",
+      "crimson": "Rosso scuro",
+      "carmine": "Rosso carminio",
+      "rose": "Rosa",
+      "rose-red": "Rosso-Rosa",
+      "rosine": "Rosso uva passa",
+      "carmine-red": "Rosso carminio-Rosso",
+      "scarlet": "Rosso scarlatto",
+      "vermilion": "Rosso vermiglio",
+      "red": "Rosso",
+      "brown-red": "Rosso-Marrone",
+      "venetian-red": "Rosso-Veneziano",
+      "flesh": "Rosa Carne",
+      "salmon": "Salmone",
+      "orange-red": "Arancio-Rosso",
+      "red-orange": "Rosso-Arancio",
+      "orange": "Orange",
+      "yellow-orange": "Giallo-Arancio",
+      "orange-yellow": "Arancio-Giallo",
+      "yellow": "Giallo",
+      "lemon": "Limone",
+      "greenish-yellow": "Giallo verdognolo",
+      "olive-yellow": "Oliva-Giallo",
+      "yellow-olive": "Giallo-Oliva",
+      "olive-green": "Verde oliva",
+      "sage-green": "Verde Salvia",
+      "apple-green": "Verde Mela",
+      "yellow-green": "Giallo-Verde",
+      "bright-green": "Verde acceso",
+      "bronze-green": "Verde bronzo",
+      "blackish-olive": "Oliva nerastra",
+      "blackish-green": "Verde nerastro",
+      "slate-green": "Verde ardesia",
+      "grey-green": "Grigio-Verde",
+      "dull-green": "Verde opaco",
+      "green": "Green",
+      "myrtle-green": "Verde Mirto",
+      "emerald": "Verde smeraldo",
+      "blue-green": "Verde-Blu",
+      "deep-bluish-green": "Verde bluastro profondo",
+      "turquoise-green": "Verde turchese",
+      "turquoise-blue": "Blu turchese",
+      "light-blue": "Celeste",
+      "greenish-blue": "Blu verdastro",
+      "new-blue": "Blu Crayon",
+      "blue": "Blu",
+      "steel-blue": "Blu acciaio",
+      "prussian-blue": "Blu di prussia",
+      "slate-blue": "Blu ardesia",
+      "indigo": "Indaco",
+      "grey-blue": "Grigio-Blu",
+      "deep-blue": "Blu profondo",
+      "cobalt": "Blu cobalto",
+      "bright-blue": "Blu acceso",
+      "royal-blue": "Blu reale",
+      "chalky-blue": "Blu gessoso",
+      "ultramarine": "Blu oltremare",
+      "violet-blue": "Blu-Viola",
+      "lavender": "Lavanda",
+      "bluish-violet": "Viola bluastro",
+      "violet": "Viola",
+      "reddish-violet": "Viola rossastro",
+      "slate-violet": "Viola ardesia",
+      "agate": "Viola agata",
+      "slate-purple": "Grigio porpora",
+      "slate-lilac": "Grigio lilla",
+      "lilac": "Lilla",
+      "reddish-lilac": "Lilla rossastro",
+      "dull-purple": "Rosso porpora opaco",
+      "claret": "Rosso violaceo",
+      "cerise": "Rosso ciliegia",
+      "magenta": "Magenta",
+      "mauve": "Viola malva",
+      "bright-purple": "Rosso porpora acceso",
+      "purple": "Rosso porpora",
+      "plum": "Viola prugna",
+      "reddish-purple": "Rosso porpora rossastro",
+      "maroon": "Marrone",
+      "brown-purple": "Marrone-Rosso porpora",
+      "purple-brown": "Rosso porpora-Marrone",
+      "chocolate": "Cioccolata",
+      "lake-brown": "Marrone laccato",
+      "red-brown": "Marrone-Rosso",
+      "chestnut": "Marrone castagna",
+      "orange-brown": "Marrone-Arancio",
+      "cinnamon": "Marrone cannella",
+      "buff": "Marrone bufalo",
+      "ochre": "Giallo ocra",
+      "yellow-brown": "Marrone-Giallo",
+      "brown": "Marrone",
+      "blackish-brown": "Marrone nerastro",
+      "sepia": "Nero di seppia",
+      "bistre-brown": "Marrone-Bruno",
+      "bistre": "Marrone fuliggine",
+      "olive-brown": "Marrone oliva",
+      "drab": "Grigiastro",
+      "olive-grey": "Grigio oliva",
+      "grey": "Grigio",
+      "slate": "Grigio ardesia"
+    }
+  }
+]
