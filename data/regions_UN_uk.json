@@ -93,7 +93,7 @@
           "alpha3": "POL",
           "units": [
             "Zloty",
-            "Grosz"
+            "Грош"
           ],
           "iso4217": "PLN",
           "key": "PL",
@@ -1284,7 +1284,7 @@
           "alpha2": "MC",
           "alpha3": "MCO",
           "units": [
-            "Euro",
+            "Євро",
             "Cent"
           ],
           "iso4217": "EUR",
