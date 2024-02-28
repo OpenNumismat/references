@@ -28,7 +28,7 @@
             {
               "name": "Bulmint",
               "country": {
-                "BGR": "Bulgaria"
+                "BGR": "بلغارستان"
               },
               "location": "Plovdiv",
               "from_year": 2004
@@ -93,7 +93,7 @@
           "alpha3": "POL",
           "units": [
             "Zloty",
-            "Grosz"
+            "گروش"
           ],
           "iso4217": "PLN",
           "key": "PL",
@@ -236,7 +236,7 @@
           "alpha2": "AX",
           "alpha3": "ALA",
           "units": [
-            "Euro",
+            "یورو",
             "Cent"
           ],
           "iso4217": "EUR",
@@ -257,7 +257,7 @@
             {
               "name": "Altona Mint",
               "country": {
-                "DNK": "Denmark"
+                "DNK": "دانمارک"
               },
               "location": "Altona",
               "from_year": 1771,
@@ -362,7 +362,7 @@
           "alpha2": "IS",
           "alpha3": "ISL",
           "units": [
-            "Króna"
+            "کرون"
           ],
           "iso4217": "ISK",
           "key": "IS",
@@ -426,7 +426,7 @@
           "alpha3": "LVA",
           "units": [
             "یورو",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "EUR",
           "key": "LV",
@@ -754,7 +754,7 @@
           "alpha2": "IT",
           "alpha3": "ITA",
           "units": [
-            "Euro",
+            "یورو",
             "Cent"
           ],
           "iso4217": "EUR",
@@ -832,7 +832,7 @@
           "key": "MK"
         },
         {
-          "name": "Portugal",
+          "name": "پرتغال",
           "alpha2": "PT",
           "alpha3": "PRT",
           "units": [
@@ -874,7 +874,7 @@
           "alpha3": "SRB",
           "units": [
             "Dinar",
-            "Para"
+            "پارا"
           ],
           "iso4217": "RSD",
           "key": "RS",
@@ -978,7 +978,7 @@
               "name": "Austrian Mint",
               "local_name": "Münze Österreich",
               "country": {
-                "AUT": "Austria"
+                "AUT": "اتریش"
               },
               "location": "Vienna",
               "from_year": 1194
@@ -1071,7 +1071,7 @@
             {
               "name": "Strasbourg Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "فرانسه"
               },
               "location": "Strasbourg",
               "from_year": 962,
@@ -1284,7 +1284,7 @@
           "alpha2": "MC",
           "alpha3": "MCO",
           "units": [
-            "Euro",
+            "یورو",
             "Cent"
           ],
           "iso4217": "EUR",
@@ -1581,7 +1581,7 @@
           "alpha2": "CU",
           "alpha3": "CUB",
           "units": [
-            "Peso",
+            "پزو",
             "Centavo"
           ],
           "iso4217": "CUP",
@@ -1708,7 +1708,7 @@
           "alpha3": "BLM",
           "units": [
             "Euro",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "EUR",
           "key": "BL",
@@ -1720,7 +1720,7 @@
           "alpha3": "KNA",
           "units": [
             "Dollar",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "XCD",
           "key": "KN"
@@ -2050,7 +2050,7 @@
           "dependent": true
         },
         {
-          "name": "Guyana",
+          "name": "گایانا",
           "alpha2": "",
           "alpha3": "",
           "units": [
