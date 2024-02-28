@@ -28,7 +28,7 @@
             {
               "name": "Bulmint",
               "country": {
-                "BGR": "Bulgaria"
+                "BGR": "Bulgaaria"
               },
               "location": "Plovdiv",
               "from_year": 2004
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "name": "Czechia",
+          "name": "Tšehhi",
           "alpha2": "CZ",
           "alpha3": "CZE",
           "units": [
@@ -476,7 +476,7 @@
               "name": "Mint of Norway; ex Den Kongelige Mynt",
               "local_name": "Det Norske Myntverket",
               "country": {
-                "NOR": "Norway"
+                "NOR": "Norra"
               },
               "location": "Kongsberg",
               "from_year": 1686
@@ -739,7 +739,7 @@
           ]
         },
         {
-          "name": "Vatican City",
+          "name": "Vatikan",
           "alpha2": "VA",
           "alpha3": "VAT",
           "units": [
@@ -941,7 +941,7 @@
             {
               "name": "Granada Mint",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Hispaania"
               },
               "location": "Granada",
               "from_year": 1492,
@@ -1054,7 +1054,7 @@
               "name": "Paris Mint",
               "local_name": "Monnaie de Paris",
               "country": {
-                "FRA": "France"
+                "FRA": "Prantsusmaa"
               },
               "location": "Pessac",
               "from_year": 864
@@ -1062,7 +1062,7 @@
             {
               "name": "Poissy Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "Prantsusmaa"
               },
               "location": "Poissy",
               "from_year": 1922,
@@ -1121,7 +1121,7 @@
             {
               "name": "Geiger Edelmetalle",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Saksamaa"
               },
               "location": "Leipzig",
               "from_year": 1218
@@ -1227,7 +1227,7 @@
             {
               "name": "Staatliche Münzen Baden-Württemberg",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Saksamaa"
               },
               "location": "Karlsruhe and Stuttgart",
               "from_year": 1998
@@ -1265,7 +1265,7 @@
           ]
         },
         {
-          "name": "Luxembourg",
+          "name": "Luksemburg",
           "alpha2": "LU",
           "alpha3": "LUX",
           "units": [
@@ -1486,7 +1486,7 @@
       ]
     },
     {
-      "name": "Americas",
+      "name": "Ameerikad",
       "countries": [
         {
           "name": "Anguilla",
@@ -1932,7 +1932,7 @@
           ]
         },
         {
-          "name": "Bolivia",
+          "name": "Boliivia",
           "alpha2": "BO",
           "alpha3": "BOL",
           "units": [
