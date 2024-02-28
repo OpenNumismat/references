@@ -15,7 +15,7 @@
           "key": "BY"
         },
         {
-          "name": "Bulgaria",
+          "name": "Bulgária",
           "alpha2": "BG",
           "alpha3": "BGR",
           "units": [
@@ -126,7 +126,7 @@
             {
               "name": "Mint XXI",
               "country": {
-                "POL": "Poland"
+                "POL": "Lengyelország"
               },
               "location": "Warsaw",
               "from_year": 2019
@@ -205,7 +205,7 @@
               "name": "Kremnica Mint, ex Kremnitz",
               "local_name": "Mincovňa Kremnica",
               "country": {
-                "SVK": "Slovakia"
+                "SVK": "Szlovákia"
               },
               "location": "Kremnica",
               "from_year": 1328
@@ -801,7 +801,7 @@
             {
               "name": "Malta Mint",
               "country": {
-                "MLT": "Malta"
+                "MLT": "Málta"
               },
               "location": "Valetta",
               "from_year": 1973,
@@ -950,7 +950,7 @@
             {
               "name": "Seville Mint",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Spanyolország"
               },
               "location": "Seville",
               "from_year": 1252,
@@ -959,7 +959,7 @@
           ]
         },
         {
-          "name": "Austria",
+          "name": "Ausztria",
           "alpha2": "AT",
           "alpha3": "AUT",
           "units": [
@@ -1045,7 +1045,7 @@
             {
               "name": "Art Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "Franciaország"
               },
               "location": "Paris",
               "from_year": 2013
@@ -1379,7 +1379,7 @@
             {
               "name": "Valcambi",
               "country": {
-                "CHE": "Switzerland"
+                "CHE": "Svájc"
               },
               "location": "Balerna",
               "from_year": 1961
@@ -2510,7 +2510,7 @@
               "name": "CBPMC - Shanghai Mint",
               "local_name": "",
               "country": {
-                "CHN": "China"
+                "CHN": "Kína"
               },
               "location": "",
               "from_year": 1984
