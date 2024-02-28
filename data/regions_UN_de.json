@@ -15,7 +15,7 @@
           "key": "BY"
         },
         {
-          "name": "Bulgaria",
+          "name": "Bulgarien",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -126,7 +126,7 @@
             {
               "name": "Mint XXI",
               "country": {
-                "POL": "Poland"
+                "POL": "Polen"
               },
               "location": "Warsaw",
               "from_year": 2019
@@ -205,7 +205,7 @@
               "name": "Kremnica Mint, ex Kremnitz",
               "local_name": "Mincovňa Kremnica",
               "country": {
-                "SVK": "Slovakia"
+                "SVK": "Slowakei"
               },
               "location": "",
               "from_year": 1328
@@ -622,7 +622,7 @@
             {
               "name": "Windsor Mint",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Vereinigtes Königreich"
               },
               "location": "",
               "from_year": 2010
@@ -950,7 +950,7 @@
             {
               "name": "Seville Mint",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Spanien"
               },
               "location": "Seville",
               "from_year": 1252,
@@ -1045,7 +1045,7 @@
             {
               "name": "Art Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "Frankreich"
               },
               "location": "Paris",
               "from_year": 2013
@@ -1219,7 +1219,7 @@
             {
               "name": "",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Deutschland"
               },
               "location": "Berlin",
               "from_year": 1750
@@ -1301,7 +1301,7 @@
           "iso4217": "",
           "key": "",
           "contemporary_units": [
-            "Guilder",
+            "Gulden",
             "Cent"
           ],
           "mints": [
@@ -1553,7 +1553,7 @@
           "dependent": true
         },
         {
-          "name": "British Virgin Islands",
+          "name": "Britische Jungferninseln",
           "alpha2": "VG",
           "alpha3": "VGB",
           "units": [
@@ -1924,7 +1924,7 @@
               "name": "Mint of Argentina",
               "local_name": "",
               "country": {
-                "ARG": "Argentina"
+                "ARG": "Argentinien"
               },
               "location": "",
               "from_year": 1881
@@ -3114,7 +3114,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Pound",
+            "Pfund",
             ""
           ],
           "iso4217": "",
@@ -3159,7 +3159,7 @@
           "alpha3": "",
           "units": [
             "",
-            "Piastre"
+            "Piaster"
           ],
           "iso4217": "",
           "key": ""
@@ -3608,7 +3608,7 @@
           "key": ""
         },
         {
-          "name": "Seychelles",
+          "name": "Seychellen",
           "alpha2": "SC",
           "alpha3": "",
           "units": [
