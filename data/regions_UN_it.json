@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe",
+      "name": "Europa",
       "countries": [
         {
           "name": "Belarus",
@@ -49,7 +49,7 @@
           "alpha2": "CZ",
           "alpha3": "CZE",
           "units": [
-            "Koruna",
+            "Corona",
             "Halér"
           ],
           "iso4217": "CZK",
@@ -59,7 +59,7 @@
               "name": "Czech Mint",
               "local_name": "Česká mincovna",
               "country": {
-                "CZE": "Czechia"
+                "CZE": "Cechia"
               },
               "location": "Jablonec nad Nisou",
               "from_year": 1993
@@ -67,7 +67,7 @@
           ]
         },
         {
-          "name": "Hungary",
+          "name": "Ungheria",
           "alpha2": "HU",
           "alpha3": "HUN",
           "units": [
@@ -110,7 +110,7 @@
               "name": "Mint of Poland",
               "local_name": "Mennica Polska",
               "country": {
-                "POL": "Poland"
+                "POL": "Polonia"
               },
               "location": "Warsaw",
               "from_year": 1766
@@ -134,7 +134,7 @@
           ]
         },
         {
-          "name": "Moldova",
+          "name": "Moldavia",
           "alpha2": "MD",
           "alpha3": "MDA",
           "units": [
@@ -213,7 +213,7 @@
             {
               "name": "Pressburg Mint",
               "country": {
-                "SVK": "Slovakia"
+                "SVK": "Slovacchia"
               },
               "location": "Bratislava",
               "from_year": 2015
@@ -244,7 +244,7 @@
           "dependent": true
         },
         {
-          "name": "Denmark",
+          "name": "Danimarca",
           "alpha2": "DK",
           "alpha3": "DNK",
           "units": [
@@ -338,7 +338,7 @@
               "name": "Mint of Finland",
               "local_name": "Suomen Rahapaja",
               "country": {
-                "FIN": "Finland"
+                "FIN": "Finlandia"
               },
               "location": "Vantaa",
               "from_year": 1860
@@ -389,7 +389,7 @@
             {
               "name": "Currency Centre (Irish Mint)",
               "country": {
-                "IRL": "Ireland"
+                "IRL": "Irlanda"
               },
               "location": "Dublin",
               "from_year": 1978
@@ -397,11 +397,11 @@
           ]
         },
         {
-          "name": "Isle of Man",
+          "name": "Isola di Man",
           "alpha2": "IM",
           "alpha3": "IMN",
           "units": [
-            "Pound",
+            "Pound - lira egiziana",
             "Penny"
           ],
           "iso4217": "IMP",
@@ -409,11 +409,11 @@
           "dependent": true
         },
         {
-          "name": "Jersey",
+          "name": "Isola di Jersey",
           "alpha2": "JE",
           "alpha3": "JEY",
           "units": [
-            "Pound",
+            "Pound - lira egiziana",
             "Penny"
           ],
           "iso4217": "JEP",
@@ -462,7 +462,7 @@
           ]
         },
         {
-          "name": "Norway",
+          "name": "Norvegia",
           "alpha2": "NO",
           "alpha3": "NOR",
           "units": [
@@ -496,7 +496,7 @@
           "dependent": true
         },
         {
-          "name": "Sweden",
+          "name": "Svezia",
           "alpha2": "SE",
           "alpha3": "SWE",
           "units": [
@@ -511,7 +511,7 @@
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
-            "Pound",
+            "Pound - lira egiziana",
             "Penny"
           ],
           "iso4217": "GBP",
@@ -528,7 +528,7 @@
             {
               "name": "East India Company (modern)",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Regno Unito"
               },
               "location": "London",
               "from_year": 2010
@@ -536,7 +536,7 @@
             {
               "name": "Heaton and Sons (Birmingham Mint)",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Regno Unito"
               },
               "location": "Birmingham",
               "from_year": 1850,
@@ -554,7 +554,7 @@
             {
               "name": "J.R. Gaunt and Son",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Regno Unito"
               },
               "location": "Birmingham",
               "from_year": 1884,
@@ -588,7 +588,7 @@
             {
               "name": "Smith and Wright",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Regno Unito"
               },
               "location": "Birmingham",
               "from_year": 1790,
@@ -606,7 +606,7 @@
             {
               "name": "St Paul's Mint",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Regno Unito"
               },
               "location": "Birmingham",
               "from_year": 2003
@@ -656,11 +656,11 @@
           ]
         },
         {
-          "name": "Bosnia and Herzegovina",
+          "name": "Bosnia ed Erzegovina",
           "alpha2": "BA",
           "alpha3": "BIH",
           "units": [
-            "Mark",
+            "Marco",
             "Fening"
           ],
           "iso4217": "BAM",
@@ -704,7 +704,7 @@
           "dependent": true
         },
         {
-          "name": "Greece",
+          "name": "Grecia",
           "alpha2": "GR",
           "alpha3": "GRC",
           "units": [
@@ -721,7 +721,7 @@
             {
               "name": "Aegina Mint",
               "country": {
-                "GRC": "Greece"
+                "GRC": "Grecia"
               },
               "location": "Aegina",
               "from_year": 1828,
@@ -750,7 +750,7 @@
           "key": "VA"
         },
         {
-          "name": "Italy",
+          "name": "Italia",
           "alpha2": "IT",
           "alpha3": "ITA",
           "units": [
@@ -767,7 +767,7 @@
             {
               "name": "Gori & Zucchi (Arezzo Mint)",
               "country": {
-                "ITA": "Italy"
+                "ITA": "Italia"
               },
               "location": "Arezzo",
               "from_year": 1926
@@ -776,7 +776,7 @@
               "name": "Italian Mint",
               "local_name": "Istituto Poligrafico e Zecca dello Stato",
               "country": {
-                "ITA": "Italy"
+                "ITA": "Italia"
               },
               "location": "Rome",
               "from_year": 1928
@@ -905,7 +905,7 @@
           ]
         },
         {
-          "name": "Spain",
+          "name": "Spagna",
           "alpha2": "ES",
           "alpha3": "ESP",
           "units": [
@@ -933,7 +933,7 @@
               "name": "Royal Mint of Spain",
               "local_name": "Fábrica Nacional de Moneda y Timbre",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Spagna"
               },
               "location": "Madrid",
               "from_year": 1893
@@ -986,7 +986,7 @@
           ]
         },
         {
-          "name": "Belgium",
+          "name": "Belgio",
           "alpha2": "BE",
           "alpha3": "BEL",
           "units": [
@@ -996,7 +996,7 @@
           "iso4217": "EUR",
           "key": "BE",
           "contemporary_units": [
-            "Franc",
+            "Franco",
             "Centime"
           ],
           "mints": [
@@ -1020,7 +1020,7 @@
             {
               "name": "P. De Greef",
               "country": {
-                "BEL": "Belgium"
+                "BEL": "Belgio"
               },
               "location": "Antwerp",
               "from_year": 1890
@@ -1028,7 +1028,7 @@
           ]
         },
         {
-          "name": "France",
+          "name": "Francia",
           "alpha2": "FR",
           "alpha3": "FRA",
           "units": [
@@ -1105,7 +1105,7 @@
             {
               "name": "Bavarian Central Mint",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Germania"
               },
               "location": "Munich",
               "from_year": 1871
@@ -1113,7 +1113,7 @@
             {
               "name": "B. H. Mayer",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Germania"
               },
               "location": "Karlsfeld",
               "from_year": 1871
@@ -1137,7 +1137,7 @@
             {
               "name": "Heimerle + Meule",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Germania"
               },
               "location": "Pforzheim",
               "from_year": 1845
@@ -1145,7 +1145,7 @@
             {
               "name": "JVP Investment Coins",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Germania"
               },
               "location": "Berlin",
               "from_year": 2012
@@ -1153,7 +1153,7 @@
             {
               "name": "Karlsruhe Mint",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Germania"
               },
               "location": "Karlsruhe",
               "from_year": 1827,
@@ -1162,7 +1162,7 @@
             {
               "name": "Le Grand Mint",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Germania"
               },
               "location": "Hagen",
               "from_year": 2014
@@ -1186,7 +1186,7 @@
             {
               "name": "Münzen Engel",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Germania"
               },
               "location": "Regensburg",
               "from_year": 1900
@@ -1235,7 +1235,7 @@
             {
               "name": "Stuttgart Mint",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Germania"
               },
               "location": "Stuttgart",
               "from_year": 1374,
@@ -1275,7 +1275,7 @@
           "iso4217": "EUR",
           "key": "LU",
           "contemporary_units": [
-            "Franc",
+            "Franco",
             "Centime"
           ]
         },
@@ -1291,7 +1291,7 @@
           "key": "MC"
         },
         {
-          "name": "Netherlands",
+          "name": "Olanda",
           "alpha2": "NL",
           "alpha3": "NLD",
           "units": [
@@ -1309,7 +1309,7 @@
               "name": "Royal Dutch Mint",
               "local_name": "Koninklijke Nederlandse Munt",
               "country": {
-                "NLD": "Netherlands"
+                "NLD": "Olanda"
               },
               "location": "Utrecht",
               "from_year": 1567
@@ -1317,7 +1317,7 @@
             {
               "name": "NumisCollect",
               "country": {
-                "NLD": "Netherlands"
+                "NLD": "Olanda"
               },
               "location": "Almelo",
               "from_year": 1999
@@ -1325,7 +1325,7 @@
           ]
         },
         {
-          "name": "Switzerland",
+          "name": "Svizzera",
           "alpha2": "CH",
           "alpha3": "CHE",
           "units": [
@@ -1338,7 +1338,7 @@
             {
               "name": "Argor-Heraeus",
               "country": {
-                "CHE": "Switzerland"
+                "CHE": "Svizzera"
               },
               "location": "Mendrisio",
               "from_year": 1951
@@ -1354,7 +1354,7 @@
             {
               "name": "PAMP",
               "country": {
-                "CHE": "Switzerland"
+                "CHE": "Svizzera"
               },
               "location": "Ticino",
               "from_year": 1977
@@ -1370,7 +1370,7 @@
             {
               "name": "UGDO",
               "country": {
-                "CHE": "Switzerland"
+                "CHE": "Svizzera"
               },
               "location": "Geneva",
               "from_year": 1875,
@@ -1443,7 +1443,7 @@
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
-            "Mark",
+            "Marco",
             "Pfennig"
           ],
           "part_of": "DEU",
@@ -1528,7 +1528,7 @@
           "alpha2": "BS",
           "alpha3": "BHS",
           "units": [
-            "Dollar",
+            "Dollaro",
             "Cent"
           ],
           "iso4217": "BSD",
@@ -1539,7 +1539,7 @@
           "alpha2": "BB",
           "alpha3": "BRB",
           "units": [
-            "Dollar",
+            "Dollaro",
             "Cent"
           ],
           "iso4217": "BBD",
@@ -1557,7 +1557,7 @@
           "alpha2": "VG",
           "alpha3": "VGB",
           "units": [
-            "Dollar",
+            "Dollaro",
             "Cent"
           ],
           "iso4217": "USD",
@@ -1565,11 +1565,11 @@
           "dependent": true
         },
         {
-          "name": "Cayman Islands",
+          "name": "Isole Cayman",
           "alpha2": "KY",
           "alpha3": "CYM",
           "units": [
-            "Dollar",
+            "Dollaro",
             "Cent"
           ],
           "iso4217": "KYD",
@@ -1604,7 +1604,7 @@
           "alpha2": "DM",
           "alpha3": "DMA",
           "units": [
-            "Dollar",
+            "Dollaro",
             "Cent"
           ],
           "iso4217": "XCD",
@@ -1656,7 +1656,7 @@
           "key": "HT"
         },
         {
-          "name": "Jamaica",
+          "name": "Giamaica",
           "alpha2": "JM",
           "alpha3": "JAM",
           "units": [
@@ -1715,7 +1715,7 @@
           "dependent": true
         },
         {
-          "name": "Saint Kitts and Nevis",
+          "name": "Saint Kitts e Nevis",
           "alpha2": "KN",
           "alpha3": "KNA",
           "units": [
@@ -1726,11 +1726,11 @@
           "key": "KN"
         },
         {
-          "name": "Saint Lucia",
+          "name": "Santa Lucia",
           "alpha2": "LC",
           "alpha3": "LCA",
           "units": [
-            "Dollar",
+            "Dollaro",
             "Cent"
           ],
           "iso4217": "XCD",
@@ -1753,7 +1753,7 @@
           "alpha2": "VC",
           "alpha3": "VCT",
           "units": [
-            "Dollar",
+            "Dollaro",
             "Cent"
           ],
           "iso4217": "XCD",
@@ -1772,7 +1772,7 @@
           "dependent": true
         },
         {
-          "name": "Trinidad and Tobago",
+          "name": "Trinidad e Tobago",
           "alpha2": "TT",
           "alpha3": "TTO",
           "units": [
@@ -1787,7 +1787,7 @@
           "alpha2": "TC",
           "alpha3": "TCA",
           "units": [
-            "Dollar",
+            "Dollaro",
             "Cent"
           ],
           "iso4217": "USD",
@@ -1811,7 +1811,7 @@
           "alpha2": "BZ",
           "alpha3": "BLZ",
           "units": [
-            "Dollar",
+            "Dollaro",
             "Cent"
           ],
           "iso4217": "BZD",
@@ -1970,7 +1970,7 @@
               "name": "Mint of Brazil",
               "local_name": "Casa da Moeda do Brasil",
               "country": {
-                "BRA": "Brazil"
+                "BRA": "Brasile"
               },
               "location": "Rio de Janeiro",
               "from_year": 1694
@@ -1978,7 +1978,7 @@
           ]
         },
         {
-          "name": "Chile",
+          "name": "Cile",
           "alpha2": "CL",
           "alpha3": "",
           "units": [
@@ -2199,7 +2199,7 @@
           "dependent": true
         },
         {
-          "name": "United States",
+          "name": "Stati Uniti d'America",
           "alpha2": "US",
           "alpha3": "",
           "units": [
@@ -2328,7 +2328,7 @@
             {
               "name": "",
               "country": {
-                "USA": "United States"
+                "USA": "Stati Uniti d'America"
               },
               "location": "Scottsdale",
               "from_year": 2005
@@ -2741,7 +2741,7 @@
             {
               "name": "",
               "country": {
-                "PHL": "Philippines"
+                "PHL": "Filippine"
               },
               "location": "Manila",
               "from_year": 1898,
@@ -3387,7 +3387,7 @@
           "key": ""
         },
         {
-          "name": "Libya",
+          "name": "Libia",
           "alpha2": "",
           "alpha3": "LBY",
           "units": [
@@ -3630,7 +3630,7 @@
           "key": ""
         },
         {
-          "name": "South Sudan",
+          "name": "Sudan del sud",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3770,7 +3770,7 @@
           "alpha2": "GA",
           "alpha3": "GAB",
           "units": [
-            "Franc",
+            "Franco",
             ""
           ],
           "iso4217": "XAF",
