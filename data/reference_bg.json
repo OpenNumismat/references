@@ -16,7 +16,7 @@
     "has_icons": false,
     "values": {
       "common": "често срещана",
-      "normal": "Нормален",
+      "normal": "рядка (R)",
       "scarce": "много рядка (RR)",
       "rare": "изключително рядка (RRR)",
       "unique": "уникат (U)",
