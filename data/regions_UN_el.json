@@ -15,7 +15,7 @@
           "key": "BY"
         },
         {
-          "name": "Bulgaria",
+          "name": "Βουλγαρία",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -126,7 +126,7 @@
             {
               "name": "Mint XXI",
               "country": {
-                "POL": "Poland"
+                "POL": "Πολωνία"
               },
               "location": "Warsaw",
               "from_year": 2019
@@ -191,7 +191,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Euro",
+            "Ευρώ",
             ""
           ],
           "iso4217": "",
@@ -205,7 +205,7 @@
               "name": "Kremnica Mint, ex Kremnitz",
               "local_name": "Mincovňa Kremnica",
               "country": {
-                "SVK": "Slovakia"
+                "SVK": "Σλοβακία"
               },
               "location": "",
               "from_year": 1328
@@ -236,7 +236,7 @@
           "alpha2": "AX",
           "alpha3": "ALA",
           "units": [
-            "Euro",
+            "Ευρώ",
             ""
           ],
           "iso4217": "EUR",
@@ -280,7 +280,7 @@
           "alpha3": "EST",
           "units": [
             "",
-            "Cent"
+            "Λεπτό"
           ],
           "iso4217": "",
           "key": "",
@@ -377,7 +377,7 @@
           "alpha3": "",
           "units": [
             "",
-            "Cent"
+            "Λεπτό"
           ],
           "iso4217": "EUR",
           "key": "IE",
@@ -425,7 +425,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Euro",
+            "Ευρώ",
             "Cent"
           ],
           "iso4217": "",
@@ -754,7 +754,7 @@
           "alpha2": "IT",
           "alpha3": "ITA",
           "units": [
-            "Euro",
+            "Ευρώ",
             "Cent"
           ],
           "iso4217": "EUR",
@@ -801,7 +801,7 @@
             {
               "name": "Malta Mint",
               "country": {
-                "MLT": "Malta"
+                "MLT": "Μάλτα"
               },
               "location": "",
               "from_year": 1973,
@@ -826,7 +826,7 @@
           "alpha3": "MKD",
           "units": [
             "",
-            "Deni"
+            "Ντένι"
           ],
           "iso4217": "MKD",
           "key": "MK"
@@ -950,7 +950,7 @@
             {
               "name": "Seville Mint",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Ισπανία"
               },
               "location": "Seville",
               "from_year": 1252,
@@ -1045,7 +1045,7 @@
             {
               "name": "Art Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "Γαλλία"
               },
               "location": "Paris",
               "from_year": 2013
@@ -1219,7 +1219,7 @@
             {
               "name": "",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Γερμανία"
               },
               "location": "Berlin",
               "from_year": 1750
@@ -1284,7 +1284,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Euro",
+            "Ευρώ",
             "Cent"
           ],
           "iso4217": "EUR",
@@ -1489,7 +1489,7 @@
       "name": "Americas",
       "countries": [
         {
-          "name": "Anguilla",
+          "name": "Ανγκουίλα",
           "alpha2": "AI",
           "alpha3": "",
           "units": [
@@ -1553,7 +1553,7 @@
           "dependent": true
         },
         {
-          "name": "British Virgin Islands",
+          "name": "Βρετανικοί Παρθένοι Νήσοι",
           "alpha2": "VG",
           "alpha3": "VGB",
           "units": [
@@ -1581,7 +1581,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Peso",
+            "Πέσο",
             ""
           ],
           "iso4217": "",
@@ -1834,7 +1834,7 @@
           "alpha3": "",
           "units": [
             "Colón",
-            "Centavo"
+            "Σεντάβο"
           ],
           "iso4217": "SVC",
           "key": "SV"
@@ -2050,7 +2050,7 @@
           "dependent": true
         },
         {
-          "name": "Guyana",
+          "name": "Γουιάνα",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2510,7 +2510,7 @@
               "name": "CBPMC - Shanghai Mint",
               "local_name": "",
               "country": {
-                "CHN": "China"
+                "CHN": "Κίνα"
               },
               "location": "",
               "from_year": 1984
@@ -3114,7 +3114,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Pound",
+            "Λίρα Αιγύπτου",
             ""
           ],
           "iso4217": "",
@@ -3689,7 +3689,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Kwanza",
+            "Κουάτσα",
             "Cêntimo"
           ],
           "iso4217": "",
