@@ -1,0 +1,328 @@
+[
+  {
+    "name": "category",
+    "title": "Категорія",
+    "has_icons": false,
+    "values": {
+      "coin": "Монета",
+      "banknote": "Banknote",
+      "stamp": "Stamp",
+      "postcard": "Postcard"
+    }
+  },
+  {
+    "name": "rarity",
+    "title": "Рідкість",
+    "has_icons": false,
+    "values": {
+      "common": "Звичайна",
+      "normal": "Нечаста",
+      "scarce": "Рідкісна",
+      "rare": "Дуже рідкісна",
+      "unique": "Унікальна",
+      "in-sets-only": "Тільки в наборі"
+    }
+  },
+  {
+    "name": "quality",
+    "title": "Якість",
+    "has_icons": false,
+    "values": {
+      "uncirculated": "Анциркулейтед",
+      "brilliant-uncirculated": "Спеціальний анциркулейтед",
+      "proof": "Ідеальна",
+      "proof-like": "Досконала",
+      "reverse-frosted": "Частково матова"
+    }
+  },
+  {
+    "name": "defect",
+    "title": "Брак",
+    "has_icons": false,
+    "values": {
+      "clipped-planchet": "Викус/місяць",
+      "lamination": "Дефект кола",
+      "off-center-strike": "Зміщення",
+      "multiple-strike": "Подвійне карбування",
+      "mule": "Мул, гібрид",
+      "doubled-die": "Здвоєне зоображення на штемпелі",
+      "brockage": "Залип, інкузійні вади"
+    }
+  },
+  {
+    "name": "type",
+    "title": "Тип",
+    "has_icons": false,
+    "values": {
+      "regular-issue": "Обігова монета",
+      "commemorative": "Пам'ятна, ювілейна",
+      "bullion": "Інвестиційна",
+      "restrike": "Наново викарбувана",
+      "pattern": "Пробна"
+    }
+  },
+  {
+    "name": "format",
+    "title": "Формат",
+    "has_icons": false,
+    "values": {
+      "single": "Одномісний",
+      "set": "Комплект",
+      "coincard": "Монетна картка",
+      "roll": "Сувій"
+    }
+  },
+  {
+    "name": "obvrev",
+    "title": "Ав/Рев",
+    "has_icons": false,
+    "values": {
+      "↑↑-medallic": "↑↑ Medallic",
+      "↑↓-coin": "↑↓ Coin",
+      "↺-variable": "↺ Variable"
+    }
+  },
+  {
+    "name": "edge",
+    "title": "Гурт",
+    "has_icons": false,
+    "values": {
+      "reeded": "Рубчатий",
+      "plain": "Plain",
+      "decorated": "Візерунчатий",
+      "segmented-reeding": "Segmented reeding",
+      "lettered": "Надпис"
+    }
+  },
+  {
+    "name": "shape",
+    "title": "Форма",
+    "has_icons": true,
+    "values": {
+      "round": "Коло",
+      "irregular": "Round (irregular)",
+      "square": "Квадрат",
+      "polygon": "Багатокутник",
+      "spanish": "Іспанська квітка",
+      "hole": "Round with hole",
+      "half": "Half circle",
+      "klippe": "Klippe",
+      "scalloped": "Scalloped"
+    }
+  },
+  {
+    "name": "material",
+    "title": "Матеріал",
+    "has_icons": false,
+    "values": {
+      "acmonital": "Акмонітал",
+      "aluminium": "Алюміній",
+      "aluminium-bronze": "Алюмінієва бронза",
+      "antimony": "Сурма",
+      "brass": "Латунь",
+      "bronze": "Бронза",
+      "cobalt": "Кобальт",
+      "copper": "Мідь",
+      "cupronickel": "Мідно-нікелевий сплав",
+      "gold": "Золото",
+      "iron": "Залізо",
+      "magnesium": "Магній",
+      "manganese": "Марганець",
+      "melchior": "Мельхіор",
+      "nickel": "Нікель",
+      "nickel-silver": "Нейзильбер",
+      "nordic-gold": "Північне золото",
+      "palladium": "Паладій",
+      "platinum": "Платина",
+      "silver": "Срібло",
+      "steel": "Сталь",
+      "tantalum": "Тантал",
+      "tombac": "Томбак",
+      "tellurium": "Телур",
+      "tin": "Олово",
+      "zinc": "Цинк"
+    }
+  },
+  {
+    "name": "composition",
+    "title": "Композиція",
+    "has_icons": false,
+    "values": {
+      "single": "Одномісний",
+      "plated": "Plated",
+      "clad": "Clad",
+      "bimetallic": "Bimetallic"
+    }
+  },
+  {
+    "name": "technique",
+    "title": "Техніка",
+    "has_icons": false,
+    "values": {
+      "milled": "Milled",
+      "cast": "Cast",
+      "hammered": "Hammered",
+      "engraved": "Engraved",
+      "cobs": "Cobs",
+      "klippe": "Klippe",
+      "wire": "Wire",
+      "scyphate": "Scyphate"
+    }
+  },
+  {
+    "name": "modification",
+    "title": "Модифікація",
+    "has_icons": false,
+    "values": {
+      "colored": "Colored",
+      "countermarked": "Countermarked",
+      "holed": "Holed",
+      "cut": "Cut"
+    }
+  },
+  {
+    "name": "grade",
+    "title": "Схоронність",
+    "has_icons": false,
+    "values": {
+      "unc": "Unc",
+      "au": "AU",
+      "xf": "XF",
+      "vf": "VF",
+      "f": "F",
+      "vg": "VG"
+    }
+  },
+  {
+    "name": "grader",
+    "title": "Грейдер",
+    "has_icons": true,
+    "values": {
+      "anacs": "ANACS",
+      "iccs": "ICCS",
+      "icg": "ICG",
+      "ngc": "NGC",
+      "pcgs": "PCGS",
+      "pmg": "PMG",
+      "rnga": "RNGA"
+    }
+  },
+  {
+    "name": "place",
+    "title": "Місце",
+    "has_icons": true,
+    "values": {
+      "ebay": "eBay",
+      "heritage": "Heritage"
+    }
+  },
+  {
+    "name": "color",
+    "title": "Colors",
+    "has_icons": true,
+    "values": {
+      "multicolor": "Кольорова",
+      "black-white": "Чорно-біла",
+      "brown-lake": "Коричневий лак",
+      "lake": "Лак",
+      "crimson": "Малиновий",
+      "carmine": "Кармін",
+      "rose": "Рожевий",
+      "rose-red": "Рожево-червоний",
+      "rosine": "Розуватий",
+      "carmine-red": "Карміново-червоний",
+      "scarlet": "Червоний",
+      "vermilion": "Кіновар",
+      "red": "Червоний",
+      "brown-red": "Коричнево-червоний",
+      "venetian-red": "Венеціанський червоний",
+      "flesh": "Тілесний",
+      "salmon": "Лососевий",
+      "orange-red": "Оранжево-червоний",
+      "red-orange": "Червоно-жовтогарячий",
+      "orange": "Помаранчевий",
+      "yellow-orange": "Жовто-жовтогарячий",
+      "orange-yellow": "Оранжево-жовтий",
+      "yellow": "Жовтий",
+      "lemon": "Лімонний",
+      "greenish-yellow": "Зеленувато-жовтий",
+      "olive-yellow": "Оливково-жовтий",
+      "yellow-olive": "Жовто-оливковий",
+      "olive-green": "Оливково-зелений",
+      "sage-green": "Сірувато-зелений",
+      "apple-green": "Зелене яблуко",
+      "yellow-green": "Жовто-зелений",
+      "bright-green": "Яскраво зелений",
+      "bronze-green": "Бронзово-зелений",
+      "blackish-olive": "Темно-оливковий",
+      "blackish-green": "Чорно-зелений",
+      "slate-green": "Сланцево-зелений",
+      "grey-green": "Сіро-зелений",
+      "dull-green": "Чорний зелений",
+      "green": "Зелений",
+      "myrtle-green": "Мир зелений",
+      "emerald": "Смарагдовий",
+      "blue-green": "Синьо-зелений",
+      "deep-bluish-green": "Темний синювато-зелений",
+      "turquoise-green": "Бірюзово-зелений",
+      "turquoise-blue": "Бірюзово-синій",
+      "light-blue": "Блакитний",
+      "greenish-blue": "Зеленувато синій",
+      "new-blue": "Новий блакитний",
+      "blue": "Синій",
+      "steel-blue": "Синувато-сталевий",
+      "prussian-blue": "Прусський синій",
+      "slate-blue": "Сланець синій",
+      "indigo": "Індиго",
+      "grey-blue": "Сіро-блакитний",
+      "deep-blue": "Темно синій",
+      "cobalt": "Кобальт",
+      "bright-blue": "Яскраво-блакитний",
+      "royal-blue": "Королівський синій",
+      "chalky-blue": "Блідно-синій",
+      "ultramarine": "Ультрамарин",
+      "violet-blue": "Фіолетово-синій",
+      "lavender": "Лавандовий",
+      "bluish-violet": "Синуватий фіолетовий",
+      "violet": "Фіолетовий",
+      "reddish-violet": "Червоно-фіолетовий",
+      "slate-violet": "Сланець фіолетовий",
+      "agate": "Агатовий",
+      "slate-purple": "Сланець фіолетовий",
+      "slate-lilac": "Сланець бузковий",
+      "lilac": "Бузковий",
+      "reddish-lilac": "Червоно-бузковий",
+      "dull-purple": "Чорний фіолетовий",
+      "claret": "Бордо",
+      "cerise": "Світло-вишневий",
+      "magenta": "Пурпурний",
+      "mauve": "Розувато-ліловий",
+      "bright-purple": "Яскраво-фіолетовий",
+      "purple": "Пурпурний",
+      "plum": "Сливовий",
+      "reddish-purple": "Червоно-пурпурний",
+      "maroon": "Темно-бордовий",
+      "brown-purple": "Коричнево-фіолетовий",
+      "purple-brown": "Фіолетово-коричневий",
+      "chocolate": "Шоколадний",
+      "lake-brown": "Коричневий лак",
+      "red-brown": "Червоно-коричневий",
+      "chestnut": "Каштановий",
+      "orange-brown": "Оранжево-коричневий",
+      "cinnamon": "Світло коричневий",
+      "buff": "Темно-жовтий",
+      "ochre": "Охра",
+      "yellow-brown": "Жовто-коричневий",
+      "brown": "Коричневий",
+      "blackish-brown": "Чорновато-коричневий",
+      "sepia": "Сепія",
+      "bistre-brown": "Коричнева акварель",
+      "bistre": "Коричневий",
+      "olive-brown": "Оливково-коричневий",
+      "drab": "Сірий",
+      "olive-grey": "Оливковий сірий",
+      "grey": "Сірий",
+      "slate": "Сланець"
+    }
+  }
+]
