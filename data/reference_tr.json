@@ -218,7 +218,7 @@
   },
   {
     "name": "color",
-    "title": "Renk",
+    "title": "Colors",
     "has_icons": true,
     "values": {
       "multicolor": "Çok Renkli",
