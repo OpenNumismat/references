@@ -15,7 +15,7 @@
           "key": "BY"
         },
         {
-          "name": "Bulgaria",
+          "name": "Bulgària",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -126,7 +126,7 @@
             {
               "name": "Mint XXI",
               "country": {
-                "POL": "Poland"
+                "POL": "Polònia"
               },
               "location": "Warsaw",
               "from_year": 2019
@@ -205,7 +205,7 @@
               "name": "Kremnica Mint, ex Kremnitz",
               "local_name": "Mincovňa Kremnica",
               "country": {
-                "SVK": "Slovakia"
+                "SVK": "Eslovàquia"
               },
               "location": "",
               "from_year": 1328
@@ -950,7 +950,7 @@
             {
               "name": "Seville Mint",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Espanya"
               },
               "location": "Seville",
               "from_year": 1252,
@@ -1045,7 +1045,7 @@
             {
               "name": "Art Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "França"
               },
               "location": "Paris",
               "from_year": 2013
@@ -1219,7 +1219,7 @@
             {
               "name": "",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Alemanya"
               },
               "location": "Berlin",
               "from_year": 1750
@@ -2050,7 +2050,7 @@
           "dependent": true
         },
         {
-          "name": "Guyana",
+          "name": "Guaiana",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2510,7 +2510,7 @@
               "name": "CBPMC - Shanghai Mint",
               "local_name": "",
               "country": {
-                "CHN": "China"
+                "CHN": "Xina"
               },
               "location": "",
               "from_year": 1984
@@ -2706,7 +2706,7 @@
           "key": ""
         },
         {
-          "name": "Malaysia",
+          "name": "Malàisia",
           "alpha2": "MY",
           "alpha3": "",
           "units": [
