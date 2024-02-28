@@ -59,7 +59,7 @@
               "name": "Czech Mint",
               "local_name": "Česká mincovna",
               "country": {
-                "CZE": "Czechia"
+                "CZE": "Tšehhi"
               },
               "location": "Jablonec nad Nisou",
               "from_year": 1993
@@ -88,7 +88,7 @@
           ]
         },
         {
-          "name": "Poland",
+          "name": "Poola",
           "alpha2": "PL",
           "alpha3": "POL",
           "units": [
@@ -101,7 +101,7 @@
             {
               "name": "Germania Mint",
               "country": {
-                "POL": "Poland"
+                "POL": "Poola"
               },
               "location": "Jelenia Góra",
               "from_year": 2018
@@ -118,7 +118,7 @@
             {
               "name": "Mint of Gdansk",
               "country": {
-                "POL": "Poland"
+                "POL": "Poola"
               },
               "location": "Gdansk",
               "from_year": 2010
@@ -145,7 +145,7 @@
           "key": "MD"
         },
         {
-          "name": "Romania",
+          "name": "Rumeenia",
           "alpha2": "RO",
           "alpha3": "ROU",
           "units": [
@@ -156,7 +156,7 @@
           "key": "RO"
         },
         {
-          "name": "Russia",
+          "name": "Venemaa",
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
@@ -221,7 +221,7 @@
           ]
         },
         {
-          "name": "Ukraine",
+          "name": "Ukraina",
           "alpha2": "UA",
           "alpha3": "UKR",
           "units": [
@@ -320,7 +320,7 @@
           "dependent": true
         },
         {
-          "name": "Finland",
+          "name": "Soome",
           "alpha2": "FI",
           "alpha3": "FIN",
           "units": [
@@ -338,7 +338,7 @@
               "name": "Mint of Finland",
               "local_name": "Suomen Rahapaja",
               "country": {
-                "FIN": "Finland"
+                "FIN": "Soome"
               },
               "location": "Vantaa",
               "from_year": 1860
@@ -358,7 +358,7 @@
           "dependent": true
         },
         {
-          "name": "Iceland",
+          "name": "Island",
           "alpha2": "IS",
           "alpha3": "ISL",
           "units": [
@@ -389,7 +389,7 @@
             {
               "name": "Currency Centre (Irish Mint)",
               "country": {
-                "IRL": "Ireland"
+                "IRL": "Iirimaa"
               },
               "location": "Dublin",
               "from_year": 1978
@@ -436,7 +436,7 @@
           ]
         },
         {
-          "name": "Lithuania",
+          "name": "Leedu",
           "alpha2": "LT",
           "alpha3": "LTU",
           "units": [
@@ -496,7 +496,7 @@
           "dependent": true
         },
         {
-          "name": "Sweden",
+          "name": "Rootsi",
           "alpha2": "SE",
           "alpha3": "SWE",
           "units": [
@@ -667,7 +667,7 @@
           "key": "BA"
         },
         {
-          "name": "Croatia",
+          "name": "Horvaatia",
           "alpha2": "HR",
           "alpha3": "HRV",
           "units": [
@@ -684,7 +684,7 @@
               "name": "Croatian Monetary Institute",
               "local_name": "Hrvatski novčarski zavod",
               "country": {
-                "HRV": "Croatia"
+                "HRV": "Horvaatia"
               },
               "location": "Sveta Nedelja",
               "from_year": 1993
@@ -721,7 +721,7 @@
             {
               "name": "Aegina Mint",
               "country": {
-                "GRC": "Greece"
+                "GRC": "Kreeka"
               },
               "location": "Aegina",
               "from_year": 1828,
@@ -730,7 +730,7 @@
             {
               "name": "Garitsa",
               "country": {
-                "GRC": "Greece"
+                "GRC": "Kreeka"
               },
               "location": "Garitsa",
               "from_year": 1801,
@@ -750,7 +750,7 @@
           "key": "VA"
         },
         {
-          "name": "Italy",
+          "name": "Itaalia",
           "alpha2": "IT",
           "alpha3": "ITA",
           "units": [
@@ -1012,7 +1012,7 @@
             {
               "name": "Mauquoy",
               "country": {
-                "BEL": "Belgium"
+                "BEL": "Belgia"
               },
               "location": "Grobbendonk",
               "from_year": 1875
@@ -1105,7 +1105,7 @@
             {
               "name": "Bavarian Central Mint",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Saksamaa"
               },
               "location": "Munich",
               "from_year": 1871
@@ -1162,7 +1162,7 @@
             {
               "name": "Le Grand Mint",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Saksamaa"
               },
               "location": "Hagen",
               "from_year": 2014
@@ -1291,7 +1291,7 @@
           "key": "MC"
         },
         {
-          "name": "Netherlands",
+          "name": "Madalmaad",
           "alpha2": "NL",
           "alpha3": "NLD",
           "units": [
@@ -1317,7 +1317,7 @@
             {
               "name": "NumisCollect",
               "country": {
-                "NLD": "Netherlands"
+                "NLD": "Madalmaad"
               },
               "location": "Almelo",
               "from_year": 1999
@@ -1338,7 +1338,7 @@
             {
               "name": "Argor-Heraeus",
               "country": {
-                "CHE": "Switzerland"
+                "CHE": "Šveits"
               },
               "location": "Mendrisio",
               "from_year": 1951
@@ -1346,7 +1346,7 @@
             {
               "name": "Helvetic Mint",
               "country": {
-                "CHE": "Switzerland"
+                "CHE": "Šveits"
               },
               "location": "Rothenburg",
               "from_year": 2011
@@ -1354,7 +1354,7 @@
             {
               "name": "PAMP",
               "country": {
-                "CHE": "Switzerland"
+                "CHE": "Šveits"
               },
               "location": "Ticino",
               "from_year": 1977
@@ -1404,7 +1404,7 @@
           "alpha2": "",
           "alpha3": "XPR",
           "units": [
-            "Ruble",
+            "Rubla",
             "Kopek"
           ],
           "iso4217": "PRB",
@@ -1577,7 +1577,7 @@
           "dependent": true
         },
         {
-          "name": "Cuba",
+          "name": "Kuuba",
           "alpha2": "CU",
           "alpha3": "CUB",
           "units": [
@@ -1970,7 +1970,7 @@
               "name": "Mint of Brazil",
               "local_name": "Casa da Moeda do Brasil",
               "country": {
-                "BRA": "Brazil"
+                "BRA": "Brasiilia"
               },
               "location": "Rio de Janeiro",
               "from_year": 1694
@@ -1978,7 +1978,7 @@
           ]
         },
         {
-          "name": "Chile",
+          "name": "Tšiili",
           "alpha2": "CL",
           "alpha3": "",
           "units": [
@@ -2146,7 +2146,7 @@
           "dependent": true
         },
         {
-          "name": "Canada",
+          "name": "Kanada",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2199,7 +2199,7 @@
           "dependent": true
         },
         {
-          "name": "United States",
+          "name": "USA",
           "alpha2": "US",
           "alpha3": "",
           "units": [
@@ -2430,7 +2430,7 @@
       ]
     },
     {
-      "name": "Asia",
+      "name": "Aasia",
       "countries": [
         {
           "name": "",
@@ -2501,7 +2501,7 @@
             {
               "name": "",
               "country": {
-                "CHN": "China"
+                "CHN": "Hiina"
               },
               "location": "",
               "from_year": 1995
@@ -2927,7 +2927,7 @@
           ]
         },
         {
-          "name": "Iran",
+          "name": "Iraan",
           "alpha2": "",
           "alpha3": "IRN",
           "units": [
