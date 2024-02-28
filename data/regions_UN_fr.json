@@ -28,7 +28,7 @@
             {
               "name": "Bulmint",
               "country": {
-                "BGR": "Bulgaria"
+                "BGR": "Bulgarie"
               },
               "location": "Plovdiv",
               "from_year": 2004
@@ -257,7 +257,7 @@
             {
               "name": "Altona Mint",
               "country": {
-                "DNK": "Denmark"
+                "DNK": "Danemark"
               },
               "location": "Altona",
               "from_year": 1771,
@@ -858,7 +858,7 @@
           ]
         },
         {
-          "name": "San Marino",
+          "name": "Saint-Marin",
           "alpha2": "SM",
           "alpha3": "SMR",
           "units": [
@@ -978,7 +978,7 @@
               "name": "Austrian Mint",
               "local_name": "Münze Österreich",
               "country": {
-                "AUT": "Austria"
+                "AUT": "Autriche"
               },
               "location": "Vienna",
               "from_year": 1194
@@ -1121,7 +1121,7 @@
             {
               "name": "Geiger Edelmetalle",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Allemagne"
               },
               "location": "Leipzig",
               "from_year": 1218
@@ -1227,7 +1227,7 @@
             {
               "name": "Staatliche Münzen Baden-Württemberg",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Allemagne"
               },
               "location": "Karlsruhe and Stuttgart",
               "from_year": 1998
@@ -1486,7 +1486,7 @@
       ]
     },
     {
-      "name": "Americas",
+      "name": "Amérique",
       "countries": [
         {
           "name": "Anguilla",
@@ -1910,7 +1910,7 @@
           "key": "PA"
         },
         {
-          "name": "Argentina",
+          "name": "Argentine",
           "alpha2": "AR",
           "alpha3": "ARG",
           "units": [
