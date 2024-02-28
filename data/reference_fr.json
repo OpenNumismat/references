@@ -1,0 +1,328 @@
+[
+  {
+    "name": "category",
+    "title": "Category",
+    "has_icons": false,
+    "values": {
+      "coin": "Pièce",
+      "banknote": "Banknote",
+      "stamp": "Stamp",
+      "postcard": "Postcard"
+    }
+  },
+  {
+    "name": "rarity",
+    "title": "Rareté",
+    "has_icons": false,
+    "values": {
+      "common": "Commune",
+      "normal": "Normale",
+      "scarce": "Rare",
+      "rare": "Rare",
+      "unique": "Unique",
+      "in-sets-only": "En ensemble seulement"
+    }
+  },
+  {
+    "name": "quality",
+    "title": "Qualité",
+    "has_icons": false,
+    "values": {
+      "uncirculated": "Brillant Universel",
+      "brilliant-uncirculated": "Brilliant uncirculated",
+      "proof": "Belle épreuve",
+      "proof-like": "Tel une épreuve",
+      "reverse-frosted": "Revers givré"
+    }
+  },
+  {
+    "name": "defect",
+    "title": "Défaut",
+    "has_icons": false,
+    "values": {
+      "clipped-planchet": "Flan coupé",
+      "lamination": "Laminage",
+      "off-center-strike": "Frappe hors de la virole",
+      "multiple-strike": "Frappe multiple",
+      "mule": "Coin interchangé",
+      "doubled-die": "Coin doublé",
+      "brockage": "Effet miroir"
+    }
+  },
+  {
+    "name": "type",
+    "title": "Type",
+    "has_icons": false,
+    "values": {
+      "regular-issue": "Émission régulière",
+      "commemorative": "Commémorative",
+      "bullion": "Bullion",
+      "restrike": "Double frappe",
+      "pattern": "Essai"
+    }
+  },
+  {
+    "name": "format",
+    "title": "Format",
+    "has_icons": false,
+    "values": {
+      "single": "Single",
+      "set": "Ensemble",
+      "coincard": "Coincard",
+      "roll": "Rouleau"
+    }
+  },
+  {
+    "name": "obvrev",
+    "title": "Avers/Revers",
+    "has_icons": false,
+    "values": {
+      "↑↑-medallic": "↑↑ Medallic",
+      "↑↓-coin": "↑↓ Coin",
+      "↺-variable": "↺ Variable"
+    }
+  },
+  {
+    "name": "edge",
+    "title": "Tranche",
+    "has_icons": false,
+    "values": {
+      "reeded": "Cannelures",
+      "plain": "Plain",
+      "decorated": "Décoré",
+      "segmented-reeding": "Segmented reeding",
+      "lettered": "Lettré"
+    }
+  },
+  {
+    "name": "shape",
+    "title": "Forme",
+    "has_icons": true,
+    "values": {
+      "round": "Arrondi",
+      "irregular": "Round (irregular)",
+      "square": "Carré",
+      "polygon": "Polygone",
+      "spanish": "Fleur espagnole",
+      "hole": "Round with hole",
+      "half": "Half circle",
+      "klippe": "Klippe",
+      "scalloped": "Scalloped"
+    }
+  },
+  {
+    "name": "material",
+    "title": "Matériau",
+    "has_icons": false,
+    "values": {
+      "acmonital": "Acmonital",
+      "aluminium": "Aluminium",
+      "aluminium-bronze": "Cuproaluminium",
+      "antimony": "Antimoine",
+      "brass": "Laiton",
+      "bronze": "Bronze",
+      "cobalt": "Cobalt",
+      "copper": "Cuivre",
+      "cupronickel": "Cupronickel",
+      "gold": "Or",
+      "iron": "Fer",
+      "magnesium": "Magnésium",
+      "manganese": "Manganèse",
+      "melchior": "Maillechort",
+      "nickel": "Nickel",
+      "nickel-silver": "Nickel argent",
+      "nordic-gold": "Or nordique",
+      "palladium": "Palladium",
+      "platinum": "Platine",
+      "silver": "Argent",
+      "steel": "Acier",
+      "tantalum": "Tantale",
+      "tombac": "Tombac",
+      "tellurium": "Tellure",
+      "tin": "Étain",
+      "zinc": "Zinc"
+    }
+  },
+  {
+    "name": "composition",
+    "title": "Composition",
+    "has_icons": false,
+    "values": {
+      "single": "Single",
+      "plated": "Plated",
+      "clad": "Clad",
+      "bimetallic": "Bimetallic"
+    }
+  },
+  {
+    "name": "technique",
+    "title": "Technique",
+    "has_icons": false,
+    "values": {
+      "milled": "Milled",
+      "cast": "Cast",
+      "hammered": "Hammered",
+      "engraved": "Engraved",
+      "cobs": "Cobs",
+      "klippe": "Klippe",
+      "wire": "Wire",
+      "scyphate": "Scyphate"
+    }
+  },
+  {
+    "name": "modification",
+    "title": "Modification",
+    "has_icons": false,
+    "values": {
+      "colored": "Colored",
+      "countermarked": "Countermarked",
+      "holed": "Holed",
+      "cut": "Cut"
+    }
+  },
+  {
+    "name": "grade",
+    "title": "Etat",
+    "has_icons": false,
+    "values": {
+      "unc": "N'a pas circulé",
+      "au": "SPL",
+      "xf": "Superbe",
+      "vf": "Très très belle",
+      "f": "F",
+      "vg": "VG"
+    }
+  },
+  {
+    "name": "grader",
+    "title": "Grader",
+    "has_icons": true,
+    "values": {
+      "anacs": "ANACS",
+      "iccs": "ICCS",
+      "icg": "ICG",
+      "ngc": "NGC",
+      "pcgs": "PCGS",
+      "pmg": "PMG",
+      "rnga": "RNGA"
+    }
+  },
+  {
+    "name": "place",
+    "title": "Lieu",
+    "has_icons": true,
+    "values": {
+      "ebay": "eBay",
+      "heritage": "Heritage"
+    }
+  },
+  {
+    "name": "color",
+    "title": "Colors",
+    "has_icons": true,
+    "values": {
+      "multicolor": "Multicolore",
+      "black-white": "Noir-Blanc",
+      "brown-lake": "Brown-Lake",
+      "lake": "Lake",
+      "crimson": "Cramoisi",
+      "carmine": "Carmin",
+      "rose": "Rose",
+      "rose-red": "Rose-Rouge",
+      "rosine": "Rosine",
+      "carmine-red": "Carmin-Rouge",
+      "scarlet": "Ecarlate",
+      "vermilion": "Vermillon",
+      "red": "Rouge",
+      "brown-red": "Brun-Rouge",
+      "venetian-red": "Rouge vénitien",
+      "flesh": "Chair",
+      "salmon": "Saumon",
+      "orange-red": "Orange-Rouge",
+      "red-orange": "Rouge-Orange",
+      "orange": "Orange",
+      "yellow-orange": "Jaune-Orange",
+      "orange-yellow": "Orange-Jaune",
+      "yellow": "Jaune",
+      "lemon": "Citron",
+      "greenish-yellow": "Jaune verdâtre",
+      "olive-yellow": "Olive-Jaune",
+      "yellow-olive": "Jaune-Olive",
+      "olive-green": "Vert olive",
+      "sage-green": "Vert sauge",
+      "apple-green": "Vert pomme",
+      "yellow-green": "Jaune-Vert",
+      "bright-green": "Vert clair",
+      "bronze-green": "Vert bronze",
+      "blackish-olive": "Olive noirâtre",
+      "blackish-green": "Vert noirâtre",
+      "slate-green": "Vert ardoise",
+      "grey-green": "Gris-Vert",
+      "dull-green": "Vert terne",
+      "green": "Vert",
+      "myrtle-green": "Vert myrte",
+      "emerald": "Emeraude",
+      "blue-green": "Bleu-Vert",
+      "deep-bluish-green": "Vert bleuâtre profond",
+      "turquoise-green": "Vert turquoise",
+      "turquoise-blue": "Bleu turquoise",
+      "light-blue": "Bleu clair",
+      "greenish-blue": "Bleu verdâtre",
+      "new-blue": "New Blue",
+      "blue": "Bleu",
+      "steel-blue": "Bleu acier",
+      "prussian-blue": "Bleu de Prusse",
+      "slate-blue": "Bleu ardoise",
+      "indigo": "Indigo",
+      "grey-blue": "Gris-Bleu",
+      "deep-blue": "Bleu profond",
+      "cobalt": "Cobalt",
+      "bright-blue": "Bleu brillant",
+      "royal-blue": "Bleu royal",
+      "chalky-blue": "Bleu crayeux",
+      "ultramarine": "Outremer",
+      "violet-blue": "Violet-Bleu",
+      "lavender": "Lavande",
+      "bluish-violet": "Violet bleuté",
+      "violet": "Violet",
+      "reddish-violet": "Violet rougeâtre",
+      "slate-violet": "Violet ardoise",
+      "agate": "Agate",
+      "slate-purple": "Pourpre ardoise",
+      "slate-lilac": "Lilas ardoise",
+      "lilac": "Lilas",
+      "reddish-lilac": "Lilas rougeâtre",
+      "dull-purple": "Pourpre terne",
+      "claret": "Bordeaux",
+      "cerise": "Cerise",
+      "magenta": "Magenta",
+      "mauve": "Mauve",
+      "bright-purple": "Pourpre brillant",
+      "purple": "Pourpre",
+      "plum": "Prune",
+      "reddish-purple": "Pourpre rougeâtre",
+      "maroon": "Maroon",
+      "brown-purple": "Brun-Pourpre",
+      "purple-brown": "Pourpre-Brun",
+      "chocolate": "Chocolat",
+      "lake-brown": "Lake-Brown",
+      "red-brown": "Rouge-Brun",
+      "chestnut": "Châtain",
+      "orange-brown": "Orange-Brun",
+      "cinnamon": "Cannelle",
+      "buff": "Chamois",
+      "ochre": "Ocre",
+      "yellow-brown": "Jaune-Brun",
+      "brown": "Brun",
+      "blackish-brown": "Brun noirâtre",
+      "sepia": "Sepia",
+      "bistre-brown": "Marron foncé",
+      "bistre": "Marron",
+      "olive-brown": "Olive-Brown",
+      "drab": "Drab",
+      "olive-grey": "Olive-Grey",
+      "grey": "Grey",
+      "slate": "Slate"
+    }
+  }
+]
