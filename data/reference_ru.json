@@ -1,0 +1,328 @@
+[
+  {
+    "name": "category",
+    "title": "Категория",
+    "has_icons": false,
+    "values": {
+      "coin": "Монета",
+      "banknote": "Банкнота",
+      "stamp": "Марка",
+      "postcard": "Открытка"
+    }
+  },
+  {
+    "name": "rarity",
+    "title": "Редкость",
+    "has_icons": false,
+    "values": {
+      "common": "Рядовая",
+      "normal": "Обычный",
+      "scarce": "Редкая",
+      "rare": "Очень редкая",
+      "unique": "Уникальная",
+      "in-sets-only": "Только в наборах"
+    }
+  },
+  {
+    "name": "quality",
+    "title": "Качество",
+    "has_icons": false,
+    "values": {
+      "uncirculated": "АЦ",
+      "brilliant-uncirculated": "Б/А",
+      "proof": "Пруф",
+      "proof-like": "Пруф-лайк",
+      "reverse-frosted": "Реверс фростед"
+    }
+  },
+  {
+    "name": "defect",
+    "title": "Брак",
+    "has_icons": false,
+    "values": {
+      "clipped-planchet": "Выкус, луна",
+      "lamination": "Дефекты кружка",
+      "off-center-strike": "Смещение",
+      "multiple-strike": "Двойной удар",
+      "mule": "Перепутка, мул",
+      "doubled-die": "Сдвоенность изображения на штемпеле",
+      "brockage": "Залипуха, инкузный брак"
+    }
+  },
+  {
+    "name": "type",
+    "title": "Тип",
+    "has_icons": false,
+    "values": {
+      "regular-issue": "Курсовая (регулярная)",
+      "commemorative": "Памятная (юбилейная)",
+      "bullion": "Инвестиционная",
+      "restrike": "Новодел",
+      "pattern": "Пробная"
+    }
+  },
+  {
+    "name": "format",
+    "title": "Формат",
+    "has_icons": false,
+    "values": {
+      "single": "Одиночная",
+      "set": "Набор",
+      "coincard": "Coincard",
+      "roll": "Ролл"
+    }
+  },
+  {
+    "name": "obvrev",
+    "title": "Ав/Рев",
+    "has_icons": false,
+    "values": {
+      "↑↑-medallic": "↑↑ Медальное",
+      "↑↓-coin": "↑↓ Монетное",
+      "↺-variable": "↺ Различное"
+    }
+  },
+  {
+    "name": "edge",
+    "title": "Гурт",
+    "has_icons": false,
+    "values": {
+      "reeded": "Рубчатый",
+      "plain": "Гладкий",
+      "decorated": "Узорный",
+      "segmented-reeding": "Прерывисто рубчатый",
+      "lettered": "Надпись"
+    }
+  },
+  {
+    "name": "shape",
+    "title": "Форма",
+    "has_icons": true,
+    "values": {
+      "round": "Круг",
+      "irregular": "Круг (неровный)",
+      "square": "Квадрат",
+      "polygon": "Многоугольник",
+      "spanish": "Испанский цветок",
+      "hole": "Круг с отверстием",
+      "half": "Полукруг",
+      "klippe": "Клиппа",
+      "scalloped": "Зубчатая"
+    }
+  },
+  {
+    "name": "material",
+    "title": "Материал",
+    "has_icons": false,
+    "values": {
+      "acmonital": "Акмонитал",
+      "aluminium": "Алюминий",
+      "aluminium-bronze": "Алюминиевая бронза",
+      "antimony": "Сурьма",
+      "brass": "Латунь",
+      "bronze": "Бронза",
+      "cobalt": "Кобальт",
+      "copper": "Медь",
+      "cupronickel": "Купроникель",
+      "gold": "Золото",
+      "iron": "Железо",
+      "magnesium": "Магний",
+      "manganese": "Марганец",
+      "melchior": "Мельхиор",
+      "nickel": "Никель",
+      "nickel-silver": "Нейзильбер",
+      "nordic-gold": "Северное золото",
+      "palladium": "Паладий",
+      "platinum": "Платина",
+      "silver": "Серебро",
+      "steel": "Сталь",
+      "tantalum": "Тантал",
+      "tombac": "Томпак",
+      "tellurium": "Теллур",
+      "tin": "Олово",
+      "zinc": "Цинк"
+    }
+  },
+  {
+    "name": "composition",
+    "title": "Состав",
+    "has_icons": false,
+    "values": {
+      "single": "Одиночная",
+      "plated": "Плакированный",
+      "clad": "Наплавка",
+      "bimetallic": "Биметалл"
+    }
+  },
+  {
+    "name": "technique",
+    "title": "Техника",
+    "has_icons": false,
+    "values": {
+      "milled": "Штамповка",
+      "cast": "Литье",
+      "hammered": "Кованный",
+      "engraved": "Гравировка",
+      "cobs": "Коб",
+      "klippe": "Клиппа",
+      "wire": "Чешуя",
+      "scyphate": "Скифат"
+    }
+  },
+  {
+    "name": "modification",
+    "title": "Изменение",
+    "has_icons": false,
+    "values": {
+      "colored": "Окрашенный",
+      "countermarked": "Надчеканка",
+      "holed": "Отверстие",
+      "cut": "Кусок"
+    }
+  },
+  {
+    "name": "grade",
+    "title": "Сохранность",
+    "has_icons": false,
+    "values": {
+      "unc": "Unc",
+      "au": "AU",
+      "xf": "XF",
+      "vf": "VF",
+      "f": "Ф",
+      "vg": "VG"
+    }
+  },
+  {
+    "name": "grader",
+    "title": "Грейдер",
+    "has_icons": true,
+    "values": {
+      "anacs": "ANACS",
+      "iccs": "ICCS",
+      "icg": "ICG",
+      "ngc": "NGC",
+      "pcgs": "PCGS",
+      "pmg": "PMG",
+      "rnga": "RNGA"
+    }
+  },
+  {
+    "name": "place",
+    "title": "Место",
+    "has_icons": true,
+    "values": {
+      "ebay": "eBay",
+      "heritage": "Heritage"
+    }
+  },
+  {
+    "name": "color",
+    "title": "Цвета",
+    "has_icons": true,
+    "values": {
+      "multicolor": "Цветная",
+      "black-white": "Черно-белая",
+      "brown-lake": "Коричневый лак",
+      "lake": "Лак",
+      "crimson": "Малиновый",
+      "carmine": "Кармин",
+      "rose": "Розовый",
+      "rose-red": "Розово-красный",
+      "rosine": "Розоватый",
+      "carmine-red": "Карминово-красный",
+      "scarlet": "Алый",
+      "vermilion": "Киноварь",
+      "red": "Красный",
+      "brown-red": "Коричнево-красный",
+      "venetian-red": "Венецианский красный",
+      "flesh": "Телесный",
+      "salmon": "Лососевый",
+      "orange-red": "Оранжево-красный",
+      "red-orange": "Красно-оранжевый",
+      "orange": "Оранжевый",
+      "yellow-orange": "Желто-оранжевый",
+      "orange-yellow": "Оранжево-желтый",
+      "yellow": "Желтый",
+      "lemon": "Лимонный",
+      "greenish-yellow": "Зеленовато-желтый",
+      "olive-yellow": "Оливково-желтый",
+      "yellow-olive": "Желто-оливковый",
+      "olive-green": "Оливково-зеленый",
+      "sage-green": "Серовато-зеленый",
+      "apple-green": "Зеленое яблоко",
+      "yellow-green": "Желто-зеленый",
+      "bright-green": "Ярко зеленый",
+      "bronze-green": "Бронзово-зеленый",
+      "blackish-olive": "Темно-оливковый",
+      "blackish-green": "Черно-зеленый",
+      "slate-green": "Сланцево-зелёный",
+      "grey-green": "Серо-зеленый",
+      "dull-green": "Тусклый зеленый",
+      "green": "Зеленый",
+      "myrtle-green": "Мирт зеленый",
+      "emerald": "Изумрудный",
+      "blue-green": "Сине-зеленый",
+      "deep-bluish-green": "Тёмный синевато-зелёный",
+      "turquoise-green": "Бирюзово-зеленый",
+      "turquoise-blue": "Бирюзово-синий",
+      "light-blue": "Голубой",
+      "greenish-blue": "Зеленовато синий",
+      "new-blue": "Синий",
+      "blue": "Синий",
+      "steel-blue": "Синевато-стальной",
+      "prussian-blue": "Прусский синий",
+      "slate-blue": "Сланец синий",
+      "indigo": "Индиго",
+      "grey-blue": "Серо-голубой",
+      "deep-blue": "Темно-синий",
+      "cobalt": "Кобальт",
+      "bright-blue": "Ярко-голубой",
+      "royal-blue": "Королевский синий",
+      "chalky-blue": "Бледно-синий",
+      "ultramarine": "Ультрамарин",
+      "violet-blue": "Фиолетово-синий",
+      "lavender": "Лавандовый",
+      "bluish-violet": "Синеватый фиолетовый",
+      "violet": "Фиолетовый",
+      "reddish-violet": "Красновато-фиолетовый",
+      "slate-violet": "Сланец фиолетовый",
+      "agate": "Агатовый",
+      "slate-purple": "Сланец фиолетовый",
+      "slate-lilac": "Сланец сиреневый",
+      "lilac": "Сиреневый",
+      "reddish-lilac": "Красновато-сиреневый",
+      "dull-purple": "Тусклый фиолетовый",
+      "claret": "Бордо",
+      "cerise": "Светло-вишневый",
+      "magenta": "Пурпурный",
+      "mauve": "Розовато-лиловый",
+      "bright-purple": "Ярко-фиолетовый",
+      "purple": "Пурпурный",
+      "plum": "Сливовый",
+      "reddish-purple": "Красновато-пурпурный",
+      "maroon": "Темно-бордовый",
+      "brown-purple": "Коричнево-фиолетовый",
+      "purple-brown": "Фиолетово-коричневый",
+      "chocolate": "Шоколадный",
+      "lake-brown": "Коричневый лак",
+      "red-brown": "Красно-коричневый",
+      "chestnut": "Каштановый",
+      "orange-brown": "Оранжево-коричневый",
+      "cinnamon": "Светло-коричневый",
+      "buff": "Темно-желтый",
+      "ochre": "Охра",
+      "yellow-brown": "Желто-коричневый",
+      "brown": "Коричневый",
+      "blackish-brown": "Черновато-коричневый",
+      "sepia": "Сепия",
+      "bistre-brown": "Коричневая акварель",
+      "bistre": "Коричневый",
+      "olive-brown": "Оливково-коричневый",
+      "drab": "Тускло-коричневый",
+      "olive-grey": "Оливковый серый",
+      "grey": "Серый",
+      "slate": "Сланец"
+    }
+  }
+]
