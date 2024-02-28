@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe",
+      "name": "Euroopa",
       "countries": [
         {
           "name": "Belarus",
@@ -37,7 +37,7 @@
               "name": "Bulgarian Mint",
               "local_name": "Монетен двор",
               "country": {
-                "BGR": "Bulgaria"
+                "BGR": "Bulgaaria"
               },
               "location": "Sofia",
               "from_year": 1952
@@ -67,7 +67,7 @@
           ]
         },
         {
-          "name": "Hungary",
+          "name": "Ungari",
           "alpha2": "HU",
           "alpha3": "HUN",
           "units": [
@@ -110,7 +110,7 @@
               "name": "Mint of Poland",
               "local_name": "Mennica Polska",
               "country": {
-                "POL": "Poland"
+                "POL": "Poola"
               },
               "location": "Warsaw",
               "from_year": 1766
@@ -170,7 +170,7 @@
               "name": "Moscow Mint",
               "local_name": "Московский монетный двор",
               "country": {
-                "RUS": "Russia"
+                "RUS": "Venemaa"
               },
               "location": "Moscow",
               "from_year": 1942
@@ -179,7 +179,7 @@
               "name": "Saint Petersburg Mint",
               "local_name": "Санкт-Петербургский монетный двор",
               "country": {
-                "RUS": "Russia"
+                "RUS": "Venemaa"
               },
               "location": "Saint Petersburg",
               "from_year": 1724
@@ -213,7 +213,7 @@
             {
               "name": "Pressburg Mint",
               "country": {
-                "SVK": "Slovakia"
+                "SVK": "Slovakkia"
               },
               "location": "Bratislava",
               "from_year": 2015
@@ -244,7 +244,7 @@
           "dependent": true
         },
         {
-          "name": "Denmark",
+          "name": "Taani",
           "alpha2": "DK",
           "alpha3": "DNK",
           "units": [
@@ -275,7 +275,7 @@
           ]
         },
         {
-          "name": "Estonia",
+          "name": "Eesti",
           "alpha2": "EE",
           "alpha3": "EST",
           "units": [
@@ -300,7 +300,7 @@
             {
               "name": "Juveel",
               "country": {
-                "EST": "Estonia"
+                "EST": "Eesti"
               },
               "location": "Talinn",
               "from_year": 1923
@@ -462,7 +462,7 @@
           ]
         },
         {
-          "name": "Norway",
+          "name": "Norra",
           "alpha2": "NO",
           "alpha3": "NOR",
           "units": [
@@ -656,7 +656,7 @@
           ]
         },
         {
-          "name": "Bosnia and Herzegovina",
+          "name": "Bosnia ja Hertsegoviina",
           "alpha2": "BA",
           "alpha3": "BIH",
           "units": [
@@ -776,7 +776,7 @@
               "name": "Italian Mint",
               "local_name": "Istituto Poligrafico e Zecca dello Stato",
               "country": {
-                "ITA": "Italy"
+                "ITA": "Itaalia"
               },
               "location": "Rome",
               "from_year": 1928
@@ -890,7 +890,7 @@
           ]
         },
         {
-          "name": "Slovenia",
+          "name": "Sloveenia",
           "alpha2": "SI",
           "alpha3": "SVN",
           "units": [
@@ -905,7 +905,7 @@
           ]
         },
         {
-          "name": "Spain",
+          "name": "Hispaania",
           "alpha2": "ES",
           "alpha3": "ESP",
           "units": [
@@ -933,7 +933,7 @@
               "name": "Royal Mint of Spain",
               "local_name": "Fábrica Nacional de Moneda y Timbre",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Hispaania"
               },
               "location": "Madrid",
               "from_year": 1893
@@ -986,7 +986,7 @@
           ]
         },
         {
-          "name": "Belgium",
+          "name": "Belgia",
           "alpha2": "BE",
           "alpha3": "BEL",
           "units": [
@@ -1020,7 +1020,7 @@
             {
               "name": "P. De Greef",
               "country": {
-                "BEL": "Belgium"
+                "BEL": "Belgia"
               },
               "location": "Antwerp",
               "from_year": 1890
@@ -1028,7 +1028,7 @@
           ]
         },
         {
-          "name": "France",
+          "name": "Prantsusmaa",
           "alpha2": "FR",
           "alpha3": "FRA",
           "units": [
@@ -1113,7 +1113,7 @@
             {
               "name": "B. H. Mayer",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Saksamaa"
               },
               "location": "Karlsfeld",
               "from_year": 1871
@@ -1137,7 +1137,7 @@
             {
               "name": "Heimerle + Meule",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Saksamaa"
               },
               "location": "Pforzheim",
               "from_year": 1845
@@ -1145,7 +1145,7 @@
             {
               "name": "JVP Investment Coins",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Saksamaa"
               },
               "location": "Berlin",
               "from_year": 2012
@@ -1153,7 +1153,7 @@
             {
               "name": "Karlsruhe Mint",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Saksamaa"
               },
               "location": "Karlsruhe",
               "from_year": 1827,
@@ -1186,7 +1186,7 @@
             {
               "name": "Münzen Engel",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Saksamaa"
               },
               "location": "Regensburg",
               "from_year": 1900
@@ -1235,7 +1235,7 @@
             {
               "name": "Stuttgart Mint",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Saksamaa"
               },
               "location": "Stuttgart",
               "from_year": 1374,
@@ -1309,7 +1309,7 @@
               "name": "Royal Dutch Mint",
               "local_name": "Koninklijke Nederlandse Munt",
               "country": {
-                "NLD": "Netherlands"
+                "NLD": "Madalmaad"
               },
               "location": "Utrecht",
               "from_year": 1567
@@ -1325,7 +1325,7 @@
           ]
         },
         {
-          "name": "Switzerland",
+          "name": "Šveits",
           "alpha2": "CH",
           "alpha3": "CHE",
           "units": [
@@ -1370,7 +1370,7 @@
             {
               "name": "UGDO",
               "country": {
-                "CHE": "Switzerland"
+                "CHE": "Šveits"
               },
               "location": "Geneva",
               "from_year": 1875,
@@ -1565,7 +1565,7 @@
           "dependent": true
         },
         {
-          "name": "Cayman Islands",
+          "name": "Kaimanisaared",
           "alpha2": "KY",
           "alpha3": "CYM",
           "units": [
@@ -2328,7 +2328,7 @@
             {
               "name": "",
               "country": {
-                "USA": "United States"
+                "USA": "USA"
               },
               "location": "Scottsdale",
               "from_year": 2005
