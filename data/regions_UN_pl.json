@@ -3144,40 +3144,40 @@
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "SA",
           "alpha3": "SAU",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "SAR",
+          "key": "SA"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "SY",
+          "alpha3": "SYR",
           "units": [
             "",
             "Piastre"
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "SYP",
+          "key": "SY"
         },
         {
           "name": "",
           "alpha2": "TR",
-          "alpha3": "",
+          "alpha3": "TUR",
           "units": [
             "",
             "Kurus"
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "TRY",
+          "key": "TR",
           "mints": [
             {
               "name": "",
-              "local_name": "",
+              "local_name": "Darphane",
               "country": {
                 "TUR": ""
               },
@@ -3188,25 +3188,25 @@
         },
         {
           "name": "Zjednoczone Emiraty Arabskie",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "AE",
+          "alpha3": "ARE",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "AED",
+          "key": "AE"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "YE",
+          "alpha3": "YEM",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "YER",
+          "key": "YE"
         },
         {
           "name": "",
@@ -3217,7 +3217,7 @@
           ],
           "part_of": "GEO",
           "unrecognized": true,
-          "key": ""
+          "key": "_abkhazia"
         },
         {
           "name": "",
@@ -3228,16 +3228,16 @@
             ""
           ],
           "iso4217": "TRY",
-          "part_of": "",
+          "part_of": "CYP",
           "unrecognized": true,
           "key": "_northern-cyprus"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "PS",
+          "alpha3": "PSE",
           "units": [],
-          "part_of": "",
+          "part_of": "ISR",
           "unrecognized": true,
           "key": "PS"
         },
@@ -3249,21 +3249,21 @@
             "",
             ""
           ],
-          "iso4217": "",
-          "part_of": "",
+          "iso4217": "RUB",
+          "part_of": "GEO",
           "unrecognized": true,
-          "key": ""
+          "key": "_south-ossetia"
         },
         {
           "name": "Tajwan",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "TW",
+          "alpha3": "TWN",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "part_of": "",
+          "iso4217": "TWD",
+          "part_of": "CHN",
           "unrecognized": true,
           "mints": [
             {
@@ -3276,7 +3276,7 @@
             },
             {
               "name": "",
-              "local_name": "",
+              "local_name": "中央造幣廠",
               "country": {
                 "TWN": ""
               },
@@ -3284,7 +3284,7 @@
               "from_year": 1920
             }
           ],
-          "key": ""
+          "key": "TW"
         },
         {
           "name": "",
@@ -3299,19 +3299,19 @@
           "to_year": 2023,
           "unrecognized": true,
           "disappeared": true,
-          "key": ""
+          "key": "_artsakh"
         },
         {
           "name": "",
           "alpha2": "",
           "alpha3": "SKM",
           "units": [],
-          "part_of": "",
+          "part_of": "IND",
           "from_year": 1642,
           "to_year": 1975,
           "dependent": true,
           "disappeared": true,
-          "key": ""
+          "key": "_sikkim"
         },
         {
           "name": "",
@@ -3321,27 +3321,27 @@
             "",
             "Xu"
           ],
-          "part_of": "",
+          "part_of": "VNM",
           "from_year": 1955,
           "to_year": 1976,
           "unrecognized": true,
           "disappeared": true,
-          "key": ""
+          "key": "_south-vietnam"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "YD",
+          "alpha3": "YMD",
           "units": [
             "",
             ""
           ],
           "part_of": "YEM",
-          "iso4217": "",
+          "iso4217": "YDD",
           "from_year": 1967,
           "to_year": 1990,
           "disappeared": true,
-          "key": ""
+          "key": "YD"
         },
         {
           "name": "",
@@ -3352,7 +3352,7 @@
             "",
             "Tangka"
           ],
-          "part_of": "",
+          "part_of": "CHN",
           "from_year": 1912,
           "to_year": 1951,
           "unrecognized": true,
@@ -3366,115 +3366,115 @@
       "countries": [
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "DZ",
+          "alpha3": "DZA",
           "units": [
             "",
             "Centym"
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "DZD",
+          "key": "DZ"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "EG",
+          "alpha3": "EGY",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "EGP",
+          "key": "EG"
         },
         {
           "name": "Libia",
-          "alpha2": "",
+          "alpha2": "LY",
           "alpha3": "LBY",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "LYD",
+          "key": "LY"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "MA",
+          "alpha3": "MAR",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "MAD",
+          "key": "MA"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "SD",
+          "alpha3": "SDN",
           "units": [
             "",
             ""
           ],
           "iso4217": "SDG",
-          "key": "",
+          "key": "SD",
           "contemporary_units": [
             ""
           ]
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "TN",
+          "alpha3": "TUN",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "TND",
+          "key": "TN"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "IO",
           "alpha3": "IOT",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "USD",
+          "key": "IO",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "BI",
+          "alpha3": "BDI",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "BIF",
+          "key": "BI"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "KM",
           "alpha3": "COM",
           "units": [
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "KMF",
+          "key": "KM"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "DJ",
+          "alpha3": "DJI",
           "units": [
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "DJF",
+          "key": "DJ"
         },
         {
           "name": "",
@@ -3484,61 +3484,61 @@
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "ERN",
+          "key": "ER"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "ET",
+          "alpha3": "ETH",
           "units": [
             "Birr",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "ETB",
+          "key": "ET"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "TF",
+          "alpha3": "ATF",
           "units": [
             "",
             ""
           ],
           "iso4217": "EUR",
-          "key": "",
+          "key": "TF",
           "dependent": true
         },
         {
           "name": "Kenia",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "KE",
+          "alpha3": "KEN",
           "units": [
             "",
             ""
           ],
           "iso4217": "KES",
-          "key": ""
+          "key": "KE"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "MG",
+          "alpha3": "MDG",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "MGA",
+          "key": "MG",
           "contemporary_units": [
             ""
           ]
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "MW",
+          "alpha3": "MWI",
           "units": [
             "",
             "Tambala"
