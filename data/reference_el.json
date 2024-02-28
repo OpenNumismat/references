@@ -1,0 +1,328 @@
+[
+  {
+    "name": "category",
+    "title": "Category",
+    "has_icons": false,
+    "values": {
+      "coin": "&Νόμισμα",
+      "banknote": "Banknote",
+      "stamp": "Stamp",
+      "postcard": "Postcard"
+    }
+  },
+  {
+    "name": "rarity",
+    "title": "Σπανιότητα",
+    "has_icons": false,
+    "values": {
+      "common": "Κοινό",
+      "normal": "Κανονικό",
+      "scarce": "Δυσεύρετο",
+      "rare": "Σπάνιο",
+      "unique": "Μοναδικό",
+      "in-sets-only": "Μόνο σε σειρές"
+    }
+  },
+  {
+    "name": "quality",
+    "title": "Ποιότητα",
+    "has_icons": false,
+    "values": {
+      "uncirculated": "Ακυκλοφόρητο",
+      "brilliant-uncirculated": "Σχεδόν ακυκλοφόρητο",
+      "proof": "Ειδικής κοπής",
+      "proof-like": "Σαν ειδικής κοπής",
+      "reverse-frosted": "Καθρεπτίζων οπισθότυπος"
+    }
+  },
+  {
+    "name": "defect",
+    "title": "Ελάττωμα",
+    "has_icons": false,
+    "values": {
+      "clipped-planchet": "Κομμένο τμήμα",
+      "lamination": "Σφυρηλάτηση",
+      "off-center-strike": "Έκκεντρη εκτύπωση",
+      "multiple-strike": "Πολλαπλή εκτύπωση",
+      "mule": "Διατομή",
+      "doubled-die": "Διπλά γράμματα",
+      "brockage": "Κατοπτρικός οπισθότυπος"
+    }
+  },
+  {
+    "name": "type",
+    "title": "Τύπος",
+    "has_icons": false,
+    "values": {
+      "regular-issue": "Κανονική έκδοση",
+      "commemorative": "Αναμνηστικό",
+      "bullion": "Πολύτιμων μετάλλων",
+      "restrike": "Μεταγενέστερη κοπή",
+      "pattern": "Πρότυπο"
+    }
+  },
+  {
+    "name": "format",
+    "title": "Μορφή",
+    "has_icons": false,
+    "values": {
+      "single": "Μονό",
+      "set": "Σειρά",
+      "coincard": "Coincard",
+      "roll": "Ρολό"
+    }
+  },
+  {
+    "name": "obvrev",
+    "title": "Γωνία όψεων",
+    "has_icons": false,
+    "values": {
+      "↑↑-medallic": "↑↑ Medallic",
+      "↑↓-coin": "↑↓ Coin",
+      "↺-variable": "↺ Variable"
+    }
+  },
+  {
+    "name": "edge",
+    "title": "Περιφέρεια",
+    "has_icons": false,
+    "values": {
+      "reeded": "Ραβδωτή",
+      "plain": "Plain",
+      "decorated": "Διακόσμηση",
+      "segmented-reeding": "Segmented reeding",
+      "lettered": "Γράμματα"
+    }
+  },
+  {
+    "name": "shape",
+    "title": "Σχήμα",
+    "has_icons": true,
+    "values": {
+      "round": "Στρογγυλό",
+      "irregular": "Round (irregular)",
+      "square": "Τετράγωνο",
+      "polygon": "Πολύγωνο",
+      "spanish": "Ισπανικό λουλούδι",
+      "hole": "Round with hole",
+      "half": "Half circle",
+      "klippe": "Klippe",
+      "scalloped": "Scalloped"
+    }
+  },
+  {
+    "name": "material",
+    "title": "Υλικό",
+    "has_icons": false,
+    "values": {
+      "acmonital": "Ανοξείδωτος χάλυβας",
+      "aluminium": "Αλουμίνιο",
+      "aluminium-bronze": "Αλουμίνιο-Μπρούντζος",
+      "antimony": "Αντιμόνιο",
+      "brass": "Ορείχαλκος",
+      "bronze": "Μπρούντζος",
+      "cobalt": "Κοβάλτιο",
+      "copper": "Χαλκός",
+      "cupronickel": "Χαλκονικέλιο",
+      "gold": "Χρυσός",
+      "iron": "Σίδηρος",
+      "magnesium": "Μαγνήσιο",
+      "manganese": "Μαγγάνιο",
+      "melchior": "Χαλκός-Νίκελ",
+      "nickel": "Νίκελ",
+      "nickel-silver": "Νίκελ-Ασήμι",
+      "nordic-gold": "Ορείχαλκος-Χαλκός",
+      "palladium": "Παλλάδιο",
+      "platinum": "Πλατίνα",
+      "silver": "Ασήμι",
+      "steel": "Ατσάλι",
+      "tantalum": "Ταντάλιο",
+      "tombac": "Ορείχαλκος-Χαλκός-Ψευδάργυρος",
+      "tellurium": "Τελλούριο",
+      "tin": "Κασσίτερος",
+      "zinc": "Ψευδάργυρος"
+    }
+  },
+  {
+    "name": "composition",
+    "title": "Composition",
+    "has_icons": false,
+    "values": {
+      "single": "Μονό",
+      "plated": "Plated",
+      "clad": "Clad",
+      "bimetallic": "Bimetallic"
+    }
+  },
+  {
+    "name": "technique",
+    "title": "Technique",
+    "has_icons": false,
+    "values": {
+      "milled": "Milled",
+      "cast": "Cast",
+      "hammered": "Hammered",
+      "engraved": "Engraved",
+      "cobs": "Cobs",
+      "klippe": "Klippe",
+      "wire": "Wire",
+      "scyphate": "Scyphate"
+    }
+  },
+  {
+    "name": "modification",
+    "title": "Modification",
+    "has_icons": false,
+    "values": {
+      "colored": "Colored",
+      "countermarked": "Countermarked",
+      "holed": "Holed",
+      "cut": "Cut"
+    }
+  },
+  {
+    "name": "grade",
+    "title": "Αξιολόγηση",
+    "has_icons": false,
+    "values": {
+      "unc": "Unc",
+      "au": "AU",
+      "xf": "XF",
+      "vf": "VF",
+      "f": "Σ",
+      "vg": "VG"
+    }
+  },
+  {
+    "name": "grader",
+    "title": "Grader",
+    "has_icons": true,
+    "values": {
+      "anacs": "ANACS",
+      "iccs": "ICCS",
+      "icg": "ICG",
+      "ngc": "NGC",
+      "pcgs": "PCGS",
+      "pmg": "PMG",
+      "rnga": "RNGA"
+    }
+  },
+  {
+    "name": "place",
+    "title": "Τόπος",
+    "has_icons": true,
+    "values": {
+      "ebay": "eBay",
+      "heritage": "Heritage"
+    }
+  },
+  {
+    "name": "color",
+    "title": "Colors",
+    "has_icons": true,
+    "values": {
+      "multicolor": "Πολύχρωμο",
+      "black-white": "Black-White",
+      "brown-lake": "Brown-Lake",
+      "lake": "Lake",
+      "crimson": "Crimson",
+      "carmine": "Carmine",
+      "rose": "Rose",
+      "rose-red": "Rose-Red",
+      "rosine": "Rosine",
+      "carmine-red": "Carmine-Red",
+      "scarlet": "Scarlet",
+      "vermilion": "Vermilion",
+      "red": "Red",
+      "brown-red": "Brown-Red",
+      "venetian-red": "Venetian-Red",
+      "flesh": "Flesh",
+      "salmon": "Salmon",
+      "orange-red": "Orange-Red",
+      "red-orange": "Red-Orange",
+      "orange": "Orange",
+      "yellow-orange": "Yellow-Orange",
+      "orange-yellow": "Orange-Yellow",
+      "yellow": "Yellow",
+      "lemon": "Lemon",
+      "greenish-yellow": "Greenish Yellow",
+      "olive-yellow": "Olive-Yellow",
+      "yellow-olive": "Yellow-Olive",
+      "olive-green": "Olive-Green",
+      "sage-green": "Sage-Green",
+      "apple-green": "Apple-Green",
+      "yellow-green": "Yellow-Green",
+      "bright-green": "Bright Green",
+      "bronze-green": "Bronze-Green",
+      "blackish-olive": "Blackish Olive",
+      "blackish-green": "Blackish Green",
+      "slate-green": "Slate-Green",
+      "grey-green": "Grey-Green",
+      "dull-green": "Dull Green",
+      "green": "Green",
+      "myrtle-green": "Myrtle-Green",
+      "emerald": "Emerald",
+      "blue-green": "Blue-Green",
+      "deep-bluish-green": "Deep Bluish Green",
+      "turquoise-green": "Turquoise-Green",
+      "turquoise-blue": "Turquoise-Blue",
+      "light-blue": "Light Blue",
+      "greenish-blue": "Greenish Blue",
+      "new-blue": "New Blue",
+      "blue": "Blue",
+      "steel-blue": "Steel-Blue",
+      "prussian-blue": "Prussian Blue",
+      "slate-blue": "Slate-Blue",
+      "indigo": "Indigo",
+      "grey-blue": "Grey-Blue",
+      "deep-blue": "Deep Blue",
+      "cobalt": "Κοβάλτιο",
+      "bright-blue": "Bright Blue",
+      "royal-blue": "Royal Blue",
+      "chalky-blue": "Chalky Blue",
+      "ultramarine": "Ultramarine",
+      "violet-blue": "Violet-Blue",
+      "lavender": "Lavender",
+      "bluish-violet": "Bluish Violet",
+      "violet": "Violet",
+      "reddish-violet": "Reddish Violet",
+      "slate-violet": "Slate-Violet",
+      "agate": "Agate",
+      "slate-purple": "Slate-Purple",
+      "slate-lilac": "Slate-Lilac",
+      "lilac": "Lilac",
+      "reddish-lilac": "Reddish Lilac",
+      "dull-purple": "Dull Purple",
+      "claret": "Claret",
+      "cerise": "Cerise",
+      "magenta": "Magenta",
+      "mauve": "Mauve",
+      "bright-purple": "Bright Purple",
+      "purple": "Purple",
+      "plum": "Plum",
+      "reddish-purple": "Reddish Purple",
+      "maroon": "Maroon",
+      "brown-purple": "Brown-Purple",
+      "purple-brown": "Purple-Brown",
+      "chocolate": "Chocolate",
+      "lake-brown": "Lake-Brown",
+      "red-brown": "Red-Brown",
+      "chestnut": "Chestnut",
+      "orange-brown": "Orange-Brown",
+      "cinnamon": "Cinnamon",
+      "buff": "Buff",
+      "ochre": "Ochre",
+      "yellow-brown": "Yellow-Brown",
+      "brown": "Brown",
+      "blackish-brown": "Blackish-Brown",
+      "sepia": "Sepia",
+      "bistre-brown": "Bistre-Brown",
+      "bistre": "Bistre",
+      "olive-brown": "Olive-Brown",
+      "drab": "Drab",
+      "olive-grey": "Olive-Grey",
+      "grey": "Grey",
+      "slate": "Slate"
+    }
+  }
+]
