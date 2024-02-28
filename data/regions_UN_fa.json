@@ -37,7 +37,7 @@
               "name": "Bulgarian Mint",
               "local_name": "Монетен двор",
               "country": {
-                "BGR": "Bulgaria"
+                "BGR": "بلغارستان"
               },
               "location": "Sofia",
               "from_year": 1952
@@ -170,7 +170,7 @@
               "name": "Moscow Mint",
               "local_name": "Московский монетный двор",
               "country": {
-                "RUS": "Russia"
+                "RUS": "روسیه"
               },
               "location": "Moscow",
               "from_year": 1942
@@ -213,7 +213,7 @@
             {
               "name": "Pressburg Mint",
               "country": {
-                "SVK": "Slovakia"
+                "SVK": "اسلواکی"
               },
               "location": "Bratislava",
               "from_year": 2015
@@ -292,7 +292,7 @@
             {
               "name": "European Mint",
               "country": {
-                "EST": "Estonia"
+                "EST": "استونی"
               },
               "location": "Tallinn",
               "from_year": 2013
@@ -351,7 +351,7 @@
           "alpha3": "GGY",
           "units": [
             "پوند",
-            "Penny"
+            "پنی"
           ],
           "iso4217": "GGP",
           "key": "GG",
@@ -409,7 +409,7 @@
           "dependent": true
         },
         {
-          "name": "Jersey",
+          "name": "جرزی",
           "alpha2": "JE",
           "alpha3": "JEY",
           "units": [
@@ -462,7 +462,7 @@
           ]
         },
         {
-          "name": "Norway",
+          "name": "نروژ",
           "alpha2": "NO",
           "alpha3": "NOR",
           "units": [
@@ -528,7 +528,7 @@
             {
               "name": "East India Company (modern)",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "بریتانیا"
               },
               "location": "London",
               "from_year": 2010
@@ -554,7 +554,7 @@
             {
               "name": "J.R. Gaunt and Son",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "بریتانیا"
               },
               "location": "Birmingham",
               "from_year": 1884,
@@ -606,7 +606,7 @@
             {
               "name": "St Paul's Mint",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "بریتانیا"
               },
               "location": "Birmingham",
               "from_year": 2003
@@ -634,7 +634,7 @@
           "alpha2": "AL",
           "alpha3": "ALB",
           "units": [
-            "Lek",
+            "لک",
             "Qindar"
           ],
           "iso4217": "ALL",
@@ -660,7 +660,7 @@
           "alpha2": "BA",
           "alpha3": "BIH",
           "units": [
-            "Mark",
+            "مارک",
             "Fening"
           ],
           "iso4217": "BAM",
@@ -676,7 +676,7 @@
           "iso4217": "EUR",
           "key": "HR",
           "contemporary_units": [
-            "Kuna",
+            "کونا",
             "Lipa"
           ],
           "mints": [
@@ -704,7 +704,7 @@
           "dependent": true
         },
         {
-          "name": "Greece",
+          "name": "یونان",
           "alpha2": "GR",
           "alpha3": "GRC",
           "units": [
@@ -767,7 +767,7 @@
             {
               "name": "Gori & Zucchi (Arezzo Mint)",
               "country": {
-                "ITA": "Italy"
+                "ITA": "ایتالیا"
               },
               "location": "Arezzo",
               "from_year": 1926
@@ -776,7 +776,7 @@
               "name": "Italian Mint",
               "local_name": "Istituto Poligrafico e Zecca dello Stato",
               "country": {
-                "ITA": "Italy"
+                "ITA": "ایتالیا"
               },
               "location": "Rome",
               "from_year": 1928
@@ -836,8 +836,8 @@
           "alpha2": "PT",
           "alpha3": "PRT",
           "units": [
-            "Euro",
-            "Cent"
+            "یورو",
+            "سنت"
           ],
           "iso4217": "EUR",
           "key": "PT",
@@ -863,13 +863,13 @@
           "alpha3": "SMR",
           "units": [
             "یورو",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "EUR",
           "key": "SM"
         },
         {
-          "name": "Serbia",
+          "name": "صربستان",
           "alpha2": "RS",
           "alpha3": "SRB",
           "units": [
@@ -1137,7 +1137,7 @@
             {
               "name": "Heimerle + Meule",
               "country": {
-                "DEU": "Germany"
+                "DEU": "آلمان"
               },
               "location": "Pforzheim",
               "from_year": 1845
@@ -1186,7 +1186,7 @@
             {
               "name": "Münzen Engel",
               "country": {
-                "DEU": "Germany"
+                "DEU": "آلمان"
               },
               "location": "Regensburg",
               "from_year": 1900
@@ -1285,7 +1285,7 @@
           "alpha3": "MCO",
           "units": [
             "یورو",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "EUR",
           "key": "MC"
@@ -1570,7 +1570,7 @@
           "alpha3": "CYM",
           "units": [
             "دلار",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "KYD",
           "key": "KY",
@@ -1604,7 +1604,7 @@
           "alpha2": "DM",
           "alpha3": "DMA",
           "units": [
-            "Dollar",
+            "دلار",
             "سنت"
           ],
           "iso4217": "XCD",
@@ -1627,7 +1627,7 @@
           "alpha3": "GRD",
           "units": [
             "Dollar",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "XCD",
           "key": "GD"
@@ -1679,7 +1679,7 @@
           "dependent": true
         },
         {
-          "name": "Montserrat",
+          "name": "مونتسرات",
           "alpha2": "MS",
           "alpha3": "MSR",
           "units": [
@@ -1707,7 +1707,7 @@
           "alpha2": "BL",
           "alpha3": "BLM",
           "units": [
-            "Euro",
+            "یورو",
             "سنت"
           ],
           "iso4217": "EUR",
@@ -1777,7 +1777,7 @@
           "alpha3": "TTO",
           "units": [
             "دلار",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "TTD",
           "key": "TT"
@@ -1851,7 +1851,7 @@
           "key": "GT"
         },
         {
-          "name": "Honduras",
+          "name": "هندوراس",
           "alpha2": "HN",
           "alpha3": "HND",
           "units": [
@@ -1957,7 +1957,7 @@
           "alpha3": "BRA",
           "units": [
             "Real",
-            "Centavo"
+            "سنتاوو"
           ],
           "iso4217": "BRL",
           "key": "BR",
@@ -2108,7 +2108,7 @@
           "key": "",
           "contemporary_units": [
             "گیلدر",
-            "Cent"
+            "سنت"
           ]
         },
         {
@@ -2732,8 +2732,8 @@
           "alpha2": "PH",
           "alpha3": "PHL",
           "units": [
-            "Peso",
-            "Centavo"
+            "پزو",
+            "سنتاوو"
           ],
           "iso4217": "",
           "key": "",
