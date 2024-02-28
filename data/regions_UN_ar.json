@@ -8,7 +8,7 @@
           "alpha2": "BY",
           "alpha3": "BLR",
           "units": [
-            "",
+            "Rouble",
             "Kopek"
           ],
           "iso4217": "BYN",
@@ -20,7 +20,7 @@
           "alpha3": "BGR",
           "units": [
             "Lev",
-            ""
+            "Stotinka"
           ],
           "iso4217": "BGN",
           "key": "BG",
@@ -30,7 +30,7 @@
               "country": {
                 "BGR": "Bulgaria"
               },
-              "location": "",
+              "location": "Plovdiv",
               "from_year": 2004
             },
             {
@@ -39,7 +39,7 @@
               "country": {
                 "BGR": "Bulgaria"
               },
-              "location": "",
+              "location": "Sofia",
               "from_year": 1952
             }
           ]
@@ -49,7 +49,7 @@
           "alpha2": "CZ",
           "alpha3": "CZE",
           "units": [
-            "",
+            "Koruna",
             "Halér"
           ],
           "iso4217": "CZK",
