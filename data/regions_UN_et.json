@@ -292,7 +292,7 @@
             {
               "name": "European Mint",
               "country": {
-                "EST": "Estonia"
+                "EST": "Eesti"
               },
               "location": "Tallinn",
               "from_year": 2013
@@ -704,7 +704,7 @@
           "dependent": true
         },
         {
-          "name": "Greece",
+          "name": "Kreeka",
           "alpha2": "GR",
           "alpha3": "GRC",
           "units": [
@@ -767,7 +767,7 @@
             {
               "name": "Gori & Zucchi (Arezzo Mint)",
               "country": {
-                "ITA": "Italy"
+                "ITA": "Itaalia"
               },
               "location": "Arezzo",
               "from_year": 1926
