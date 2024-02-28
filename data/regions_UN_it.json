@@ -382,7 +382,7 @@
           "iso4217": "EUR",
           "key": "IE",
           "contemporary_units": [
-            "Pound",
+            "Pound - lira egiziana",
             "Penny"
           ],
           "mints": [
@@ -1428,7 +1428,7 @@
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
+            "Corona",
             "Halér"
           ],
           "part_of": "CZE",
@@ -2510,7 +2510,7 @@
               "name": "CBPMC - Shanghai Mint",
               "local_name": "",
               "country": {
-                "CHN": "China"
+                "CHN": "Cina"
               },
               "location": "",
               "from_year": 1984
@@ -3114,7 +3114,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Pound",
+            "Pound - lira egiziana",
             ""
           ],
           "iso4217": "",
