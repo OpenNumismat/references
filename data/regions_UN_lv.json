@@ -2021,12 +2021,12 @@
           "iso4217": "USD",
           "key": "EC",
           "contemporary_units": [
-            "Sucre",
+            "",
             ""
           ]
         },
         {
-          "name": "Falkland Islands (Malvinas)",
+          "name": "",
           "alpha2": "FK",
           "alpha3": "FLK",
           "units": [
@@ -2050,7 +2050,7 @@
           "dependent": true
         },
         {
-          "name": "Guyana",
+          "name": "",
           "alpha2": "GY",
           "alpha3": "GUY",
           "units": [
@@ -2065,7 +2065,7 @@
           "alpha2": "PY",
           "alpha3": "PRY",
           "units": [
-            "Guaraní",
+            "",
             ""
           ],
           "iso4217": "PYG",
@@ -2101,14 +2101,14 @@
           "alpha2": "SR",
           "alpha3": "SUR",
           "units": [
-            "Dollar",
+            "",
             ""
           ],
           "iso4217": "SRD",
           "key": "SR",
           "contemporary_units": [
-            "Guilder",
-            "Cent"
+            "",
+            ""
           ]
         },
         {
@@ -2127,7 +2127,7 @@
           "alpha2": "VE",
           "alpha3": "VEN",
           "units": [
-            "Bolívar",
+            "",
             ""
           ],
           "iso4217": "VES",
@@ -2146,7 +2146,7 @@
           "dependent": true
         },
         {
-          "name": "Canada",
+          "name": "",
           "alpha2": "CA",
           "alpha3": "CAN",
           "units": [
@@ -2165,9 +2165,9 @@
               "from_year": 2022
             },
             {
-              "name": "Royal Canadian Mint",
+              "name": "",
               "country": {
-                "CAN": "Canada"
+                "CAN": ""
               },
               "location": "",
               "from_year": 1908
@@ -2199,7 +2199,7 @@
           "dependent": true
         },
         {
-          "name": "United States",
+          "name": "",
           "alpha2": "US",
           "alpha3": "USA",
           "units": [
@@ -2243,7 +2243,7 @@
               "from_year": 2008
             },
             {
-              "name": "Engelhard",
+              "name": "",
               "country": {
                 "USA": ""
               },
@@ -2252,7 +2252,7 @@
               "to_year": 2006
             },
             {
-              "name": "Franklin Mint",
+              "name": "",
               "country": {
                 "USA": ""
               },
@@ -2262,7 +2262,7 @@
             {
               "name": "",
               "country": {
-                "USA": "United States"
+                "USA": ""
               },
               "location": "",
               "from_year": 1947
@@ -2296,7 +2296,7 @@
               "country": {
                 "USA": ""
               },
-              "location": "Danbury",
+              "location": "",
               "from_year": 1972,
               "to_year": 1991
             },
@@ -2309,7 +2309,7 @@
               "from_year": 2015
             },
             {
-              "name": "North American Mint",
+              "name": "",
               "country": {
                 "USA": ""
               },
@@ -2328,9 +2328,9 @@
             {
               "name": "",
               "country": {
-                "USA": "United States"
+                "USA": ""
               },
-              "location": "Scottsdale",
+              "location": "",
               "from_year": 2005
             },
             {
@@ -2338,7 +2338,7 @@
               "country": {
                 "USA": ""
               },
-              "location": "Winchester",
+              "location": "",
               "from_year": 1949
             },
             {
@@ -2387,7 +2387,7 @@
             {
               "name": "",
               "country": {
-                "USA": "United States"
+                "USA": ""
               },
               "location": "",
               "from_year": 1838,
@@ -2406,11 +2406,11 @@
               "country": {
                 "USA": ""
               },
-              "location": "San Francisco",
+              "location": "",
               "from_year": 1854
             },
             {
-              "name": "Washington Mint",
+              "name": "",
               "country": {
                 "USA": ""
               },
@@ -2449,7 +2449,7 @@
           "alpha3": "KGZ",
           "units": [
             "",
-            "Tyiyn"
+            ""
           ],
           "iso4217": "KGS",
           "key": "KG"
@@ -2460,7 +2460,7 @@
           "alpha3": "TJK",
           "units": [
             "",
-            "Diram"
+            ""
           ],
           "iso4217": "TJS",
           "key": "TJ"
@@ -2471,7 +2471,7 @@
           "alpha3": "TKM",
           "units": [
             "",
-            "Tenge"
+            ""
           ],
           "iso4217": "TMT",
           "key": "TM"
@@ -2501,16 +2501,16 @@
             {
               "name": "",
               "country": {
-                "CHN": "China"
+                "CHN": ""
               },
               "location": "",
               "from_year": 1995
             },
             {
-              "name": "CBPMC - Shanghai Mint",
+              "name": "",
               "local_name": "上海造币有限公司",
               "country": {
-                "CHN": "China"
+                "CHN": ""
               },
               "location": "",
               "from_year": 1984
@@ -2521,16 +2521,16 @@
               "country": {
                 "CHN": ""
               },
-              "location": "Beijing",
+              "location": "",
               "from_year": 1984
             },
             {
-              "name": "CBPMC - Nanjing Mint",
+              "name": "",
               "local_name": "南京造币有限公司",
               "country": {
                 "CHN": ""
               },
-              "location": "Nanjing",
+              "location": "",
               "from_year": 1984
             },
             {
@@ -2539,7 +2539,7 @@
               "country": {
                 "CHN": ""
               },
-              "location": "Shenyang",
+              "location": "",
               "from_year": 1984
             }
           ]
@@ -2550,7 +2550,7 @@
           "alpha3": "HKG",
           "units": [
             "",
-            "Cent"
+            ""
           ],
           "iso4217": "HKD",
           "key": "HK",
@@ -2561,7 +2561,7 @@
               "country": {
                 "HKG": ""
               },
-              "location": "Hong Kong",
+              "location": "",
               "from_year": 2012
             }
           ]
@@ -2572,19 +2572,19 @@
           "alpha3": "MAC",
           "units": [
             "",
-            "Avo"
+            ""
           ],
           "iso4217": "MOP",
           "key": "MO",
           "dependent": true
         },
         {
-          "name": "North Korea",
+          "name": "",
           "alpha2": "KP",
           "alpha3": "PRK",
           "units": [
             "",
-            "Chun"
+            ""
           ],
           "iso4217": "KPW",
           "key": "KP"
@@ -2644,7 +2644,7 @@
             {
               "name": "",
               "country": {
-                "KOR": "South Korea"
+                "KOR": ""
               },
               "location": "",
               "from_year": 1951
@@ -2679,13 +2679,13 @@
           "alpha3": "IDN",
           "units": [
             "",
-            "Sen"
+            ""
           ],
           "iso4217": "IDR",
           "key": "ID",
           "mints": [
             {
-              "name": "Perum Peruri",
+              "name": "",
               "country": {
                 "IDN": ""
               },
@@ -2706,7 +2706,7 @@
           "key": "LA"
         },
         {
-          "name": "Malaysia",
+          "name": "",
           "alpha2": "MY",
           "alpha3": "MYS",
           "units": [
@@ -2732,8 +2732,8 @@
           "alpha2": "PH",
           "alpha3": "PHL",
           "units": [
-            "Peso",
-            "Centavo"
+            "",
+            ""
           ],
           "iso4217": "PHP",
           "key": "PH",
@@ -2741,9 +2741,9 @@
             {
               "name": "",
               "country": {
-                "PHL": "Philippines"
+                "PHL": ""
               },
-              "location": "Manila",
+              "location": "",
               "from_year": 1898,
               "to_year": 1946
             }
@@ -2769,7 +2769,7 @@
               "from_year": 2020
             },
             {
-              "name": "Rearden Metals",
+              "name": "",
               "country": {
                 "SGP": ""
               },
@@ -2780,7 +2780,7 @@
             {
               "name": "",
               "country": {
-                "SGP": "Singapore"
+                "SGP": ""
               },
               "location": "",
               "from_year": 1968
@@ -2857,7 +2857,7 @@
           "alpha3": "BGD",
           "units": [
             "",
-            "Poisha"
+            ""
           ],
           "iso4217": "BDT",
           "key": "BD"
@@ -2867,7 +2867,7 @@
           "alpha2": "BT",
           "alpha3": "BTN",
           "units": [
-            "Ngultrum",
+            "",
             ""
           ],
           "iso4217": "BTN",
@@ -2909,11 +2909,11 @@
               "from_year": 1829
             },
             {
-              "name": "India Government Mint, Noida",
+              "name": "",
               "country": {
                 "IND": ""
               },
-              "location": "Noida",
+              "location": "",
               "from_year": 1988
             },
             {
@@ -2927,7 +2927,7 @@
           ]
         },
         {
-          "name": "Iran",
+          "name": "",
           "alpha2": "IR",
           "alpha3": "IRN",
           "units": [
@@ -2962,7 +2962,7 @@
             {
               "name": "",
               "country": {
-                "NPL": "Nepal"
+                "NPL": ""
               },
               "location": "",
               "from_year": 1956
@@ -3007,7 +3007,7 @@
           "alpha2": "AZ",
           "alpha3": "AZE",
           "units": [
-            "Manat",
+            "",
             ""
           ],
           "iso4217": "AZN",
@@ -3029,7 +3029,7 @@
           "alpha2": "CY",
           "alpha3": "CYP",
           "units": [
-            "Euro",
+            "",
             ""
           ],
           "iso4217": "EUR",
@@ -3082,7 +3082,7 @@
               "country": {
                 "ISR": ""
               },
-              "location": "Nesher",
+              "location": "",
               "from_year": 1958
             }
           ]
@@ -3110,11 +3110,11 @@
           "key": "KW"
         },
         {
-          "name": "Lebanon",
+          "name": "",
           "alpha2": "LB",
           "alpha3": "LBN",
           "units": [
-            "Pound",
+            "",
             ""
           ],
           "iso4217": "LBP",
@@ -3159,7 +3159,7 @@
           "alpha3": "SYR",
           "units": [
             "",
-            "Piastre"
+            ""
           ],
           "iso4217": "SYP",
           "key": "SY"
@@ -3170,7 +3170,7 @@
           "alpha3": "TUR",
           "units": [
             "",
-            "Kurus"
+            ""
           ],
           "iso4217": "TRY",
           "key": "TR",
@@ -3187,7 +3187,7 @@
           ]
         },
         {
-          "name": "United Arab Emirates",
+          "name": "",
           "alpha2": "AE",
           "alpha3": "ARE",
           "units": [
@@ -3255,7 +3255,7 @@
           "key": "_south-ossetia"
         },
         {
-          "name": "Taiwan",
+          "name": "",
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
@@ -3269,9 +3269,9 @@
             {
               "name": "",
               "country": {
-                "TWN": "Taiwan"
+                "TWN": ""
               },
-              "location": "Taoyuan City",
+              "location": "",
               "from_year": 1920
             },
             {
@@ -3280,7 +3280,7 @@
               "country": {
                 "TWN": ""
               },
-              "location": "Guishan",
+              "location": "",
               "from_year": 1920
             }
           ],
@@ -3319,7 +3319,7 @@
           "alpha3": "",
           "units": [
             "",
-            "Xu"
+            ""
           ],
           "part_of": "VNM",
           "from_year": 1955,
@@ -3350,7 +3350,7 @@
           "units": [
             "",
             "",
-            "Tangka"
+            ""
           ],
           "part_of": "CHN",
           "from_year": 1912,
@@ -3370,7 +3370,7 @@
           "alpha3": "DZA",
           "units": [
             "",
-            "Centime"
+            ""
           ],
           "iso4217": "DZD",
           "key": "DZ"
@@ -3387,7 +3387,7 @@
           "key": "EG"
         },
         {
-          "name": "Libya",
+          "name": "",
           "alpha2": "LY",
           "alpha3": "LBY",
           "units": [
@@ -3492,7 +3492,7 @@
           "alpha2": "ET",
           "alpha3": "ETH",
           "units": [
-            "Birr",
+            "",
             ""
           ],
           "iso4217": "ETB",
@@ -3511,7 +3511,7 @@
           "dependent": true
         },
         {
-          "name": "Kenya",
+          "name": "",
           "alpha2": "KE",
           "alpha3": "KEN",
           "units": [
@@ -3541,7 +3541,7 @@
           "alpha3": "MWI",
           "units": [
             "",
-            "Tambala"
+            ""
           ],
           "iso4217": "MWK",
           "key": "MW"
@@ -3551,7 +3551,7 @@
           "alpha2": "MU",
           "alpha3": "MUS",
           "units": [
-            "Rupee",
+            "",
             ""
           ],
           "iso4217": "MUR",
@@ -3602,13 +3602,13 @@
           "alpha3": "RWA",
           "units": [
             "",
-            "Centime"
+            ""
           ],
           "iso4217": "RWF",
           "key": "RW"
         },
         {
-          "name": "Seychelles",
+          "name": "",
           "alpha2": "SC",
           "alpha3": "SYC",
           "units": [
@@ -3619,7 +3619,7 @@
           "key": "SC"
         },
         {
-          "name": "Somalia",
+          "name": "",
           "alpha2": "SO",
           "alpha3": "SOM",
           "units": [
@@ -3630,7 +3630,7 @@
           "key": "SO"
         },
         {
-          "name": "South Sudan",
+          "name": "",
           "alpha2": "SS",
           "alpha3": "SSD",
           "units": [
@@ -3668,7 +3668,7 @@
           "alpha3": "ZMB",
           "units": [
             "",
-            "Ngwee"
+            ""
           ],
           "iso4217": "ZMW",
           "key": "ZM"
@@ -3689,8 +3689,8 @@
           "alpha2": "AO",
           "alpha3": "AGO",
           "units": [
-            "Kwanza",
-            "Cêntimo"
+            "",
+            ""
           ],
           "iso4217": "AOA",
           "key": "AO"
@@ -3751,7 +3751,7 @@
           "key": "CD"
         },
         {
-          "name": "Equatorial Guinea",
+          "name": "",
           "alpha2": "GQ",
           "alpha3": "GNQ",
           "units": [
@@ -3762,7 +3762,7 @@
           "key": "GQ",
           "contemporary_units": [
             "",
-            "Peseta"
+            ""
           ]
         },
         {
@@ -3770,7 +3770,7 @@
           "alpha2": "GA",
           "alpha3": "GAB",
           "units": [
-            "Franc",
+            "",
             ""
           ],
           "iso4217": "XAF",
@@ -3782,7 +3782,7 @@
           "alpha3": "",
           "units": [
             "",
-            "Centimo"
+            ""
           ],
           "iso4217": "STN",
           "key": "ST"
@@ -3814,7 +3814,7 @@
           "alpha2": "LS",
           "alpha3": "LSO",
           "units": [
-            "Loti",
+            "",
             ""
           ],
           "iso4217": "LSL",
@@ -3825,7 +3825,7 @@
           "alpha2": "NA",
           "alpha3": "NAM",
           "units": [
-            "Dollar",
+            "",
             ""
           ],
           "iso4217": "NAD",
