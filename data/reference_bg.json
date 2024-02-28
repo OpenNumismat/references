@@ -1,0 +1,328 @@
+[
+  {
+    "name": "category",
+    "title": "Категория",
+    "has_icons": false,
+    "values": {
+      "coin": "Монета",
+      "banknote": "Банкнота",
+      "stamp": "Марка",
+      "postcard": "Пощенска картичка"
+    }
+  },
+  {
+    "name": "rarity",
+    "title": "Рядкост",
+    "has_icons": false,
+    "values": {
+      "common": "често срещана",
+      "normal": "Нормален",
+      "scarce": "оскъдна",
+      "rare": "рядка",
+      "unique": "единствена по рода си",
+      "in-sets-only": "само в комплекти"
+    }
+  },
+  {
+    "name": "quality",
+    "title": "Качество",
+    "has_icons": false,
+    "values": {
+      "uncirculated": "нециркулирала UNC",
+      "brilliant-uncirculated": "перфектна BUNC",
+      "proof": "Proof",
+      "proof-like": "Proof like",
+      "reverse-frosted": "Reverse frosted"
+    }
+  },
+  {
+    "name": "defect",
+    "title": "Дефект",
+    "has_icons": false,
+    "values": {
+      "clipped-planchet": "Clipped planchet",
+      "lamination": "разслояване",
+      "off-center-strike": "изместена от центъра",
+      "multiple-strike": "множество удари",
+      "mule": "Mule",
+      "doubled-die": "двоен удар",
+      "brockage": "Brockage"
+    }
+  },
+  {
+    "name": "type",
+    "title": "Вид",
+    "has_icons": false,
+    "values": {
+      "regular-issue": "редовна емисия",
+      "commemorative": "възпоменателна",
+      "bullion": "кюлче",
+      "restrike": "рестрайк",
+      "pattern": "образец"
+    }
+  },
+  {
+    "name": "format",
+    "title": "Формат",
+    "has_icons": false,
+    "values": {
+      "single": "единична",
+      "set": "комплект",
+      "coincard": "монетна карта",
+      "roll": "ролка"
+    }
+  },
+  {
+    "name": "obvrev",
+    "title": "Ориентация",
+    "has_icons": false,
+    "values": {
+      "↑↑-medallic": "↑↑ медальон",
+      "↑↓-coin": "↑↓ монета",
+      "↺-variable": "↺ променлива"
+    }
+  },
+  {
+    "name": "edge",
+    "title": "Гурт",
+    "has_icons": false,
+    "values": {
+      "reeded": "назъбен",
+      "plain": "гладък",
+      "decorated": "украсен",
+      "segmented-reeding": "сегментирано отсичана",
+      "lettered": "с гравирани букви"
+    }
+  },
+  {
+    "name": "shape",
+    "title": "Форма",
+    "has_icons": true,
+    "values": {
+      "round": "кръгла",
+      "irregular": "кръгла (неправилна)",
+      "square": "квадратна",
+      "polygon": "многоъгълна",
+      "spanish": "испанско цвете",
+      "hole": "кръгла с отвор",
+      "half": "полукръг",
+      "klippe": "квадратна форма (Klippe)",
+      "scalloped": "вълнообразна"
+    }
+  },
+  {
+    "name": "material",
+    "title": "Материал",
+    "has_icons": false,
+    "values": {
+      "acmonital": "acmonital (неръждаема стомана)",
+      "aluminium": "алуминий",
+      "aluminium-bronze": "алуминиев бронз",
+      "antimony": "антимон",
+      "brass": "месинг",
+      "bronze": "бронз",
+      "cobalt": "кобалт",
+      "copper": "мед",
+      "cupronickel": "медно-никелова сплав",
+      "gold": "злато",
+      "iron": "желязо",
+      "magnesium": "магнезий",
+      "manganese": "манган",
+      "melchior": "мелхиор",
+      "nickel": "никел",
+      "nickel-silver": "никелово сребро",
+      "nordic-gold": "северно злато",
+      "palladium": "паладий",
+      "platinum": "платина",
+      "silver": "сребро",
+      "steel": "стомана",
+      "tantalum": "тантал",
+      "tombac": "Tombac",
+      "tellurium": "телур",
+      "tin": "калай",
+      "zinc": "цинк"
+    }
+  },
+  {
+    "name": "composition",
+    "title": "Състав",
+    "has_icons": false,
+    "values": {
+      "single": "единична",
+      "plated": "с покритие",
+      "clad": "oблицована",
+      "bimetallic": "биметална"
+    }
+  },
+  {
+    "name": "technique",
+    "title": "Техника",
+    "has_icons": false,
+    "values": {
+      "milled": "фрезована",
+      "cast": "отлята",
+      "hammered": "изкована",
+      "engraved": "гравирана",
+      "cobs": "кочани (Cobs)",
+      "klippe": "квадратна форма (Klippe)",
+      "wire": "изтегляне на метална тел (Wire)",
+      "scyphate": "скифатна"
+    }
+  },
+  {
+    "name": "modification",
+    "title": "Модификация",
+    "has_icons": false,
+    "values": {
+      "colored": "оцветена",
+      "countermarked": "контрамаркирана",
+      "holed": "пробита",
+      "cut": "рязана"
+    }
+  },
+  {
+    "name": "grade",
+    "title": "Качество",
+    "has_icons": false,
+    "values": {
+      "unc": "UNC",
+      "au": "AU",
+      "xf": "XF",
+      "vf": "VF",
+      "f": "Ф",
+      "vg": "VG"
+    }
+  },
+  {
+    "name": "grader",
+    "title": "Оценител",
+    "has_icons": true,
+    "values": {
+      "anacs": "ANACS",
+      "iccs": "ICCS",
+      "icg": "ICG",
+      "ngc": "NGC",
+      "pcgs": "PCGS",
+      "pmg": "PMG",
+      "rnga": "RNGA"
+    }
+  },
+  {
+    "name": "place",
+    "title": "Място",
+    "has_icons": true,
+    "values": {
+      "ebay": "eBay",
+      "heritage": "Heritage"
+    }
+  },
+  {
+    "name": "color",
+    "title": "Colors",
+    "has_icons": true,
+    "values": {
+      "multicolor": "многоцветна",
+      "black-white": "черно-бял",
+      "brown-lake": "Brown-Lake",
+      "lake": "Lake",
+      "crimson": "пурпурен",
+      "carmine": "наситеночервен",
+      "rose": "розов",
+      "rose-red": "червена роза",
+      "rosine": "Rosine",
+      "carmine-red": "Carmine-Red",
+      "scarlet": "ален",
+      "vermilion": "яркочервен",
+      "red": "червен",
+      "brown-red": "кафеникаво червен",
+      "venetian-red": "венецианското червено",
+      "flesh": "Flesh",
+      "salmon": "розово-оранжев",
+      "orange-red": "оранжево-червен",
+      "red-orange": "червено-оранжев",
+      "orange": "оранжев",
+      "yellow-orange": "жълто-оранжев",
+      "orange-yellow": "оранжево-жълт",
+      "yellow": "жълт",
+      "lemon": "лимон",
+      "greenish-yellow": "зеленикаво-жълто",
+      "olive-yellow": "маслинено-жълто",
+      "yellow-olive": "Yellow-Olive",
+      "olive-green": "маслинено-зелено",
+      "sage-green": "сиво-зелен",
+      "apple-green": "зелена ябълка",
+      "yellow-green": "жълто-зелен",
+      "bright-green": "ярко зелено",
+      "bronze-green": "бронзово-зелен",
+      "blackish-olive": "Blackish Olive",
+      "blackish-green": "чернозелен",
+      "slate-green": "шистово-зелен",
+      "grey-green": "сиво-зелено",
+      "dull-green": "слабо зелено",
+      "green": "зелен",
+      "myrtle-green": "миртово-зелен",
+      "emerald": "смарагдов",
+      "blue-green": "синьо-зелено",
+      "deep-bluish-green": "наситено синкаво зелено",
+      "turquoise-green": "тюркоазено зелен",
+      "turquoise-blue": "тюркоазено синьо",
+      "light-blue": "светло синьо",
+      "greenish-blue": "зеленикаво синьо",
+      "new-blue": "New Blue",
+      "blue": "син",
+      "steel-blue": "Steel-Blue",
+      "prussian-blue": "пруски синьо",
+      "slate-blue": "Slate-Blue",
+      "indigo": "тъмносин",
+      "grey-blue": "сиво-син",
+      "deep-blue": "тъмносин",
+      "cobalt": "кобалт",
+      "bright-blue": "светлосин",
+      "royal-blue": "кралско синьо",
+      "chalky-blue": "кредаво синьо",
+      "ultramarine": "ясно син",
+      "violet-blue": "синьо-виолетов",
+      "lavender": "бледолилав",
+      "bluish-violet": "синкаво виолетово",
+      "violet": "виолетов",
+      "reddish-violet": "червеникаво-виолетов",
+      "slate-violet": "Slate-Violet",
+      "agate": "Agate",
+      "slate-purple": "Slate-Purple",
+      "slate-lilac": "Slate-Lilac",
+      "lilac": "светловиолетов",
+      "reddish-lilac": "червеникав люляк",
+      "dull-purple": "слабо лилаво",
+      "claret": "бордо",
+      "cerise": "череша",
+      "magenta": "пурпурен",
+      "mauve": "бледоморав",
+      "bright-purple": "Bright Purple",
+      "purple": "пурпурен",
+      "plum": "лилав",
+      "reddish-purple": "червеникаво лилав",
+      "maroon": "кестеняв",
+      "brown-purple": "Brown-Purple",
+      "purple-brown": "Purple-Brown",
+      "chocolate": "шоколад",
+      "lake-brown": "Lake-Brown",
+      "red-brown": "червено-кафяв",
+      "chestnut": "кестен",
+      "orange-brown": "оранжево-кафяв",
+      "cinnamon": "канела",
+      "buff": "бежов",
+      "ochre": "охра",
+      "yellow-brown": "жълто-кафяв",
+      "brown": "кафяв",
+      "blackish-brown": "тъмно-кафяв",
+      "sepia": "червеникавокафяво",
+      "bistre-brown": "Bistre-Brown",
+      "bistre": "бистре",
+      "olive-brown": "маслинено-кафяво",
+      "drab": "мръсен",
+      "olive-grey": "маслинено-сив",
+      "grey": "сив",
+      "slate": "тъмносив"
+    }
+  }
+]
