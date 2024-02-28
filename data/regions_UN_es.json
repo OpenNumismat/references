@@ -3525,7 +3525,12 @@
           "name": "Madagascar",
           "alpha2": "MG",
           "alpha3": "MDG",
-          "units": [],
+          "units": [
+            "Ariary",
+            "Iraimbilanja"
+          ],
+          "iso4217": "MGA",
+          "key": "MG",
           "contemporary_units": [
             "Franc"
           ]
