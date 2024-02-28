@@ -19,7 +19,7 @@
           "alpha2": "BG",
           "alpha3": "BGR",
           "units": [
-            "Lev",
+            "لو",
             "Stotinka"
           ],
           "iso4217": "BGN",
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "name": "Czechia",
+          "name": "چک",
           "alpha2": "CZ",
           "alpha3": "CZE",
           "units": [
@@ -197,7 +197,7 @@
           "iso4217": "EUR",
           "key": "SK",
           "contemporary_units": [
-            "Koruna",
+            "کرونا",
             "Halier"
           ],
           "mints": [
@@ -350,7 +350,7 @@
           "alpha2": "GG",
           "alpha3": "GGY",
           "units": [
-            "Pound",
+            "پوند",
             "Penny"
           ],
           "iso4217": "GGP",
@@ -402,7 +402,7 @@
           "alpha3": "IMN",
           "units": [
             "Pound",
-            "Penny"
+            "پنی"
           ],
           "iso4217": "IMP",
           "key": "IM",
@@ -440,7 +440,7 @@
           "alpha2": "LT",
           "alpha3": "LTU",
           "units": [
-            "Euro",
+            "یورو",
             "Cent"
           ],
           "iso4217": "EUR",
@@ -476,7 +476,7 @@
               "name": "Mint of Norway; ex Den Kongelige Mynt",
               "local_name": "Det Norske Myntverket",
               "country": {
-                "NOR": "Norway"
+                "NOR": "نروژ"
               },
               "location": "Kongsberg",
               "from_year": 1686
@@ -507,12 +507,12 @@
           "key": "SE"
         },
         {
-          "name": "United Kingdom",
+          "name": "بریتانیا",
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
             "Pound",
-            "Penny"
+            "پنی"
           ],
           "iso4217": "GBP",
           "key": "GB",
@@ -545,7 +545,7 @@
             {
               "name": "John Pinches Medallists",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "بریتانیا"
               },
               "location": "London",
               "from_year": 1840,
@@ -572,7 +572,7 @@
             {
               "name": "Pobjoy Mint",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "بریتانیا"
               },
               "location": "Surrey",
               "from_year": 1965
@@ -696,7 +696,7 @@
           "alpha2": "GI",
           "alpha3": "GIB",
           "units": [
-            "Pound",
+            "پوند",
             "Penny"
           ],
           "iso4217": "GIP",
@@ -708,7 +708,7 @@
           "alpha2": "GR",
           "alpha3": "GRC",
           "units": [
-            "Euro",
+            "یورو",
             "Cent"
           ],
           "iso4217": "EUR",
@@ -739,7 +739,7 @@
           ]
         },
         {
-          "name": "Vatican City",
+          "name": "دولت‌شهر واتیکان",
           "alpha2": "VA",
           "alpha3": "VAT",
           "units": [
@@ -815,7 +815,7 @@
           "alpha3": "MNE",
           "units": [
             "یورو",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "EUR",
           "key": "ME"
@@ -858,7 +858,7 @@
           ]
         },
         {
-          "name": "San Marino",
+          "name": "سان مارینو",
           "alpha2": "SM",
           "alpha3": "SMR",
           "units": [
@@ -873,7 +873,7 @@
           "alpha2": "RS",
           "alpha3": "SRB",
           "units": [
-            "Dinar",
+            "دینار",
             "پارا"
           ],
           "iso4217": "RSD",
@@ -941,7 +941,7 @@
             {
               "name": "Granada Mint",
               "country": {
-                "ESP": "Spain"
+                "ESP": "اسپانیا"
               },
               "location": "Granada",
               "from_year": 1492,
@@ -1054,7 +1054,7 @@
               "name": "Paris Mint",
               "local_name": "Monnaie de Paris",
               "country": {
-                "FRA": "France"
+                "FRA": "فرانسه"
               },
               "location": "Pessac",
               "from_year": 864
@@ -1062,7 +1062,7 @@
             {
               "name": "Poissy Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "فرانسه"
               },
               "location": "Poissy",
               "from_year": 1922,
@@ -1090,7 +1090,7 @@
           "iso4217": "EUR",
           "key": "DE",
           "contemporary_units": [
-            "Mark",
+            "مارک",
             "Pfennig"
           ],
           "mints": [
@@ -1121,7 +1121,7 @@
             {
               "name": "Geiger Edelmetalle",
               "country": {
-                "DEU": "Germany"
+                "DEU": "آلمان"
               },
               "location": "Leipzig",
               "from_year": 1218
@@ -1227,7 +1227,7 @@
             {
               "name": "Staatliche Münzen Baden-Württemberg",
               "country": {
-                "DEU": "Germany"
+                "DEU": "آلمان"
               },
               "location": "Karlsruhe and Stuttgart",
               "from_year": 1998
@@ -1265,7 +1265,7 @@
           ]
         },
         {
-          "name": "Luxembourg",
+          "name": "لوکزامبورگ",
           "alpha2": "LU",
           "alpha3": "LUX",
           "units": [
@@ -1280,7 +1280,7 @@
           ]
         },
         {
-          "name": "Monaco",
+          "name": "موناکو",
           "alpha2": "MC",
           "alpha3": "MCO",
           "units": [
@@ -1387,7 +1387,7 @@
           ]
         },
         {
-          "name": "Kosovo",
+          "name": "کوزوو",
           "alpha2": "XK",
           "alpha3": "XKX",
           "units": [
@@ -1486,7 +1486,7 @@
       ]
     },
     {
-      "name": "Americas",
+      "name": "آمریکا",
       "countries": [
         {
           "name": "آنگویلا",
@@ -1512,7 +1512,7 @@
           "key": "AG"
         },
         {
-          "name": "Aruba",
+          "name": "آروبا",
           "alpha2": "AW",
           "alpha3": "ABW",
           "units": [
@@ -1649,7 +1649,7 @@
           "alpha2": "HT",
           "alpha3": "HTI",
           "units": [
-            "Gourde",
+            "گورد",
             "Centime"
           ],
           "iso4217": "HTG",
@@ -1695,7 +1695,7 @@
           "alpha2": "PR",
           "alpha3": "PRI",
           "units": [
-            "Dollar",
+            "دلار",
             "Cent"
           ],
           "iso4217": "USD",
@@ -1866,7 +1866,7 @@
           "alpha2": "MX",
           "alpha3": "MEX",
           "units": [
-            "Peso",
+            "پزو",
             "Centavo"
           ],
           "iso4217": "MXN",
@@ -1910,7 +1910,7 @@
           "key": "PA"
         },
         {
-          "name": "Argentina",
+          "name": "آرژانتین",
           "alpha2": "AR",
           "alpha3": "ARG",
           "units": [
@@ -1932,11 +1932,11 @@
           ]
         },
         {
-          "name": "Bolivia",
+          "name": "بولیوی",
           "alpha2": "BO",
           "alpha3": "BOL",
           "units": [
-            "Boliviano",
+            "بولیویانو",
             "Centavo"
           ],
           "iso4217": "BOB",
@@ -2127,7 +2127,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Bolívar",
+            "بولیوار",
             ""
           ],
           "iso4217": "",
@@ -2550,7 +2550,7 @@
           "alpha3": "",
           "units": [
             "",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "",
           "key": "",
@@ -2679,7 +2679,7 @@
           "alpha3": "",
           "units": [
             "",
-            "Sen"
+            "سن"
           ],
           "iso4217": "IDR",
           "key": "",
@@ -2867,7 +2867,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Ngultrum",
+            "نگولتروم",
             ""
           ],
           "iso4217": "BTN",
@@ -3825,7 +3825,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Dollar",
+            "دلار",
             ""
           ],
           "iso4217": "",
