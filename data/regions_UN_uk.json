@@ -1708,7 +1708,7 @@
           "alpha3": "BLM",
           "units": [
             "Євро",
-            "Цент"
+            "Cent"
           ],
           "iso4217": "EUR",
           "key": "BL",
@@ -1980,17 +1980,17 @@
         {
           "name": "Чилі",
           "alpha2": "CL",
-          "alpha3": "",
+          "alpha3": "CHL",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "CLP",
+          "key": "CL",
           "mints": [
             {
               "name": "",
-              "local_name": "",
+              "local_name": "Casa de Moneda de Chile",
               "country": {
                 "CHL": ""
               },
@@ -2001,25 +2001,25 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CO",
+          "alpha3": "COL",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "COP",
+          "key": "CO"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "EC",
           "alpha3": "ECU",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "USD",
+          "key": "EC",
           "contemporary_units": [
             "Sucre",
             ""
@@ -2027,60 +2027,60 @@
         },
         {
           "name": "Falkland Islands (Malvinas)",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "FK",
+          "alpha3": "FLK",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "FKP",
           "key": "FK",
           "dependent": true
         },
         {
           "name": "",
           "alpha2": "GF",
-          "alpha3": "",
+          "alpha3": "GUF",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "EUR",
           "key": "GF",
           "dependent": true
         },
         {
           "name": "Гаяна",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "GY",
+          "alpha3": "GUY",
           "units": [
             "",
             ""
           ],
           "iso4217": "GYD",
-          "key": ""
+          "key": "GY"
         },
         {
           "name": "",
           "alpha2": "PY",
-          "alpha3": "",
+          "alpha3": "PRY",
           "units": [
             "Гуарані",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "PYG",
+          "key": "PY"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "PE",
           "alpha3": "PER",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "PEN",
+          "key": "PE",
           "contemporary_units": [
             "",
             "",
@@ -2092,20 +2092,20 @@
           "alpha2": "GS",
           "alpha3": "SGS",
           "units": [],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "—",
+          "key": "GS",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "SR",
           "alpha3": "SUR",
           "units": [
             "Долар",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "SRD",
+          "key": "SR",
           "contemporary_units": [
             "Гульден",
             "Цент"
@@ -2113,51 +2113,51 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "UY",
+          "alpha3": "URY",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "UYU",
+          "key": "UY"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "VE",
+          "alpha3": "VEN",
           "units": [
             "Болівар",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "VES",
+          "key": "VE"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "BM",
+          "alpha3": "BMU",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "BMD",
+          "key": "BM",
           "dependent": true
         },
         {
           "name": "Канада",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CA",
+          "alpha3": "CAN",
           "units": [
             "",
             ""
           ],
           "iso4217": "CAD",
-          "key": "",
+          "key": "CA",
           "mints": [
             {
-              "name": "",
+              "name": "Argentia Precious Metals",
               "country": {
                 "CAN": ""
               },
@@ -2176,14 +2176,14 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "GL",
+          "alpha3": "GRL",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "DKK",
+          "key": "GL",
           "dependent": true
         },
         {
