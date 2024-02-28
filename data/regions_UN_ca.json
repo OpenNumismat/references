@@ -88,7 +88,7 @@
           ]
         },
         {
-          "name": "Poland",
+          "name": "Polònia",
           "alpha2": "PL",
           "alpha3": "POL",
           "units": [
@@ -101,7 +101,7 @@
             {
               "name": "",
               "country": {
-                "POL": "Poland"
+                "POL": "Polònia"
               },
               "location": "",
               "from_year": 2018
@@ -134,7 +134,7 @@
           ]
         },
         {
-          "name": "Moldova",
+          "name": "Moldàvia",
           "alpha2": "",
           "alpha3": "MDA",
           "units": [
@@ -156,7 +156,7 @@
           "key": ""
         },
         {
-          "name": "Russia",
+          "name": "Rússia",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -179,7 +179,7 @@
               "name": "",
               "local_name": "",
               "country": {
-                "RUS": "Russia"
+                "RUS": "Rússia"
               },
               "location": "Saint Petersburg",
               "from_year": 1724
@@ -221,7 +221,7 @@
           ]
         },
         {
-          "name": "Ukraine",
+          "name": "Ucraïna",
           "alpha2": "UA",
           "alpha3": "",
           "units": [
@@ -320,7 +320,7 @@
           "dependent": true
         },
         {
-          "name": "Finland",
+          "name": "Finlàndia",
           "alpha2": "FI",
           "alpha3": "FIN",
           "units": [
@@ -338,7 +338,7 @@
               "name": "",
               "local_name": "Suomen Rahapaja",
               "country": {
-                "FIN": "Finland"
+                "FIN": "Finlàndia"
               },
               "location": "Vantaa",
               "from_year": 1860
@@ -436,7 +436,7 @@
           ]
         },
         {
-          "name": "Lithuania",
+          "name": "Lituània",
           "alpha2": "LT",
           "alpha3": "",
           "units": [
@@ -476,7 +476,7 @@
               "name": "",
               "local_name": "Det Norske Myntverket",
               "country": {
-                "NOR": "Norway"
+                "NOR": "Noruega"
               },
               "location": "",
               "from_year": 1686
@@ -496,7 +496,7 @@
           "dependent": true
         },
         {
-          "name": "Sweden",
+          "name": "Suècia",
           "alpha2": "SE",
           "alpha3": "",
           "units": [
@@ -545,7 +545,7 @@
             {
               "name": "John Pinches Medallists",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Regne Unit"
               },
               "location": "London",
               "from_year": 1840,
@@ -563,7 +563,7 @@
             {
               "name": "",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Regne Unit"
               },
               "location": "Birmingham",
               "from_year": 1889,
@@ -572,7 +572,7 @@
             {
               "name": "",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Regne Unit"
               },
               "location": "",
               "from_year": 1965
@@ -614,7 +614,7 @@
             {
               "name": "",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Regne Unit"
               },
               "location": "London",
               "from_year": 1976
@@ -656,7 +656,7 @@
           ]
         },
         {
-          "name": "Bosnia and Herzegovina",
+          "name": "Bòsnia i Hercegovina",
           "alpha2": "BA",
           "alpha3": "BIH",
           "units": [
@@ -667,7 +667,7 @@
           "key": "BA"
         },
         {
-          "name": "Croatia",
+          "name": "Croàcia",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -684,7 +684,7 @@
               "name": "Croatian Monetary Institute",
               "local_name": "Hrvatski novčarski zavod",
               "country": {
-                "HRV": "Croatia"
+                "HRV": "Croàcia"
               },
               "location": "",
               "from_year": 1993
@@ -721,7 +721,7 @@
             {
               "name": "Aegina Mint",
               "country": {
-                "GRC": "Greece"
+                "GRC": "Grècia"
               },
               "location": "",
               "from_year": 1828,
@@ -750,7 +750,7 @@
           "key": "VA"
         },
         {
-          "name": "Italy",
+          "name": "Itàlia",
           "alpha2": "IT",
           "alpha3": "ITA",
           "units": [
@@ -905,7 +905,7 @@
           ]
         },
         {
-          "name": "Spain",
+          "name": "Espanya",
           "alpha2": "ES",
           "alpha3": "",
           "units": [
@@ -941,7 +941,7 @@
             {
               "name": "Granada Mint",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Espanya"
               },
               "location": "Granada",
               "from_year": 1492,
@@ -1012,7 +1012,7 @@
             {
               "name": "",
               "country": {
-                "BEL": "Belgium"
+                "BEL": "Bèlgica"
               },
               "location": "Grobbendonk",
               "from_year": 1875
@@ -1054,7 +1054,7 @@
               "name": "",
               "local_name": "Monnaie de Paris",
               "country": {
-                "FRA": "France"
+                "FRA": "França"
               },
               "location": "",
               "from_year": 864
@@ -1062,7 +1062,7 @@
             {
               "name": "Poissy Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "França"
               },
               "location": "Poissy",
               "from_year": 1922,
@@ -1105,7 +1105,7 @@
             {
               "name": "",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Alemanya"
               },
               "location": "Munich",
               "from_year": 1871
@@ -1121,7 +1121,7 @@
             {
               "name": "Geiger Edelmetalle",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Alemanya"
               },
               "location": "Leipzig",
               "from_year": 1218
@@ -1162,7 +1162,7 @@
             {
               "name": "Le Grand Mint",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Alemanya"
               },
               "location": "",
               "from_year": 2014
@@ -1227,7 +1227,7 @@
             {
               "name": "Staatliche Münzen Baden-Württemberg",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Alemanya"
               },
               "location": "",
               "from_year": 1998
@@ -1235,7 +1235,7 @@
             {
               "name": "Stuttgart Mint",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Alemanya"
               },
               "location": "Stuttgart",
               "from_year": 1374,
@@ -1280,7 +1280,7 @@
           ]
         },
         {
-          "name": "Monaco",
+          "name": "Mònaco",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1317,7 +1317,7 @@
             {
               "name": "",
               "country": {
-                "NLD": "Netherlands"
+                "NLD": "Països Baixos"
               },
               "location": "",
               "from_year": 1999
@@ -1354,7 +1354,7 @@
             {
               "name": "",
               "country": {
-                "CHE": "Switzerland"
+                "CHE": "Suïssa"
               },
               "location": "",
               "from_year": 1977
@@ -1899,7 +1899,7 @@
           ]
         },
         {
-          "name": "Panama",
+          "name": "Panamà",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1970,7 +1970,7 @@
               "name": "Mint of Brazil",
               "local_name": "Casa da Moeda do Brasil",
               "country": {
-                "BRA": "Brazil"
+                "BRA": "Brasil"
               },
               "location": "Rio de Janeiro",
               "from_year": 1694
@@ -1978,7 +1978,7 @@
           ]
         },
         {
-          "name": "Chile",
+          "name": "Xile",
           "alpha2": "CL",
           "alpha3": "",
           "units": [
@@ -2146,7 +2146,7 @@
           "dependent": true
         },
         {
-          "name": "Canada",
+          "name": "Canadà",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2501,7 +2501,7 @@
             {
               "name": "",
               "country": {
-                "CHN": "China"
+                "CHN": "Xina"
               },
               "location": "",
               "from_year": 1995
@@ -3187,7 +3187,7 @@
           ]
         },
         {
-          "name": "United Arab Emirates",
+          "name": "Emirats Àrabs Units",
           "alpha2": "",
           "alpha3": "",
           "units": [
