@@ -2188,26 +2188,26 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "PM",
+          "alpha3": "SPM",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "EUR",
+          "key": "PM",
           "dependent": true
         },
         {
           "name": "Amerika Birleşik Devletleri",
           "alpha2": "US",
-          "alpha3": "",
+          "alpha3": "USA",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "USD",
+          "key": "US",
           "mints": [
             {
               "name": "",
@@ -2435,68 +2435,68 @@
         {
           "name": "",
           "alpha2": "KZ",
-          "alpha3": "",
+          "alpha3": "KAZ",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "KZT",
+          "key": "KZ"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "KG",
+          "alpha3": "KGZ",
           "units": [
             "",
             "Tyiyn"
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "KGS",
+          "key": "KG"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "TJ",
+          "alpha3": "TJK",
           "units": [
             "",
             "Diram"
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "TJS",
+          "key": "TJ"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "TM",
+          "alpha3": "TKM",
           "units": [
             "",
             "Tenge"
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "TMT",
+          "key": "TM"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "UZ",
           "alpha3": "UZB",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "UZS",
+          "key": "UZ"
         },
         {
           "name": "",
           "alpha2": "CN",
-          "alpha3": "",
+          "alpha3": "CHN",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "CNY",
+          "key": "CN",
           "mints": [
             {
               "name": "",
@@ -2508,7 +2508,7 @@
             },
             {
               "name": "CBPMC - Shanghai Mint",
-              "local_name": "",
+              "local_name": "上海造币有限公司",
               "country": {
                 "CHN": "Çin"
               },
@@ -2517,7 +2517,7 @@
             },
             {
               "name": "",
-              "local_name": "",
+              "local_name": "中国印钞造币总公司",
               "country": {
                 "CHN": ""
               },
@@ -2546,14 +2546,14 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "HK",
+          "alpha3": "HKG",
           "units": [
             "",
             "Cent"
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "HKD",
+          "key": "HK",
           "dependent": true,
           "mints": [
             {
@@ -2568,37 +2568,37 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "MO",
+          "alpha3": "MAC",
           "units": [
             "",
             "Avo"
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "MOP",
+          "key": "MO",
           "dependent": true
         },
         {
           "name": "North Korea",
-          "alpha2": "",
+          "alpha2": "KP",
           "alpha3": "PRK",
           "units": [
             "",
             "Chun"
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "KPW",
+          "key": "KP"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "JP",
+          "alpha3": "JPN",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "JPY",
+          "key": "JP",
           "mints": [
             {
               "name": "",
@@ -2610,7 +2610,7 @@
             },
             {
               "name": "",
-              "local_name": "",
+              "local_name": "独立行政法人 造幣局",
               "country": {
                 "JPN": ""
               },
@@ -2621,25 +2621,25 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "MN",
+          "alpha3": "MNG",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "MNT",
+          "key": "MN"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "KR",
+          "alpha3": "KOR",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "KRW",
+          "key": "KR",
           "mints": [
             {
               "name": "",
@@ -2653,36 +2653,36 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "BN",
+          "alpha3": "BRN",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "BND",
+          "key": "BN"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "KH",
           "alpha3": "KHM",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "KHR",
+          "key": "KH"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "ID",
+          "alpha3": "IDN",
           "units": [
             "",
             "Sen"
           ],
           "iso4217": "IDR",
-          "key": "",
+          "key": "ID",
           "mints": [
             {
               "name": "Perum Peruri",
@@ -2696,35 +2696,35 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "LA",
+          "alpha3": "LAO",
           "units": [
             "",
             ""
           ],
           "iso4217": "LAK",
-          "key": ""
+          "key": "LA"
         },
         {
           "name": "Malezya",
           "alpha2": "MY",
-          "alpha3": "",
+          "alpha3": "MYS",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "MYR",
+          "key": "MY"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "MM",
+          "alpha3": "MMR",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "MMK",
           "key": "MM"
         },
         {
@@ -2735,8 +2735,8 @@
             "Peso",
             "Centavo"
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "PHP",
+          "key": "PH",
           "mints": [
             {
               "name": "",
@@ -2751,17 +2751,17 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "SG",
+          "alpha3": "SGP",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "SGD",
+          "key": "SG",
           "mints": [
             {
-              "name": "",
+              "name": "PMC",
               "country": {
                 "SGP": ""
               },
@@ -2799,17 +2799,17 @@
         {
           "name": "",
           "alpha2": "TH",
-          "alpha3": "",
+          "alpha3": "THA",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "THB",
           "key": "TH",
           "mints": [
             {
               "name": "",
-              "local_name": "",
+              "local_name": "สำนักกษาปณ์",
               "country": {
                 "THA": ""
               },
@@ -2820,52 +2820,52 @@
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "TL",
           "alpha3": "TLS",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "USD",
+          "key": "TL"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "VN",
+          "alpha3": "VNM",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "VND",
+          "key": "VN"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "AF",
           "alpha3": "AFG",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "AFN",
+          "key": "AF"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "BD",
+          "alpha3": "BGD",
           "units": [
             "",
             "Poisha"
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "BDT",
+          "key": "BD"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "BT",
+          "alpha3": "BTN",
           "units": [
             "Ngultrum",
             ""
