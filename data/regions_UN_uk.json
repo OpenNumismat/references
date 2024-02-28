@@ -2021,12 +2021,12 @@
           "iso4217": "USD",
           "key": "EC",
           "contemporary_units": [
-            "Sucre",
+            "",
             ""
           ]
         },
         {
-          "name": "Falkland Islands (Malvinas)",
+          "name": "",
           "alpha2": "FK",
           "alpha3": "FLK",
           "units": [
@@ -2165,7 +2165,7 @@
               "from_year": 2022
             },
             {
-              "name": "Royal Canadian Mint",
+              "name": "",
               "country": {
                 "CAN": "Канада"
               },
@@ -2243,7 +2243,7 @@
               "from_year": 2008
             },
             {
-              "name": "Engelhard",
+              "name": "",
               "country": {
                 "USA": ""
               },
@@ -2252,7 +2252,7 @@
               "to_year": 2006
             },
             {
-              "name": "Franklin Mint",
+              "name": "",
               "country": {
                 "USA": ""
               },
@@ -2296,7 +2296,7 @@
               "country": {
                 "USA": ""
               },
-              "location": "Danbury",
+              "location": "",
               "from_year": 1972,
               "to_year": 1991
             },
@@ -2309,7 +2309,7 @@
               "from_year": 2015
             },
             {
-              "name": "North American Mint",
+              "name": "",
               "country": {
                 "USA": ""
               },
@@ -2330,7 +2330,7 @@
               "country": {
                 "USA": "Сполучені Штати"
               },
-              "location": "Scottsdale",
+              "location": "",
               "from_year": 2005
             },
             {
@@ -2338,7 +2338,7 @@
               "country": {
                 "USA": ""
               },
-              "location": "Winchester",
+              "location": "",
               "from_year": 1949
             },
             {
@@ -2406,11 +2406,11 @@
               "country": {
                 "USA": ""
               },
-              "location": "San Francisco",
+              "location": "",
               "from_year": 1854
             },
             {
-              "name": "Washington Mint",
+              "name": "",
               "country": {
                 "USA": ""
               },
@@ -2507,7 +2507,7 @@
               "from_year": 1995
             },
             {
-              "name": "CBPMC - Shanghai Mint",
+              "name": "",
               "local_name": "上海造币有限公司",
               "country": {
                 "CHN": "Китай"
@@ -2521,16 +2521,16 @@
               "country": {
                 "CHN": ""
               },
-              "location": "Beijing",
+              "location": "",
               "from_year": 1984
             },
             {
-              "name": "CBPMC - Nanjing Mint",
+              "name": "",
               "local_name": "南京造币有限公司",
               "country": {
                 "CHN": ""
               },
-              "location": "Nanjing",
+              "location": "",
               "from_year": 1984
             },
             {
@@ -2539,7 +2539,7 @@
               "country": {
                 "CHN": ""
               },
-              "location": "Shenyang",
+              "location": "",
               "from_year": 1984
             }
           ]
@@ -2579,12 +2579,12 @@
           "dependent": true
         },
         {
-          "name": "North Korea",
+          "name": "",
           "alpha2": "KP",
           "alpha3": "PRK",
           "units": [
             "",
-            "Chun"
+            ""
           ],
           "iso4217": "KPW",
           "key": "KP"
@@ -2644,7 +2644,7 @@
             {
               "name": "",
               "country": {
-                "KOR": "South Korea"
+                "KOR": ""
               },
               "location": "",
               "from_year": 1951
@@ -2685,7 +2685,7 @@
           "key": "ID",
           "mints": [
             {
-              "name": "Perum Peruri",
+              "name": "",
               "country": {
                 "IDN": ""
               },
@@ -2743,7 +2743,7 @@
               "country": {
                 "PHL": "Філіппіни"
               },
-              "location": "Manila",
+              "location": "",
               "from_year": 1898,
               "to_year": 1946
             }
@@ -2769,7 +2769,7 @@
               "from_year": 2020
             },
             {
-              "name": "Rearden Metals",
+              "name": "",
               "country": {
                 "SGP": ""
               },
@@ -2857,7 +2857,7 @@
           "alpha3": "BGD",
           "units": [
             "",
-            "Poisha"
+            ""
           ],
           "iso4217": "BDT",
           "key": "BD"
@@ -2909,11 +2909,11 @@
               "from_year": 1829
             },
             {
-              "name": "India Government Mint, Noida",
+              "name": "",
               "country": {
                 "IND": ""
               },
-              "location": "Noida",
+              "location": "",
               "from_year": 1988
             },
             {
@@ -3082,7 +3082,7 @@
               "country": {
                 "ISR": ""
               },
-              "location": "Nesher",
+              "location": "",
               "from_year": 1958
             }
           ]
@@ -3170,7 +3170,7 @@
           "alpha3": "TUR",
           "units": [
             "",
-            "Kurus"
+            ""
           ],
           "iso4217": "TRY",
           "key": "TR",
@@ -3271,7 +3271,7 @@
               "country": {
                 "TWN": "Тайвань"
               },
-              "location": "Taoyuan City",
+              "location": "",
               "from_year": 1920
             },
             {
@@ -3280,7 +3280,7 @@
               "country": {
                 "TWN": ""
               },
-              "location": "Guishan",
+              "location": "",
               "from_year": 1920
             }
           ],
@@ -3319,7 +3319,7 @@
           "alpha3": "",
           "units": [
             "",
-            "Xu"
+            ""
           ],
           "part_of": "VNM",
           "from_year": 1955,
@@ -3350,7 +3350,7 @@
           "units": [
             "",
             "",
-            "Tangka"
+            ""
           ],
           "part_of": "CHN",
           "from_year": 1912,
@@ -3762,7 +3762,7 @@
           "key": "GQ",
           "contemporary_units": [
             "",
-            "Peseta"
+            ""
           ]
         },
         {
@@ -3782,7 +3782,7 @@
           "alpha3": "",
           "units": [
             "",
-            "Centimo"
+            ""
           ],
           "iso4217": "STN",
           "key": "ST"
