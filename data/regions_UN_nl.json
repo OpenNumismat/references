@@ -15,7 +15,7 @@
           "key": "BY"
         },
         {
-          "name": "Bulgaria",
+          "name": "Bulgarije",
           "alpha2": "BG",
           "alpha3": "BGR",
           "units": [
@@ -126,7 +126,7 @@
             {
               "name": "Mint XXI",
               "country": {
-                "POL": "Poland"
+                "POL": "Polen"
               },
               "location": "Warsaw",
               "from_year": 2019
@@ -950,7 +950,7 @@
             {
               "name": "Seville Mint",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Spanje"
               },
               "location": "Seville",
               "from_year": 1252,
@@ -959,7 +959,7 @@
           ]
         },
         {
-          "name": "Austria",
+          "name": "Oostenrijk",
           "alpha2": "AT",
           "alpha3": "AUT",
           "units": [
@@ -1045,7 +1045,7 @@
             {
               "name": "Art Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "Frankrijk"
               },
               "location": "Paris",
               "from_year": 2013
@@ -1379,7 +1379,7 @@
             {
               "name": "Valcambi",
               "country": {
-                "CHE": "Switzerland"
+                "CHE": "Zwitserland"
               },
               "location": "Balerna",
               "from_year": 1961
