@@ -37,7 +37,7 @@
               "name": "Bulgarian Mint",
               "local_name": "Монетен двор",
               "country": {
-                "BGR": "Bulgaria"
+                "BGR": "Βουλγαρία"
               },
               "location": "",
               "from_year": 1952
@@ -213,7 +213,7 @@
             {
               "name": "",
               "country": {
-                "SVK": "Slovakia"
+                "SVK": "Σλοβακία"
               },
               "location": "",
               "from_year": 2015
@@ -409,7 +409,7 @@
           "dependent": true
         },
         {
-          "name": "Jersey",
+          "name": "Τζέρσεϊ",
           "alpha2": "JE",
           "alpha3": "JEY",
           "units": [
@@ -462,7 +462,7 @@
           ]
         },
         {
-          "name": "Norway",
+          "name": "Νορβηγία",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -606,7 +606,7 @@
             {
               "name": "",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Ηνωμένο Βασίλειο"
               },
               "location": "Birmingham",
               "from_year": 2003
@@ -634,7 +634,7 @@
           "alpha2": "",
           "alpha3": "ALB",
           "units": [
-            "Lek",
+            "Λεκ",
             "Qindar"
           ],
           "iso4217": "",
@@ -660,7 +660,7 @@
           "alpha2": "BA",
           "alpha3": "BIH",
           "units": [
-            "Mark",
+            "Μάρκο",
             "Πφένινγκ"
           ],
           "iso4217": "BAM",
@@ -767,7 +767,7 @@
             {
               "name": "Gori & Zucchi (Arezzo Mint)",
               "country": {
-                "ITA": "Italy"
+                "ITA": "Ιταλία"
               },
               "location": "",
               "from_year": 1926
@@ -776,7 +776,7 @@
               "name": "",
               "local_name": "",
               "country": {
-                "ITA": "Italy"
+                "ITA": "Ιταλία"
               },
               "location": "",
               "from_year": 1928
@@ -836,8 +836,8 @@
           "alpha2": "",
           "alpha3": "PRT",
           "units": [
-            "Euro",
-            "Cent"
+            "Ευρώ",
+            "Λεπτό"
           ],
           "iso4217": "EUR",
           "key": "PT",
@@ -863,13 +863,13 @@
           "alpha3": "SMR",
           "units": [
             "",
-            "Cent"
+            "Λεπτό"
           ],
           "iso4217": "EUR",
           "key": "SM"
         },
         {
-          "name": "Serbia",
+          "name": "Σερβία",
           "alpha2": "RS",
           "alpha3": "",
           "units": [
@@ -1020,7 +1020,7 @@
             {
               "name": "P. De Greef",
               "country": {
-                "BEL": "Belgium"
+                "BEL": "Βέλγιο"
               },
               "location": "Antwerp",
               "from_year": 1890
@@ -1137,7 +1137,7 @@
             {
               "name": "Heimerle + Meule",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Γερμανία"
               },
               "location": "Pforzheim",
               "from_year": 1845
@@ -1285,7 +1285,7 @@
           "alpha3": "",
           "units": [
             "Ευρώ",
-            "Cent"
+            "Λεπτό"
           ],
           "iso4217": "EUR",
           "key": ""
@@ -1570,7 +1570,7 @@
           "alpha3": "",
           "units": [
             "",
-            "Cent"
+            "Λεπτό"
           ],
           "iso4217": "KYD",
           "key": "KY",
@@ -1627,7 +1627,7 @@
           "alpha3": "GRD",
           "units": [
             "",
-            "Cent"
+            "Λεπτό"
           ],
           "iso4217": "",
           "key": "GD"
@@ -1707,7 +1707,7 @@
           "alpha2": "",
           "alpha3": "BLM",
           "units": [
-            "Euro",
+            "Ευρώ",
             ""
           ],
           "iso4217": "",
@@ -1777,7 +1777,7 @@
           "alpha3": "TTO",
           "units": [
             "Δολάριο",
-            "Cent"
+            "Λεπτό"
           ],
           "iso4217": "TTD",
           "key": "TT"
@@ -1851,7 +1851,7 @@
           "key": "GT"
         },
         {
-          "name": "Honduras",
+          "name": "Ονδούρα",
           "alpha2": "HN",
           "alpha3": "",
           "units": [
@@ -1957,7 +1957,7 @@
           "alpha3": "BRA",
           "units": [
             "",
-            "Centavo"
+            "Σεντάβο"
           ],
           "iso4217": "BRL",
           "key": "BR",
@@ -2108,7 +2108,7 @@
           "key": "",
           "contemporary_units": [
             "Γκίλντερ",
-            "Cent"
+            "Λεπτό"
           ]
         },
         {
@@ -2732,8 +2732,8 @@
           "alpha2": "PH",
           "alpha3": "PHL",
           "units": [
-            "Peso",
-            "Centavo"
+            "Πέσο",
+            "Σεντάβο"
           ],
           "iso4217": "",
           "key": "",
