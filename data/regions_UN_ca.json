@@ -1,0 +1,4520 @@
+{
+  "regions": [
+    {
+      "name": "Europe",
+      "countries": [
+        {
+          "name": "Bielorússia",
+          "alpha2": "",
+          "alpha3": "BLR",
+          "units": [
+            "",
+            "Kopek"
+          ],
+          "iso4217": "BYN",
+          "key": "BY"
+        },
+        {
+          "name": "Bulgària",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Lev",
+            ""
+          ],
+          "iso4217": "BGN",
+          "key": "",
+          "mints": [
+            {
+              "name": "Bulmint",
+              "country": {
+                "BGR": "Bulgària"
+              },
+              "location": "",
+              "from_year": 2004
+            },
+            {
+              "name": "Bulgarian Mint",
+              "local_name": "Монетен двор",
+              "country": {
+                "BGR": "Bulgària"
+              },
+              "location": "",
+              "from_year": 1952
+            }
+          ]
+        },
+        {
+          "name": "Czechia",
+          "alpha2": "CZ",
+          "alpha3": "",
+          "units": [
+            "",
+            "Halér"
+          ],
+          "iso4217": "CZK",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "local_name": "Česká mincovna",
+              "country": {
+                "CZE": "Czechia"
+              },
+              "location": "Jablonec nad Nisou",
+              "from_year": 1993
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "HUN",
+          "units": [
+            "Forint",
+            "Fillér"
+          ],
+          "iso4217": "HUF",
+          "key": "HU",
+          "mints": [
+            {
+              "name": "Hungarian Mint",
+              "country": {
+                "HUN": ""
+              },
+              "location": "Budapest",
+              "from_year": 1925
+            }
+          ]
+        },
+        {
+          "name": "Polònia",
+          "alpha2": "PL",
+          "alpha3": "POL",
+          "units": [
+            "Zloty",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "POL": "Polònia"
+              },
+              "location": "",
+              "from_year": 2018
+            },
+            {
+              "name": "",
+              "local_name": "",
+              "country": {
+                "POL": ""
+              },
+              "location": "",
+              "from_year": 1766
+            },
+            {
+              "name": "Mint of Gdansk",
+              "country": {
+                "POL": ""
+              },
+              "location": "Gdansk",
+              "from_year": 2010
+            },
+            {
+              "name": "Mint XXI",
+              "country": {
+                "POL": "Polònia"
+              },
+              "location": "Warsaw",
+              "from_year": 2019
+            }
+          ]
+        },
+        {
+          "name": "Moldàvia",
+          "alpha2": "",
+          "alpha3": "MDA",
+          "units": [
+            "Leu",
+            "Ban"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "Romania",
+          "alpha2": "",
+          "alpha3": "ROU",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "Rússia",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Kopek"
+          ],
+          "iso4217": "RUB",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "local_name": "Московский монетный двор",
+              "country": {
+                "RUS": ""
+              },
+              "location": "Moscow",
+              "from_year": 1942
+            },
+            {
+              "name": "",
+              "local_name": "",
+              "country": {
+                "RUS": "Rússia"
+              },
+              "location": "Saint Petersburg",
+              "from_year": 1724
+            }
+          ]
+        },
+        {
+          "name": "Eslovàquia",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Euro",
+            ""
+          ],
+          "iso4217": "",
+          "key": "SK",
+          "contemporary_units": [
+            "Koruna",
+            "Halier"
+          ],
+          "mints": [
+            {
+              "name": "Kremnica Mint, ex Kremnitz",
+              "local_name": "Mincovňa Kremnica",
+              "country": {
+                "SVK": "Eslovàquia"
+              },
+              "location": "",
+              "from_year": 1328
+            },
+            {
+              "name": "",
+              "country": {
+                "SVK": "Eslovàquia"
+              },
+              "location": "",
+              "from_year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Ucraïna",
+          "alpha2": "UA",
+          "alpha3": "",
+          "units": [
+            "Hryvnia",
+            "Kopiyka"
+          ],
+          "iso4217": "",
+          "key": "UA"
+        },
+        {
+          "name": "Åland Islands",
+          "alpha2": "AX",
+          "alpha3": "ALA",
+          "units": [
+            "Euro",
+            ""
+          ],
+          "iso4217": "EUR",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "Dinamarca",
+          "alpha2": "DK",
+          "alpha3": "DNK",
+          "units": [
+            "Krone",
+            ""
+          ],
+          "iso4217": "",
+          "key": "DK",
+          "mints": [
+            {
+              "name": "Altona Mint",
+              "country": {
+                "DNK": ""
+              },
+              "location": "",
+              "from_year": 1771,
+              "to_year": 1863
+            },
+            {
+              "name": "Royal Danish Mint",
+              "local_name": "",
+              "country": {
+                "DNK": "Dinamarca"
+              },
+              "location": "Copenhagen",
+              "from_year": 1541
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "EST",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "Kroon",
+            ""
+          ],
+          "mints": [
+            {
+              "name": "European Mint",
+              "country": {
+                "EST": ""
+              },
+              "location": "Tallinn",
+              "from_year": 2013
+            },
+            {
+              "name": "Juveel",
+              "country": {
+                "EST": "Estònia"
+              },
+              "location": "Talinn",
+              "from_year": 1923
+            }
+          ]
+        },
+        {
+          "name": "Faroes",
+          "alpha2": "FO",
+          "alpha3": "",
+          "units": [
+            "",
+            "Øre"
+          ],
+          "iso4217": "",
+          "key": "FO",
+          "dependent": true
+        },
+        {
+          "name": "Finlàndia",
+          "alpha2": "FI",
+          "alpha3": "FIN",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "FI",
+          "contemporary_units": [
+            "",
+            "Penni"
+          ],
+          "mints": [
+            {
+              "name": "",
+              "local_name": "Suomen Rahapaja",
+              "country": {
+                "FIN": "Finlàndia"
+              },
+              "location": "Vantaa",
+              "from_year": 1860
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "GGY",
+          "units": [
+            "Pound",
+            ""
+          ],
+          "iso4217": "",
+          "key": "GG",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "ISL",
+          "units": [
+            ""
+          ],
+          "iso4217": "ISK",
+          "key": "IS",
+          "contemporary_units": [
+            "Króna",
+            ""
+          ]
+        },
+        {
+          "name": "Irlanda",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "IE",
+          "contemporary_units": [
+            "",
+            ""
+          ],
+          "mints": [
+            {
+              "name": "Currency Centre (Irish Mint)",
+              "country": {
+                "IRL": ""
+              },
+              "location": "Dublin",
+              "from_year": 1978
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Pound",
+            "Penny"
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "Jersey",
+          "alpha2": "JE",
+          "alpha3": "JEY",
+          "units": [
+            "",
+            "Penny"
+          ],
+          "iso4217": "JEP",
+          "key": "JE",
+          "dependent": true
+        },
+        {
+          "name": "Letònia",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "LV",
+          "contemporary_units": [
+            "",
+            "Santīms"
+          ]
+        },
+        {
+          "name": "Lituània",
+          "alpha2": "LT",
+          "alpha3": "",
+          "units": [
+            "Euro",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "Litas",
+            ""
+          ],
+          "mints": [
+            {
+              "name": "Lithuanian Mint",
+              "local_name": "",
+              "country": {
+                "LTU": "Lituània"
+              },
+              "location": "Vilnius",
+              "from_year": 1990
+            }
+          ]
+        },
+        {
+          "name": "Noruega",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "NOK",
+          "key": "NO",
+          "mints": [
+            {
+              "name": "",
+              "local_name": "Det Norske Myntverket",
+              "country": {
+                "NOR": "Noruega"
+              },
+              "location": "",
+              "from_year": 1686
+            }
+          ]
+        },
+        {
+          "name": "Svalbard and Jan Mayen Islands",
+          "alpha2": "SJ",
+          "alpha3": "",
+          "units": [
+            "Krone",
+            ""
+          ],
+          "iso4217": "NOK",
+          "key": "SJ",
+          "dependent": true
+        },
+        {
+          "name": "Suècia",
+          "alpha2": "SE",
+          "alpha3": "",
+          "units": [
+            "",
+            "Öre"
+          ],
+          "iso4217": "SEK",
+          "key": "SE"
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "GBR",
+          "units": [
+            "Pound",
+            "Penny"
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "Commonwealth Mint",
+              "country": {
+                "GBR": "Regne Unit"
+              },
+              "location": "Bristol",
+              "from_year": 2005
+            },
+            {
+              "name": "East India Company (modern)",
+              "country": {
+                "GBR": ""
+              },
+              "location": "London",
+              "from_year": 2010
+            },
+            {
+              "name": "Heaton and Sons (Birmingham Mint)",
+              "country": {
+                "GBR": ""
+              },
+              "location": "",
+              "from_year": 1850,
+              "to_year": 2003
+            },
+            {
+              "name": "John Pinches Medallists",
+              "country": {
+                "GBR": "Regne Unit"
+              },
+              "location": "London",
+              "from_year": 1840,
+              "to_year": 1969
+            },
+            {
+              "name": "J.R. Gaunt and Son",
+              "country": {
+                "GBR": ""
+              },
+              "location": "Birmingham",
+              "from_year": 1884,
+              "to_year": 1993
+            },
+            {
+              "name": "",
+              "country": {
+                "GBR": "Regne Unit"
+              },
+              "location": "Birmingham",
+              "from_year": 1889,
+              "to_year": 1962
+            },
+            {
+              "name": "",
+              "country": {
+                "GBR": "Regne Unit"
+              },
+              "location": "",
+              "from_year": 1965
+            },
+            {
+              "name": "",
+              "country": {
+                "GBR": ""
+              },
+              "location": "Llantrisant",
+              "from_year": 886
+            },
+            {
+              "name": "",
+              "country": {
+                "GBR": ""
+              },
+              "location": "Birmingham",
+              "from_year": 1790,
+              "to_year": 1965
+            },
+            {
+              "name": "Soho Mint",
+              "country": {
+                "GBR": ""
+              },
+              "location": "",
+              "from_year": 1788,
+              "to_year": 1850
+            },
+            {
+              "name": "",
+              "country": {
+                "GBR": "Regne Unit"
+              },
+              "location": "Birmingham",
+              "from_year": 2003
+            },
+            {
+              "name": "",
+              "country": {
+                "GBR": "Regne Unit"
+              },
+              "location": "London",
+              "from_year": 1976
+            },
+            {
+              "name": "Windsor Mint",
+              "country": {
+                "GBR": "Regne Unit"
+              },
+              "location": "",
+              "from_year": 2010
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "ALB",
+          "units": [
+            "Lek",
+            "Qindar"
+          ],
+          "iso4217": "",
+          "key": "AL"
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "",
+            "Céntim"
+          ]
+        },
+        {
+          "name": "Bòsnia i Hercegovina",
+          "alpha2": "BA",
+          "alpha3": "BIH",
+          "units": [
+            "Mark",
+            "Fening"
+          ],
+          "iso4217": "BAM",
+          "key": "BA"
+        },
+        {
+          "name": "Croàcia",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "",
+            "Lipa"
+          ],
+          "mints": [
+            {
+              "name": "Croatian Monetary Institute",
+              "local_name": "Hrvatski novčarski zavod",
+              "country": {
+                "HRV": "Croàcia"
+              },
+              "location": "",
+              "from_year": 1993
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "GI",
+          "alpha3": "GIB",
+          "units": [
+            "",
+            "Penny"
+          ],
+          "iso4217": "",
+          "key": "GI",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "",
+          "contemporary_units": [
+            "Drachma",
+            ""
+          ],
+          "mints": [
+            {
+              "name": "Aegina Mint",
+              "country": {
+                "GRC": "Grècia"
+              },
+              "location": "",
+              "from_year": 1828,
+              "to_year": 1833
+            },
+            {
+              "name": "Garitsa",
+              "country": {
+                "GRC": ""
+              },
+              "location": "Garitsa",
+              "from_year": 1801,
+              "to_year": 1801
+            }
+          ]
+        },
+        {
+          "name": "Vatican City",
+          "alpha2": "VA",
+          "alpha3": "VAT",
+          "units": [
+            "Euro",
+            ""
+          ],
+          "iso4217": "",
+          "key": "VA"
+        },
+        {
+          "name": "Itàlia",
+          "alpha2": "IT",
+          "alpha3": "ITA",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "",
+          "contemporary_units": [
+            "",
+            "Centesimo"
+          ],
+          "mints": [
+            {
+              "name": "Gori & Zucchi (Arezzo Mint)",
+              "country": {
+                "ITA": "Itàlia"
+              },
+              "location": "",
+              "from_year": 1926
+            },
+            {
+              "name": "",
+              "local_name": "",
+              "country": {
+                "ITA": "Itàlia"
+              },
+              "location": "",
+              "from_year": 1928
+            }
+          ]
+        },
+        {
+          "name": "Malta",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "MT",
+          "contemporary_units": [
+            "Lira",
+            "Cent"
+          ],
+          "mints": [
+            {
+              "name": "Malta Mint",
+              "country": {
+                "MLT": "Malta"
+              },
+              "location": "",
+              "from_year": 1973,
+              "to_year": 1995
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "MNE",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "MKD",
+          "units": [
+            "",
+            "Deni"
+          ],
+          "iso4217": "MKD",
+          "key": "MK"
+        },
+        {
+          "name": "Portugal",
+          "alpha2": "",
+          "alpha3": "PRT",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "PT",
+          "contemporary_units": [
+            "Escudo",
+            ""
+          ],
+          "mints": [
+            {
+              "name": "Mint of Portugal",
+              "local_name": "",
+              "country": {
+                "PRT": "Portugal"
+              },
+              "location": "",
+              "from_year": 1299
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "SM",
+          "alpha3": "SMR",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "SM"
+        },
+        {
+          "name": "Sèrbia",
+          "alpha2": "RS",
+          "alpha3": "",
+          "units": [
+            "Dinar",
+            ""
+          ],
+          "iso4217": "",
+          "key": "RS",
+          "mints": [
+            {
+              "name": "Zavod za izradu novčanica i kovanog novca Topčider",
+              "country": {
+                "SRB": ""
+              },
+              "location": "",
+              "from_year": 1929
+            }
+          ]
+        },
+        {
+          "name": "Eslovènia",
+          "alpha2": "SI",
+          "alpha3": "SVN",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "EUR",
+          "key": "SI",
+          "contemporary_units": [
+            "Tolar",
+            "Stotin"
+          ]
+        },
+        {
+          "name": "Espanya",
+          "alpha2": "ES",
+          "alpha3": "",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "",
+          "contemporary_units": [
+            "",
+            ""
+          ],
+          "mints": [
+            {
+              "name": "",
+              "local_name": "",
+              "country": {
+                "ESP": ""
+              },
+              "location": "",
+              "from_year": 1812,
+              "to_year": 1868
+            },
+            {
+              "name": "Royal Mint of Spain",
+              "local_name": "",
+              "country": {
+                "ESP": "Espanya"
+              },
+              "location": "Madrid",
+              "from_year": 1893
+            },
+            {
+              "name": "Granada Mint",
+              "country": {
+                "ESP": "Espanya"
+              },
+              "location": "Granada",
+              "from_year": 1492,
+              "to_year": 1688
+            },
+            {
+              "name": "Seville Mint",
+              "country": {
+                "ESP": "Espanya"
+              },
+              "location": "Seville",
+              "from_year": 1252,
+              "to_year": 1869
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "",
+          "contemporary_units": [
+            "",
+            "Schilling",
+            ""
+          ],
+          "mints": [
+            {
+              "name": "",
+              "local_name": "",
+              "country": {
+                "AUT": ""
+              },
+              "location": "Vienna",
+              "from_year": 1194
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "BEL",
+          "units": [
+            "Euro",
+            ""
+          ],
+          "iso4217": "EUR",
+          "key": "BE",
+          "contemporary_units": [
+            "Franc",
+            "Centime"
+          ],
+          "mints": [
+            {
+              "name": "Royal Mint of Belgium",
+              "local_name": "",
+              "country": {
+                "BEL": "Bèlgica"
+              },
+              "location": "",
+              "from_year": 1880
+            },
+            {
+              "name": "",
+              "country": {
+                "BEL": "Bèlgica"
+              },
+              "location": "Grobbendonk",
+              "from_year": 1875
+            },
+            {
+              "name": "P. De Greef",
+              "country": {
+                "BEL": "Bèlgica"
+              },
+              "location": "Antwerp",
+              "from_year": 1890
+            }
+          ]
+        },
+        {
+          "name": "França",
+          "alpha2": "",
+          "alpha3": "FRA",
+          "units": [
+            "Euro",
+            ""
+          ],
+          "iso4217": "EUR",
+          "key": "",
+          "contemporary_units": [
+            "",
+            "Centime"
+          ],
+          "mints": [
+            {
+              "name": "Art Mint",
+              "country": {
+                "FRA": "França"
+              },
+              "location": "Paris",
+              "from_year": 2013
+            },
+            {
+              "name": "",
+              "local_name": "Monnaie de Paris",
+              "country": {
+                "FRA": "França"
+              },
+              "location": "",
+              "from_year": 864
+            },
+            {
+              "name": "Poissy Mint",
+              "country": {
+                "FRA": "França"
+              },
+              "location": "Poissy",
+              "from_year": 1922,
+              "to_year": 1927
+            },
+            {
+              "name": "",
+              "country": {
+                "FRA": ""
+              },
+              "location": "Strasbourg",
+              "from_year": 962,
+              "to_year": 1870
+            }
+          ]
+        },
+        {
+          "name": "Alemanya",
+          "alpha2": "",
+          "alpha3": "DEU",
+          "units": [
+            "Euro",
+            ""
+          ],
+          "iso4217": "",
+          "key": "DE",
+          "contemporary_units": [
+            "",
+            "Pfennig"
+          ],
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "DEU": "Alemanya"
+              },
+              "location": "",
+              "from_year": 2005
+            },
+            {
+              "name": "",
+              "country": {
+                "DEU": "Alemanya"
+              },
+              "location": "Munich",
+              "from_year": 1871
+            },
+            {
+              "name": "B. H. Mayer",
+              "country": {
+                "DEU": ""
+              },
+              "location": "Karlsfeld",
+              "from_year": 1871
+            },
+            {
+              "name": "Geiger Edelmetalle",
+              "country": {
+                "DEU": "Alemanya"
+              },
+              "location": "Leipzig",
+              "from_year": 1218
+            },
+            {
+              "name": "",
+              "country": {
+                "DEU": ""
+              },
+              "location": "",
+              "from_year": 834
+            },
+            {
+              "name": "Heimerle + Meule",
+              "country": {
+                "DEU": "Alemanya"
+              },
+              "location": "Pforzheim",
+              "from_year": 1845
+            },
+            {
+              "name": "JVP Investment Coins",
+              "country": {
+                "DEU": ""
+              },
+              "location": "",
+              "from_year": 2012
+            },
+            {
+              "name": "",
+              "country": {
+                "DEU": ""
+              },
+              "location": "Karlsruhe",
+              "from_year": 1827,
+              "to_year": 1998
+            },
+            {
+              "name": "Le Grand Mint",
+              "country": {
+                "DEU": "Alemanya"
+              },
+              "location": "",
+              "from_year": 2014
+            },
+            {
+              "name": "Leipziger Edelmetallverarbeitung",
+              "country": {
+                "DEU": "Alemanya"
+              },
+              "location": "",
+              "from_year": 2006
+            },
+            {
+              "name": "MDM",
+              "country": {
+                "DEU": ""
+              },
+              "location": "",
+              "from_year": 1970
+            },
+            {
+              "name": "Münzen Engel",
+              "country": {
+                "DEU": ""
+              },
+              "location": "Regensburg",
+              "from_year": 1900
+            },
+            {
+              "name": "",
+              "country": {
+                "DEU": "Alemanya"
+              },
+              "location": "",
+              "from_year": 2011,
+              "to_year": 2017
+            },
+            {
+              "name": "",
+              "country": {
+                "DEU": "Alemanya"
+              },
+              "location": "",
+              "from_year": 1913
+            },
+            {
+              "name": "Reu",
+              "country": {
+                "DEU": ""
+              },
+              "location": "Heubach",
+              "from_year": 1901
+            },
+            {
+              "name": "",
+              "country": {
+                "DEU": "Alemanya"
+              },
+              "location": "Berlin",
+              "from_year": 1750
+            },
+            {
+              "name": "Staatliche Münzen Baden-Württemberg",
+              "country": {
+                "DEU": "Alemanya"
+              },
+              "location": "",
+              "from_year": 1998
+            },
+            {
+              "name": "Stuttgart Mint",
+              "country": {
+                "DEU": "Alemanya"
+              },
+              "location": "Stuttgart",
+              "from_year": 1374,
+              "to_year": 1998
+            }
+          ]
+        },
+        {
+          "name": "Liechtenstein",
+          "alpha2": "LI",
+          "alpha3": "",
+          "units": [
+            "",
+            "Centime"
+          ],
+          "iso4217": "CHF",
+          "key": "LI",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "LIE": "Liechtenstein"
+              },
+              "location": "",
+              "from_year": 1970
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "LU",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "EUR",
+          "key": "LU",
+          "contemporary_units": [
+            "Franc",
+            ""
+          ]
+        },
+        {
+          "name": "Mònaco",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "NL",
+          "alpha3": "NLD",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "Guilder",
+            "Cent"
+          ],
+          "mints": [
+            {
+              "name": "Royal Dutch Mint",
+              "local_name": "Koninklijke Nederlandse Munt",
+              "country": {
+                "NLD": ""
+              },
+              "location": "Utrecht",
+              "from_year": 1567
+            },
+            {
+              "name": "",
+              "country": {
+                "NLD": "Països Baixos"
+              },
+              "location": "",
+              "from_year": 1999
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "CH",
+          "alpha3": "CHE",
+          "units": [
+            "",
+            "Centime"
+          ],
+          "iso4217": "",
+          "key": "CH",
+          "mints": [
+            {
+              "name": "Argor-Heraeus",
+              "country": {
+                "CHE": ""
+              },
+              "location": "Mendrisio",
+              "from_year": 1951
+            },
+            {
+              "name": "",
+              "country": {
+                "CHE": ""
+              },
+              "location": "Rothenburg",
+              "from_year": 2011
+            },
+            {
+              "name": "",
+              "country": {
+                "CHE": "Suïssa"
+              },
+              "location": "",
+              "from_year": 1977
+            },
+            {
+              "name": "Swissmint",
+              "country": {
+                "CHE": "Suïssa"
+              },
+              "location": "",
+              "from_year": 1853
+            },
+            {
+              "name": "",
+              "country": {
+                "CHE": ""
+              },
+              "location": "",
+              "from_year": 1875,
+              "to_year": 1986
+            },
+            {
+              "name": "Valcambi",
+              "country": {
+                "CHE": ""
+              },
+              "location": "",
+              "from_year": 1961
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "XK",
+          "alpha3": "XKX",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "EUR",
+          "part_of": "SRB",
+          "unrecognized": true,
+          "key": "XK"
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "XPR",
+          "units": [
+            "Ruble",
+            "Kopek"
+          ],
+          "iso4217": "",
+          "part_of": "MDA",
+          "unrecognized": true,
+          "mints": [
+            {
+              "name": "Tiraspol Mint",
+              "local_name": "Тираспольский монетный двор",
+              "country": {
+                "XPR": "Transnistria"
+              },
+              "location": "",
+              "from_year": 2005
+            }
+          ],
+          "key": ""
+        },
+        {
+          "name": "Czechoslovakia",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Halér"
+          ],
+          "part_of": "CZE",
+          "iso4217": "",
+          "from_year": 1918,
+          "to_year": 1992,
+          "disappeared": true,
+          "key": "_czechoslovakia"
+        },
+        {
+          "name": "East Germany",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Mark",
+            "Pfennig"
+          ],
+          "part_of": "",
+          "iso4217": "DDM",
+          "from_year": 1949,
+          "to_year": 1990,
+          "disappeared": true,
+          "key": "DD"
+        },
+        {
+          "name": "USSR",
+          "alpha2": "SU",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "part_of": "RUS",
+          "iso4217": "",
+          "from_year": 1922,
+          "to_year": 1991,
+          "disappeared": true,
+          "key": "SU"
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "YUG",
+          "units": [
+            "Dinar",
+            ""
+          ],
+          "part_of": "SRB",
+          "iso4217": "YUD",
+          "from_year": 1918,
+          "to_year": 1992,
+          "disappeared": true,
+          "key": "YU"
+        }
+      ]
+    },
+    {
+      "name": "Americas",
+      "countries": [
+        {
+          "name": "Anguilla",
+          "alpha2": "AI",
+          "alpha3": "",
+          "units": [
+            "Dollar",
+            ""
+          ],
+          "iso4217": "XCD",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "AG",
+          "alpha3": "ATG",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "Aruba",
+          "alpha2": "AW",
+          "alpha3": "",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "BHS",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "BSD",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "BRB",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "BBD",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "BQ",
+          "alpha3": "",
+          "units": [],
+          "dependent": true
+        },
+        {
+          "name": "British Virgin Islands",
+          "alpha2": "VG",
+          "alpha3": "VGB",
+          "units": [
+            "Dollar",
+            ""
+          ],
+          "iso4217": "",
+          "key": "VG",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "KY",
+          "alpha3": "",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "KYD",
+          "key": "KY",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Peso",
+            ""
+          ],
+          "iso4217": "",
+          "key": "CU"
+        },
+        {
+          "name": "",
+          "alpha2": "CW",
+          "alpha3": "",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "ANG",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "Dominica",
+          "alpha2": "",
+          "alpha3": "DMA",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "República Dominicana",
+          "alpha2": "DO",
+          "alpha3": "",
+          "units": [
+            "Peso",
+            ""
+          ],
+          "iso4217": "DOP",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "GRD",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "GD"
+        },
+        {
+          "name": "Guadeloupe",
+          "alpha2": "GP",
+          "alpha3": "GLP",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "EUR",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "HT",
+          "alpha3": "",
+          "units": [
+            "",
+            "Centime"
+          ],
+          "iso4217": "HTG",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "JM",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "Martinique",
+          "alpha2": "MQ",
+          "alpha3": "MTQ",
+          "units": [
+            "Euro",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "MSR",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "MS",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Dollar",
+            ""
+          ],
+          "iso4217": "USD",
+          "key": "PR",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "BLM",
+          "units": [
+            "Euro",
+            ""
+          ],
+          "iso4217": "",
+          "key": "BL",
+          "dependent": true
+        },
+        {
+          "name": "Saint Christopher i Nevis",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "XCD",
+          "key": ""
+        },
+        {
+          "name": "Saint Lucia",
+          "alpha2": "LC",
+          "alpha3": "LCA",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "XCD",
+          "key": "LC"
+        },
+        {
+          "name": "Saint Martin",
+          "alpha2": "",
+          "alpha3": "MAF",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "MF",
+          "dependent": true
+        },
+        {
+          "name": "Saint Vincent i les Grenadines",
+          "alpha2": "VC",
+          "alpha3": "",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "XCD",
+          "key": "VC"
+        },
+        {
+          "name": "",
+          "alpha2": "SX",
+          "alpha3": "SXM",
+          "units": [
+            "Guilder",
+            ""
+          ],
+          "iso4217": "ANG",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "Trinitat i Tobago",
+          "alpha2": "TT",
+          "alpha3": "TTO",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "TTD",
+          "key": "TT"
+        },
+        {
+          "name": "Turks and Caicos Islands",
+          "alpha2": "TC",
+          "alpha3": "TCA",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "TC",
+          "dependent": true
+        },
+        {
+          "name": "United States Virgin Islands",
+          "alpha2": "VI",
+          "alpha3": "",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "VI",
+          "dependent": true
+        },
+        {
+          "name": "Belize",
+          "alpha2": "",
+          "alpha3": "BLZ",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "BZD",
+          "key": "BZ"
+        },
+        {
+          "name": "",
+          "alpha2": "CR",
+          "alpha3": "CRI",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "CR"
+        },
+        {
+          "name": "El Salvador",
+          "alpha2": "SV",
+          "alpha3": "",
+          "units": [
+            "Colón",
+            "Centavo"
+          ],
+          "iso4217": "SVC",
+          "key": "SV"
+        },
+        {
+          "name": "Guatemala",
+          "alpha2": "GT",
+          "alpha3": "",
+          "units": [
+            "",
+            "Centavo"
+          ],
+          "iso4217": "GTQ",
+          "key": "GT"
+        },
+        {
+          "name": "Hondures",
+          "alpha2": "HN",
+          "alpha3": "",
+          "units": [
+            "Lempira",
+            ""
+          ],
+          "iso4217": "HNL",
+          "key": ""
+        },
+        {
+          "name": "Mèxic",
+          "alpha2": "",
+          "alpha3": "MEX",
+          "units": [
+            "Peso",
+            ""
+          ],
+          "iso4217": "MXN",
+          "key": "MX",
+          "mints": [
+            {
+              "name": "Mexican Mint",
+              "local_name": "",
+              "country": {
+                "MEX": "Mèxic"
+              },
+              "location": "San Luis Potosí",
+              "from_year": 1535
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "NIC",
+          "units": [
+            "Oro",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "Córdoba",
+            "Centavo"
+          ]
+        },
+        {
+          "name": "Panamà",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Balboa",
+            ""
+          ],
+          "iso4217": "",
+          "key": "PA"
+        },
+        {
+          "name": "",
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "units": [
+            "Peso",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "Mint of Argentina",
+              "local_name": "",
+              "country": {
+                "ARG": "Argentina"
+              },
+              "location": "",
+              "from_year": 1881
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "BO",
+          "alpha3": "BOL",
+          "units": [
+            "Boliviano",
+            "Centavo"
+          ],
+          "iso4217": "BOB",
+          "key": ""
+        },
+        {
+          "name": "Bouvet Island",
+          "alpha2": "BV",
+          "alpha3": "BVT",
+          "units": [],
+          "iso4217": "—",
+          "key": "BV",
+          "dependent": true
+        },
+        {
+          "name": "Brasil",
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "units": [
+            "",
+            "Centavo"
+          ],
+          "iso4217": "BRL",
+          "key": "BR",
+          "contemporary_units": [
+            "Cruzado",
+            "Cruzeiro"
+          ],
+          "mints": [
+            {
+              "name": "Mint of Brazil",
+              "local_name": "Casa da Moeda do Brasil",
+              "country": {
+                "BRA": "Brasil"
+              },
+              "location": "Rio de Janeiro",
+              "from_year": 1694
+            }
+          ]
+        },
+        {
+          "name": "Xile",
+          "alpha2": "CL",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "local_name": "",
+              "country": {
+                "CHL": ""
+              },
+              "location": "",
+              "from_year": 1743
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "ECU",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "Sucre",
+            ""
+          ]
+        },
+        {
+          "name": "Falkland Islands (Malvinas)",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "FK",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "GF",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "GF",
+          "dependent": true
+        },
+        {
+          "name": "Guaiana",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "GYD",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "PY",
+          "alpha3": "",
+          "units": [
+            "Guaraní",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "PER",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "GS",
+          "alpha3": "SGS",
+          "units": [],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "SUR",
+          "units": [
+            "Dollar",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "Guilder",
+            "Cent"
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Bolívar",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "Canadà",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "CAD",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "CAN": ""
+              },
+              "location": "",
+              "from_year": 2022
+            },
+            {
+              "name": "Royal Canadian Mint",
+              "country": {
+                "CAN": "Canadà"
+              },
+              "location": "",
+              "from_year": 1908
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "United States",
+          "alpha2": "US",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1986,
+              "to_year": 1989
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 2000
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 2012
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 2008
+            },
+            {
+              "name": "Engelhard",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1902,
+              "to_year": 2006
+            },
+            {
+              "name": "Franklin Mint",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1964
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "",
+              "from_year": 1947
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1989
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 2010
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 2011
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "Danbury",
+              "from_year": 1972,
+              "to_year": 1991
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 2015
+            },
+            {
+              "name": "North American Mint",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1986
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1987,
+              "to_year": 1995
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Scottsdale",
+              "from_year": 2005
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "Winchester",
+              "from_year": 1949
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1979
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1863,
+              "to_year": 1893
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1835,
+              "to_year": 1861
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1835,
+              "to_year": 1861
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1906
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "",
+              "from_year": 1838,
+              "to_year": 1909
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1792
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "San Francisco",
+              "from_year": 1854
+            },
+            {
+              "name": "Washington Mint",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1792
+            },
+            {
+              "name": "",
+              "country": {
+                "USA": ""
+              },
+              "location": "",
+              "from_year": 1937
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Asia",
+      "countries": [
+        {
+          "name": "",
+          "alpha2": "KZ",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Tyiyn"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Diram"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Tenge"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "UZB",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "CN",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "CHN": "Xina"
+              },
+              "location": "",
+              "from_year": 1995
+            },
+            {
+              "name": "CBPMC - Shanghai Mint",
+              "local_name": "",
+              "country": {
+                "CHN": "Xina"
+              },
+              "location": "",
+              "from_year": 1984
+            },
+            {
+              "name": "",
+              "local_name": "",
+              "country": {
+                "CHN": ""
+              },
+              "location": "Beijing",
+              "from_year": 1984
+            },
+            {
+              "name": "CBPMC - Nanjing Mint",
+              "local_name": "南京造币有限公司",
+              "country": {
+                "CHN": ""
+              },
+              "location": "Nanjing",
+              "from_year": 1984
+            },
+            {
+              "name": "",
+              "local_name": "沈阳造币有限公司",
+              "country": {
+                "CHN": ""
+              },
+              "location": "Shenyang",
+              "from_year": 1984
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Cent"
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true,
+          "mints": [
+            {
+              "name": "LPM",
+              "country": {
+                "HKG": ""
+              },
+              "location": "Hong Kong",
+              "from_year": 2012
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Avo"
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "North Korea",
+          "alpha2": "",
+          "alpha3": "PRK",
+          "units": [
+            "",
+            "Chun"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "JPN": ""
+              },
+              "location": "",
+              "from_year": 1952
+            },
+            {
+              "name": "",
+              "local_name": "",
+              "country": {
+                "JPN": ""
+              },
+              "location": "",
+              "from_year": 1871
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "KOR": "South Korea"
+              },
+              "location": "",
+              "from_year": 1951
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "KHM",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Sen"
+          ],
+          "iso4217": "IDR",
+          "key": "",
+          "mints": [
+            {
+              "name": "Perum Peruri",
+              "country": {
+                "IDN": ""
+              },
+              "location": "",
+              "from_year": 1971
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "LAK",
+          "key": ""
+        },
+        {
+          "name": "Malàisia",
+          "alpha2": "MY",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "MM"
+        },
+        {
+          "name": "",
+          "alpha2": "PH",
+          "alpha3": "PHL",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "PHL": "Filipines"
+              },
+              "location": "Manila",
+              "from_year": 1898,
+              "to_year": 1946
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "SGP": ""
+              },
+              "location": "",
+              "from_year": 2020
+            },
+            {
+              "name": "Rearden Metals",
+              "country": {
+                "SGP": ""
+              },
+              "location": "",
+              "from_year": 2018,
+              "to_year": 2020
+            },
+            {
+              "name": "",
+              "country": {
+                "SGP": "Singapur"
+              },
+              "location": "",
+              "from_year": 1968
+            },
+            {
+              "name": "",
+              "country": {
+                "SGP": ""
+              },
+              "location": "",
+              "from_year": 2016,
+              "to_year": 2018
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "TH",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "TH",
+          "mints": [
+            {
+              "name": "",
+              "local_name": "",
+              "country": {
+                "THA": ""
+              },
+              "location": "",
+              "from_year": 1860
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "TLS",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "AFG",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Poisha"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Ngultrum",
+            ""
+          ],
+          "iso4217": "BTN",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "IN",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "IND": ""
+              },
+              "location": "",
+              "from_year": 1803
+            },
+            {
+              "name": "",
+              "country": {
+                "IND": ""
+              },
+              "location": "",
+              "from_year": 1757
+            },
+            {
+              "name": "",
+              "country": {
+                "IND": ""
+              },
+              "location": "",
+              "from_year": 1829
+            },
+            {
+              "name": "India Government Mint, Noida",
+              "country": {
+                "IND": ""
+              },
+              "location": "Noida",
+              "from_year": 1988
+            },
+            {
+              "name": "",
+              "country": {
+                "IND": ""
+              },
+              "location": "",
+              "from_year": 2008
+            }
+          ]
+        },
+        {
+          "name": "Iran",
+          "alpha2": "",
+          "alpha3": "IRN",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "NPL": "Nepal"
+              },
+              "location": "",
+              "from_year": 1956
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "PAK",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "AZE",
+          "units": [
+            "Manat",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "BHR",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Euro",
+            ""
+          ],
+          "iso4217": "EUR",
+          "key": "",
+          "contemporary_units": [
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "GEO",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "IRQ",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "ISR",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "",
+            "",
+            ""
+          ],
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "ISR": ""
+              },
+              "location": "Nesher",
+              "from_year": 1958
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "KW",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "Líban",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Pound",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "OM"
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "SAU",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Piastre"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "TR",
+          "alpha3": "",
+          "units": [
+            "",
+            "Kurus"
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "local_name": "",
+              "country": {
+                "TUR": ""
+              },
+              "location": "",
+              "from_year": 1467
+            }
+          ]
+        },
+        {
+          "name": "Emirats Àrabs Units",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            ""
+          ],
+          "part_of": "GEO",
+          "unrecognized": true,
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "TRY",
+          "part_of": "",
+          "unrecognized": true,
+          "key": "_northern-cyprus"
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [],
+          "part_of": "",
+          "unrecognized": true,
+          "key": "PS"
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "part_of": "",
+          "unrecognized": true,
+          "key": ""
+        },
+        {
+          "name": "Taiwan",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "part_of": "",
+          "unrecognized": true,
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "TWN": "Taiwan"
+              },
+              "location": "Taoyuan City",
+              "from_year": 1920
+            },
+            {
+              "name": "",
+              "local_name": "",
+              "country": {
+                "TWN": ""
+              },
+              "location": "Guishan",
+              "from_year": 1920
+            }
+          ],
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "part_of": "AZE",
+          "from_year": 1991,
+          "to_year": 2023,
+          "unrecognized": true,
+          "disappeared": true,
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "SKM",
+          "units": [],
+          "part_of": "",
+          "from_year": 1642,
+          "to_year": 1975,
+          "dependent": true,
+          "disappeared": true,
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Xu"
+          ],
+          "part_of": "",
+          "from_year": 1955,
+          "to_year": 1976,
+          "unrecognized": true,
+          "disappeared": true,
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "part_of": "YEM",
+          "iso4217": "",
+          "from_year": 1967,
+          "to_year": 1990,
+          "disappeared": true,
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "",
+            "Tangka"
+          ],
+          "part_of": "",
+          "from_year": 1912,
+          "to_year": 1951,
+          "unrecognized": true,
+          "disappeared": true,
+          "key": "_tibet"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "countries": [
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Centime"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "Líbia",
+          "alpha2": "",
+          "alpha3": "LBY",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "SDG",
+          "key": "",
+          "contemporary_units": [
+            ""
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "IOT",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "COM",
+          "units": [
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "ER",
+          "alpha3": "ERI",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Birr",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "EUR",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "Kenya",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "KES",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            ""
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Tambala"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Rupee",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Centime"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "Seychelles",
+          "alpha2": "SC",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "Somàlia",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "Sudan del Sud",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "ZMB",
+          "units": [
+            "",
+            "Ngwee"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "ZW",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Kwanza",
+            "Cêntimo"
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "XAF",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "CG"
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "COD",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "CDF",
+          "key": ""
+        },
+        {
+          "name": "Guinea Equatorial",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "",
+            "Peseta"
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "GA",
+          "alpha3": "GAB",
+          "units": [
+            "Franc",
+            ""
+          ],
+          "iso4217": "XAF",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            "Centimo"
+          ],
+          "iso4217": "STN",
+          "key": "ST"
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "BW"
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Loti",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Dollar",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "ZAF",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "ZAF": ""
+              },
+              "location": "",
+              "from_year": 1976
+            },
+            {
+              "name": "",
+              "country": {
+                "ZAF": ""
+              },
+              "location": "",
+              "from_year": 1920
+            },
+            {
+              "name": "",
+              "country": {
+                "ZAF": ""
+              },
+              "location": "",
+              "from_year": 1923
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "contemporary_units": [
+            "",
+            ""
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "part_of": "",
+          "unrecognized": true,
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            ""
+          ],
+          "iso4217": "",
+          "part_of": "",
+          "unrecognized": true,
+          "key": ""
+        }
+      ]
+    },
+    {
+      "name": "",
+      "countries": [
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "AUS": ""
+              },
+              "location": "",
+              "from_year": 1978
+            },
+            {
+              "name": "",
+              "country": {
+                "AUS": ""
+              },
+              "location": "",
+              "from_year": 1852,
+              "to_year": 1852
+            },
+            {
+              "name": "",
+              "country": {
+                "AUS": ""
+              },
+              "location": "",
+              "from_year": 1932
+            },
+            {
+              "name": "",
+              "country": {
+                "AUS": ""
+              },
+              "location": "",
+              "from_year": 2005
+            },
+            {
+              "name": "",
+              "country": {
+                "AUS": ""
+              },
+              "location": "",
+              "from_year": 1872,
+              "to_year": 1970
+            },
+            {
+              "name": "",
+              "country": {
+                "AUS": ""
+              },
+              "location": "",
+              "from_year": 1899
+            },
+            {
+              "name": "",
+              "country": {
+                "AUS": ""
+              },
+              "location": "",
+              "from_year": 1963
+            },
+            {
+              "name": "",
+              "country": {
+                "AUS": ""
+              },
+              "location": "",
+              "from_year": 1854,
+              "to_year": 1926
+            },
+            {
+              "name": "",
+              "country": {
+                "AUS": ""
+              },
+              "location": "",
+              "from_year": 2017
+            },
+            {
+              "name": "",
+              "country": {
+                "AUS": ""
+              },
+              "location": "",
+              "from_year": 2016
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "mints": [
+            {
+              "name": "",
+              "country": {
+                "NZL": ""
+              },
+              "location": "",
+              "from_year": 1967
+            }
+          ]
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": ""
+        },
+        {
+          "name": "",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "",
+            ""
+          ],
+          "iso4217": "",
+          "key": "",
+          "dependent": true
+        }
+      ]
+    }
+  ]
+}
