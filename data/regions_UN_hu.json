@@ -28,7 +28,7 @@
             {
               "name": "Bulmint",
               "country": {
-                "BGR": "Bulgaria"
+                "BGR": "Bulgária"
               },
               "location": "Plovdiv",
               "from_year": 2004
@@ -118,7 +118,7 @@
             {
               "name": "Mint of Gdansk",
               "country": {
-                "POL": "Poland"
+                "POL": "Lengyelország"
               },
               "location": "Gdansk",
               "from_year": 2010
@@ -156,7 +156,7 @@
           "key": "RO"
         },
         {
-          "name": "Russia",
+          "name": "Oroszország",
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
@@ -257,7 +257,7 @@
             {
               "name": "Altona Mint",
               "country": {
-                "DNK": "Denmark"
+                "DNK": "Dánia"
               },
               "location": "Altona",
               "from_year": 1771,
@@ -476,7 +476,7 @@
               "name": "Mint of Norway; ex Den Kongelige Mynt",
               "local_name": "Det Norske Myntverket",
               "country": {
-                "NOR": "Norway"
+                "NOR": "Norvégia"
               },
               "location": "Kongsberg",
               "from_year": 1686
@@ -507,7 +507,7 @@
           "key": "SE"
         },
         {
-          "name": "United Kingdom",
+          "name": "Egyesült Királyság",
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
@@ -545,7 +545,7 @@
             {
               "name": "John Pinches Medallists",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Egyesült Királyság"
               },
               "location": "London",
               "from_year": 1840,
@@ -572,7 +572,7 @@
             {
               "name": "Pobjoy Mint",
               "country": {
-                "GBR": "United Kingdom"
+                "GBR": "Egyesült Királyság"
               },
               "location": "Surrey",
               "from_year": 1965
@@ -832,7 +832,7 @@
           "key": "MK"
         },
         {
-          "name": "Portugal",
+          "name": "Portugália",
           "alpha2": "PT",
           "alpha3": "PRT",
           "units": [
@@ -941,7 +941,7 @@
             {
               "name": "Granada Mint",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Spanyolország"
               },
               "location": "Granada",
               "from_year": 1492,
@@ -978,7 +978,7 @@
               "name": "Austrian Mint",
               "local_name": "Münze Österreich",
               "country": {
-                "AUT": "Austria"
+                "AUT": "Ausztria"
               },
               "location": "Vienna",
               "from_year": 1194
@@ -1054,7 +1054,7 @@
               "name": "Paris Mint",
               "local_name": "Monnaie de Paris",
               "country": {
-                "FRA": "France"
+                "FRA": "Franciaország"
               },
               "location": "Pessac",
               "from_year": 864
@@ -1062,7 +1062,7 @@
             {
               "name": "Poissy Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "Franciaország"
               },
               "location": "Poissy",
               "from_year": 1922,
@@ -1071,7 +1071,7 @@
             {
               "name": "Strasbourg Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "Franciaország"
               },
               "location": "Strasbourg",
               "from_year": 962,
@@ -1121,7 +1121,7 @@
             {
               "name": "Geiger Edelmetalle",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Németország"
               },
               "location": "Leipzig",
               "from_year": 1218
@@ -1227,7 +1227,7 @@
             {
               "name": "Staatliche Münzen Baden-Württemberg",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Németország"
               },
               "location": "Karlsruhe and Stuttgart",
               "from_year": 1998
@@ -1265,7 +1265,7 @@
           ]
         },
         {
-          "name": "Luxembourg",
+          "name": "Luxemburg",
           "alpha2": "LU",
           "alpha3": "LUX",
           "units": [
@@ -1346,7 +1346,7 @@
             {
               "name": "Helvetic Mint",
               "country": {
-                "CHE": "Switzerland"
+                "CHE": "Svájc"
               },
               "location": "Rothenburg",
               "from_year": 2011
@@ -1910,7 +1910,7 @@
           "key": "PA"
         },
         {
-          "name": "Argentina",
+          "name": "Argentína",
           "alpha2": "AR",
           "alpha3": "ARG",
           "units": [
@@ -1932,7 +1932,7 @@
           ]
         },
         {
-          "name": "Bolivia",
+          "name": "Bolívia",
           "alpha2": "BO",
           "alpha3": "BOL",
           "units": [
@@ -3187,7 +3187,7 @@
           ]
         },
         {
-          "name": "United Arab Emirates",
+          "name": "Egyesült Arab Emírségek",
           "alpha2": "",
           "alpha3": "",
           "units": [
