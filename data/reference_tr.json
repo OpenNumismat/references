@@ -1,0 +1,328 @@
+[
+  {
+    "name": "category",
+    "title": "Kategori",
+    "has_icons": false,
+    "values": {
+      "coin": "Madeni Para",
+      "banknote": "Banknote",
+      "stamp": "Stamp",
+      "postcard": "Postcard"
+    }
+  },
+  {
+    "name": "rarity",
+    "title": "Nadirlik",
+    "has_icons": false,
+    "values": {
+      "common": "Yaygın",
+      "normal": "Normal",
+      "scarce": "Az bulunur",
+      "rare": "Nadir",
+      "unique": "Emsalsiz",
+      "in-sets-only": "Sadece set içerisinde"
+    }
+  },
+  {
+    "name": "quality",
+    "title": "Kalite",
+    "has_icons": false,
+    "values": {
+      "uncirculated": "Çil",
+      "brilliant-uncirculated": "Brilliant uncirculated",
+      "proof": "Proof",
+      "proof-like": "Proof like",
+      "reverse-frosted": "Reverse frosted"
+    }
+  },
+  {
+    "name": "defect",
+    "title": "Kusur",
+    "has_icons": false,
+    "values": {
+      "clipped-planchet": "Kesik Pul",
+      "lamination": "Kaplama",
+      "off-center-strike": "Off center strike",
+      "multiple-strike": "Multiple strike",
+      "mule": "Mule",
+      "doubled-die": "Doubled die",
+      "brockage": "Brockage"
+    }
+  },
+  {
+    "name": "type",
+    "title": "Tip",
+    "has_icons": false,
+    "values": {
+      "regular-issue": "Tedavül",
+      "commemorative": "Hatıra",
+      "bullion": "Bullion",
+      "restrike": "Restrike",
+      "pattern": "Pattern"
+    }
+  },
+  {
+    "name": "format",
+    "title": "Biçim",
+    "has_icons": false,
+    "values": {
+      "single": "Single",
+      "set": "Set",
+      "coincard": "Coincard",
+      "roll": "Roll"
+    }
+  },
+  {
+    "name": "obvrev",
+    "title": "ObvRev",
+    "has_icons": false,
+    "values": {
+      "↑↑-medallic": "↑↑ Medallic",
+      "↑↓-coin": "↑↓ Coin",
+      "↺-variable": "↺ Variable"
+    }
+  },
+  {
+    "name": "edge",
+    "title": "Kenar",
+    "has_icons": false,
+    "values": {
+      "reeded": "Tırtıllı",
+      "plain": "Plain",
+      "decorated": "Decorated",
+      "segmented-reeding": "Segmented reeding",
+      "lettered": "Yazılı"
+    }
+  },
+  {
+    "name": "shape",
+    "title": "Şekil",
+    "has_icons": true,
+    "values": {
+      "round": "Yuvarlak",
+      "irregular": "Round (irregular)",
+      "square": "Kare",
+      "polygon": "Çokgen",
+      "spanish": "Spanish flower",
+      "hole": "Round with hole",
+      "half": "Half circle",
+      "klippe": "Klippe",
+      "scalloped": "Scalloped"
+    }
+  },
+  {
+    "name": "material",
+    "title": "Metal",
+    "has_icons": false,
+    "values": {
+      "acmonital": "Acmonital",
+      "aluminium": "Alüminyum",
+      "aluminium-bronze": "Alüminyum Bronzu",
+      "antimony": "Antimon",
+      "brass": "Pirinç",
+      "bronze": "Bronz",
+      "cobalt": "Kobalt",
+      "copper": "Bakır",
+      "cupronickel": "Cupronikel",
+      "gold": "Altın",
+      "iron": "Demir",
+      "magnesium": "Magnezyum",
+      "manganese": "Manganez",
+      "melchior": "Melchior",
+      "nickel": "Nikel",
+      "nickel-silver": "Nikel gümüşü",
+      "nordic-gold": "Kuzey Altını",
+      "palladium": "Paladyum",
+      "platinum": "Platin",
+      "silver": "Gümüş",
+      "steel": "Çelik",
+      "tantalum": "Tantal",
+      "tombac": "Tombak",
+      "tellurium": "Tellür",
+      "tin": "Kalay",
+      "zinc": "Çinko"
+    }
+  },
+  {
+    "name": "composition",
+    "title": "Composition",
+    "has_icons": false,
+    "values": {
+      "single": "Single",
+      "plated": "Plated",
+      "clad": "Clad",
+      "bimetallic": "Bimetallic"
+    }
+  },
+  {
+    "name": "technique",
+    "title": "Technique",
+    "has_icons": false,
+    "values": {
+      "milled": "Milled",
+      "cast": "Cast",
+      "hammered": "Hammered",
+      "engraved": "Engraved",
+      "cobs": "Cobs",
+      "klippe": "Klippe",
+      "wire": "Wire",
+      "scyphate": "Scyphate"
+    }
+  },
+  {
+    "name": "modification",
+    "title": "Modification",
+    "has_icons": false,
+    "values": {
+      "colored": "Colored",
+      "countermarked": "Countermarked",
+      "holed": "Holed",
+      "cut": "Cut"
+    }
+  },
+  {
+    "name": "grade",
+    "title": "Derece",
+    "has_icons": false,
+    "values": {
+      "unc": "Çil",
+      "au": "AU",
+      "xf": "Çok çok iyi",
+      "vf": "Çok iyi",
+      "f": "Ş",
+      "vg": "VG"
+    }
+  },
+  {
+    "name": "grader",
+    "title": "Tasnifçi",
+    "has_icons": true,
+    "values": {
+      "anacs": "ANACS",
+      "iccs": "ICCS",
+      "icg": "ICG",
+      "ngc": "NGC",
+      "pcgs": "PCGS",
+      "pmg": "PMG",
+      "rnga": "RNGA"
+    }
+  },
+  {
+    "name": "place",
+    "title": "Yer",
+    "has_icons": true,
+    "values": {
+      "ebay": "eBay",
+      "heritage": "Heritage"
+    }
+  },
+  {
+    "name": "color",
+    "title": "Colors",
+    "has_icons": true,
+    "values": {
+      "multicolor": "Çok Renkli",
+      "black-white": "Siyah-Beyaz",
+      "brown-lake": "Brown-Lake",
+      "lake": "Lake",
+      "crimson": "Crimson",
+      "carmine": "Carmine",
+      "rose": "Gül",
+      "rose-red": "Gül-Kırmızı",
+      "rosine": "Rosine",
+      "carmine-red": "Carmine-Red",
+      "scarlet": "Scarlet",
+      "vermilion": "Parlak Kırmızı",
+      "red": "Kırmızı",
+      "brown-red": "Kahverengi-Kırmızı",
+      "venetian-red": "Venedik Kırmızısı",
+      "flesh": "Flesh",
+      "salmon": "Somon",
+      "orange-red": "Turuncu-Kırmızı",
+      "red-orange": "Kırmızı-Turuncu",
+      "orange": "Turuncu",
+      "yellow-orange": "Sarı-Turuncu",
+      "orange-yellow": "Turuncu-Sarı",
+      "yellow": "Sarı",
+      "lemon": "Limon",
+      "greenish-yellow": "Yeşilimsi Sarı",
+      "olive-yellow": "Zeytin-Sarı",
+      "yellow-olive": "Sarı-Zeytin",
+      "olive-green": "Zeytin-Yeşil",
+      "sage-green": "Sage-Green",
+      "apple-green": "Elma-Yeşil",
+      "yellow-green": "Sarı-Yeşil",
+      "bright-green": "Parlak Yeşil",
+      "bronze-green": "Bronz-Yeşil",
+      "blackish-olive": "Siyahi Zeytin",
+      "blackish-green": "Siyahi Yeşil",
+      "slate-green": "Slate-Green",
+      "grey-green": "Gri-Yeşil",
+      "dull-green": "Dull Green",
+      "green": "Yeşil",
+      "myrtle-green": "Myrtle-Green",
+      "emerald": "Zümrüt",
+      "blue-green": "Mavi-Yeşil",
+      "deep-bluish-green": "Deep Bluish Green",
+      "turquoise-green": "Turkuaz-Yeşil",
+      "turquoise-blue": "Turkuaz-Mavi",
+      "light-blue": "Açık Mavi",
+      "greenish-blue": "Yeşilimsi Mavi",
+      "new-blue": "New Blue",
+      "blue": "Mavi",
+      "steel-blue": "Çelik-Mavi",
+      "prussian-blue": "Prusya Mavisi",
+      "slate-blue": "Slate-Blue",
+      "indigo": "Çivit Mavisi",
+      "grey-blue": "Gri-Mavi",
+      "deep-blue": "Deep Blue",
+      "cobalt": "Kobalt",
+      "bright-blue": "Parlak Mavi",
+      "royal-blue": "Kraliyet Mavisi",
+      "chalky-blue": "Chalky Blue",
+      "ultramarine": "Lacivert",
+      "violet-blue": "Violet-Blue",
+      "lavender": "Lavanta",
+      "bluish-violet": "Bluish Violet",
+      "violet": "Violet",
+      "reddish-violet": "Reddish Violet",
+      "slate-violet": "Slate-Violet",
+      "agate": "Akik",
+      "slate-purple": "Slate-Purple",
+      "slate-lilac": "Slate-Lilac",
+      "lilac": "Lilac",
+      "reddish-lilac": "Reddish Lilac",
+      "dull-purple": "Dull Purple",
+      "claret": "Claret",
+      "cerise": "Cerise",
+      "magenta": "Macenta",
+      "mauve": "Mauve",
+      "bright-purple": "Parlak Mor",
+      "purple": "Mor",
+      "plum": "Erik",
+      "reddish-purple": "Kırmızımsı Mor",
+      "maroon": "Maroon",
+      "brown-purple": "Kahverengi-Mor",
+      "purple-brown": "Mor-Kahverengi",
+      "chocolate": "Çikolata",
+      "lake-brown": "Lake-Brown",
+      "red-brown": "Kırmızı-Kahverengi",
+      "chestnut": "Kestane",
+      "orange-brown": "Turuncu-Kahverengi",
+      "cinnamon": "Tarçın",
+      "buff": "Deve Tüyü",
+      "ochre": "Koyu Sarı",
+      "yellow-brown": "Sarı-Kahverengi",
+      "brown": "Kahverengi",
+      "blackish-brown": "Siyahi Kahverengi",
+      "sepia": "Sepya",
+      "bistre-brown": "Bistre-Brown",
+      "bistre": "Kurum Rengi",
+      "olive-brown": "Zeytin-Kahverengi",
+      "drab": "Drab",
+      "olive-grey": "Zeytin-Gri",
+      "grey": "Gri",
+      "slate": "Barut Rengi"
+    }
+  }
+]
