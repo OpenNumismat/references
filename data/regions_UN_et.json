@@ -15,7 +15,7 @@
           "key": "BY"
         },
         {
-          "name": "Bulgaria",
+          "name": "Bulgaaria",
           "alpha2": "BG",
           "alpha3": "BGR",
           "units": [
@@ -126,7 +126,7 @@
             {
               "name": "Mint XXI",
               "country": {
-                "POL": "Poland"
+                "POL": "Poola"
               },
               "location": "Warsaw",
               "from_year": 2019
@@ -205,7 +205,7 @@
               "name": "Kremnica Mint, ex Kremnitz",
               "local_name": "Mincovňa Kremnica",
               "country": {
-                "SVK": "Slovakia"
+                "SVK": "Slovakkia"
               },
               "location": "Kremnica",
               "from_year": 1328
@@ -257,7 +257,7 @@
             {
               "name": "Altona Mint",
               "country": {
-                "DNK": "Denmark"
+                "DNK": "Taani"
               },
               "location": "Altona",
               "from_year": 1771,
@@ -950,7 +950,7 @@
             {
               "name": "Seville Mint",
               "country": {
-                "ESP": "Spain"
+                "ESP": "Hispaania"
               },
               "location": "Seville",
               "from_year": 1252,
@@ -1045,7 +1045,7 @@
             {
               "name": "Art Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "Prantsusmaa"
               },
               "location": "Paris",
               "from_year": 2013
@@ -1071,7 +1071,7 @@
             {
               "name": "Strasbourg Mint",
               "country": {
-                "FRA": "France"
+                "FRA": "Prantsusmaa"
               },
               "location": "Strasbourg",
               "from_year": 962,
@@ -1219,7 +1219,7 @@
             {
               "name": "Staatliche Münze Berlin",
               "country": {
-                "DEU": "Germany"
+                "DEU": "Saksamaa"
               },
               "location": "Berlin",
               "from_year": 1750
@@ -1379,7 +1379,7 @@
             {
               "name": "Valcambi",
               "country": {
-                "CHE": "Switzerland"
+                "CHE": "Šveits"
               },
               "location": "Balerna",
               "from_year": 1961
@@ -1553,7 +1553,7 @@
           "dependent": true
         },
         {
-          "name": "British Virgin Islands",
+          "name": "Briti Neitsisaared",
           "alpha2": "VG",
           "alpha3": "VGB",
           "units": [
@@ -2510,7 +2510,7 @@
               "name": "CBPMC - Shanghai Mint",
               "local_name": "",
               "country": {
-                "CHN": "China"
+                "CHN": "Hiina"
               },
               "location": "",
               "from_year": 1984
