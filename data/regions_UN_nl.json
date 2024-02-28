@@ -3543,42 +3543,42 @@
             "",
             "Tambala"
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "MWK",
+          "key": "MW"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "MU",
+          "alpha3": "MUS",
           "units": [
             "Rupee",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "MUR",
+          "key": "MU"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "YT",
+          "alpha3": "MYT",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "EUR",
+          "key": "YT",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "MZ",
+          "alpha3": "MOZ",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "MZN",
+          "key": "MZ",
           "contemporary_units": [
             "",
             ""
@@ -3586,180 +3586,180 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "RE",
+          "alpha3": "REU",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "EUR",
+          "key": "RE",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "RW",
+          "alpha3": "RWA",
           "units": [
             "",
             "Centime"
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "RWF",
+          "key": "RW"
         },
         {
           "name": "Seychellen",
           "alpha2": "SC",
-          "alpha3": "",
+          "alpha3": "SYC",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "SCR",
+          "key": "SC"
         },
         {
           "name": "Somalië",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "SO",
+          "alpha3": "SOM",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "SOS",
+          "key": "SO"
         },
         {
           "name": "Zuid-Soedan",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "SS",
+          "alpha3": "SSD",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "SSP",
+          "key": "SS"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "UG",
+          "alpha3": "UGA",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "UGX",
+          "key": "UG"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "TZ",
+          "alpha3": "TZA",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "TZS",
+          "key": "TZ"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "ZM",
           "alpha3": "ZMB",
           "units": [
             "",
             "Ngwee"
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "ZMW",
+          "key": "ZM"
         },
         {
           "name": "",
           "alpha2": "ZW",
-          "alpha3": "",
+          "alpha3": "ZWE",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "ZWL",
+          "key": "ZW"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "AO",
+          "alpha3": "AGO",
           "units": [
             "Kwanza",
             "Cêntimo"
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "AOA",
+          "key": "AO"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CM",
+          "alpha3": "CMR",
           "units": [
             "",
             ""
           ],
           "iso4217": "XAF",
-          "key": ""
+          "key": "CM"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CF",
+          "alpha3": "CAF",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "XAF",
+          "key": "CF"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "TD",
+          "alpha3": "TCD",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "XAF",
+          "key": "TD"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CG",
+          "alpha3": "COG",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "XAF",
           "key": "CG"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "CD",
           "alpha3": "COD",
           "units": [
             "",
             ""
           ],
           "iso4217": "CDF",
-          "key": ""
+          "key": "CD"
         },
         {
           "name": "Equatoriaal-Guinea",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "GQ",
+          "alpha3": "GNQ",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "XAF",
+          "key": "GQ",
           "contemporary_units": [
             "",
             "Peseta"
@@ -3774,11 +3774,11 @@
             ""
           ],
           "iso4217": "XAF",
-          "key": ""
+          "key": "GA"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "ST",
           "alpha3": "",
           "units": [
             "",
@@ -3789,58 +3789,58 @@
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "BW",
+          "alpha3": "BWA",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "BWP",
           "key": "BW"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "SZ",
+          "alpha3": "SWZ",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "SZL",
+          "key": "SZ"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "LS",
+          "alpha3": "LSO",
           "units": [
             "Loti",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "LSL",
+          "key": "LS"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "NA",
+          "alpha3": "NAM",
           "units": [
             "Dollar",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "NAD",
+          "key": "NA"
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "ZA",
           "alpha3": "ZAF",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "ZAR",
+          "key": "ZA",
           "mints": [
             {
               "name": "",
@@ -3870,79 +3870,79 @@
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "BJ",
           "alpha3": "",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "XOF",
+          "key": "BJ"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "BF",
+          "alpha3": "BFA",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "XOF",
+          "key": "BF"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CV",
+          "alpha3": "CPV",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "CVE",
+          "key": "CV"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CI",
+          "alpha3": "CIV",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "XOF",
+          "key": "CI"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "GM",
+          "alpha3": "GMB",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "GMD",
+          "key": "GM"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "GH",
+          "alpha3": "GHA",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "GHS",
+          "key": "GH"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "GN",
+          "alpha3": "GIN",
           "units": [
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "GNF",
+          "key": "GN",
           "contemporary_units": [
             "",
             ""
@@ -4079,8 +4079,8 @@
           "units": [
             ""
           ],
-          "iso4217": "",
-          "part_of": "",
+          "iso4217": "EHP",
+          "part_of": "MAR",
           "unrecognized": true,
           "key": "EH"
         }
