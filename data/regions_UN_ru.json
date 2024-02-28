@@ -4247,271 +4247,271 @@
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "AUD",
+          "key": "NF",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "FJ",
+          "alpha3": "FJI",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "FJD",
+          "key": "FJ"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "NC",
+          "alpha3": "NCL",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "XPF",
+          "key": "NC",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "PG",
+          "alpha3": "PNG",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "PGK",
+          "key": "PG"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "SB",
+          "alpha3": "SLB",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "SBD",
+          "key": "SB"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "VU",
+          "alpha3": "VUT",
           "units": [
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "VUV",
+          "key": "VU"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "GU",
+          "alpha3": "GUM",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "USD",
+          "key": "GU",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "KI",
+          "alpha3": "KIR",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "AUD",
+          "key": "KI"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "MH",
+          "alpha3": "MHL",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "USD",
+          "key": "MH"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "FM",
+          "alpha3": "FSM",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "USD",
+          "key": "FM"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "NR",
+          "alpha3": "NRU",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "AUD",
+          "key": "NR"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "MP",
+          "alpha3": "MNP",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "USD",
+          "key": "MP",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "PW",
+          "alpha3": "PLW",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "USD",
+          "key": "PW"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "UM",
+          "alpha3": "UMI",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "USD",
+          "key": "UM",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "AS",
+          "alpha3": "ASM",
           "units": [
             "",
             ""
           ],
           "iso4217": "",
-          "key": "",
+          "key": "AS",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "CK",
+          "alpha3": "COK",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "NZD",
+          "key": "CK",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "PF",
+          "alpha3": "PYF",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "XPF",
+          "key": "PF",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "NU",
+          "alpha3": "NIU",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "NZD",
+          "key": "NU",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "PN",
+          "alpha3": "PCN",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "NZD",
+          "key": "PN",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "WS",
+          "alpha3": "WSM",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "WST",
+          "key": "WS"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "TK",
+          "alpha3": "TKL",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "NZD",
+          "key": "TK",
           "dependent": true
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "TO",
+          "alpha3": "TON",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "TOP",
+          "key": "TO"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "TV",
+          "alpha3": "TUV",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "AUD",
+          "key": "TV"
         },
         {
           "name": "",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "WF",
+          "alpha3": "WLF",
           "units": [
             "",
-            ""
+            "Сантим"
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "XPF",
+          "key": "WF",
           "dependent": true
         }
       ]
