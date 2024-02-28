@@ -280,7 +280,7 @@
           "alpha3": "EST",
           "units": [
             "Euro",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "EUR",
           "key": "EE",
@@ -377,12 +377,12 @@
           "alpha3": "IRL",
           "units": [
             "یورو",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "EUR",
           "key": "IE",
           "contemporary_units": [
-            "Pound",
+            "پوند",
             "Penny"
           ],
           "mints": [
@@ -801,7 +801,7 @@
             {
               "name": "Malta Mint",
               "country": {
-                "MLT": "Malta"
+                "MLT": "مالت"
               },
               "location": "Valetta",
               "from_year": 1973,
@@ -826,7 +826,7 @@
           "alpha3": "MKD",
           "units": [
             "Denar",
-            "Deni"
+            "دنی"
           ],
           "iso4217": "MKD",
           "key": "MK"
@@ -895,7 +895,7 @@
           "alpha3": "SVN",
           "units": [
             "یورو",
-            "Cent"
+            "سنت"
           ],
           "iso4217": "EUR",
           "key": "SI",
@@ -1428,7 +1428,7 @@
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
+            "کرونا",
             "Halér"
           ],
           "part_of": "CZE",
@@ -2510,7 +2510,7 @@
               "name": "CBPMC - Shanghai Mint",
               "local_name": "",
               "country": {
-                "CHN": "China"
+                "CHN": "چین"
               },
               "location": "",
               "from_year": 1984
@@ -3114,7 +3114,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Pound",
+            "پوند",
             ""
           ],
           "iso4217": "",
@@ -3689,7 +3689,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Kwanza",
+            "کوانزا",
             "Cêntimo"
           ],
           "iso4217": "",
