@@ -5,7 +5,7 @@
       "countries": [
         {
           "name": "Беларусь",
-          "alpha2": "",
+          "alpha2": "BY",
           "alpha3": "BLR",
           "units": [
             "",
@@ -16,14 +16,14 @@
         },
         {
           "name": "Болгария",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "BG",
+          "alpha3": "BGR",
           "units": [
             "Лев",
             "Стотинка"
           ],
           "iso4217": "BGN",
-          "key": "",
+          "key": "BG",
           "mints": [
             {
               "name": "Bulmint",
@@ -95,8 +95,8 @@
             "Zloty",
             ""
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "PLN",
+          "key": "PL",
           "mints": [
             {
               "name": "",
@@ -135,36 +135,36 @@
         },
         {
           "name": "Молдавия",
-          "alpha2": "",
+          "alpha2": "MD",
           "alpha3": "MDA",
           "units": [
             "Лей",
             "Бан"
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "MDL",
+          "key": "MD"
         },
         {
           "name": "Румыния",
-          "alpha2": "",
+          "alpha2": "RO",
           "alpha3": "ROU",
           "units": [
             "",
             ""
           ],
-          "iso4217": "",
-          "key": ""
+          "iso4217": "RON",
+          "key": "RO"
         },
         {
           "name": "Россия",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "RU",
+          "alpha3": "RUS",
           "units": [
             "",
             "Копейка"
           ],
           "iso4217": "RUB",
-          "key": "",
+          "key": "RU",
           "mints": [
             {
               "name": "",
@@ -177,7 +177,7 @@
             },
             {
               "name": "",
-              "local_name": "",
+              "local_name": "Санкт-Петербургский монетный двор",
               "country": {
                 "RUS": "Россия"
               },
@@ -188,13 +188,13 @@
         },
         {
           "name": "Словакия",
-          "alpha2": "",
-          "alpha3": "",
+          "alpha2": "SK",
+          "alpha3": "SVK",
           "units": [
             "Евро",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "EUR",
           "key": "SK",
           "contemporary_units": [
             "Крона",
@@ -223,12 +223,12 @@
         {
           "name": "Украина",
           "alpha2": "UA",
-          "alpha3": "",
+          "alpha3": "UKR",
           "units": [
             "Гривна",
             "Копейка"
           ],
-          "iso4217": "",
+          "iso4217": "UAH",
           "key": "UA"
         },
         {
@@ -240,7 +240,7 @@
             ""
           ],
           "iso4217": "EUR",
-          "key": "",
+          "key": "AX",
           "dependent": true
         },
         {
@@ -251,7 +251,7 @@
             "Крона",
             ""
           ],
-          "iso4217": "",
+          "iso4217": "DKK",
           "key": "DK",
           "mints": [
             {
@@ -265,7 +265,7 @@
             },
             {
               "name": "Royal Danish Mint",
-              "local_name": "",
+              "local_name": "Den Kongelige Mønt",
               "country": {
                 "DNK": "Дания"
               },
@@ -276,14 +276,14 @@
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "EE",
           "alpha3": "EST",
           "units": [
             "",
             "Цент"
           ],
-          "iso4217": "",
-          "key": "",
+          "iso4217": "EUR",
+          "key": "EE",
           "contemporary_units": [
             "Kroon",
             ""
@@ -310,12 +310,12 @@
         {
           "name": "Faroes",
           "alpha2": "FO",
-          "alpha3": "",
+          "alpha3": "FRO",
           "units": [
             "",
             "Эре"
           ],
-          "iso4217": "",
+          "iso4217": "DKK",
           "key": "FO",
           "dependent": true
         },
@@ -327,7 +327,7 @@
             "Евро",
             "Цент"
           ],
-          "iso4217": "",
+          "iso4217": "EUR",
           "key": "FI",
           "contemporary_units": [
             "",
@@ -347,7 +347,7 @@
         },
         {
           "name": "",
-          "alpha2": "",
+          "alpha2": "GG",
           "alpha3": "GGY",
           "units": [
             "Фунт",
