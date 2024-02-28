@@ -1,0 +1,328 @@
+[
+  {
+    "name": "category",
+    "title": "Kategori",
+    "has_icons": false,
+    "values": {
+      "coin": "Mynt",
+      "banknote": "Banknote",
+      "stamp": "Stamp",
+      "postcard": "Postcard"
+    }
+  },
+  {
+    "name": "rarity",
+    "title": "Sällsynthet",
+    "has_icons": false,
+    "values": {
+      "common": "Vanlig",
+      "normal": "Normal",
+      "scarce": "Scarce",
+      "rare": "Sällsynt",
+      "unique": "Unik",
+      "in-sets-only": "I set endast"
+    }
+  },
+  {
+    "name": "quality",
+    "title": "Kvalité",
+    "has_icons": false,
+    "values": {
+      "uncirculated": "Ocirkulerad",
+      "brilliant-uncirculated": "Brilliant ocirkulerad",
+      "proof": "Äkthet",
+      "proof-like": "Äkthets bevis",
+      "reverse-frosted": "Omvänd frostat"
+    }
+  },
+  {
+    "name": "defect",
+    "title": "Defekt",
+    "has_icons": false,
+    "values": {
+      "clipped-planchet": "Clipped planchet",
+      "lamination": "Lamination",
+      "off-center-strike": "Av center slag",
+      "multiple-strike": "Flera slag",
+      "mule": "Mule",
+      "doubled-die": "Doubled die",
+      "brockage": "Brockage"
+    }
+  },
+  {
+    "name": "type",
+    "title": "Typ",
+    "has_icons": false,
+    "values": {
+      "regular-issue": "Vanlig utgåva",
+      "commemorative": "Minnes",
+      "bullion": "Bullion",
+      "restrike": "Restrike",
+      "pattern": "Mönster"
+    }
+  },
+  {
+    "name": "format",
+    "title": "Format",
+    "has_icons": false,
+    "values": {
+      "single": "Enda",
+      "set": "Set",
+      "coincard": "Coincard",
+      "roll": "Rulle"
+    }
+  },
+  {
+    "name": "obvrev",
+    "title": "ObvRev",
+    "has_icons": false,
+    "values": {
+      "↑↑-medallic": "↑↑ Medallic",
+      "↑↓-coin": "↑↓ Coin",
+      "↺-variable": "↺ Variable"
+    }
+  },
+  {
+    "name": "edge",
+    "title": "Kant",
+    "has_icons": false,
+    "values": {
+      "reeded": "Reeded",
+      "plain": "Plain",
+      "decorated": "Dekoration",
+      "segmented-reeding": "Segmented reeding",
+      "lettered": "Lettered"
+    }
+  },
+  {
+    "name": "shape",
+    "title": "Form",
+    "has_icons": true,
+    "values": {
+      "round": "Rund",
+      "irregular": "Round (irregular)",
+      "square": "Fyrkant",
+      "polygon": "Polygon",
+      "spanish": "Spansk blomma",
+      "hole": "Round with hole",
+      "half": "Half circle",
+      "klippe": "Klippe",
+      "scalloped": "Scalloped"
+    }
+  },
+  {
+    "name": "material",
+    "title": "Material",
+    "has_icons": false,
+    "values": {
+      "acmonital": "Acmonital",
+      "aluminium": "Aluminium",
+      "aluminium-bronze": "Aluminium brons",
+      "antimony": "Antimon",
+      "brass": "Mässing",
+      "bronze": "Brons",
+      "cobalt": "Cobalt",
+      "copper": "Koppar",
+      "cupronickel": "Koppar nickel",
+      "gold": "Guld",
+      "iron": "Järn",
+      "magnesium": "Magnesium",
+      "manganese": "Mangan",
+      "melchior": "Melchior",
+      "nickel": "Nickel",
+      "nickel-silver": "Nickel Silver",
+      "nordic-gold": "Nordiskt guld",
+      "palladium": "Paladium",
+      "platinum": "Platinum",
+      "silver": "Silver",
+      "steel": "Stål",
+      "tantalum": "Tantalum",
+      "tombac": "Tombac",
+      "tellurium": "Tellur",
+      "tin": "Teen",
+      "zinc": "Zink"
+    }
+  },
+  {
+    "name": "composition",
+    "title": "Composition",
+    "has_icons": false,
+    "values": {
+      "single": "Enda",
+      "plated": "Plated",
+      "clad": "Clad",
+      "bimetallic": "Bimetallic"
+    }
+  },
+  {
+    "name": "technique",
+    "title": "Technique",
+    "has_icons": false,
+    "values": {
+      "milled": "Milled",
+      "cast": "Cast",
+      "hammered": "Hammered",
+      "engraved": "Engraved",
+      "cobs": "Cobs",
+      "klippe": "Klippe",
+      "wire": "Wire",
+      "scyphate": "Scyphate"
+    }
+  },
+  {
+    "name": "modification",
+    "title": "Modification",
+    "has_icons": false,
+    "values": {
+      "colored": "Colored",
+      "countermarked": "Countermarked",
+      "holed": "Holed",
+      "cut": "Cut"
+    }
+  },
+  {
+    "name": "grade",
+    "title": "Kvalitet",
+    "has_icons": false,
+    "values": {
+      "unc": "Unc",
+      "au": "AU",
+      "xf": "XF",
+      "vf": "VF",
+      "f": "F",
+      "vg": "VG"
+    }
+  },
+  {
+    "name": "grader",
+    "title": "Grader",
+    "has_icons": true,
+    "values": {
+      "anacs": "ANACS",
+      "iccs": "ICCS",
+      "icg": "ICG",
+      "ngc": "NGC",
+      "pcgs": "PCGS",
+      "pmg": "PMG",
+      "rnga": "RNGA"
+    }
+  },
+  {
+    "name": "place",
+    "title": "Plats",
+    "has_icons": true,
+    "values": {
+      "ebay": "eBay",
+      "heritage": "Heritage"
+    }
+  },
+  {
+    "name": "color",
+    "title": "Colors",
+    "has_icons": true,
+    "values": {
+      "multicolor": "Flerfärgad",
+      "black-white": "Svart-Vit",
+      "brown-lake": "Brun-Sjö",
+      "lake": "Sjö",
+      "crimson": "Crimson",
+      "carmine": "Carmine",
+      "rose": "Ros",
+      "rose-red": "Ros-Röd",
+      "rosine": "Rosine",
+      "carmine-red": "Carmine-Röd",
+      "scarlet": "Scharlakansrött",
+      "vermilion": "Vermilion",
+      "red": "Röd",
+      "brown-red": "Brun-Röd",
+      "venetian-red": "Venetian-Röd",
+      "flesh": "Kött",
+      "salmon": "Lax",
+      "orange-red": "Orange-Röd",
+      "red-orange": "Röd-Orange",
+      "orange": "Orange",
+      "yellow-orange": "Gul-Orange",
+      "orange-yellow": "Orange-Gul",
+      "yellow": "Gul",
+      "lemon": "Citron",
+      "greenish-yellow": "Grön gul",
+      "olive-yellow": "Oliv gul",
+      "yellow-olive": "Gul-Oliv",
+      "olive-green": "Oliv-Grön",
+      "sage-green": "Sage-Green",
+      "apple-green": "Äppel-Grön",
+      "yellow-green": "Gul-Grön",
+      "bright-green": "Ljus-Grön",
+      "bronze-green": "Brons-Grön",
+      "blackish-olive": "Svart Oliv",
+      "blackish-green": "Svart grön",
+      "slate-green": "Slate-Green",
+      "grey-green": "Grå-Grön",
+      "dull-green": "Dull Green",
+      "green": "Grön",
+      "myrtle-green": "Myrtle-Grön",
+      "emerald": "Emerald",
+      "blue-green": "Blå-Grön",
+      "deep-bluish-green": "Djup Blå Grön",
+      "turquoise-green": "Turkos-Grön",
+      "turquoise-blue": "Turkos-Blå",
+      "light-blue": "Ljus-Blå",
+      "greenish-blue": "Grön-Blå",
+      "new-blue": "Ny Blå",
+      "blue": "Blå",
+      "steel-blue": "Stål-Blå",
+      "prussian-blue": "Prussian Blå",
+      "slate-blue": "Slate-Blå",
+      "indigo": "Indigo",
+      "grey-blue": "Grå-Blå",
+      "deep-blue": "Djup Blå",
+      "cobalt": "Cobalt",
+      "bright-blue": "Ljus Blå",
+      "royal-blue": "Royal Blå",
+      "chalky-blue": "Chalky Blå",
+      "ultramarine": "Ultramarine",
+      "violet-blue": "Lila-Blå",
+      "lavender": "Lavender",
+      "bluish-violet": "Blå Lila",
+      "violet": "Lila",
+      "reddish-violet": "Röd Lila",
+      "slate-violet": "Slate-Lila",
+      "agate": "Agate",
+      "slate-purple": "Slate-Purple",
+      "slate-lilac": "Slate-Lila",
+      "lilac": "Lila",
+      "reddish-lilac": "Röd Lila",
+      "dull-purple": "Dull Purple",
+      "claret": "Claret",
+      "cerise": "Ceris",
+      "magenta": "Magenta",
+      "mauve": "Mauve",
+      "bright-purple": "Ljus Lila",
+      "purple": "Lila",
+      "plum": "Plommon",
+      "reddish-purple": "Röd-Lilla",
+      "maroon": "Maroon",
+      "brown-purple": "Brun-Lila",
+      "purple-brown": "Lila-Brun",
+      "chocolate": "Choklad",
+      "lake-brown": "Sjö-Brun",
+      "red-brown": "Röd-Brun",
+      "chestnut": "Kokkosnöt",
+      "orange-brown": "Orange-Brun",
+      "cinnamon": "Kanel",
+      "buff": "Buff",
+      "ochre": "Okra",
+      "yellow-brown": "Gul-Brun",
+      "brown": "Brun",
+      "blackish-brown": "Svart-Brun",
+      "sepia": "Sepia",
+      "bistre-brown": "Bistre-Brun",
+      "bistre": "Bistre",
+      "olive-brown": "Oliv-Brun",
+      "drab": "Drab",
+      "olive-grey": "Oliv-Grå",
+      "grey": "Grå",
+      "slate": "Slate"
+    }
+  }
+]
