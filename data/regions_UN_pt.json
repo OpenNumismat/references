@@ -280,7 +280,7 @@
           "alpha3": "EST",
           "units": [
             "",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "",
           "key": "",
@@ -377,7 +377,7 @@
           "alpha3": "",
           "units": [
             "",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "IE",
@@ -3114,7 +3114,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Pound",
+            "Libra",
             ""
           ],
           "iso4217": "",
