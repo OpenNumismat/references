@@ -28,7 +28,7 @@
             {
               "name": "Bulmint",
               "country": {
-                "BGR": "Bulgaria"
+                "BGR": "Болгарія"
               },
               "location": "Plovdiv",
               "from_year": 2004
@@ -426,7 +426,7 @@
           "alpha3": "LVA",
           "units": [
             "Євро",
-            "Cent"
+            "Цент"
           ],
           "iso4217": "EUR",
           "key": "LV",
@@ -978,7 +978,7 @@
               "name": "Austrian Mint",
               "local_name": "Münze Österreich",
               "country": {
-                "AUT": "Austria"
+                "AUT": "Австрія"
               },
               "location": "Vienna",
               "from_year": 1194
@@ -1708,7 +1708,7 @@
           "alpha3": "BLM",
           "units": [
             "Euro",
-            "Cent"
+            "Цент"
           ],
           "iso4217": "EUR",
           "key": "BL",
@@ -2050,7 +2050,7 @@
           "dependent": true
         },
         {
-          "name": "Guyana",
+          "name": "Гаяна",
           "alpha2": "",
           "alpha3": "",
           "units": [
