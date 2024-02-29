@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe",
+      "name": "Ευρώπη",
       "countries": [
         {
           "name": "Λευκορωσία",
@@ -825,7 +825,8 @@
           "alpha2": "MK",
           "alpha3": "MKD",
           "units": [
-            "Δήνι"
+            "Δήνι",
+            "Ντένι"
           ],
           "iso4217": "MKD",
           "key": "MK"
@@ -3079,7 +3080,7 @@
             {
               "name": "Israel Coins and Medals Corp.",
               "country": {
-                "ISR": "Israel"
+                "ISR": "Ισραήλ"
               },
               "location": "Nesher",
               "from_year": 1958
@@ -3178,7 +3179,7 @@
               "name": "Turkish State Mint",
               "local_name": "Darphane",
               "country": {
-                "TUR": "Türkiye"
+                "TUR": "Τουρκία"
               },
               "location": "Istanbul",
               "from_year": 1467
