@@ -29,3 +29,13 @@ def region2region_name(region):
         return regions[region]
     else:
         return None
+
+with open('../data/countries_alternative_names.json', encoding='utf-8') as file:
+    alternative_names = json.load(file)
+
+def get_alternative_names(country):
+    for names in alternative_names.values():
+        for name in names:
+            if name.lower() == country.lower():
+                return names
+    return [country,]

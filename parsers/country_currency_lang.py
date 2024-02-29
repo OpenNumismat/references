@@ -2,16 +2,12 @@
 
 import csv
 import json
+import os
 import xml.etree.ElementTree as ET
 import lxml.html
 
-def get_alternative_names(country):
-    country = country.lower()
-    for names in alternative_names.values():
-        for name in names:
-            if name.lower() == country:
-                return names
-    return [country,]
+from common import *
+
 
 def country2iso4217(country, currencies_list):
     names = get_alternative_names(country)
@@ -22,6 +18,15 @@ def country2iso4217(country, currencies_list):
                 return value
     return None
 
+def get_translated_country_names(lang):
+    path = f'../i18n/countries_{lang}.json'
+    if not os.path.isfile(path):
+        path = f'../i18n/countries_en.json'
+
+    with open(path, encoding='utf-8') as file:
+        data = json.load(file)
+        return data["countries"]
+
 
 with open('../data/dependent_countries.json', encoding='utf-8') as file:
     dependend_data = json.load(file)
@@ -31,9 +36,6 @@ with open('../data/unrecognized_countries.json', encoding='utf-8') as file:
 
 with open('../data/disappeared_countries.json', encoding='utf-8') as file:
     disappeared_countries = json.load(file)
-
-with open('../data/countries_alternative_names.json', encoding='utf-8') as file:
-    alternative_names = json.load(file)
 
 with open('../data/contemporary_currency.json', encoding='utf-8') as file:
     contemporary_currencies = json.load(file)
@@ -152,9 +154,10 @@ def get_country_mints(alpha3):
 
 def process_countries(lang):
     eu_countries_list = read_eu_countries(lang)
+    translated_country_names = get_translated_country_names(lang)
     result = {"countries": []}
     for country in countries_list:
-        country_name = country[8]
+        country_name_en = get_alternative_names(country[8])[0]
         alpha2 = country[10]
         alpha3 = country[11]
         
@@ -162,7 +165,7 @@ def process_countries(lang):
             continue
     
         data = {
-            "name": country_name,
+            "name": country_name_en,
             "alpha2": alpha2,
             "alpha3": alpha3,
             "units": [],
@@ -174,6 +177,8 @@ def process_countries(lang):
             if lang == 'en':
                 if alpha3 in alternative_names:
                     country_name = alternative_names[alpha3][0]
+            else:
+                country_name = translated_country_names[country_name_en]
         
             data["name"] = country_name
             data["units"] = []
@@ -238,5 +243,5 @@ def process_countries(lang):
         json.dump(result, json_file, ensure_ascii=False, indent=2)
 
 
-for lang in ('en', 'bg', 'es', 'cs', 'de', 'el', 'fr', 'it', 'lv', 'hu', 'nl', 'pl', 'pt', 'sv'):
+for lang in lang_list():
     process_countries(lang)
