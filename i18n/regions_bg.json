@@ -1,8 +1,8 @@
 {
   "regions_UN": {
-    "Europe": "Europe",
-    "Americas": "Americas",
-    "Asia": "Asia",
+    "Europe": "Европа",
+    "Americas": "Америка",
+    "Asia": "Азия",
     "Africa": "Африка",
     "Oceania": "Oceania"
   },
@@ -44,7 +44,7 @@
     "East Asia & Pacific": "Източна Азия и Тихоокеанският регион"
   },
   "regions_The_World_Factbook": {
-    "Europe": "Europe",
+    "Europe": "Европа",
     "North America": "Северна Америка",
     "Middle East": "Близък Изток",
     "Central Asia": "Централна Азия",
