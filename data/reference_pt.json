@@ -190,7 +190,7 @@
       "xf": "Bela",
       "vf": "MBC",
       "f": "F",
-      "vg": "VG"
+      "vg": "BC"
     }
   },
   {
@@ -218,7 +218,7 @@
   },
   {
     "name": "color",
-    "title": "Colors",
+    "title": "Cor",
     "has_icons": true,
     "values": {
       "multicolor": "Multi-cor",
