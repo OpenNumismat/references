@@ -791,11 +791,11 @@
             "Евро",
             "Цент"
           ],
-          "iso4217": "MTL",
+          "iso4217": "EUR",
           "key": "MT",
           "contemporary_units": [
             "Lira",
-            "Cent"
+            "Цент"
           ],
           "mints": [
             {
@@ -1302,7 +1302,7 @@
           "key": "NL",
           "contemporary_units": [
             "Guilder",
-            "Cent"
+            "Цент"
           ],
           "mints": [
             {
@@ -1392,7 +1392,7 @@
           "alpha3": "XKX",
           "units": [
             "Euro",
-            "Cent"
+            "Цент"
           ],
           "iso4217": "EUR",
           "part_of": "SRB",
@@ -2108,7 +2108,7 @@
           "key": "SR",
           "contemporary_units": [
             "Guilder",
-            "Cent"
+            "Цент"
           ]
         },
         {
@@ -3036,7 +3036,7 @@
           "key": "CY",
           "contemporary_units": [
             "Pound",
-            "Cent"
+            "Цент"
           ]
         },
         {
@@ -3260,7 +3260,7 @@
           "alpha3": "TWN",
           "units": [
             "Dollar",
-            "Cent"
+            "Цент"
           ],
           "iso4217": "TWD",
           "part_of": "CHN",
@@ -3604,7 +3604,7 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "PWF",
+          "iso4217": "RWF",
           "key": "RW"
         },
         {
@@ -3795,7 +3795,7 @@
             "Пула",
             "Тебе"
           ],
-          "iso4217": "BWT",
+          "iso4217": "BWP",
           "key": "BW"
         },
         {
@@ -4065,7 +4065,7 @@
           "alpha3": "XSL",
           "units": [
             "Shilling",
-            "Cent"
+            "Цент"
           ],
           "iso4217": "SLS",
           "part_of": "SOM",
