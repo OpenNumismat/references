@@ -61,7 +61,9 @@ def read_eu_countries(lang):
             major = tds[8].text
 
             minor = tds[10].text
-            iso4217 = tds[8].text
+            for text in tds[9].itertext():
+                iso4217 = text
+                break
         elif len(tds) == 9:
             alpha2 = tds[3].text.strip()
 
