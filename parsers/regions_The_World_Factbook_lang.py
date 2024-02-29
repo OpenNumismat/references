@@ -3,6 +3,9 @@
 import csv
 import json
 
+from common import *
+
+
 def str2latin(string):
     return string.replace('ô', 'o').replace('ó', 'o').replace('ç', 'c').replace('é', 'e').replace('ë', 'e').replace('ā', 'a').replace('ã', 'a').replace('í', 'i').replace('ê', 'e').replace('ş', 's').replace('Đ', 'D').replace('ồ', 'o').replace('à', 'a')
 
@@ -28,6 +31,8 @@ def country2countrydata(country, orig_data):
     return None
 
 
+TITLE = "regions_The_World_Factbook"
+
 subregions_data = {}
 with open('../src/Area.csv', encoding='utf-8') as file:
     reader = csv.reader(file)
@@ -49,21 +54,8 @@ for name, region in subregions_data.items():
             break
 
 
-for lang in ('en', 'bg', 'es', 'cs', 'de', 'el', 'fr', 'it', 'lv', 'hu', 'nl', 'pl', 'pt', 'sv'):
-    result = {
-        "regions": [
-            {"name": "Europe", "countries": []},
-            {"name": "North America", "countries": []},
-            {"name": "Middle East", "countries": []},
-            {"name": "Central Asia", "countries": []},
-            {"name": "East and Southeast Asia", "countries": []},
-            {"name": "South America", "countries": []},
-            {"name": "Australia and Oceania", "countries": []},
-            {"name": "South Asia", "countries": []},
-            {"name": "Africa", "countries": []},
-            {"name": "Central America and the Caribbean", "countries": []},
-        ]
-    }
+for lang in lang_list():
+    result = get_regions(TITLE, lang)
 
     with open(f"../data/country_currency_{lang}.json", encoding='utf-8') as orig_file:
         orig_data = json.load(orig_file)
@@ -73,7 +65,7 @@ for lang in ('en', 'bg', 'es', 'cs', 'de', 'el', 'fr', 'it', 'lv', 'hu', 'nl', '
         for alpha3, region in countries_list.items():
             if alpha3 == orig_country["alpha3"]:
                 for r in result["regions"]:
-                    if r["name"] == region:
+                    if r["name"] == region2region_name(region):
                         r["countries"].append(orig_country)
                         finded = True
                         break
@@ -90,5 +82,5 @@ for lang in ('en', 'bg', 'es', 'cs', 'de', 'el', 'fr', 'it', 'lv', 'hu', 'nl', '
         if not finded:
             print(f"Missed {lang} data for {orig_country['name']}")
 
-    with open(f"../data/regions_World_Factbook_{lang}.json", 'w', encoding='utf8') as json_file:
+    with open(f"../data/{TITLE}_{lang}.json", 'w', encoding='utf8') as json_file:
         json.dump(result, json_file, ensure_ascii=False, indent=2)

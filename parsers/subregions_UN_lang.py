@@ -1,6 +1,8 @@
 import csv
 import json
 
+from common import *
+
 
 def get_alternative_names(country):
     country = country.lower()
@@ -22,7 +24,9 @@ def country2countrydata(country, orig_data):
             if name.lower() == key:
                 return orig_country
     return None
-    
+
+
+TITLE = "subregions_UN"
 
 countries_list = {}
 with open('../src/UNSD — Methodology.csv', encoding='utf-8') as file:
@@ -37,37 +41,8 @@ with open('../src/UNSD — Methodology.csv', encoding='utf-8') as file:
 with open('../data/countries_alternative_names.json', encoding='utf-8') as file:
     alternative_names = json.load(file)
 
-for lang in ('en', 'bg', 'es', 'cs', 'de', 'el', 'fr', 'it', 'lv', 'hu', 'nl', 'pl', 'pt', 'sv'):
-    result = {
-        "regions": [
-            {"name": "Western Europe", "countries": []},
-            {"name": "Northern Europe", "countries": []},
-            {"name": "Southern Europe", "countries": []},
-            {"name": "Eastern Europe", "countries": []},
-
-            {"name": "Northern America", "countries": []},
-            {"name": "Central America", "countries": []},
-            {"name": "Caribbean", "countries": []},
-            {"name": "South America", "countries": []},
-
-            {"name": "Western Asia", "countries": []},
-            {"name": "Central Asia", "countries": []},
-            {"name": "Southern Asia", "countries": []},
-            {"name": "Eastern Asia", "countries": []},
-            {"name": "South-eastern Asia", "countries": []},
-
-            {"name": "Northern Africa", "countries": []},
-            {"name": "Western Africa", "countries": []},
-            {"name": "Middle Africa", "countries": []},
-            {"name": "Eastern Africa", "countries": []},
-            {"name": "Southern Africa", "countries": []},
-
-            {"name": "Australia and New Zealand", "countries": []},
-            {"name": "Melanesia", "countries": []},
-            {"name": "Micronesia", "countries": []},
-            {"name": "Polynesia", "countries": []},
-        ]
-    }
+for lang in lang_list():
+    result = get_regions(TITLE, lang)
 
     with open(f"../data/country_currency_{lang}.json", encoding='utf-8') as orig_file:
         orig_data = json.load(orig_file)
@@ -77,7 +52,7 @@ for lang in ('en', 'bg', 'es', 'cs', 'de', 'el', 'fr', 'it', 'lv', 'hu', 'nl', '
         for alpha3, region in countries_list.items():
             if alpha3 == orig_country["alpha3"]:
                 for r in result["regions"]:
-                    if r["name"] == region:
+                    if r["name"] == region2region_name(region):
                         r["countries"].append(orig_country)
                         finded = True
                         break
@@ -92,7 +67,7 @@ for lang in ('en', 'bg', 'es', 'cs', 'de', 'el', 'fr', 'it', 'lv', 'hu', 'nl', '
                         break
 
         if not finded:
-            print("Missed data for", orig_country["name"])
+            print(f"Missed {lang} data for {orig_country['name']}")
 
-    with open(f"../data/subregions_UN_{lang}.json", 'w', encoding='utf8') as json_file:
+    with open(f"../data/{TITLE}_{lang}.json", 'w', encoding='utf8') as json_file:
         json.dump(result, json_file, ensure_ascii=False, indent=2)
