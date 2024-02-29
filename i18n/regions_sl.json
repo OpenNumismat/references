@@ -1,0 +1,58 @@
+{
+  "regions_UN": {
+    "Europe": "Evropa",
+    "Americas": "Amerika",
+    "Asia": "Azija",
+    "Africa": "Afrika",
+    "Oceania": "Oceanija"
+  },
+  "subregions_UN": {
+    "Western Europe": "Zahodna Evropa",
+    "Northern Europe": "Severna Evropa",
+    "Southern Europe": "Južna Evropa",
+    "Eastern Europe": "Vzhodna Evropa",
+
+    "Northern America": "Severna Amerika",
+    "Central America": "Srednja Amerika",
+    "Caribbean": "Karibi",
+    "South America": "Južna Afrika",
+
+    "Western Asia": "Zahodna Azija",
+    "Central Asia": "Srednja Azija",
+    "Southern Asia": "Južna Azija",
+    "Eastern Asia": "Vzhodna Azija",
+    "South-eastern Asia": "Jugovzhodna Azija",
+
+    "Northern Africa": "Northern Africa",
+    "Western Africa": "Western Africa",
+    "Middle Africa": "Middle Africa",
+    "Eastern Africa": "Eastern Africa",
+    "Southern Africa": "Southern Africa",
+
+    "Australia and New Zealand": "Australia and New Zealand",
+    "Melanesia": "Melanesia",
+    "Micronesia": "Mikronezija",
+    "Polynesia": "Polynesia"
+  },
+  "regions_The_World_Bank": {
+    "Europe & Central Asia": "Europe & Central Asia",
+    "North America": "Severna Amerika",
+    "Middle East & North Africa": "Middle East & North Africa",
+    "Latin America & Caribbean": "Latin America & Caribbean",
+    "South Asia": "Južna Azija",
+    "Sub-Saharan Africa": "Sub-Saharan Africa",
+    "East Asia & Pacific": "East Asia & Pacific"
+  },
+  "regions_The_World_Factbook": {
+    "Europe": "Evropa",
+    "North America": "Severna Amerika",
+    "Middle East": "Middle East",
+    "Central Asia": "Srednja Azija",
+    "East and Southeast Asia": "East and Southeast Asia",
+    "South America": "Južna Afrika",
+    "Australia and Oceania": "Australia and Oceania",
+    "South Asia": "Južna Azija",
+    "Africa": "Afrika",
+    "Central America and the Caribbean": "Central America and the Caribbean"
+  }
+}
