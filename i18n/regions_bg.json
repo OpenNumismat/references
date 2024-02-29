@@ -1,0 +1,58 @@
+{
+  "regions_UN": {
+    "Europe": "Europe",
+    "Americas": "Americas",
+    "Asia": "Asia",
+    "Africa": "Africa",
+    "Oceania": "Oceania"
+  },
+  "subregions_UN": {
+    "Western Europe": "Западна Европа",
+    "Northern Europe": "Северна Европа",
+    "Southern Europe": "Южна Европа",
+    "Eastern Europe": "Източна Европа",
+
+    "Northern America": "Северна Америка",
+    "Central America": "Централна Америка",
+    "Caribbean": "Карибски регион",
+    "South America": "Южна Америка",
+
+    "Western Asia": "Западна Азия",
+    "Central Asia": "Централна Азия",
+    "Southern Asia": "Южна Азия",
+    "Eastern Asia": "Източна Азия",
+    "South-eastern Asia": "Югоизточна Азия",
+
+    "Northern Africa": "Северна Африка",
+    "Western Africa": "Западна Африка",
+    "Middle Africa": "Централна Африка",
+    "Eastern Africa": "Източна Африка",
+    "Southern Africa": "Южна Африка",
+
+    "Australia and New Zealand": "Австралия и Нова Зеландия",
+    "Melanesia": "Меланезия",
+    "Micronesia": "Микронезия",
+    "Polynesia": "Полинезия"
+  },
+  "regions_The_World_Bank": {
+    "Europe & Central Asia": "Европа и Централна Азия",
+    "North America": "северноамерикански",
+    "Middle East & North Africa": "Middle East & North Africa",
+    "Latin America & Caribbean": "Latin America & Caribbean",
+    "South Asia": "южноазиатски",
+    "Sub-Saharan Africa": "Sub-Saharan Africa",
+    "East Asia & Pacific": "East Asia & Pacific"
+  },
+  "regions_The_World_Factbook": {
+    "Europe": "Europe",
+    "North America": "северноамерикански",
+    "Middle East": "Middle East",
+    "Central Asia": "Централна Азия",
+    "East and Southeast Asia": "East and Southeast Asia",
+    "South America": "Южна Америка",
+    "Australia and Oceania": "Australia and Oceania",
+    "South Asia": "южноазиатски",
+    "Africa": "Africa",
+    "Central America and the Caribbean": "Central America and the Caribbean"
+  }
+}
