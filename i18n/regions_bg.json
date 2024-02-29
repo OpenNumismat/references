@@ -3,7 +3,7 @@
     "Europe": "Europe",
     "Americas": "Americas",
     "Asia": "Asia",
-    "Africa": "Africa",
+    "Africa": "Африка",
     "Oceania": "Oceania"
   },
   "subregions_UN": {
@@ -52,7 +52,7 @@
     "South America": "Южна Америка",
     "Australia and Oceania": "Австралия и Океания",
     "South Asia": "Южна Азия",
-    "Africa": "Africa",
+    "Africa": "Африка",
     "Central America and the Caribbean": "Централна Америка и Карибски регион"
   }
 }
