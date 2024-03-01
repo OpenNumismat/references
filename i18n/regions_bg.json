@@ -35,13 +35,13 @@
     "Polynesia": "Полинезия"
   },
   "regions_WorldBank": {
-    "Europe & Central Asia": "Europe & Central Asia",
-    "North America": "North America",
-    "Middle East & North Africa": "Middle East & North Africa",
-    "Latin America & Caribbean": "Latin America & Caribbean",
-    "South Asia": "South Asia",
-    "Sub-Saharan Africa": "Sub-Saharan Africa",
-    "East Asia & Pacific": "East Asia & Pacific"
+    "Europe & Central Asia": "Европа и Централна Азия",
+    "North America": "Северна Америка",
+    "Middle East & North Africa": "Близък Изток и Северна Африка",
+    "Latin America & Caribbean": "Латинска Америка и Карибски регион",
+    "South Asia": "Южна Азия",
+    "Sub-Saharan Africa": "Субсахарска Африка",
+    "East Asia & Pacific": "Източна Азия и Тихоокеанският регион"
   },
   "regions_World_Factbook": {
     "Europe": "Европа",
