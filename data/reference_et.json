@@ -1,0 +1,328 @@
+[
+  {
+    "name": "category",
+    "title": "Category",
+    "has_icons": false,
+    "values": {
+      "coin": "Münt",
+      "banknote": "Banknote",
+      "stamp": "Stamp",
+      "postcard": "Postcard"
+    }
+  },
+  {
+    "name": "rarity",
+    "title": "Rariteetsus",
+    "has_icons": false,
+    "values": {
+      "common": "Common",
+      "normal": "Normal",
+      "scarce": "Scarce",
+      "rare": "Rare",
+      "unique": "Unique",
+      "in-sets-only": "In sets only"
+    }
+  },
+  {
+    "name": "quality",
+    "title": "Kvaliteet",
+    "has_icons": false,
+    "values": {
+      "uncirculated": "Ringlemata",
+      "brilliant-uncirculated": "Brilliant uncirculated",
+      "proof": "Proof",
+      "proof-like": "Proof like",
+      "reverse-frosted": "Reverse frosted"
+    }
+  },
+  {
+    "name": "defect",
+    "title": "Defekt",
+    "has_icons": false,
+    "values": {
+      "clipped-planchet": "Clipped planchet",
+      "lamination": "Lamination",
+      "off-center-strike": "Off center strike",
+      "multiple-strike": "Multiple strike",
+      "mule": "Mule",
+      "doubled-die": "Doubled die",
+      "brockage": "Brockage"
+    }
+  },
+  {
+    "name": "type",
+    "title": "Tüüp",
+    "has_icons": false,
+    "values": {
+      "regular-issue": "Regular issue",
+      "commemorative": "Commemorative",
+      "bullion": "Bullion",
+      "restrike": "Restrike",
+      "pattern": "Pattern"
+    }
+  },
+  {
+    "name": "format",
+    "title": "Formaat",
+    "has_icons": false,
+    "values": {
+      "single": "Single",
+      "set": "Set",
+      "coincard": "Coincard",
+      "roll": "Roll"
+    }
+  },
+  {
+    "name": "obvrev",
+    "title": "ObvRev",
+    "has_icons": false,
+    "values": {
+      "↑↑-medallic": "↑↑ Medallic",
+      "↑↓-coin": "↑↓ Coin",
+      "↺-variable": "↺ Variable"
+    }
+  },
+  {
+    "name": "edge",
+    "title": "Serv",
+    "has_icons": false,
+    "values": {
+      "reeded": "Reeded",
+      "plain": "Plain",
+      "decorated": "Decorated",
+      "segmented-reeding": "Segmented reeding",
+      "lettered": "Lettered"
+    }
+  },
+  {
+    "name": "shape",
+    "title": "Kuju",
+    "has_icons": true,
+    "values": {
+      "round": "Round",
+      "irregular": "Round (irregular)",
+      "square": "Square",
+      "polygon": "Polygon",
+      "spanish": "Spanish flower",
+      "hole": "Round with hole",
+      "half": "Half circle",
+      "klippe": "Klippe",
+      "scalloped": "Scalloped"
+    }
+  },
+  {
+    "name": "material",
+    "title": "Materjal",
+    "has_icons": false,
+    "values": {
+      "acmonital": "Acmonital",
+      "aluminium": "Aluminium",
+      "aluminium-bronze": "Aluminium bronze",
+      "antimony": "Antimony",
+      "brass": "Brass",
+      "bronze": "Bronze",
+      "cobalt": "Cobalt",
+      "copper": "Copper",
+      "cupronickel": "Cupronickel",
+      "gold": "Gold",
+      "iron": "Iron",
+      "magnesium": "Magnesium",
+      "manganese": "Manganese",
+      "melchior": "Melchior",
+      "nickel": "Nickel",
+      "nickel-silver": "Nickel silver",
+      "nordic-gold": "Nordic gold",
+      "palladium": "Palladium",
+      "platinum": "Platinum",
+      "silver": "Silver",
+      "steel": "Steel",
+      "tantalum": "Tantalum",
+      "tombac": "Tombac",
+      "tellurium": "Tellurium",
+      "tin": "Tin",
+      "zinc": "Zinc"
+    }
+  },
+  {
+    "name": "composition",
+    "title": "Composition",
+    "has_icons": false,
+    "values": {
+      "single": "Single",
+      "plated": "Plated",
+      "clad": "Clad",
+      "bimetallic": "Bimetallic"
+    }
+  },
+  {
+    "name": "technique",
+    "title": "Technique",
+    "has_icons": false,
+    "values": {
+      "milled": "Milled",
+      "cast": "Cast",
+      "hammered": "Hammered",
+      "engraved": "Engraved",
+      "cobs": "Cobs",
+      "klippe": "Klippe",
+      "wire": "Wire",
+      "scyphate": "Scyphate"
+    }
+  },
+  {
+    "name": "modification",
+    "title": "Modification",
+    "has_icons": false,
+    "values": {
+      "colored": "Colored",
+      "countermarked": "Countermarked",
+      "holed": "Holed",
+      "cut": "Cut"
+    }
+  },
+  {
+    "name": "grade",
+    "title": "Grade",
+    "has_icons": false,
+    "values": {
+      "unc": "UNC",
+      "au": "AU",
+      "xf": "XF",
+      "vf": "VF",
+      "f": "F",
+      "vg": "VG"
+    }
+  },
+  {
+    "name": "grader",
+    "title": "Grader",
+    "has_icons": true,
+    "values": {
+      "anacs": "ANACS",
+      "iccs": "ICCS",
+      "icg": "ICG",
+      "ngc": "NGC",
+      "pcgs": "PCGS",
+      "pmg": "PMG",
+      "rnga": "RNGA"
+    }
+  },
+  {
+    "name": "place",
+    "title": "Koht",
+    "has_icons": true,
+    "values": {
+      "ebay": "eBay",
+      "heritage": "Heritage"
+    }
+  },
+  {
+    "name": "color",
+    "title": "Värv",
+    "has_icons": true,
+    "values": {
+      "multicolor": "Mitmevärviline",
+      "black-white": "Mustvalge",
+      "brown-lake": "Brown-Lake",
+      "lake": "Lake",
+      "crimson": "Crimson",
+      "carmine": "Carmine",
+      "rose": "Rose",
+      "rose-red": "Rose-Red",
+      "rosine": "Rosine",
+      "carmine-red": "Carmine-Red",
+      "scarlet": "Scarlet",
+      "vermilion": "Vermilion",
+      "red": "Red",
+      "brown-red": "Brown-Red",
+      "venetian-red": "Venetian-Red",
+      "flesh": "Flesh",
+      "salmon": "Salmon",
+      "orange-red": "Orange-Red",
+      "red-orange": "Red-Orange",
+      "orange": "Oranž",
+      "yellow-orange": "Yellow-Orange",
+      "orange-yellow": "Orange-Yellow",
+      "yellow": "Kollane",
+      "lemon": "Lemon",
+      "greenish-yellow": "Greenish Yellow",
+      "olive-yellow": "Olive-Yellow",
+      "yellow-olive": "Yellow-Olive",
+      "olive-green": "Olive-Green",
+      "sage-green": "Sage-Green",
+      "apple-green": "Apple-Green",
+      "yellow-green": "Yellow-Green",
+      "bright-green": "Bright Green",
+      "bronze-green": "Bronze-Green",
+      "blackish-olive": "Blackish Olive",
+      "blackish-green": "Blackish Green",
+      "slate-green": "Slate-Green",
+      "grey-green": "Grey-Green",
+      "dull-green": "Dull Green",
+      "green": "Green",
+      "myrtle-green": "Myrtle-Green",
+      "emerald": "Emerald",
+      "blue-green": "Blue-Green",
+      "deep-bluish-green": "Deep Bluish Green",
+      "turquoise-green": "Turquoise-Green",
+      "turquoise-blue": "Turquoise-Blue",
+      "light-blue": "Light Blue",
+      "greenish-blue": "Greenish Blue",
+      "new-blue": "New Blue",
+      "blue": "Sinine",
+      "steel-blue": "Steel-Blue",
+      "prussian-blue": "Prussian Blue",
+      "slate-blue": "Slate-Blue",
+      "indigo": "Indigo",
+      "grey-blue": "Grey-Blue",
+      "deep-blue": "Deep Blue",
+      "cobalt": "Cobalt",
+      "bright-blue": "Bright Blue",
+      "royal-blue": "Royal Blue",
+      "chalky-blue": "Chalky Blue",
+      "ultramarine": "Ultramarine",
+      "violet-blue": "Violet-Blue",
+      "lavender": "Lavender",
+      "bluish-violet": "Bluish Violet",
+      "violet": "Violet",
+      "reddish-violet": "Reddish Violet",
+      "slate-violet": "Slate-Violet",
+      "agate": "Agate",
+      "slate-purple": "Slate-Purple",
+      "slate-lilac": "Slate-Lilac",
+      "lilac": "Lilac",
+      "reddish-lilac": "Reddish Lilac",
+      "dull-purple": "Dull Purple",
+      "claret": "Claret",
+      "cerise": "Cerise",
+      "magenta": "Magenta",
+      "mauve": "Mauve",
+      "bright-purple": "Bright Purple",
+      "purple": "Purple",
+      "plum": "Plum",
+      "reddish-purple": "Reddish Purple",
+      "maroon": "Maroon",
+      "brown-purple": "Brown-Purple",
+      "purple-brown": "Purple-Brown",
+      "chocolate": "Chocolate",
+      "lake-brown": "Lake-Brown",
+      "red-brown": "Red-Brown",
+      "chestnut": "Chestnut",
+      "orange-brown": "Orange-Brown",
+      "cinnamon": "Cinnamon",
+      "buff": "Buff",
+      "ochre": "Ochre",
+      "yellow-brown": "Yellow-Brown",
+      "brown": "Brown",
+      "blackish-brown": "Blackish-Brown",
+      "sepia": "Sepia",
+      "bistre-brown": "Bistre-Brown",
+      "bistre": "Bistre",
+      "olive-brown": "Olive-Brown",
+      "drab": "Drab",
+      "olive-grey": "Olive-Grey",
+      "grey": "Grey",
+      "slate": "Slate"
+    }
+  }
+]
