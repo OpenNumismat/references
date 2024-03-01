@@ -34,7 +34,7 @@
     "Micronesia": "Микронезия",
     "Polynesia": "Полинезия"
   },
-  "regions_The_World_Bank": {
+  "regions_World_Bank": {
     "Europe & Central Asia": "Европа и Централна Азия",
     "North America": "Северна Америка",
     "Middle East & North Africa": "Близък Изток и Северна Африка",
@@ -43,7 +43,7 @@
     "Sub-Saharan Africa": "Субсахарска Африка",
     "East Asia & Pacific": "Източна Азия и Тихоокеанският регион"
   },
-  "regions_The_World_Factbook": {
+  "regions_World_Factbook": {
     "Europe": "Европа",
     "North America": "Северна Америка",
     "Middle East": "Близък Изток",
