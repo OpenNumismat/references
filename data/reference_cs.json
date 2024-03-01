@@ -218,7 +218,7 @@
   },
   {
     "name": "color",
-    "title": "Colors",
+    "title": "Barva",
     "has_icons": true,
     "values": {
       "multicolor": "Multicolor",
