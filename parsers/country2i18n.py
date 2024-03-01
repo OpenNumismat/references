@@ -42,7 +42,6 @@ with open('../src/UNSD — Methodology.csv', encoding='utf-8') as file:
 
 
 def read_eu_countries(lang):
-    print(lang)
     eu_countries_list = {}
     page = lxml.html.parse(f"../src/{lang}-5000500.htm")
     table = page.getroot().get_element_by_id("listOfCountriesTable")
@@ -127,7 +126,6 @@ def read_eu_countries(lang):
             minor = minor.title().strip()
 
         if not iso4217:
-            print(alpha2, name)
             if tds[8].getchildren():
                 iso4217 = tds[8].getchildren()[0].text
             else:

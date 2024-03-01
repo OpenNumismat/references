@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Western Europe",
+      "name": "Западна Европа",
       "countries": [
         {
           "name": "Австрия",
@@ -449,7 +449,7 @@
       ]
     },
     {
-      "name": "Northern Europe",
+      "name": "Северна Европа",
       "countries": [
         {
           "name": "Oстрови Оланд",
@@ -852,7 +852,7 @@
       ]
     },
     {
-      "name": "Southern Europe",
+      "name": "Южна Европа",
       "countries": [
         {
           "name": "Албания",
@@ -1214,7 +1214,7 @@
       ]
     },
     {
-      "name": "Eastern Europe",
+      "name": "Източна Европа",
       "countries": [
         {
           "name": "Беларус",
@@ -1501,7 +1501,7 @@
       ]
     },
     {
-      "name": "Northern America",
+      "name": "Северна Америка",
       "countries": [
         {
           "name": "Бермудски острови",
@@ -1800,7 +1800,7 @@
       ]
     },
     {
-      "name": "Central America",
+      "name": "Централна Америка",
       "countries": [
         {
           "name": "Белиз",
@@ -1908,7 +1908,7 @@
       ]
     },
     {
-      "name": "Caribbean",
+      "name": "Карибски регион",
       "countries": [
         {
           "name": "Ангила",
@@ -2231,7 +2231,7 @@
       ]
     },
     {
-      "name": "South America",
+      "name": "Южна Америка",
       "countries": [
         {
           "name": "Аржентина",
@@ -2460,7 +2460,7 @@
       ]
     },
     {
-      "name": "Western Asia",
+      "name": "Югозападна Азия",
       "countries": [
         {
           "name": "Армения",
@@ -2758,7 +2758,7 @@
       ]
     },
     {
-      "name": "Central Asia",
+      "name": "Централна Азия",
       "countries": [
         {
           "name": "Казахстан",
@@ -2818,7 +2818,7 @@
       ]
     },
     {
-      "name": "Southern Asia",
+      "name": "Южна Азия",
       "countries": [
         {
           "name": "Афганистан",
@@ -2986,7 +2986,7 @@
       ]
     },
     {
-      "name": "Eastern Asia",
+      "name": "Източна Азия",
       "countries": [
         {
           "name": "Китай",
@@ -3203,7 +3203,7 @@
       ]
     },
     {
-      "name": "South-eastern Asia",
+      "name": "Югоизточна Азия",
       "countries": [
         {
           "name": "Бруней",
@@ -3412,7 +3412,7 @@
       ]
     },
     {
-      "name": "Northern Africa",
+      "name": "Северна Африка",
       "countries": [
         {
           "name": "Алжир",
@@ -3498,7 +3498,7 @@
       ]
     },
     {
-      "name": "Western Africa",
+      "name": "Западна Африка",
       "countries": [
         {
           "name": "Бенин",
@@ -3694,7 +3694,7 @@
       ]
     },
     {
-      "name": "Middle Africa",
+      "name": "Централна Африка",
       "countries": [
         {
           "name": "Ангола",
@@ -3802,7 +3802,7 @@
       ]
     },
     {
-      "name": "Eastern Africa",
+      "name": "Източна Африка",
       "countries": [
         {
           "name": "Британски територии в Индийския океан",
@@ -4071,7 +4071,7 @@
       ]
     },
     {
-      "name": "Southern Africa",
+      "name": "Южна Африка",
       "countries": [
         {
           "name": "Ботсуана",
@@ -4157,7 +4157,7 @@
       ]
     },
     {
-      "name": "Australia and New Zealand",
+      "name": "Австралия и Нова Зеландия",
       "countries": [
         {
           "name": "Австралия",
@@ -4324,7 +4324,7 @@
       ]
     },
     {
-      "name": "Melanesia",
+      "name": "Меланезия",
       "countries": [
         {
           "name": "Фиджи",
@@ -4384,7 +4384,7 @@
       ]
     },
     {
-      "name": "Micronesia",
+      "name": "Микронезия",
       "countries": [
         {
           "name": "Гуам",
@@ -4480,7 +4480,7 @@
       ]
     },
     {
-      "name": "Polynesia",
+      "name": "Полинезия",
       "countries": [
         {
           "name": "Американска Самоа",

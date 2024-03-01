@@ -1534,7 +1534,7 @@
           "key": "BS"
         },
         {
-          "name": "Μπαρμπέιντος τα)",
+          "name": "Μπαρμπέιντος",
           "alpha2": "BB",
           "alpha3": "BRB",
           "units": [
@@ -1678,7 +1678,7 @@
           "dependent": true
         },
         {
-          "name": "Μοντσεράτ το)",
+          "name": "Μοντσεράτ",
           "alpha2": "MS",
           "alpha3": "MSR",
           "units": [
@@ -1806,7 +1806,7 @@
           "dependent": true
         },
         {
-          "name": "Μπελίζ η)",
+          "name": "Μπελίζ",
           "alpha2": "BZ",
           "alpha3": "BLZ",
           "units": [
@@ -3557,7 +3557,7 @@
           "key": "MU"
         },
         {
-          "name": "Μαγιότ το)",
+          "name": "Μαγιότ",
           "alpha2": "YT",
           "alpha3": "MYT",
           "units": [
@@ -3879,7 +3879,7 @@
           "key": "BJ"
         },
         {
-          "name": "Μπουρκίνα η)",
+          "name": "Μπουρκίνα",
           "alpha2": "BF",
           "alpha3": "BFA",
           "units": [
@@ -4197,7 +4197,7 @@
           "dependent": true
         },
         {
-          "name": "Νήσοι Κόκος Κίλινγκ)",
+          "name": "Νήσοι Κόκος (Κίλινγκ)",
           "alpha2": "CC",
           "alpha3": "CCK",
           "units": [
@@ -4433,7 +4433,7 @@
           "dependent": true
         },
         {
-          "name": "Νιούε το)",
+          "name": "Νιούε",
           "alpha2": "NU",
           "alpha3": "NIU",
           "units": [
@@ -4468,7 +4468,7 @@
           "key": "WS"
         },
         {
-          "name": "Τοκελάου το)",
+          "name": "Τοκελάου",
           "alpha2": "TK",
           "alpha3": "TKL",
           "units": [
