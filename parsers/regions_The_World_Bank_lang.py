@@ -11,7 +11,7 @@ def alpha2countrydata(alpha, orig_data):
     return None
 
 
-TITLE = "regions_The_World_Bank"
+TITLE = "regions_WorldBank"
 
 subregions_data = {}
 with open('../src/CLASS.csv', encoding='utf-8') as file:

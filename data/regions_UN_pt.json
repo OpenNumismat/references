@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe",
+      "name": "Europa",
       "countries": [
         {
           "name": "Bielorrússia",
@@ -1486,7 +1486,7 @@
       ]
     },
     {
-      "name": "Americas",
+      "name": "Américas",
       "countries": [
         {
           "name": "Anguila",
@@ -2430,7 +2430,7 @@
       ]
     },
     {
-      "name": "Asia",
+      "name": "Ásia",
       "countries": [
         {
           "name": "Cazaquistão",
@@ -3362,7 +3362,7 @@
       ]
     },
     {
-      "name": "Africa",
+      "name": "África",
       "countries": [
         {
           "name": "Argélia",
@@ -4087,7 +4087,7 @@
       ]
     },
     {
-      "name": "Oceania",
+      "name": "Oceânia",
       "countries": [
         {
           "name": "Austrália",

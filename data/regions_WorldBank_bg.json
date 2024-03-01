@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe & Central Asia",
+      "name": "Европа и Централна Азия",
       "countries": [
         {
           "name": "Албания",
@@ -1454,7 +1454,7 @@
       ]
     },
     {
-      "name": "North America",
+      "name": "Северна Америка",
       "countries": [
         {
           "name": "Бермудски острови",
@@ -1729,7 +1729,7 @@
       ]
     },
     {
-      "name": "Middle East & North Africa",
+      "name": "Близък Изток и Северна Африка",
       "countries": [
         {
           "name": "Обединени арабски емирства",
@@ -1992,7 +1992,7 @@
       ]
     },
     {
-      "name": "Latin America & Caribbean",
+      "name": "Латинска Америка и Карибски регион",
       "countries": [
         {
           "name": "Аруба",
@@ -2533,7 +2533,7 @@
       ]
     },
     {
-      "name": "South Asia",
+      "name": "Южна Азия",
       "countries": [
         {
           "name": "Афганистан",
@@ -2678,7 +2678,7 @@
       ]
     },
     {
-      "name": "Sub-Saharan Africa",
+      "name": "Субсахарска Африка",
       "countries": [
         {
           "name": "Ангола",
@@ -3253,7 +3253,7 @@
       ]
     },
     {
-      "name": "East Asia & Pacific",
+      "name": "Източна Азия и Тихоокеанският регион",
       "countries": [
         {
           "name": "Американска Самоа",

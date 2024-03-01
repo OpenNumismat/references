@@ -22,7 +22,7 @@ def country2countrydata(country, orig_data):
     return None
 
 
-TITLE = "regions_The_World_Factbook"
+TITLE = "regions_World_Factbook"
 
 subregions_data = {}
 with open('../src/Area.csv', encoding='utf-8') as file:
