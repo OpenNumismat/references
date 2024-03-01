@@ -1,0 +1,58 @@
+{
+  "regions_UN": {
+    "Europe": "Europa",
+    "Americas": "Américas",
+    "Asia": "Ásia",
+    "Africa": "África",
+    "Oceania": "Oceânia"
+  },
+  "subregions_UN": {
+    "Western Europe": "Europa Ocidental",
+    "Northern Europe": "Europa do Norte",
+    "Southern Europe": "Europa do Sul",
+    "Eastern Europe": "Europa de Leste",
+
+    "Northern America": "América do Norte",
+    "Central America": "América Central",
+    "Caribbean": "Caraíbas",
+    "South America": "América do Sul",
+
+    "Western Asia": "Ásia Ocidental",
+    "Central Asia": "Ásia Central",
+    "Southern Asia": "Ásia do Sul",
+    "Eastern Asia": "Ásia Oriental",
+    "South-eastern Asia": "Ásia Sudeste",
+
+    "Northern Africa": "Norte de África",
+    "Western Africa": "África Ocidental",
+    "Middle Africa": "África Central",
+    "Eastern Africa": "África Oriental",
+    "Southern Africa": "África do Sul",
+
+    "Australia and New Zealand": "Austrália e Nova Zelândia",
+    "Melanesia": "Melanésia",
+    "Micronesia": "Micronésia",
+    "Polynesia": "Polinésia"
+  },
+  "regions_The_World_Bank": {
+    "Europe & Central Asia": "Europa e Ásia Central",
+    "North America": "América do Norte",
+    "Middle East & North Africa": "Médio Oriente e Norte de África",
+    "Latin America & Caribbean": "América Latina e Caraíbas",
+    "South Asia": "Ásia do Sul",
+    "Sub-Saharan Africa": "África Sub-Sahariana",
+    "East Asia & Pacific": "Ásia Oriental e Pacífico"
+  },
+  "regions_The_World_Factbook": {
+    "Europe": "Europa",
+    "North America": "América do Norte",
+    "Middle East": "Médio Oriente",
+    "Central Asia": "Ásia Central",
+    "East and Southeast Asia": "Ásia Oriental e Sudeste",
+    "South America": "América do Sul",
+    "Australia and Oceania": "Austrália e Oceânia",
+    "South Asia": "Ásia do Sul",
+    "Africa": "África",
+    "Central America and the Caribbean": "América Central e Caraíbas"
+  }
+}
