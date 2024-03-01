@@ -1,0 +1,4505 @@
+{
+  "regions": [
+    {
+      "name": "Evropa",
+      "countries": [
+        {
+          "name": "Belorusija",
+          "alpha2": "BY",
+          "alpha3": "BLR",
+          "units": [
+            "Rubelj",
+            "Kopejka"
+          ],
+          "iso4217": "BYN",
+          "key": "BY"
+        },
+        {
+          "name": "Bolgarija",
+          "alpha2": "BG",
+          "alpha3": "BGR",
+          "units": [
+            "Stotinka"
+          ],
+          "iso4217": "BGN",
+          "key": "BG",
+          "mints": [
+            {
+              "name": "Bulmint",
+              "country": {
+                "BGR": "Bulgaria"
+              },
+              "location": "Plovdiv",
+              "from_year": 2004
+            },
+            {
+              "name": "Bulgarian Mint",
+              "local_name": "Монетен двор",
+              "country": {
+                "BGR": "Bulgaria"
+              },
+              "location": "Sofia",
+              "from_year": 1952
+            }
+          ]
+        },
+        {
+          "name": "Češka",
+          "alpha2": "CZ",
+          "alpha3": "CZE",
+          "units": [
+            "Krona",
+            "Halerž"
+          ],
+          "iso4217": "CZK",
+          "key": "CZ",
+          "mints": [
+            {
+              "name": "Czech Mint",
+              "local_name": "Česká mincovna",
+              "country": {
+                "CZE": "Czechia"
+              },
+              "location": "Jablonec nad Nisou",
+              "from_year": 1993
+            }
+          ]
+        },
+        {
+          "name": "Madžarska",
+          "alpha2": "HU",
+          "alpha3": "HUN",
+          "units": [
+            "Forint",
+            "Fillér"
+          ],
+          "iso4217": "HUF",
+          "key": "HU",
+          "mints": [
+            {
+              "name": "Hungarian Mint",
+              "country": {
+                "HUN": "Hungary"
+              },
+              "location": "Budapest",
+              "from_year": 1925
+            }
+          ]
+        },
+        {
+          "name": "Poljska",
+          "alpha2": "PL",
+          "alpha3": "POL",
+          "units": [
+            "Zlot",
+            "Groš"
+          ],
+          "iso4217": "PLN",
+          "key": "PL",
+          "mints": [
+            {
+              "name": "Germania Mint",
+              "country": {
+                "POL": "Poland"
+              },
+              "location": "Jelenia Góra",
+              "from_year": 2018
+            },
+            {
+              "name": "Mint of Poland",
+              "local_name": "Mennica Polska",
+              "country": {
+                "POL": "Poland"
+              },
+              "location": "Warsaw",
+              "from_year": 1766
+            },
+            {
+              "name": "Mint of Gdansk",
+              "country": {
+                "POL": "Poland"
+              },
+              "location": "Gdansk",
+              "from_year": 2010
+            },
+            {
+              "name": "Mint XXI",
+              "country": {
+                "POL": "Poland"
+              },
+              "location": "Warsaw",
+              "from_year": 2019
+            }
+          ]
+        },
+        {
+          "name": "Moldavija",
+          "alpha2": "MD",
+          "alpha3": "MDA",
+          "units": [
+            "Ban"
+          ],
+          "iso4217": "MDL",
+          "key": "MD"
+        },
+        {
+          "name": "Romunija",
+          "alpha2": "RO",
+          "alpha3": "ROU",
+          "units": [
+            "Ban"
+          ],
+          "iso4217": "RON",
+          "key": "RO"
+        },
+        {
+          "name": "Rusija",
+          "alpha2": "RU",
+          "alpha3": "RUS",
+          "units": [
+            "Rubelj",
+            "Kopejka"
+          ],
+          "iso4217": "RUB",
+          "key": "RU",
+          "mints": [
+            {
+              "name": "Moscow Mint",
+              "local_name": "Московский монетный двор",
+              "country": {
+                "RUS": "Russia"
+              },
+              "location": "Moscow",
+              "from_year": 1942
+            },
+            {
+              "name": "Saint Petersburg Mint",
+              "local_name": "Санкт-Петербургский монетный двор",
+              "country": {
+                "RUS": "Russia"
+              },
+              "location": "Saint Petersburg",
+              "from_year": 1724
+            }
+          ]
+        },
+        {
+          "name": "Slovaška",
+          "alpha2": "SK",
+          "alpha3": "SVK",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "SK",
+          "contemporary_units": [
+            "Koruna",
+            "Halier"
+          ],
+          "mints": [
+            {
+              "name": "Kremnica Mint, ex Kremnitz",
+              "local_name": "Mincovňa Kremnica",
+              "country": {
+                "SVK": "Slovakia"
+              },
+              "location": "Kremnica",
+              "from_year": 1328
+            },
+            {
+              "name": "Pressburg Mint",
+              "country": {
+                "SVK": "Slovakia"
+              },
+              "location": "Bratislava",
+              "from_year": 2015
+            }
+          ]
+        },
+        {
+          "name": "Ukrajina",
+          "alpha2": "UA",
+          "alpha3": "UKR",
+          "units": [
+            "Hryvnia",
+            "Kopejka"
+          ],
+          "iso4217": "UAH",
+          "key": "UA"
+        },
+        {
+          "name": "Alandski",
+          "alpha2": "AX",
+          "alpha3": "ALA",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "AX",
+          "dependent": true
+        },
+        {
+          "name": "Danska",
+          "alpha2": "DK",
+          "alpha3": "DNK",
+          "units": [
+            "Krona",
+            "Ore"
+          ],
+          "iso4217": "DKK",
+          "key": "DK",
+          "mints": [
+            {
+              "name": "Altona Mint",
+              "country": {
+                "DNK": "Denmark"
+              },
+              "location": "Altona",
+              "from_year": 1771,
+              "to_year": 1863
+            },
+            {
+              "name": "Royal Danish Mint",
+              "local_name": "Den Kongelige Mønt",
+              "country": {
+                "DNK": "Denmark"
+              },
+              "location": "Copenhagen",
+              "from_year": 1541
+            }
+          ]
+        },
+        {
+          "name": "Estonija",
+          "alpha2": "EE",
+          "alpha3": "EST",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "EE",
+          "contemporary_units": [
+            "Kroon",
+            "Sent"
+          ],
+          "mints": [
+            {
+              "name": "European Mint",
+              "country": {
+                "EST": "Estonia"
+              },
+              "location": "Tallinn",
+              "from_year": 2013
+            },
+            {
+              "name": "Juveel",
+              "country": {
+                "EST": "Estonia"
+              },
+              "location": "Talinn",
+              "from_year": 1923
+            }
+          ]
+        },
+        {
+          "name": "Ferski otoki",
+          "alpha2": "FO",
+          "alpha3": "FRO",
+          "units": [
+            "Krona",
+            "Ore"
+          ],
+          "iso4217": "DKK",
+          "key": "FO",
+          "dependent": true
+        },
+        {
+          "name": "Finska",
+          "alpha2": "FI",
+          "alpha3": "FIN",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "FI",
+          "contemporary_units": [
+            "Markka",
+            "Penni"
+          ],
+          "mints": [
+            {
+              "name": "Mint of Finland",
+              "local_name": "Suomen Rahapaja",
+              "country": {
+                "FIN": "Finland"
+              },
+              "location": "Vantaa",
+              "from_year": 1860
+            }
+          ]
+        },
+        {
+          "name": "Guernsey",
+          "alpha2": "GG",
+          "alpha3": "GGY",
+          "units": [
+            "Funt",
+            "Peni"
+          ],
+          "iso4217": "GGP",
+          "key": "GG",
+          "dependent": true
+        },
+        {
+          "name": "Islandija",
+          "alpha2": "IS",
+          "alpha3": "ISL",
+          "units": [
+            "Krona"
+          ],
+          "iso4217": "ISK",
+          "key": "IS",
+          "contemporary_units": [
+            "Króna",
+            "Eyrir"
+          ]
+        },
+        {
+          "name": "Irska",
+          "alpha2": "IE",
+          "alpha3": "IRL",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "IE",
+          "contemporary_units": [
+            "Pound",
+            "Penny"
+          ],
+          "mints": [
+            {
+              "name": "Currency Centre (Irish Mint)",
+              "country": {
+                "IRL": "Ireland"
+              },
+              "location": "Dublin",
+              "from_year": 1978
+            }
+          ]
+        },
+        {
+          "name": "Otok Man",
+          "alpha2": "IM",
+          "alpha3": "IMN",
+          "units": [
+            "Funt",
+            "Peni"
+          ],
+          "iso4217": "IMP",
+          "key": "IM",
+          "dependent": true
+        },
+        {
+          "name": "Jersey",
+          "alpha2": "JE",
+          "alpha3": "JEY",
+          "units": [
+            "Funt",
+            "Peni"
+          ],
+          "iso4217": "JEP",
+          "key": "JE",
+          "dependent": true
+        },
+        {
+          "name": "Latvija",
+          "alpha2": "LV",
+          "alpha3": "LVA",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "LV",
+          "contemporary_units": [
+            "Lats",
+            "Santīms"
+          ]
+        },
+        {
+          "name": "Litva",
+          "alpha2": "LT",
+          "alpha3": "LTU",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "LT",
+          "contemporary_units": [
+            "Litas",
+            "Centas"
+          ],
+          "mints": [
+            {
+              "name": "Lithuanian Mint",
+              "local_name": "Lietuvos monetų kalykla",
+              "country": {
+                "LTU": "Lithuania"
+              },
+              "location": "Vilnius",
+              "from_year": 1990
+            }
+          ]
+        },
+        {
+          "name": "Norveška",
+          "alpha2": "NO",
+          "alpha3": "NOR",
+          "units": [
+            "Krona",
+            "Ore"
+          ],
+          "iso4217": "NOK",
+          "key": "NO",
+          "mints": [
+            {
+              "name": "Mint of Norway; ex Den Kongelige Mynt",
+              "local_name": "Det Norske Myntverket",
+              "country": {
+                "NOR": "Norway"
+              },
+              "location": "Kongsberg",
+              "from_year": 1686
+            }
+          ]
+        },
+        {
+          "name": "Svalbard in Jan Mayen",
+          "alpha2": "SJ",
+          "alpha3": "SJM",
+          "units": [
+            "Krona",
+            "Ore"
+          ],
+          "iso4217": "NOK",
+          "key": "SJ",
+          "dependent": true
+        },
+        {
+          "name": "Švedska",
+          "alpha2": "SE",
+          "alpha3": "SWE",
+          "units": [
+            "Krona",
+            "Ore"
+          ],
+          "iso4217": "SEK",
+          "key": "SE"
+        },
+        {
+          "name": "Združeno kraljestvo",
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "units": [
+            "Šterling",
+            "Peni"
+          ],
+          "iso4217": "GBP",
+          "key": "GB",
+          "mints": [
+            {
+              "name": "Commonwealth Mint",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "Bristol",
+              "from_year": 2005
+            },
+            {
+              "name": "East India Company (modern)",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "London",
+              "from_year": 2010
+            },
+            {
+              "name": "Heaton and Sons (Birmingham Mint)",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "Birmingham",
+              "from_year": 1850,
+              "to_year": 2003
+            },
+            {
+              "name": "John Pinches Medallists",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "London",
+              "from_year": 1840,
+              "to_year": 1969
+            },
+            {
+              "name": "J.R. Gaunt and Son",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "Birmingham",
+              "from_year": 1884,
+              "to_year": 1993
+            },
+            {
+              "name": "King's Norton Metal Co.",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "Birmingham",
+              "from_year": 1889,
+              "to_year": 1962
+            },
+            {
+              "name": "Pobjoy Mint",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "Surrey",
+              "from_year": 1965
+            },
+            {
+              "name": "Royal Mint",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "Llantrisant",
+              "from_year": 886
+            },
+            {
+              "name": "Smith and Wright",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "Birmingham",
+              "from_year": 1790,
+              "to_year": 1965
+            },
+            {
+              "name": "Soho Mint",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "Handsworth",
+              "from_year": 1788,
+              "to_year": 1850
+            },
+            {
+              "name": "St Paul's Mint",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "Birmingham",
+              "from_year": 2003
+            },
+            {
+              "name": "Tower Mint (modern)",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "London",
+              "from_year": 1976
+            },
+            {
+              "name": "Windsor Mint",
+              "country": {
+                "GBR": "United Kingdom"
+              },
+              "location": "Worcester",
+              "from_year": 2010
+            }
+          ]
+        },
+        {
+          "name": "Albanija",
+          "alpha2": "AL",
+          "alpha3": "ALB",
+          "units": [
+            "Lek",
+            "Kvintar"
+          ],
+          "iso4217": "ALL",
+          "key": "AL"
+        },
+        {
+          "name": "Andora",
+          "alpha2": "AD",
+          "alpha3": "AND",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "AD",
+          "contemporary_units": [
+            "Diner",
+            "Céntim"
+          ]
+        },
+        {
+          "name": "Bosna in Hercegovina",
+          "alpha2": "BA",
+          "alpha3": "BIH",
+          "units": [
+            "Marka",
+            "Fening"
+          ],
+          "iso4217": "BAM",
+          "key": "BA"
+        },
+        {
+          "name": "Hrvaška",
+          "alpha2": "HR",
+          "alpha3": "HRV",
+          "units": [
+            "Euro"
+          ],
+          "iso4217": "EUR",
+          "key": "HR",
+          "contemporary_units": [
+            "Kuna",
+            "Lipa"
+          ],
+          "mints": [
+            {
+              "name": "Croatian Monetary Institute",
+              "local_name": "Hrvatski novčarski zavod",
+              "country": {
+                "HRV": "Croatia"
+              },
+              "location": "Sveta Nedelja",
+              "from_year": 1993
+            }
+          ]
+        },
+        {
+          "name": "Gibraltar",
+          "alpha2": "GI",
+          "alpha3": "GIB",
+          "units": [
+            "Funt",
+            "Peni"
+          ],
+          "iso4217": "GIP",
+          "key": "GI",
+          "dependent": true
+        },
+        {
+          "name": "Grčija",
+          "alpha2": "GR",
+          "alpha3": "GRC",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "GR",
+          "contemporary_units": [
+            "Drachma",
+            "Leptοn"
+          ],
+          "mints": [
+            {
+              "name": "Aegina Mint",
+              "country": {
+                "GRC": "Greece"
+              },
+              "location": "Aegina",
+              "from_year": 1828,
+              "to_year": 1833
+            },
+            {
+              "name": "Garitsa",
+              "country": {
+                "GRC": "Greece"
+              },
+              "location": "Garitsa",
+              "from_year": 1801,
+              "to_year": 1801
+            }
+          ]
+        },
+        {
+          "name": "Sveti sedež",
+          "alpha2": "VA",
+          "alpha3": "VAT",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "VA"
+        },
+        {
+          "name": "Italija",
+          "alpha2": "IT",
+          "alpha3": "ITA",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "IT",
+          "contemporary_units": [
+            "Lira",
+            "Centesimo"
+          ],
+          "mints": [
+            {
+              "name": "Gori & Zucchi (Arezzo Mint)",
+              "country": {
+                "ITA": "Italy"
+              },
+              "location": "Arezzo",
+              "from_year": 1926
+            },
+            {
+              "name": "Italian Mint",
+              "local_name": "Istituto Poligrafico e Zecca dello Stato",
+              "country": {
+                "ITA": "Italy"
+              },
+              "location": "Rome",
+              "from_year": 1928
+            }
+          ]
+        },
+        {
+          "name": "Malta",
+          "alpha2": "MT",
+          "alpha3": "MLT",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "MT",
+          "contemporary_units": [
+            "Lira",
+            "Cent"
+          ],
+          "mints": [
+            {
+              "name": "Malta Mint",
+              "country": {
+                "MLT": "Malta"
+              },
+              "location": "Valetta",
+              "from_year": 1973,
+              "to_year": 1995
+            }
+          ]
+        },
+        {
+          "name": "Črna gora",
+          "alpha2": "ME",
+          "alpha3": "MNE",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "ME"
+        },
+        {
+          "name": "Severna Makedonija",
+          "alpha2": "MK",
+          "alpha3": "MKD",
+          "units": [
+            "Denar",
+            "Deni"
+          ],
+          "iso4217": "MKD",
+          "key": "MK"
+        },
+        {
+          "name": "Portugalska",
+          "alpha2": "PT",
+          "alpha3": "PRT",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "PT",
+          "contemporary_units": [
+            "Escudo",
+            "Centavo"
+          ],
+          "mints": [
+            {
+              "name": "Mint of Portugal",
+              "local_name": "Imprensa Nacional-Casa da Moeda",
+              "country": {
+                "PRT": "Portugal"
+              },
+              "location": "Lisbon",
+              "from_year": 1299
+            }
+          ]
+        },
+        {
+          "name": "San Marino",
+          "alpha2": "SM",
+          "alpha3": "SMR",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "SM"
+        },
+        {
+          "name": "Srbija",
+          "alpha2": "RS",
+          "alpha3": "SRB",
+          "units": [
+            "Dinar",
+            "Para"
+          ],
+          "iso4217": "RSD",
+          "key": "RS",
+          "mints": [
+            {
+              "name": "Zavod za izradu novčanica i kovanog novca Topčider",
+              "country": {
+                "SRB": "Serbia"
+              },
+              "location": "Belgrade",
+              "from_year": 1929
+            }
+          ]
+        },
+        {
+          "name": "Slovenija",
+          "alpha2": "SI",
+          "alpha3": "SVN",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "SI",
+          "contemporary_units": [
+            "Tolar",
+            "Stotin"
+          ]
+        },
+        {
+          "name": "Španija",
+          "alpha2": "ES",
+          "alpha3": "ESP",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "ES",
+          "contemporary_units": [
+            "Peseta",
+            "Céntimo"
+          ],
+          "mints": [
+            {
+              "name": "National Mint of Xuvia",
+              "local_name": "Casa de Moneda de Jubia",
+              "country": {
+                "ESP": "Spain"
+              },
+              "location": "Xuvia",
+              "from_year": 1812,
+              "to_year": 1868
+            },
+            {
+              "name": "Royal Mint of Spain",
+              "local_name": "Fábrica Nacional de Moneda y Timbre",
+              "country": {
+                "ESP": "Spain"
+              },
+              "location": "Madrid",
+              "from_year": 1893
+            },
+            {
+              "name": "Granada Mint",
+              "country": {
+                "ESP": "Spain"
+              },
+              "location": "Granada",
+              "from_year": 1492,
+              "to_year": 1688
+            },
+            {
+              "name": "Seville Mint",
+              "country": {
+                "ESP": "Spain"
+              },
+              "location": "Seville",
+              "from_year": 1252,
+              "to_year": 1869
+            }
+          ]
+        },
+        {
+          "name": "Avstrija",
+          "alpha2": "AT",
+          "alpha3": "AUT",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "AT",
+          "contemporary_units": [
+            "Krone",
+            "Schilling",
+            "Groschen"
+          ],
+          "mints": [
+            {
+              "name": "Austrian Mint",
+              "local_name": "Münze Österreich",
+              "country": {
+                "AUT": "Austria"
+              },
+              "location": "Vienna",
+              "from_year": 1194
+            }
+          ]
+        },
+        {
+          "name": "Belgija",
+          "alpha2": "BE",
+          "alpha3": "BEL",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "BE",
+          "contemporary_units": [
+            "Franc",
+            "Centime"
+          ],
+          "mints": [
+            {
+              "name": "Royal Mint of Belgium",
+              "local_name": "La Monnaie royale de Belgique / Koninklijke Munt van België",
+              "country": {
+                "BEL": "Belgium"
+              },
+              "location": "Brussels",
+              "from_year": 1880
+            },
+            {
+              "name": "Mauquoy",
+              "country": {
+                "BEL": "Belgium"
+              },
+              "location": "Grobbendonk",
+              "from_year": 1875
+            },
+            {
+              "name": "P. De Greef",
+              "country": {
+                "BEL": "Belgium"
+              },
+              "location": "Antwerp",
+              "from_year": 1890
+            }
+          ]
+        },
+        {
+          "name": "Francija",
+          "alpha2": "FR",
+          "alpha3": "FRA",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "FR",
+          "contemporary_units": [
+            "Franc",
+            "Centime"
+          ],
+          "mints": [
+            {
+              "name": "Art Mint",
+              "country": {
+                "FRA": "France"
+              },
+              "location": "Paris",
+              "from_year": 2013
+            },
+            {
+              "name": "Paris Mint",
+              "local_name": "Monnaie de Paris",
+              "country": {
+                "FRA": "France"
+              },
+              "location": "Pessac",
+              "from_year": 864
+            },
+            {
+              "name": "Poissy Mint",
+              "country": {
+                "FRA": "France"
+              },
+              "location": "Poissy",
+              "from_year": 1922,
+              "to_year": 1927
+            },
+            {
+              "name": "Strasbourg Mint",
+              "country": {
+                "FRA": "France"
+              },
+              "location": "Strasbourg",
+              "from_year": 962,
+              "to_year": 1870
+            }
+          ]
+        },
+        {
+          "name": "Nemčija",
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "DE",
+          "contemporary_units": [
+            "Mark",
+            "Pfennig"
+          ],
+          "mints": [
+            {
+              "name": "AllCollect",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Pirmasens",
+              "from_year": 2005
+            },
+            {
+              "name": "Bavarian Central Mint",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Munich",
+              "from_year": 1871
+            },
+            {
+              "name": "B. H. Mayer",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Karlsfeld",
+              "from_year": 1871
+            },
+            {
+              "name": "Geiger Edelmetalle",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Leipzig",
+              "from_year": 1218
+            },
+            {
+              "name": "Hamburgische Münze",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Hamburg",
+              "from_year": 834
+            },
+            {
+              "name": "Heimerle + Meule",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Pforzheim",
+              "from_year": 1845
+            },
+            {
+              "name": "JVP Investment Coins",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Berlin",
+              "from_year": 2012
+            },
+            {
+              "name": "Karlsruhe Mint",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Karlsruhe",
+              "from_year": 1827,
+              "to_year": 1998
+            },
+            {
+              "name": "Le Grand Mint",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Hagen",
+              "from_year": 2014
+            },
+            {
+              "name": "Leipziger Edelmetallverarbeitung",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Leipzig",
+              "from_year": 2006
+            },
+            {
+              "name": "MDM",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Braunschweig",
+              "from_year": 1970
+            },
+            {
+              "name": "Münzen Engel",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Regensburg",
+              "from_year": 1900
+            },
+            {
+              "name": "Numiscom",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Salzgitter",
+              "from_year": 2011,
+              "to_year": 2017
+            },
+            {
+              "name": "Reischauer",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Idar-Oberstein",
+              "from_year": 1913
+            },
+            {
+              "name": "Reu",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Heubach",
+              "from_year": 1901
+            },
+            {
+              "name": "Staatliche Münze Berlin",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Berlin",
+              "from_year": 1750
+            },
+            {
+              "name": "Staatliche Münzen Baden-Württemberg",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Karlsruhe and Stuttgart",
+              "from_year": 1998
+            },
+            {
+              "name": "Stuttgart Mint",
+              "country": {
+                "DEU": "Germany"
+              },
+              "location": "Stuttgart",
+              "from_year": 1374,
+              "to_year": 1998
+            }
+          ]
+        },
+        {
+          "name": "Lihtenštajn",
+          "alpha2": "LI",
+          "alpha3": "LIE",
+          "units": [
+            "Frank",
+            "Centim"
+          ],
+          "iso4217": "CHF",
+          "key": "LI",
+          "mints": [
+            {
+              "name": "CIT Coin Invest",
+              "country": {
+                "LIE": "Liechtenstein"
+              },
+              "location": "Liechtenstein",
+              "from_year": 1970
+            }
+          ]
+        },
+        {
+          "name": "Luksemburg",
+          "alpha2": "LU",
+          "alpha3": "LUX",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "LU",
+          "contemporary_units": [
+            "Franc",
+            "Centime"
+          ]
+        },
+        {
+          "name": "Monako",
+          "alpha2": "MC",
+          "alpha3": "MCO",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "MC"
+        },
+        {
+          "name": "Nizozemska",
+          "alpha2": "NL",
+          "alpha3": "NLD",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "NL",
+          "contemporary_units": [
+            "Guilder",
+            "Cent"
+          ],
+          "mints": [
+            {
+              "name": "Royal Dutch Mint",
+              "local_name": "Koninklijke Nederlandse Munt",
+              "country": {
+                "NLD": "Netherlands"
+              },
+              "location": "Utrecht",
+              "from_year": 1567
+            },
+            {
+              "name": "NumisCollect",
+              "country": {
+                "NLD": "Netherlands"
+              },
+              "location": "Almelo",
+              "from_year": 1999
+            }
+          ]
+        },
+        {
+          "name": "Švica",
+          "alpha2": "CH",
+          "alpha3": "CHE",
+          "units": [
+            "Frank",
+            "Centim"
+          ],
+          "iso4217": "CHF",
+          "key": "CH",
+          "mints": [
+            {
+              "name": "Argor-Heraeus",
+              "country": {
+                "CHE": "Switzerland"
+              },
+              "location": "Mendrisio",
+              "from_year": 1951
+            },
+            {
+              "name": "Helvetic Mint",
+              "country": {
+                "CHE": "Switzerland"
+              },
+              "location": "Rothenburg",
+              "from_year": 2011
+            },
+            {
+              "name": "PAMP",
+              "country": {
+                "CHE": "Switzerland"
+              },
+              "location": "Ticino",
+              "from_year": 1977
+            },
+            {
+              "name": "Swissmint",
+              "country": {
+                "CHE": "Switzerland"
+              },
+              "location": "Bern",
+              "from_year": 1853
+            },
+            {
+              "name": "UGDO",
+              "country": {
+                "CHE": "Switzerland"
+              },
+              "location": "Geneva",
+              "from_year": 1875,
+              "to_year": 1986
+            },
+            {
+              "name": "Valcambi",
+              "country": {
+                "CHE": "Switzerland"
+              },
+              "location": "Balerna",
+              "from_year": 1961
+            }
+          ]
+        },
+        {
+          "name": "Kosovo",
+          "alpha2": "XK",
+          "alpha3": "XKX",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "part_of": "SRB",
+          "unrecognized": true,
+          "key": "XK"
+        },
+        {
+          "name": "Transnistria",
+          "alpha2": "",
+          "alpha3": "XPR",
+          "units": [
+            "Ruble",
+            "Kopek"
+          ],
+          "iso4217": "PRB",
+          "part_of": "MDA",
+          "unrecognized": true,
+          "mints": [
+            {
+              "name": "Tiraspol Mint",
+              "local_name": "Тираспольский монетный двор",
+              "country": {
+                "XPR": "Transnistria"
+              },
+              "location": "Tiraspol",
+              "from_year": 2005
+            }
+          ],
+          "key": "_transnistria"
+        },
+        {
+          "name": "Czechoslovakia",
+          "alpha2": "",
+          "alpha3": "CSK",
+          "units": [
+            "Koruna",
+            "Halér"
+          ],
+          "part_of": "CZE",
+          "iso4217": "CSK",
+          "from_year": 1918,
+          "to_year": 1992,
+          "disappeared": true,
+          "key": "_czechoslovakia"
+        },
+        {
+          "name": "East Germany",
+          "alpha2": "DD",
+          "alpha3": "DDR",
+          "units": [
+            "Mark",
+            "Pfennig"
+          ],
+          "part_of": "DEU",
+          "iso4217": "DDM",
+          "from_year": 1949,
+          "to_year": 1990,
+          "disappeared": true,
+          "key": "DD"
+        },
+        {
+          "name": "USSR",
+          "alpha2": "SU",
+          "alpha3": "SUN",
+          "units": [
+            "Rouble",
+            "Kopek"
+          ],
+          "part_of": "RUS",
+          "iso4217": "RUB",
+          "from_year": 1922,
+          "to_year": 1991,
+          "disappeared": true,
+          "key": "SU"
+        },
+        {
+          "name": "Yugoslavia",
+          "alpha2": "YU",
+          "alpha3": "YUG",
+          "units": [
+            "Dinar",
+            "Para"
+          ],
+          "part_of": "SRB",
+          "iso4217": "YUD",
+          "from_year": 1918,
+          "to_year": 1992,
+          "disappeared": true,
+          "key": "YU"
+        }
+      ]
+    },
+    {
+      "name": "Amerika",
+      "countries": [
+        {
+          "name": "Angvila",
+          "alpha2": "AI",
+          "alpha3": "AIA",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "XCD",
+          "key": "AI",
+          "dependent": true
+        },
+        {
+          "name": "Antigva in Barbuda",
+          "alpha2": "AG",
+          "alpha3": "ATG",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "XCD",
+          "key": "AG"
+        },
+        {
+          "name": "Aruba",
+          "alpha2": "AW",
+          "alpha3": "ABW",
+          "units": [
+            "Gulden",
+            "Cent"
+          ],
+          "iso4217": "AWG",
+          "key": "AW",
+          "dependent": true
+        },
+        {
+          "name": "Bahami",
+          "alpha2": "BS",
+          "alpha3": "BHS",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "BSD",
+          "key": "BS"
+        },
+        {
+          "name": "Barbados",
+          "alpha2": "BB",
+          "alpha3": "BRB",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "BBD",
+          "key": "BB"
+        },
+        {
+          "name": "Bonaire, Sint Eustatius and Saba",
+          "alpha2": "BQ",
+          "alpha3": "BES",
+          "units": [],
+          "dependent": true
+        },
+        {
+          "name": "Britanski Deviški otoki",
+          "alpha2": "VG",
+          "alpha3": "VGB",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "VG",
+          "dependent": true
+        },
+        {
+          "name": "Kajmanji",
+          "alpha2": "KY",
+          "alpha3": "CYM",
+          "units": [
+            "Cent"
+          ],
+          "iso4217": "KYD",
+          "key": "KY",
+          "dependent": true
+        },
+        {
+          "name": "Kuba",
+          "alpha2": "CU",
+          "alpha3": "CUB",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "iso4217": "CUP",
+          "key": "CU"
+        },
+        {
+          "name": "Curaçao",
+          "alpha2": "CW",
+          "alpha3": "CUW",
+          "units": [
+            "Gulden",
+            "Cent"
+          ],
+          "iso4217": "ANG",
+          "key": "CW",
+          "dependent": true
+        },
+        {
+          "name": "Dominika",
+          "alpha2": "DM",
+          "alpha3": "DMA",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "XCD",
+          "key": "DM"
+        },
+        {
+          "name": "Dominikanska republika",
+          "alpha2": "DO",
+          "alpha3": "DOM",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "iso4217": "DOP",
+          "key": "DO"
+        },
+        {
+          "name": "Grenada",
+          "alpha2": "GD",
+          "alpha3": "GRD",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "XCD",
+          "key": "GD"
+        },
+        {
+          "name": "Gvadelup",
+          "alpha2": "GP",
+          "alpha3": "GLP",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "GP",
+          "dependent": true
+        },
+        {
+          "name": "Haiti",
+          "alpha2": "HT",
+          "alpha3": "HTI",
+          "units": [
+            "Gurd",
+            "Centim"
+          ],
+          "iso4217": "HTG",
+          "key": "HT"
+        },
+        {
+          "name": "Jamajka",
+          "alpha2": "JM",
+          "alpha3": "JAM",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "JMD",
+          "key": "JM"
+        },
+        {
+          "name": "Martinik",
+          "alpha2": "MQ",
+          "alpha3": "MTQ",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "MQ",
+          "dependent": true
+        },
+        {
+          "name": "Monserat",
+          "alpha2": "MS",
+          "alpha3": "MSR",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "XCD",
+          "key": "MS",
+          "dependent": true
+        },
+        {
+          "name": "Portoriko",
+          "alpha2": "PR",
+          "alpha3": "PRI",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "PR",
+          "dependent": true
+        },
+        {
+          "name": "Sveti Bartolomej",
+          "alpha2": "BL",
+          "alpha3": "BLM",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "BL",
+          "dependent": true
+        },
+        {
+          "name": "Sveti Krištof in Nevis",
+          "alpha2": "KN",
+          "alpha3": "KNA",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "XCD",
+          "key": "KN"
+        },
+        {
+          "name": "Sveta Lucija",
+          "alpha2": "LC",
+          "alpha3": "LCA",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "XCD",
+          "key": "LC"
+        },
+        {
+          "name": "Francoski Sveti Martin",
+          "alpha2": "MF",
+          "alpha3": "MAF",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "MF",
+          "dependent": true
+        },
+        {
+          "name": "Sveti Vincencij in Grenadine",
+          "alpha2": "VC",
+          "alpha3": "VCT",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "XCD",
+          "key": "VC"
+        },
+        {
+          "name": "Nizozemski Sveti Martin",
+          "alpha2": "SX",
+          "alpha3": "SXM",
+          "units": [
+            "Gulden",
+            "Cent"
+          ],
+          "iso4217": "ANG",
+          "key": "SX",
+          "dependent": true
+        },
+        {
+          "name": "Trinidad in Tobago",
+          "alpha2": "TT",
+          "alpha3": "TTO",
+          "units": [
+            "Tobaga",
+            "Cent"
+          ],
+          "iso4217": "TTD",
+          "key": "TT"
+        },
+        {
+          "name": "Otoki Turks in Caicos",
+          "alpha2": "TC",
+          "alpha3": "TCA",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "TC",
+          "dependent": true
+        },
+        {
+          "name": "Ameriški Deviški otoki",
+          "alpha2": "VI",
+          "alpha3": "VIR",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "VI",
+          "dependent": true
+        },
+        {
+          "name": "Belize",
+          "alpha2": "BZ",
+          "alpha3": "BLZ",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "BZD",
+          "key": "BZ"
+        },
+        {
+          "name": "Kostarika",
+          "alpha2": "CR",
+          "alpha3": "CRI",
+          "units": [
+            "Kolon",
+            "Céntimo"
+          ],
+          "iso4217": "CRC",
+          "key": "CR"
+        },
+        {
+          "name": "Salvador",
+          "alpha2": "SV",
+          "alpha3": "SLV",
+          "units": [
+            "Kolon",
+            "Centavo"
+          ],
+          "iso4217": "SVC",
+          "key": "SV"
+        },
+        {
+          "name": "Gvatemala",
+          "alpha2": "GT",
+          "alpha3": "GTM",
+          "units": [
+            "Kecal",
+            "Centavo"
+          ],
+          "iso4217": "GTQ",
+          "key": "GT"
+        },
+        {
+          "name": "Honduras",
+          "alpha2": "HN",
+          "alpha3": "HND",
+          "units": [
+            "Lempira",
+            "Centavo"
+          ],
+          "iso4217": "HNL",
+          "key": "HN"
+        },
+        {
+          "name": "Mehika",
+          "alpha2": "MX",
+          "alpha3": "MEX",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "iso4217": "MXN",
+          "key": "MX",
+          "mints": [
+            {
+              "name": "Mexican Mint",
+              "local_name": "Casa de Moneda de México",
+              "country": {
+                "MEX": "Mexico"
+              },
+              "location": "San Luis Potosí",
+              "from_year": 1535
+            }
+          ]
+        },
+        {
+          "name": "Nikaragva",
+          "alpha2": "NI",
+          "alpha3": "NIC",
+          "units": [
+            "Kordova",
+            "Centavo"
+          ],
+          "iso4217": "NIO",
+          "key": "NI",
+          "contemporary_units": [
+            "Córdoba",
+            "Centavo"
+          ]
+        },
+        {
+          "name": "Panama",
+          "alpha2": "PA",
+          "alpha3": "PAN",
+          "units": [
+            "Balboa",
+            "Centésimo"
+          ],
+          "iso4217": "PAB",
+          "key": "PA"
+        },
+        {
+          "name": "Argentina",
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "iso4217": "ARS",
+          "key": "AR",
+          "mints": [
+            {
+              "name": "Mint of Argentina",
+              "local_name": "Casa de Moneda de la República Argentina",
+              "country": {
+                "ARG": "Argentina"
+              },
+              "location": "Buenos Aires",
+              "from_year": 1881
+            }
+          ]
+        },
+        {
+          "name": "Bolivija",
+          "alpha2": "BO",
+          "alpha3": "BOL",
+          "units": [
+            "Boliviano",
+            "Centavo"
+          ],
+          "iso4217": "BOB",
+          "key": "BO"
+        },
+        {
+          "name": "Bouvetov otok",
+          "alpha2": "BV",
+          "alpha3": "BVT",
+          "units": [],
+          "iso4217": "—",
+          "key": "BV",
+          "dependent": true
+        },
+        {
+          "name": "Brazilija",
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "units": [
+            "Real",
+            "Centavo"
+          ],
+          "iso4217": "BRL",
+          "key": "BR",
+          "contemporary_units": [
+            "Cruzado",
+            "Cruzeiro"
+          ],
+          "mints": [
+            {
+              "name": "Mint of Brazil",
+              "local_name": "Casa da Moeda do Brasil",
+              "country": {
+                "BRA": "Brazil"
+              },
+              "location": "Rio de Janeiro",
+              "from_year": 1694
+            }
+          ]
+        },
+        {
+          "name": "Čile",
+          "alpha2": "CL",
+          "alpha3": "CHL",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "iso4217": "CLP",
+          "key": "CL",
+          "mints": [
+            {
+              "name": "Chilean Mint",
+              "local_name": "Casa de Moneda de Chile",
+              "country": {
+                "CHL": "Chile"
+              },
+              "location": "Santiago",
+              "from_year": 1743
+            }
+          ]
+        },
+        {
+          "name": "Kolumbija",
+          "alpha2": "CO",
+          "alpha3": "COL",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "iso4217": "COP",
+          "key": "CO"
+        },
+        {
+          "name": "Ekvador",
+          "alpha2": "EC",
+          "alpha3": "ECU",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "EC",
+          "contemporary_units": [
+            "Sucre",
+            "Centavo"
+          ]
+        },
+        {
+          "name": "Falklandski otoki",
+          "alpha2": "FK",
+          "alpha3": "FLK",
+          "units": [
+            "Funt",
+            "Peni"
+          ],
+          "iso4217": "FKP",
+          "key": "FK",
+          "dependent": true
+        },
+        {
+          "name": "Francoska Gvajana",
+          "alpha2": "GF",
+          "alpha3": "GUF",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "GF",
+          "dependent": true
+        },
+        {
+          "name": "Gvajana",
+          "alpha2": "GY",
+          "alpha3": "GUY",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "GYD",
+          "key": "GY"
+        },
+        {
+          "name": "Paragvaj",
+          "alpha2": "PY",
+          "alpha3": "PRY",
+          "units": [
+            "Gvarani",
+            "Céntimo"
+          ],
+          "iso4217": "PYG",
+          "key": "PY"
+        },
+        {
+          "name": "Peru",
+          "alpha2": "PE",
+          "alpha3": "PER",
+          "units": [
+            "Sol",
+            "Céntimo"
+          ],
+          "iso4217": "PEN",
+          "key": "PE",
+          "contemporary_units": [
+            "Inti",
+            "Sol",
+            "Centavo"
+          ]
+        },
+        {
+          "name": "Južna",
+          "alpha2": "GS",
+          "alpha3": "SGS",
+          "units": [],
+          "iso4217": "—",
+          "key": "GS",
+          "dependent": true
+        },
+        {
+          "name": "Surinam",
+          "alpha2": "SR",
+          "alpha3": "SUR",
+          "units": [
+            "Gulden",
+            "Cent"
+          ],
+          "iso4217": "SRD",
+          "key": "SR",
+          "contemporary_units": [
+            "Guilder",
+            "Cent"
+          ]
+        },
+        {
+          "name": "Urugvaj",
+          "alpha2": "UY",
+          "alpha3": "URY",
+          "units": [
+            "Peso",
+            "Centésimo"
+          ],
+          "iso4217": "UYU",
+          "key": "UY"
+        },
+        {
+          "name": "Venezuela",
+          "alpha2": "VE",
+          "alpha3": "VEN",
+          "units": [
+            "Bolivar",
+            "Céntimo"
+          ],
+          "iso4217": "VES",
+          "key": "VE"
+        },
+        {
+          "name": "Bermudi",
+          "alpha2": "BM",
+          "alpha3": "BMU",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "BMD",
+          "key": "BM",
+          "dependent": true
+        },
+        {
+          "name": "Kanada",
+          "alpha2": "CA",
+          "alpha3": "CAN",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "CAD",
+          "key": "CA",
+          "mints": [
+            {
+              "name": "Argentia Precious Metals",
+              "country": {
+                "CAN": "Canada"
+              },
+              "location": "Richmond Hill",
+              "from_year": 2022
+            },
+            {
+              "name": "Royal Canadian Mint",
+              "country": {
+                "CAN": "Canada"
+              },
+              "location": "Ottawa",
+              "from_year": 1908
+            }
+          ]
+        },
+        {
+          "name": "Grenlandija",
+          "alpha2": "GL",
+          "alpha3": "GRL",
+          "units": [
+            "Krona",
+            "Ore"
+          ],
+          "iso4217": "DKK",
+          "key": "GL",
+          "dependent": true
+        },
+        {
+          "name": "Sveta Peter in Mihael",
+          "alpha2": "PM",
+          "alpha3": "SPM",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "PM",
+          "dependent": true
+        },
+        {
+          "name": "Združene države",
+          "alpha2": "US",
+          "alpha3": "USA",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "US",
+          "mints": [
+            {
+              "name": "American Medallion Corporation",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Houston",
+              "from_year": 1986,
+              "to_year": 1989
+            },
+            {
+              "name": "APMEX",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Oklahoma City",
+              "from_year": 2000
+            },
+            {
+              "name": "Bullion Exchanges",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "New York",
+              "from_year": 2012
+            },
+            {
+              "name": "Crown Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Scottsdale",
+              "from_year": 2008
+            },
+            {
+              "name": "Engelhard",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Iselin",
+              "from_year": 1902,
+              "to_year": 2006
+            },
+            {
+              "name": "Franklin Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "New York",
+              "from_year": 1964
+            },
+            {
+              "name": "Golden State Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Florida",
+              "from_year": 1947
+            },
+            {
+              "name": "Highland Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Melbourne",
+              "from_year": 1989
+            },
+            {
+              "name": "Intaglio Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Sedalia",
+              "from_year": 2010
+            },
+            {
+              "name": "JM Bullion",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Dallas",
+              "from_year": 2011
+            },
+            {
+              "name": "Medallic Art Company",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Danbury",
+              "from_year": 1972,
+              "to_year": 1991
+            },
+            {
+              "name": "Native American Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Torrance",
+              "from_year": 2015
+            },
+            {
+              "name": "North American Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Rochester",
+              "from_year": 1986
+            },
+            {
+              "name": "Rarities Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Anaheim",
+              "from_year": 1987,
+              "to_year": 1995
+            },
+            {
+              "name": "Scottsdale Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Scottsdale",
+              "from_year": 2005
+            },
+            {
+              "name": "SilverTowne Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Winchester",
+              "from_year": 1949
+            },
+            {
+              "name": "Sunshine Minting",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Coeur d’Alene",
+              "from_year": 1979
+            },
+            {
+              "name": "Carson City Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Carson City",
+              "from_year": 1863,
+              "to_year": 1893
+            },
+            {
+              "name": "Charlotte Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Charlotte",
+              "from_year": 1835,
+              "to_year": 1861
+            },
+            {
+              "name": "Dahlonega Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Dahlonega",
+              "from_year": 1835,
+              "to_year": 1861
+            },
+            {
+              "name": "Denver Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Denver",
+              "from_year": 1906
+            },
+            {
+              "name": "New Orleans Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "New Orleans",
+              "from_year": 1838,
+              "to_year": 1909
+            },
+            {
+              "name": "Philadelphia Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Philadelphia",
+              "from_year": 1792
+            },
+            {
+              "name": "San Francisco Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "San Francisco",
+              "from_year": 1854
+            },
+            {
+              "name": "Washington Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "Washington D.C.",
+              "from_year": 1792
+            },
+            {
+              "name": "West Point Mint",
+              "country": {
+                "USA": "United States"
+              },
+              "location": "West Point",
+              "from_year": 1937
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Azija",
+      "countries": [
+        {
+          "name": "Kazahstan",
+          "alpha2": "KZ",
+          "alpha3": "KAZ",
+          "units": [
+            "Tenge",
+            "Tiyn"
+          ],
+          "iso4217": "KZT",
+          "key": "KZ"
+        },
+        {
+          "name": "Kirgizistan",
+          "alpha2": "KG",
+          "alpha3": "KGZ",
+          "units": [
+            "Som",
+            "Tyiyn"
+          ],
+          "iso4217": "KGS",
+          "key": "KG"
+        },
+        {
+          "name": "Tadžikistan",
+          "alpha2": "TJ",
+          "alpha3": "TJK",
+          "units": [
+            "Somoni",
+            "Diram"
+          ],
+          "iso4217": "TJS",
+          "key": "TJ"
+        },
+        {
+          "name": "Turkmenistan",
+          "alpha2": "TM",
+          "alpha3": "TKM",
+          "units": [
+            "Manat",
+            "Tenge"
+          ],
+          "iso4217": "TMT",
+          "key": "TM"
+        },
+        {
+          "name": "Uzbekistan",
+          "alpha2": "UZ",
+          "alpha3": "UZB",
+          "units": [
+            "Sum",
+            "Tiyin"
+          ],
+          "iso4217": "UZS",
+          "key": "UZ"
+        },
+        {
+          "name": "Kitajska",
+          "alpha2": "CN",
+          "alpha3": "CHN",
+          "units": [
+            "Juan",
+            "Jiao"
+          ],
+          "iso4217": "CNY",
+          "key": "CN",
+          "mints": [
+            {
+              "name": "Shanghai New Century",
+              "country": {
+                "CHN": "China"
+              },
+              "location": "Shanghai",
+              "from_year": 1995
+            },
+            {
+              "name": "CBPMC - Shanghai Mint",
+              "local_name": "上海造币有限公司",
+              "country": {
+                "CHN": "China"
+              },
+              "location": "Shanghai",
+              "from_year": 1984
+            },
+            {
+              "name": "China Banknote Printing and Minting Corporation",
+              "local_name": "中国印钞造币总公司",
+              "country": {
+                "CHN": "China"
+              },
+              "location": "Beijing",
+              "from_year": 1984
+            },
+            {
+              "name": "CBPMC - Nanjing Mint",
+              "local_name": "南京造币有限公司",
+              "country": {
+                "CHN": "China"
+              },
+              "location": "Nanjing",
+              "from_year": 1984
+            },
+            {
+              "name": "CBPMC - Shenyang Mint",
+              "local_name": "沈阳造币有限公司",
+              "country": {
+                "CHN": "China"
+              },
+              "location": "Shenyang",
+              "from_year": 1984
+            }
+          ]
+        },
+        {
+          "name": "Hongkong",
+          "alpha2": "HK",
+          "alpha3": "HKG",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "HKD",
+          "key": "HK",
+          "dependent": true,
+          "mints": [
+            {
+              "name": "LPM",
+              "country": {
+                "HKG": "Hong Kong"
+              },
+              "location": "Hong Kong",
+              "from_year": 2012
+            }
+          ]
+        },
+        {
+          "name": "Makav",
+          "alpha2": "MO",
+          "alpha3": "MAC",
+          "units": [
+            "Pataka",
+            "Avo"
+          ],
+          "iso4217": "MOP",
+          "key": "MO",
+          "dependent": true
+        },
+        {
+          "name": "Severna Koreja",
+          "alpha2": "KP",
+          "alpha3": "PRK",
+          "units": [
+            "Von",
+            "Chun"
+          ],
+          "iso4217": "KPW",
+          "key": "KP"
+        },
+        {
+          "name": "Japonska",
+          "alpha2": "JP",
+          "alpha3": "JPN",
+          "units": [
+            "Jen",
+            "Sen"
+          ],
+          "iso4217": "JPY",
+          "key": "JP",
+          "mints": [
+            {
+              "name": "Asahi Refining",
+              "country": {
+                "JPN": "Japan"
+              },
+              "location": "Tokyo",
+              "from_year": 1952
+            },
+            {
+              "name": "Japan Mint",
+              "local_name": "独立行政法人 造幣局",
+              "country": {
+                "JPN": "Japan"
+              },
+              "location": "Osaka",
+              "from_year": 1871
+            }
+          ]
+        },
+        {
+          "name": "Mongolija",
+          "alpha2": "MN",
+          "alpha3": "MNG",
+          "units": [
+            "Tugrik",
+            "Möngö"
+          ],
+          "iso4217": "MNT",
+          "key": "MN"
+        },
+        {
+          "name": "Južna Koreja",
+          "alpha2": "KR",
+          "alpha3": "KOR",
+          "units": [
+            "Von",
+            "Chun"
+          ],
+          "iso4217": "KRW",
+          "key": "KR",
+          "mints": [
+            {
+              "name": "KOMSCO",
+              "country": {
+                "KOR": "South Korea"
+              },
+              "location": "Daejeon",
+              "from_year": 1951
+            }
+          ]
+        },
+        {
+          "name": "Brunej",
+          "alpha2": "BN",
+          "alpha3": "BRN",
+          "units": [
+            "Dolar",
+            "Sen"
+          ],
+          "iso4217": "BND",
+          "key": "BN"
+        },
+        {
+          "name": "Kambodža",
+          "alpha2": "KH",
+          "alpha3": "KHM",
+          "units": [
+            "Riel",
+            "Kak"
+          ],
+          "iso4217": "KHR",
+          "key": "KH"
+        },
+        {
+          "name": "Indonezija",
+          "alpha2": "ID",
+          "alpha3": "IDN",
+          "units": [
+            "Rupija",
+            "Sen"
+          ],
+          "iso4217": "IDR",
+          "key": "ID",
+          "mints": [
+            {
+              "name": "Perum Peruri",
+              "country": {
+                "IDN": "Indonesia"
+              },
+              "location": "Jakarta",
+              "from_year": 1971
+            }
+          ]
+        },
+        {
+          "name": "Laos",
+          "alpha2": "LA",
+          "alpha3": "LAO",
+          "units": [
+            "Kip",
+            "At"
+          ],
+          "iso4217": "LAK",
+          "key": "LA"
+        },
+        {
+          "name": "Malezija",
+          "alpha2": "MY",
+          "alpha3": "MYS",
+          "units": [
+            "Ringit",
+            "Sen"
+          ],
+          "iso4217": "MYR",
+          "key": "MY"
+        },
+        {
+          "name": "Mjanmar",
+          "alpha2": "MM",
+          "alpha3": "MMR",
+          "units": [
+            "Kjat",
+            "Pya"
+          ],
+          "iso4217": "MMK",
+          "key": "MM"
+        },
+        {
+          "name": "Filipini",
+          "alpha2": "PH",
+          "alpha3": "PHL",
+          "units": [
+            "Peso",
+            "Centavo"
+          ],
+          "iso4217": "PHP",
+          "key": "PH",
+          "mints": [
+            {
+              "name": "Mint of the Philippine Islands",
+              "country": {
+                "PHL": "Philippines"
+              },
+              "location": "Manila",
+              "from_year": 1898,
+              "to_year": 1946
+            }
+          ]
+        },
+        {
+          "name": "Singapur",
+          "alpha2": "SG",
+          "alpha3": "SGP",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "SGD",
+          "key": "SG",
+          "mints": [
+            {
+              "name": "PMC",
+              "country": {
+                "SGP": "Singapore"
+              },
+              "location": "Singapore",
+              "from_year": 2020
+            },
+            {
+              "name": "Rearden Metals",
+              "country": {
+                "SGP": "Singapore"
+              },
+              "location": "Singapore",
+              "from_year": 2018,
+              "to_year": 2020
+            },
+            {
+              "name": "Singapore Mint",
+              "country": {
+                "SGP": "Singapore"
+              },
+              "location": "Singapore",
+              "from_year": 1968
+            },
+            {
+              "name": "SK Bullion",
+              "country": {
+                "SGP": "Singapore"
+              },
+              "location": "Singapore",
+              "from_year": 2016,
+              "to_year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Tajska",
+          "alpha2": "TH",
+          "alpha3": "THA",
+          "units": [
+            "Bat",
+            "Satang"
+          ],
+          "iso4217": "THB",
+          "key": "TH",
+          "mints": [
+            {
+              "name": "Royal Thai Mint",
+              "local_name": "สำนักกษาปณ์",
+              "country": {
+                "THA": "Thailand"
+              },
+              "location": "Pathum Thani",
+              "from_year": 1860
+            }
+          ]
+        },
+        {
+          "name": "Timor-Leste",
+          "alpha2": "TL",
+          "alpha3": "TLS",
+          "units": []
+        },
+        {
+          "name": "Vietnam",
+          "alpha2": "VN",
+          "alpha3": "VNM",
+          "units": [
+            "Dong",
+            "Hào"
+          ],
+          "iso4217": "VND",
+          "key": "VN"
+        },
+        {
+          "name": "Afganistan",
+          "alpha2": "AF",
+          "alpha3": "AFG",
+          "units": [
+            "Afgani",
+            "Pul"
+          ],
+          "iso4217": "AFN",
+          "key": "AF"
+        },
+        {
+          "name": "Bangladeš",
+          "alpha2": "BD",
+          "alpha3": "BGD",
+          "units": [
+            "Taka",
+            "Poisha"
+          ],
+          "iso4217": "BDT",
+          "key": "BD"
+        },
+        {
+          "name": "Butan",
+          "alpha2": "BT",
+          "alpha3": "BTN",
+          "units": [
+            "Ngultrum",
+            "Četrum"
+          ],
+          "iso4217": "BTN",
+          "key": "BT"
+        },
+        {
+          "name": "Indija",
+          "alpha2": "IN",
+          "alpha3": "IND",
+          "units": [
+            "Rupija",
+            "Paisa"
+          ],
+          "iso4217": "INR",
+          "key": "IN",
+          "mints": [
+            {
+              "name": "India Government Mint, Hyderabad (ex Nizam’s Mint)",
+              "country": {
+                "IND": "India"
+              },
+              "location": "Cherlapally",
+              "from_year": 1803
+            },
+            {
+              "name": "India Government Mint, Kolkata (ex Calcutta Mint)",
+              "country": {
+                "IND": "India"
+              },
+              "location": "Kolkata",
+              "from_year": 1757
+            },
+            {
+              "name": "India Government Mint, Mumbai (ex Bombay Mint)",
+              "country": {
+                "IND": "India"
+              },
+              "location": "Mumbai",
+              "from_year": 1829
+            },
+            {
+              "name": "India Government Mint, Noida",
+              "country": {
+                "IND": "India"
+              },
+              "location": "Noida",
+              "from_year": 1988
+            },
+            {
+              "name": "MMTC-PAMP",
+              "country": {
+                "IND": "India"
+              },
+              "location": "New Delhi",
+              "from_year": 2008
+            }
+          ]
+        },
+        {
+          "name": "Iran",
+          "alpha2": "IR",
+          "alpha3": "IRN",
+          "units": [
+            "Rial",
+            "Dinar"
+          ],
+          "iso4217": "IRR",
+          "key": "IR"
+        },
+        {
+          "name": "Maldivi",
+          "alpha2": "MV",
+          "alpha3": "MDV",
+          "units": [
+            "Rufija",
+            "Laari"
+          ],
+          "iso4217": "MVR",
+          "key": "MV"
+        },
+        {
+          "name": "Nepal",
+          "alpha2": "NP",
+          "alpha3": "NPL",
+          "units": [
+            "Rupija",
+            "Paisa"
+          ],
+          "iso4217": "NPR",
+          "key": "NP",
+          "mints": [
+            {
+              "name": "Nepal Rastra Bank",
+              "country": {
+                "NPL": "Nepal"
+              },
+              "location": "Kathmandu",
+              "from_year": 1956
+            }
+          ]
+        },
+        {
+          "name": "Pakistan",
+          "alpha2": "PK",
+          "alpha3": "PAK",
+          "units": [
+            "Rupija",
+            "Paisa"
+          ],
+          "iso4217": "PKR",
+          "key": "PK"
+        },
+        {
+          "name": "Šrilanka",
+          "alpha2": "LK",
+          "alpha3": "LKA",
+          "units": [
+            "Rupija",
+            "Cent"
+          ],
+          "iso4217": "LKR",
+          "key": "LK"
+        },
+        {
+          "name": "Armenija",
+          "alpha2": "AM",
+          "alpha3": "ARM",
+          "units": [
+            "Dram",
+            "Luma"
+          ],
+          "iso4217": "AMD",
+          "key": "AM"
+        },
+        {
+          "name": "Azerbajdžan",
+          "alpha2": "AZ",
+          "alpha3": "AZE",
+          "units": [
+            "Manat",
+            "Kepik"
+          ],
+          "iso4217": "AZN",
+          "key": "AZ"
+        },
+        {
+          "name": "Bahrajn",
+          "alpha2": "BH",
+          "alpha3": "BHR",
+          "units": [
+            "Dinar",
+            "Fils"
+          ],
+          "iso4217": "BHD",
+          "key": "BH"
+        },
+        {
+          "name": "Ciper",
+          "alpha2": "CY",
+          "alpha3": "CYP",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "CY",
+          "contemporary_units": [
+            "Pound",
+            "Cent"
+          ]
+        },
+        {
+          "name": "Gruzija",
+          "alpha2": "GE",
+          "alpha3": "GEO",
+          "units": [
+            "Lari",
+            "Tetri"
+          ],
+          "iso4217": "GEL",
+          "key": "GE"
+        },
+        {
+          "name": "Irak",
+          "alpha2": "IQ",
+          "alpha3": "IRQ",
+          "units": [
+            "Dinar",
+            "Fils"
+          ],
+          "iso4217": "IQD",
+          "key": "IQ"
+        },
+        {
+          "name": "Izrael",
+          "alpha2": "IL",
+          "alpha3": "ISR",
+          "units": [
+            "Šekel",
+            "Agora"
+          ],
+          "iso4217": "ILS",
+          "key": "IL",
+          "contemporary_units": [
+            "Pound",
+            "Pruta",
+            "Mil"
+          ],
+          "mints": [
+            {
+              "name": "Israel Coins and Medals Corp.",
+              "country": {
+                "ISR": "Israel"
+              },
+              "location": "Nesher",
+              "from_year": 1958
+            }
+          ]
+        },
+        {
+          "name": "Jordanija",
+          "alpha2": "JO",
+          "alpha3": "JOR",
+          "units": [
+            "Dinar",
+            "Piaster"
+          ],
+          "iso4217": "JOD",
+          "key": "JO"
+        },
+        {
+          "name": "Kuvajt",
+          "alpha2": "KW",
+          "alpha3": "KWT",
+          "units": [
+            "Dinar",
+            "Fils"
+          ],
+          "iso4217": "KWD",
+          "key": "KW"
+        },
+        {
+          "name": "Libanon",
+          "alpha2": "LB",
+          "alpha3": "LBN",
+          "units": [
+            "Funt",
+            "Piastre"
+          ],
+          "iso4217": "LBP",
+          "key": "LB"
+        },
+        {
+          "name": "Oman",
+          "alpha2": "OM",
+          "alpha3": "OMN",
+          "units": [
+            "Rial",
+            "Baiza"
+          ],
+          "iso4217": "OMR",
+          "key": "OM"
+        },
+        {
+          "name": "Katar",
+          "alpha2": "QA",
+          "alpha3": "QAT",
+          "units": [
+            "Rial",
+            "Dirham"
+          ],
+          "iso4217": "QAR",
+          "key": "QA"
+        },
+        {
+          "name": "Saudova Arabija",
+          "alpha2": "SA",
+          "alpha3": "SAU",
+          "units": [
+            "Halala"
+          ],
+          "iso4217": "SAR",
+          "key": "SA"
+        },
+        {
+          "name": "Sirija",
+          "alpha2": "SY",
+          "alpha3": "SYR",
+          "units": [
+            "Funt",
+            "Piastre"
+          ],
+          "iso4217": "SYP",
+          "key": "SY"
+        },
+        {
+          "name": "Turčija",
+          "alpha2": "TR",
+          "alpha3": "TUR",
+          "units": [
+            "Lira",
+            "Kurus"
+          ],
+          "iso4217": "TRY",
+          "key": "TR",
+          "mints": [
+            {
+              "name": "Turkish State Mint",
+              "local_name": "Darphane",
+              "country": {
+                "TUR": "Türkiye"
+              },
+              "location": "Istanbul",
+              "from_year": 1467
+            }
+          ]
+        },
+        {
+          "name": "Združeni arabski emirati",
+          "alpha2": "AE",
+          "alpha3": "ARE",
+          "units": [
+            "Emiratov",
+            "Fils"
+          ],
+          "iso4217": "AED",
+          "key": "AE"
+        },
+        {
+          "name": "Jemen",
+          "alpha2": "YE",
+          "alpha3": "YEM",
+          "units": [
+            "Rial",
+            "Fils"
+          ],
+          "iso4217": "YER",
+          "key": "YE"
+        },
+        {
+          "name": "Abkhazia",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Apsar"
+          ],
+          "part_of": "GEO",
+          "unrecognized": true,
+          "key": "_abkhazia"
+        },
+        {
+          "name": "Northern Cyprus",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Lira",
+            "Kurus"
+          ],
+          "iso4217": "TRY",
+          "part_of": "CYP",
+          "unrecognized": true,
+          "key": "_northern-cyprus"
+        },
+        {
+          "name": "Palestine",
+          "alpha2": "PS",
+          "alpha3": "PSE",
+          "units": [],
+          "part_of": "ISR",
+          "unrecognized": true,
+          "key": "PS"
+        },
+        {
+          "name": "South Ossetia",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Rouble",
+            "Kopek"
+          ],
+          "iso4217": "RUB",
+          "part_of": "GEO",
+          "unrecognized": true,
+          "key": "_south-ossetia"
+        },
+        {
+          "name": "Taiwan",
+          "alpha2": "TW",
+          "alpha3": "TWN",
+          "units": [
+            "Dollar",
+            "Cent"
+          ],
+          "iso4217": "TWD",
+          "part_of": "CHN",
+          "unrecognized": true,
+          "mints": [
+            {
+              "name": "Central Mint",
+              "country": {
+                "TWN": "Taiwan"
+              },
+              "location": "Taoyuan City",
+              "from_year": 1920
+            },
+            {
+              "name": "Central Mint of Taiwan",
+              "local_name": "中央造幣廠",
+              "country": {
+                "TWN": "Taiwan"
+              },
+              "location": "Guishan",
+              "from_year": 1920
+            }
+          ],
+          "key": "TW"
+        },
+        {
+          "name": "Artsakh",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Dram",
+            "Luma"
+          ],
+          "part_of": "AZE",
+          "from_year": 1991,
+          "to_year": 2023,
+          "unrecognized": true,
+          "disappeared": true,
+          "key": "_artsakh"
+        },
+        {
+          "name": "Sikkim",
+          "alpha2": "",
+          "alpha3": "SKM",
+          "units": [],
+          "part_of": "IND",
+          "from_year": 1642,
+          "to_year": 1975,
+          "dependent": true,
+          "disappeared": true,
+          "key": "_sikkim"
+        },
+        {
+          "name": "South Vietnam",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Dong",
+            "Xu"
+          ],
+          "part_of": "VNM",
+          "from_year": 1955,
+          "to_year": 1976,
+          "unrecognized": true,
+          "disappeared": true,
+          "key": "_south-vietnam"
+        },
+        {
+          "name": "South Yemen",
+          "alpha2": "YD",
+          "alpha3": "YMD",
+          "units": [
+            "Dinar",
+            "Fils"
+          ],
+          "part_of": "YEM",
+          "iso4217": "YDD",
+          "from_year": 1967,
+          "to_year": 1990,
+          "disappeared": true,
+          "key": "YD"
+        },
+        {
+          "name": "Tibet",
+          "alpha2": "",
+          "alpha3": "",
+          "units": [
+            "Skar",
+            "Srang",
+            "Tangka"
+          ],
+          "part_of": "CHN",
+          "from_year": 1912,
+          "to_year": 1951,
+          "unrecognized": true,
+          "disappeared": true,
+          "key": "_tibet"
+        }
+      ]
+    },
+    {
+      "name": "Afrika",
+      "countries": [
+        {
+          "name": "Alžirija",
+          "alpha2": "DZ",
+          "alpha3": "DZA",
+          "units": [
+            "Dinar",
+            "Centim"
+          ],
+          "iso4217": "DZD",
+          "key": "DZ"
+        },
+        {
+          "name": "Egipt",
+          "alpha2": "EG",
+          "alpha3": "EGY",
+          "units": [
+            "Funt",
+            "Piastre"
+          ],
+          "iso4217": "EGP",
+          "key": "EG"
+        },
+        {
+          "name": "Libija",
+          "alpha2": "LY",
+          "alpha3": "LBY",
+          "units": [
+            "Dinar",
+            "Dirham"
+          ],
+          "iso4217": "LYD",
+          "key": "LY"
+        },
+        {
+          "name": "Maroko",
+          "alpha2": "MA",
+          "alpha3": "MAR",
+          "units": [
+            "Dirham",
+            "Centim"
+          ],
+          "iso4217": "MAD",
+          "key": "MA"
+        },
+        {
+          "name": "Sudan",
+          "alpha2": "SD",
+          "alpha3": "SDN",
+          "units": [
+            "Funt",
+            "Piastre"
+          ],
+          "iso4217": "SDG",
+          "key": "SD",
+          "contemporary_units": [
+            "Dinar"
+          ]
+        },
+        {
+          "name": "Tunizija",
+          "alpha2": "TN",
+          "alpha3": "TUN",
+          "units": [
+            "Dinar",
+            "Millime"
+          ],
+          "iso4217": "TND",
+          "key": "TN"
+        },
+        {
+          "name": "Britansko ozemlje v Indijskem oceanu",
+          "alpha2": "IO",
+          "alpha3": "IOT",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "IO",
+          "dependent": true
+        },
+        {
+          "name": "Burundi",
+          "alpha2": "BI",
+          "alpha3": "BDI",
+          "units": [
+            "Frank",
+            "Centim"
+          ],
+          "iso4217": "BIF",
+          "key": "BI"
+        },
+        {
+          "name": "Komori",
+          "alpha2": "KM",
+          "alpha3": "COM",
+          "units": [
+            "Frank"
+          ],
+          "iso4217": "KMF",
+          "key": "KM"
+        },
+        {
+          "name": "Džibuti",
+          "alpha2": "DJ",
+          "alpha3": "DJI",
+          "units": [
+            "Frank"
+          ],
+          "iso4217": "DJF",
+          "key": "DJ"
+        },
+        {
+          "name": "Eritreja",
+          "alpha2": "ER",
+          "alpha3": "ERI",
+          "units": [
+            "Nakfa",
+            "Cent"
+          ],
+          "iso4217": "ERN",
+          "key": "ER"
+        },
+        {
+          "name": "Etiopija",
+          "alpha2": "ET",
+          "alpha3": "ETH",
+          "units": [
+            "Bir",
+            "Cent"
+          ],
+          "iso4217": "ETB",
+          "key": "ET"
+        },
+        {
+          "name": "Francoska južna",
+          "alpha2": "TF",
+          "alpha3": "ATF",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "TF",
+          "dependent": true
+        },
+        {
+          "name": "Kenija",
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "units": [
+            "Šiling",
+            "Cent"
+          ],
+          "iso4217": "KES",
+          "key": "KE"
+        },
+        {
+          "name": "Madagaskar",
+          "alpha2": "MG",
+          "alpha3": "MDG",
+          "units": [
+            "Ariary",
+            "Iraimbilanja"
+          ],
+          "iso4217": "MGA",
+          "key": "MG",
+          "contemporary_units": [
+            "Franc"
+          ]
+        },
+        {
+          "name": "Malavi",
+          "alpha2": "MW",
+          "alpha3": "MWI",
+          "units": [
+            "Kvača",
+            "Tambala"
+          ],
+          "iso4217": "MWK",
+          "key": "MW"
+        },
+        {
+          "name": "Mavricij",
+          "alpha2": "MU",
+          "alpha3": "MUS",
+          "units": [
+            "Rupija",
+            "Cent"
+          ],
+          "iso4217": "MUR",
+          "key": "MU"
+        },
+        {
+          "name": "Mayotte",
+          "alpha2": "YT",
+          "alpha3": "MYT",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "YT",
+          "dependent": true
+        },
+        {
+          "name": "Mozambik",
+          "alpha2": "MZ",
+          "alpha3": "MOZ",
+          "units": [
+            "Metikal",
+            "Centavo"
+          ],
+          "iso4217": "MZN",
+          "key": "MZ",
+          "contemporary_units": [
+            "Escudo",
+            "Centavo"
+          ]
+        },
+        {
+          "name": "Reunion",
+          "alpha2": "RE",
+          "alpha3": "REU",
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "RE",
+          "dependent": true
+        },
+        {
+          "name": "Ruanda",
+          "alpha2": "RW",
+          "alpha3": "RWA",
+          "units": [
+            "Frank",
+            "Centim"
+          ],
+          "iso4217": "RWF",
+          "key": "RW"
+        },
+        {
+          "name": "Sejšeli",
+          "alpha2": "SC",
+          "alpha3": "SYC",
+          "units": [
+            "Rupija",
+            "Cent"
+          ],
+          "iso4217": "SCR",
+          "key": "SC"
+        },
+        {
+          "name": "Somalija",
+          "alpha2": "SO",
+          "alpha3": "SOM",
+          "units": [
+            "Šiling",
+            "Cent"
+          ],
+          "iso4217": "SOS",
+          "key": "SO"
+        },
+        {
+          "name": "Južni Sudan",
+          "alpha2": "SS",
+          "alpha3": "SSD",
+          "units": [
+            "Funt",
+            "Piastre"
+          ],
+          "iso4217": "SSP",
+          "key": "SS"
+        },
+        {
+          "name": "Uganda",
+          "alpha2": "UG",
+          "alpha3": "UGA",
+          "units": [
+            "Šiling",
+            "Cent"
+          ],
+          "iso4217": "UGX",
+          "key": "UG"
+        },
+        {
+          "name": "Tanzanija",
+          "alpha2": "TZ",
+          "alpha3": "TZA",
+          "units": [
+            "Šiling",
+            "Cent"
+          ],
+          "iso4217": "TZS",
+          "key": "TZ"
+        },
+        {
+          "name": "Zambija",
+          "alpha2": "ZM",
+          "alpha3": "ZMB",
+          "units": [
+            "Kvača",
+            "Ngwee"
+          ],
+          "iso4217": "ZMW",
+          "key": "ZM"
+        },
+        {
+          "name": "Zimbabve",
+          "alpha2": "ZW",
+          "alpha3": "ZWE",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "ZWL",
+          "key": "ZW"
+        },
+        {
+          "name": "Angola",
+          "alpha2": "AO",
+          "alpha3": "AGO",
+          "units": [
+            "Kvanza",
+            "Cêntimo"
+          ],
+          "iso4217": "AOA",
+          "key": "AO"
+        },
+        {
+          "name": "Cameroon",
+          "alpha2": "CM",
+          "alpha3": "CMR",
+          "units": []
+        },
+        {
+          "name": "Srednjeafriška republika",
+          "alpha2": "CF",
+          "alpha3": "CAF",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XAF",
+          "key": "CF"
+        },
+        {
+          "name": "Čad",
+          "alpha2": "TD",
+          "alpha3": "TCD",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XAF",
+          "key": "TD"
+        },
+        {
+          "name": "Kongo",
+          "alpha2": "CG",
+          "alpha3": "COG",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XAF",
+          "key": "CG"
+        },
+        {
+          "name": "Demokratična republika Kongo",
+          "alpha2": "CD",
+          "alpha3": "COD",
+          "units": [
+            "Frank",
+            "Centim"
+          ],
+          "iso4217": "CDF",
+          "key": "CD"
+        },
+        {
+          "name": "Ekvatorialna Gvineja",
+          "alpha2": "GQ",
+          "alpha3": "GNQ",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XAF",
+          "key": "GQ",
+          "contemporary_units": [
+            "Ekwele",
+            "Peseta"
+          ]
+        },
+        {
+          "name": "Gabon",
+          "alpha2": "GA",
+          "alpha3": "GAB",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XAF",
+          "key": "GA"
+        },
+        {
+          "name": "Sveti Tomaž in Princ",
+          "alpha2": "ST",
+          "alpha3": "STP",
+          "units": [
+            "Dobra",
+            "Cêntimo"
+          ],
+          "iso4217": "STN",
+          "key": "ST"
+        },
+        {
+          "name": "Bocvana",
+          "alpha2": "BW",
+          "alpha3": "BWA",
+          "units": [
+            "Pula",
+            "Teb"
+          ],
+          "iso4217": "BWP",
+          "key": "BW"
+        },
+        {
+          "name": "Esvatini",
+          "alpha2": "SZ",
+          "alpha3": "SWZ",
+          "units": [
+            "Lilangeni",
+            "Cent"
+          ],
+          "iso4217": "SZL",
+          "key": "SZ"
+        },
+        {
+          "name": "Lesoto",
+          "alpha2": "LS",
+          "alpha3": "LSO",
+          "units": [
+            "Loti",
+            "Sente"
+          ],
+          "iso4217": "LSL",
+          "key": "LS"
+        },
+        {
+          "name": "Namibija",
+          "alpha2": "NA",
+          "alpha3": "NAM",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "NAD",
+          "key": "NA"
+        },
+        {
+          "name": "Južna Afrika",
+          "alpha2": "ZA",
+          "alpha3": "ZAF",
+          "units": [
+            "Rand",
+            "Cent"
+          ],
+          "iso4217": "ZAR",
+          "key": "ZA",
+          "mints": [
+            {
+              "name": "Gold Reef City Mint",
+              "country": {
+                "ZAF": "South Africa"
+              },
+              "location": "Germiston",
+              "from_year": 1976
+            },
+            {
+              "name": "Rand Refinery",
+              "country": {
+                "ZAF": "South Africa"
+              },
+              "location": "Germiston",
+              "from_year": 1920
+            },
+            {
+              "name": "South African Mint",
+              "country": {
+                "ZAF": "South Africa"
+              },
+              "location": "Centurion",
+              "from_year": 1923
+            }
+          ]
+        },
+        {
+          "name": "Benin",
+          "alpha2": "BJ",
+          "alpha3": "BEN",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XOF",
+          "key": "BJ"
+        },
+        {
+          "name": "Burkina Faso",
+          "alpha2": "BF",
+          "alpha3": "BFA",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XOF",
+          "key": "BF"
+        },
+        {
+          "name": "Zelenortski otoki",
+          "alpha2": "CV",
+          "alpha3": "CPV",
+          "units": [
+            "Eskudo",
+            "Centavo"
+          ],
+          "iso4217": "CVE",
+          "key": "CV"
+        },
+        {
+          "name": "Slonokoščena obala",
+          "alpha2": "CI",
+          "alpha3": "CIV",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XOF",
+          "key": "CI"
+        },
+        {
+          "name": "Gambija",
+          "alpha2": "GM",
+          "alpha3": "GMB",
+          "units": [
+            "Dalasi",
+            "Butut"
+          ],
+          "iso4217": "GMD",
+          "key": "GM"
+        },
+        {
+          "name": "Gana",
+          "alpha2": "GH",
+          "alpha3": "GHA",
+          "units": [
+            "Cedi",
+            "Pesewa"
+          ],
+          "iso4217": "GHS",
+          "key": "GH"
+        },
+        {
+          "name": "Gvineja",
+          "alpha2": "GN",
+          "alpha3": "GIN",
+          "units": [
+            "Frank"
+          ],
+          "iso4217": "GNF",
+          "key": "GN",
+          "contemporary_units": [
+            "Syli",
+            "Cauri"
+          ]
+        },
+        {
+          "name": "Gvineja Bissau",
+          "alpha2": "GW",
+          "alpha3": "GNB",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XOF",
+          "key": "GW"
+        },
+        {
+          "name": "Liberija",
+          "alpha2": "LR",
+          "alpha3": "LBR",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "LRD",
+          "key": "LR"
+        },
+        {
+          "name": "Mali",
+          "alpha2": "ML",
+          "alpha3": "MLI",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XOF",
+          "key": "ML"
+        },
+        {
+          "name": "Mavretanija",
+          "alpha2": "MR",
+          "alpha3": "MRT",
+          "units": [
+            "Uguija",
+            "Khoum"
+          ],
+          "iso4217": "MRU",
+          "key": "MR"
+        },
+        {
+          "name": "Niger",
+          "alpha2": "NE",
+          "alpha3": "NER",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XOF",
+          "key": "NE"
+        },
+        {
+          "name": "Nigerija",
+          "alpha2": "NG",
+          "alpha3": "NGA",
+          "units": [
+            "Naira",
+            "Kobo"
+          ],
+          "iso4217": "NGN",
+          "key": "NG"
+        },
+        {
+          "name": "Sveta Helena, Ascension in Tristan da Cunha",
+          "alpha2": "SH",
+          "alpha3": "SHN",
+          "units": [
+            "Helene",
+            "Peni"
+          ],
+          "iso4217": "SHP",
+          "key": "SH",
+          "dependent": true
+        },
+        {
+          "name": "Senegal",
+          "alpha2": "SN",
+          "alpha3": "SEN",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XOF",
+          "key": "SN"
+        },
+        {
+          "name": "Sierra Leone",
+          "alpha2": "SL",
+          "alpha3": "SLE",
+          "units": [
+            "Leone",
+            "Cent"
+          ],
+          "iso4217": "SLL",
+          "key": "SL"
+        },
+        {
+          "name": "Togo",
+          "alpha2": "TG",
+          "alpha3": "TGO",
+          "units": [
+            "Cfa-Frank",
+            "Centim"
+          ],
+          "iso4217": "XOF",
+          "key": "TG"
+        },
+        {
+          "name": "Somaliland",
+          "alpha2": "",
+          "alpha3": "XSL",
+          "units": [
+            "Shilling",
+            "Cent"
+          ],
+          "iso4217": "SLS",
+          "part_of": "SOM",
+          "unrecognized": true,
+          "key": "_somaliland"
+        },
+        {
+          "name": "Western Sahara",
+          "alpha2": "EH",
+          "alpha3": "ESH",
+          "units": [
+            "Peseta"
+          ],
+          "iso4217": "EHP",
+          "part_of": "MAR",
+          "unrecognized": true,
+          "key": "EH"
+        }
+      ]
+    },
+    {
+      "name": "Oceanija",
+      "countries": [
+        {
+          "name": "Avstralija",
+          "alpha2": "AU",
+          "alpha3": "AUS",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "AUD",
+          "key": "AU",
+          "mints": [
+            {
+              "name": "ABC Refinery",
+              "country": {
+                "AUS": "Australia"
+              },
+              "location": "Sydney",
+              "from_year": 1978
+            },
+            {
+              "name": "Adelaide Assay Office",
+              "country": {
+                "AUS": "Australia"
+              },
+              "location": "Adelaide",
+              "from_year": 1852,
+              "to_year": 1852
+            },
+            {
+              "name": "Downies",
+              "country": {
+                "AUS": "Australia"
+              },
+              "location": "Melbourne",
+              "from_year": 1932
+            },
+            {
+              "name": "Macquarie Mint",
+              "country": {
+                "AUS": "Australia"
+              },
+              "location": "Melbourne",
+              "from_year": 2005
+            },
+            {
+              "name": "Melbourne Mint",
+              "country": {
+                "AUS": "Australia"
+              },
+              "location": "Melbourne",
+              "from_year": 1872,
+              "to_year": 1970
+            },
+            {
+              "name": "Perth Mint",
+              "country": {
+                "AUS": "Australia"
+              },
+              "location": "Perth",
+              "from_year": 1899
+            },
+            {
+              "name": "Royal Australian Mint",
+              "country": {
+                "AUS": "Australia"
+              },
+              "location": "Canberra",
+              "from_year": 1963
+            },
+            {
+              "name": "Sydney Mint",
+              "country": {
+                "AUS": "Australia"
+              },
+              "location": "Sydney",
+              "from_year": 1854,
+              "to_year": 1926
+            },
+            {
+              "name": "The Coin Company",
+              "country": {
+                "AUS": "Australia"
+              },
+              "location": "Perth",
+              "from_year": 2017
+            },
+            {
+              "name": "Victorian Mint",
+              "country": {
+                "AUS": "Australia"
+              },
+              "location": "Melbourne",
+              "from_year": 2016
+            }
+          ]
+        },
+        {
+          "name": "Božični otok",
+          "alpha2": "CX",
+          "alpha3": "CXR",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "AUD",
+          "key": "CX",
+          "dependent": true
+        },
+        {
+          "name": "Kokosovi",
+          "alpha2": "CC",
+          "alpha3": "CCK",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "AUD",
+          "key": "CC",
+          "dependent": true
+        },
+        {
+          "name": "Heardov otok in McDonaldovi otoki",
+          "alpha2": "HM",
+          "alpha3": "HMD",
+          "units": [],
+          "iso4217": "—",
+          "key": "HM",
+          "dependent": true
+        },
+        {
+          "name": "Nova Zelandija",
+          "alpha2": "NZ",
+          "alpha3": "NZL",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "NZD",
+          "key": "NZ",
+          "mints": [
+            {
+              "name": "New Zealand Mint",
+              "country": {
+                "NZL": "New Zealand"
+              },
+              "location": "Auckland",
+              "from_year": 1967
+            }
+          ]
+        },
+        {
+          "name": "Otok Norfolk",
+          "alpha2": "NF",
+          "alpha3": "NFK",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "AUD",
+          "key": "NF",
+          "dependent": true
+        },
+        {
+          "name": "Fidži",
+          "alpha2": "FJ",
+          "alpha3": "FJI",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "FJD",
+          "key": "FJ"
+        },
+        {
+          "name": "Nova Kaledonija",
+          "alpha2": "NC",
+          "alpha3": "NCL",
+          "units": [
+            "Cfp-Frank",
+            "Centim"
+          ],
+          "iso4217": "XPF",
+          "key": "NC",
+          "dependent": true
+        },
+        {
+          "name": "Papua Nova Gvineja",
+          "alpha2": "PG",
+          "alpha3": "PNG",
+          "units": [
+            "Kina",
+            "Toea"
+          ],
+          "iso4217": "PGK",
+          "key": "PG"
+        },
+        {
+          "name": "Salomonovi otoki",
+          "alpha2": "SB",
+          "alpha3": "SLB",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "SBD",
+          "key": "SB"
+        },
+        {
+          "name": "Vanuatu",
+          "alpha2": "VU",
+          "alpha3": "VUT",
+          "units": [
+            "Vatu"
+          ],
+          "iso4217": "VUV",
+          "key": "VU"
+        },
+        {
+          "name": "Gvam",
+          "alpha2": "GU",
+          "alpha3": "GUM",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "GU",
+          "dependent": true
+        },
+        {
+          "name": "Kiribati",
+          "alpha2": "KI",
+          "alpha3": "KIR",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "AUD",
+          "key": "KI"
+        },
+        {
+          "name": "Marshallovi otoki",
+          "alpha2": "MH",
+          "alpha3": "MHL",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "MH"
+        },
+        {
+          "name": "Mikronezija",
+          "alpha2": "FM",
+          "alpha3": "FSM",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "FM"
+        },
+        {
+          "name": "Nauru",
+          "alpha2": "NR",
+          "alpha3": "NRU",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "AUD",
+          "key": "NR"
+        },
+        {
+          "name": "Severni",
+          "alpha2": "MP",
+          "alpha3": "MNP",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "MP",
+          "dependent": true
+        },
+        {
+          "name": "Palav",
+          "alpha2": "PW",
+          "alpha3": "PLW",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "PW"
+        },
+        {
+          "name": "Ameriški manjši zunanji otoki",
+          "alpha2": "UM",
+          "alpha3": "UMI",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "UM",
+          "dependent": true
+        },
+        {
+          "name": "Ameriška Samoa",
+          "alpha2": "AS",
+          "alpha3": "ASM",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "USD",
+          "key": "AS",
+          "dependent": true
+        },
+        {
+          "name": "Cookovi otoki",
+          "alpha2": "CK",
+          "alpha3": "COK",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "NZD",
+          "key": "CK",
+          "dependent": true
+        },
+        {
+          "name": "Francoska Polinezija",
+          "alpha2": "PF",
+          "alpha3": "PYF",
+          "units": [
+            "Cfp-Frank",
+            "Centim"
+          ],
+          "iso4217": "XPF",
+          "key": "PF",
+          "dependent": true
+        },
+        {
+          "name": "Niue",
+          "alpha2": "NU",
+          "alpha3": "NIU",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "NZD",
+          "key": "NU",
+          "dependent": true
+        },
+        {
+          "name": "Pitcairn",
+          "alpha2": "PN",
+          "alpha3": "PCN",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "NZD",
+          "key": "PN",
+          "dependent": true
+        },
+        {
+          "name": "Samoa",
+          "alpha2": "WS",
+          "alpha3": "WSM",
+          "units": [
+            "Tala",
+            "Sene"
+          ],
+          "iso4217": "WST",
+          "key": "WS"
+        },
+        {
+          "name": "Tokelav",
+          "alpha2": "TK",
+          "alpha3": "TKL",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "NZD",
+          "key": "TK",
+          "dependent": true
+        },
+        {
+          "name": "Tonga",
+          "alpha2": "TO",
+          "alpha3": "TON",
+          "units": [
+            "Paanga",
+            "Seniti"
+          ],
+          "iso4217": "TOP",
+          "key": "TO"
+        },
+        {
+          "name": "Tuvalu",
+          "alpha2": "TV",
+          "alpha3": "TUV",
+          "units": [
+            "Dolar",
+            "Cent"
+          ],
+          "iso4217": "AUD",
+          "key": "TV"
+        },
+        {
+          "name": "Wallis in Futuna",
+          "alpha2": "WF",
+          "alpha3": "WLF",
+          "units": [
+            "Cfp-Frank",
+            "Centim"
+          ],
+          "iso4217": "XPF",
+          "key": "WF",
+          "dependent": true
+        }
+      ]
+    }
+  ]
+}

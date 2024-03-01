@@ -133,7 +133,10 @@ def read_eu_countries(lang):
             minor = minor.title().strip()
 
         if not iso4217:
-            iso4217 = tds[8].getchildren()[0].text
+            if tds[8].getchildren():
+                iso4217 = tds[8].getchildren()[0].text
+            else:
+                iso4217 = ""
         iso4217 = iso4217.strip()
         eu_countries_list[alpha2] = {"name": name, "iso4217": iso4217, "dependent": bool(tr.get('class')), "major": major, "minor": minor}
     
