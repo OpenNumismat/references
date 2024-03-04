@@ -7,52 +7,52 @@
     "Oceania": "Oceania"
   },
   "subregions_UN": {
-    "Western Europe": "Western Europe",
-    "Northern Europe": "Northern Europe",
-    "Southern Europe": "Southern Europe",
-    "Eastern Europe": "Eastern Europe",
+    "Western Europe": "Europa Occidental",
+    "Northern Europe": "Europa del Norte",
+    "Southern Europe": "Europa del Sur",
+    "Eastern Europe": "Europa oriental",
 
-    "Northern America": "Northern America",
-    "Central America": "Central America",
-    "Caribbean": "Caribbean",
-    "South America": "South America",
+    "Northern America": "Norteamérica",
+    "Central America": "Centroamérica",
+    "Caribbean": "Caribe",
+    "South America": "Sudamérica",
 
-    "Western Asia": "Western Asia",
-    "Central Asia": "Central Asia",
-    "Southern Asia": "Southern Asia",
-    "Eastern Asia": "Eastern Asia",
-    "South-eastern Asia": "South-eastern Asia",
+    "Western Asia": "Asia Occidental",
+    "Central Asia": "Asia Central",
+    "Southern Asia": "Asia del Sur",
+    "Eastern Asia": "Asia Oriental",
+    "South-eastern Asia": "Asia del Sudeste",
 
-    "Northern Africa": "Northern Africa",
-    "Western Africa": "Western Africa",
-    "Middle Africa": "Middle Africa",
-    "Eastern Africa": "Eastern Africa",
-    "Southern Africa": "Southern Africa",
+    "Northern Africa": "África del Norte",
+    "Western Africa": "África Occidental",
+    "Middle Africa": "África Central",
+    "Eastern Africa": "África Oriental",
+    "Southern Africa": "África del Sur",
 
-    "Australia and New Zealand": "Australia and New Zealand",
+    "Australia and New Zealand": "Australia y Nueva Zelanda",
     "Melanesia": "Melanesia",
     "Micronesia": "Micronesia",
-    "Polynesia": "Polynesia"
+    "Polynesia": "Polinesia"
   },
   "regions_WorldBank": {
-    "Europe & Central Asia": "Europe & Central Asia",
+    "Europe & Central Asia": "Europa & Asia Central",
     "North America": "Norteamérica",
-    "Middle East & North Africa": "Middle East & North Africa",
-    "Latin America & Caribbean": "Latin America & Caribbean",
+    "Middle East & North Africa": "Oriente Medio & África del Norte",
+    "Latin America & Caribbean": "Latinoamérica & Caribe",
     "South Asia": "Sur de Asia",
-    "Sub-Saharan Africa": "Sub-Saharan Africa",
-    "East Asia & Pacific": "East Asia & Pacific"
+    "Sub-Saharan Africa": "África Subsahariana",
+    "East Asia & Pacific": "Asia Oriental & Pacífico"
   },
   "regions_World_Factbook": {
     "Europe": "Europe",
     "North America": "Norteamérica",
-    "Middle East": "Middle East",
-    "Central Asia": "Central Asia",
-    "East and Southeast Asia": "East and Southeast Asia",
-    "South America": "South America",
-    "Australia and Oceania": "Australia and Oceania",
+    "Middle East": "Oriente Medio",
+    "Central Asia": "Asia Central",
+    "East and Southeast Asia": "Asia Oriental y sudoriental",
+    "South America": "Sudamérica",
+    "Australia and Oceania": "Australia y Oceanía",
     "South Asia": "Sur de Asia",
     "Africa": "Africa",
-    "Central America and the Caribbean": "Central America and the Caribbean"
+    "Central America and the Caribbean": "América Central y el Caribe"
   }
 }

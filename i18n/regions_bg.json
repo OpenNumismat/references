@@ -4,7 +4,7 @@
     "Americas": "Америка",
     "Asia": "Азия",
     "Africa": "Африка",
-    "Oceania": "Oceania"
+    "Oceania": "Океания"
   },
   "subregions_UN": {
     "Western Europe": "Западна Европа",
@@ -38,7 +38,7 @@
     "Europe & Central Asia": "Европа и Централна Азия",
     "North America": "Северна Америка",
     "Middle East & North Africa": "Близък Изток и Северна Африка",
-    "Latin America & Caribbean": "Латинска Америка и Карибски регион",
+    "Latin America & Caribbean": "Латинска Америка и Карибският регион",
     "South Asia": "Южна Азия",
     "Sub-Saharan Africa": "Субсахарска Африка",
     "East Asia & Pacific": "Източна Азия и Тихоокеанският регион"
@@ -53,6 +53,6 @@
     "Australia and Oceania": "Австралия и Океания",
     "South Asia": "Южна Азия",
     "Africa": "Африка",
-    "Central America and the Caribbean": "Централна Америка и Карибски регион"
+    "Central America and the Caribbean": "Централна Америка и Карибският регион"
   }
 }
