@@ -122,6 +122,10 @@ def read_eu_countries(lang):
             major = "Yuan"
         elif alpha2 == 'VE' and lang == 'en':
             major = "Bolívar"
+        elif alpha2 == 'SH' and lang == 'bg':
+            major = "Лира"
+        elif alpha2 == 'CV' and lang == 'bg':
+            major = "Ескудо"
 
         if minor == '—':
             minor = None
@@ -254,13 +258,13 @@ with open(f"../i18n/currencies_en.json", 'w', encoding='utf8') as json_file:
     json.dump(result, json_file, ensure_ascii=False, indent=2)
 
 for lang in ('bg', 'es', 'cs', 'de', 'el', 'et', 'fr', 'it', 'lv', 'hu', 'nl', 'pl', 'pt', 'sk', 'sl', 'sv'):
+#for lang in ('bg',):
     result = {"currencies": {}}
     lang_countries = process_countries(lang)
     
     for orig_country in orig_countries["countries"]:
         if "key" not in orig_country:
             continue
-        key = orig_country["key"]
 
         orig_units = []
         orig_contemporary_units = []
@@ -275,11 +279,26 @@ for lang in ('bg', 'es', 'cs', 'de', 'el', 'et', 'fr', 'it', 'lv', 'hu', 'nl', '
         for i, unit in enumerate(orig_contemporary_units):
             result["currencies"][unit] = ""
 
+    for orig_country in orig_countries["countries"]:
+        if "key" not in orig_country:
+            continue
+        key = orig_country["key"]
+
+        orig_units = []
+        orig_contemporary_units = []
+        for unit in orig_country["units"]:
+            orig_units.append(unit)
+        if "contemporary_units" in orig_country:
+            for unit in orig_country["contemporary_units"]:
+                orig_contemporary_units.append(unit)
+
         for country in lang_countries["countries"]:
             if "key" in country and country["key"] == key:
                 if len(country["units"]) == len(orig_units):
                     for i, unit in enumerate(country["units"]):
-                        result["currencies"][orig_units[i]] = unit
+                        orig_unit = orig_units[i]
+                        if not result["currencies"][orig_unit]:
+                            result["currencies"][orig_unit] = unit
 
     with open(f"../i18n/currencies_{lang}.json", 'w', encoding='utf8') as json_file:
         json.dump(result, json_file, ensure_ascii=False, indent=2)
