@@ -16,6 +16,25 @@ def country2countrydata(country, orig_data):
                 return orig_country
     return None
 
+def get_translated_country_names(lang):
+    path = f'../i18n/countries_{lang}.json'
+    if not os.path.isfile(path):
+        path = f'../i18n/countries_en.json'
+
+    with open(path, encoding='utf-8') as file:
+        data = json.load(file)
+        return data["countries"]
+
+def get_translated_currency_names(lang):
+    path = f'../i18n/currencies_{lang}.json'
+    if not os.path.isfile(path):
+        path = f'../i18n/currencies_en.json'
+
+    with open(path, encoding='utf-8') as file:
+        data = json.load(file)
+        return data["currencies"]
+
+
 
 TITLE = "regions_UN"
 
@@ -26,20 +45,29 @@ with open('../src/UNSD — Methodology.csv', encoding='utf-8') as file:
     for row in reader:
         countries_list[row[11]] = row[3]
 
+with open(f"../data/country_currency_en.json", encoding='utf-8') as orig_file:
+    orig_data = json.load(orig_file)
+
 for lang in lang_list():
     result = get_regions(TITLE, lang)
-
-    with open(f"../data/country_currency_{lang}.json", encoding='utf-8') as orig_file:
-        orig_data = json.load(orig_file)
+    translated_country_names = get_translated_country_names(lang)
+    translated_currency_names = get_translated_currency_names(lang)
 
     for orig_country in orig_data["countries"]:
         finded = False
         for alpha3, region in countries_list.items():
-#            if compare_county_names(country, orig_country["name"]):
             if alpha3 == orig_country["alpha3"]:
                 for r in result["regions"]:
                     if r["name"] == region2region_name(region):
-                        r["countries"].append(orig_country)
+                        translated_country = orig_country.copy()
+                        translated_country["name"] = translated_country_names[orig_country["name"]]
+
+                        units = []
+                        for unit in orig_country["units"]:
+                            units.append(translated_currency_names[unit])
+                        translated_country["units"] = units
+
+                        r["countries"].append(translated_country)
                         finded = True
                         break
                 break
@@ -48,7 +76,15 @@ for lang in lang_list():
             for r in result["regions"]:
                 for c in r["countries"]:
                     if c["alpha3"] == orig_country["part_of"]:
-                        r["countries"].append(orig_country)
+                        translated_country = orig_country.copy()
+                        translated_country["name"] = translated_country_names[orig_country["name"]]
+
+                        units = []
+                        for unit in orig_country["units"]:
+                            units.append(translated_currency_names[unit])
+                        translated_country["units"] = units
+
+                        r["countries"].append(translated_country)
                         finded = True
                         break
 
