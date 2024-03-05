@@ -225,8 +225,8 @@
           "alpha2": "UA",
           "alpha3": "UKR",
           "units": [
-            "",
-            ""
+            "Hryvnia",
+            "Kopiyka"
           ],
           "iso4217": "UAH",
           "key": "UA"
@@ -3777,7 +3777,7 @@
           "key": "GA"
         },
         {
-          "name": "Sao Tomé e Principe",
+          "name": "São Tomé e Príncipe",
           "alpha2": "ST",
           "alpha3": "STP",
           "units": [

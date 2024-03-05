@@ -19,8 +19,8 @@
           "alpha2": "BG",
           "alpha3": "BGR",
           "units": [
-            "",
-            ""
+            "Lev",
+            "Stotinka"
           ],
           "iso4217": "BGN",
           "key": "BG",
@@ -45,7 +45,7 @@
           ]
         },
         {
-          "name": "Češka",
+          "name": "Češka",
           "alpha2": "CZ",
           "alpha3": "CZE",
           "units": [
@@ -67,7 +67,7 @@
           ]
         },
         {
-          "name": "Madžarska",
+          "name": "Madžarska",
           "alpha2": "HU",
           "alpha3": "HUN",
           "units": [
@@ -138,8 +138,8 @@
           "alpha2": "MD",
           "alpha3": "MDA",
           "units": [
-            "",
-            ""
+            "Leu",
+            "Ban"
           ],
           "iso4217": "MDL",
           "key": "MD"
@@ -149,8 +149,8 @@
           "alpha2": "RO",
           "alpha3": "ROU",
           "units": [
-            "",
-            ""
+            "Leu",
+            "Ban"
           ],
           "iso4217": "RON",
           "key": "RO"
@@ -187,7 +187,7 @@
           ]
         },
         {
-          "name": "Slovaška",
+          "name": "Slovaška",
           "alpha2": "SK",
           "alpha3": "SVK",
           "units": [
@@ -232,7 +232,7 @@
           "key": "UA"
         },
         {
-          "name": "Alandski",
+          "name": "Åland Islands",
           "alpha2": "AX",
           "alpha3": "ALA",
           "units": [
@@ -308,7 +308,7 @@
           ]
         },
         {
-          "name": "Ferski otoki",
+          "name": "Faroes",
           "alpha2": "FO",
           "alpha3": "FRO",
           "units": [
@@ -462,7 +462,7 @@
           ]
         },
         {
-          "name": "Norveška",
+          "name": "Norveška",
           "alpha2": "NO",
           "alpha3": "NOR",
           "units": [
@@ -484,7 +484,7 @@
           ]
         },
         {
-          "name": "Svalbard in Jan Mayen",
+          "name": "Svalbard and Jan Mayen Islands",
           "alpha2": "SJ",
           "alpha3": "SJM",
           "units": [
@@ -496,7 +496,7 @@
           "dependent": true
         },
         {
-          "name": "Švedska",
+          "name": "Švedska",
           "alpha2": "SE",
           "alpha3": "SWE",
           "units": [
@@ -507,7 +507,7 @@
           "key": "SE"
         },
         {
-          "name": "Združeno kraljestvo",
+          "name": "Združeno kraljestvo",
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
@@ -667,7 +667,7 @@
           "key": "BA"
         },
         {
-          "name": "Hrvaška",
+          "name": "Hrvaška",
           "alpha2": "HR",
           "alpha3": "HRV",
           "units": [
@@ -704,7 +704,7 @@
           "dependent": true
         },
         {
-          "name": "Grčija",
+          "name": "Grčija",
           "alpha2": "GR",
           "alpha3": "GRC",
           "units": [
@@ -739,7 +739,7 @@
           ]
         },
         {
-          "name": "Sveti sedež",
+          "name": "Vatikan",
           "alpha2": "VA",
           "alpha3": "VAT",
           "units": [
@@ -810,7 +810,7 @@
           ]
         },
         {
-          "name": "Črna gora",
+          "name": "Črna gora",
           "alpha2": "ME",
           "alpha3": "MNE",
           "units": [
@@ -821,7 +821,7 @@
           "key": "ME"
         },
         {
-          "name": "Severna Makedonija",
+          "name": "North Macedonia",
           "alpha2": "MK",
           "alpha3": "MKD",
           "units": [
@@ -905,7 +905,7 @@
           ]
         },
         {
-          "name": "Španija",
+          "name": "Španija",
           "alpha2": "ES",
           "alpha3": "ESP",
           "units": [
@@ -1080,7 +1080,7 @@
           ]
         },
         {
-          "name": "Nemčija",
+          "name": "Nemčija",
           "alpha2": "DE",
           "alpha3": "DEU",
           "units": [
@@ -1244,7 +1244,7 @@
           ]
         },
         {
-          "name": "Lihtenštajn",
+          "name": "Liechtenstein",
           "alpha2": "LI",
           "alpha3": "LIE",
           "units": [
@@ -1325,7 +1325,7 @@
           ]
         },
         {
-          "name": "Švica",
+          "name": "Švica",
           "alpha2": "CH",
           "alpha3": "CHE",
           "units": [
@@ -1553,7 +1553,7 @@
           "dependent": true
         },
         {
-          "name": "Britanski Deviški otoki",
+          "name": "Britanski Deviški otoki",
           "alpha2": "VG",
           "alpha3": "VGB",
           "units": [
@@ -1565,7 +1565,7 @@
           "dependent": true
         },
         {
-          "name": "Kajmanji",
+          "name": "Kajmanji otoki",
           "alpha2": "KY",
           "alpha3": "CYM",
           "units": [
@@ -1588,7 +1588,7 @@
           "key": "CU"
         },
         {
-          "name": "Curaçao",
+          "name": "Curaçao",
           "alpha2": "CW",
           "alpha3": "CUW",
           "units": [
@@ -1633,7 +1633,7 @@
           "key": "GD"
         },
         {
-          "name": "Gvadelup",
+          "name": "Guadeloupe",
           "alpha2": "GP",
           "alpha3": "GLP",
           "units": [
@@ -1667,7 +1667,7 @@
           "key": "JM"
         },
         {
-          "name": "Martinik",
+          "name": "Martinique",
           "alpha2": "MQ",
           "alpha3": "MTQ",
           "units": [
@@ -1691,7 +1691,7 @@
           "dependent": true
         },
         {
-          "name": "Portoriko",
+          "name": "Puerto Rico",
           "alpha2": "PR",
           "alpha3": "PRI",
           "units": [
@@ -1703,7 +1703,7 @@
           "dependent": true
         },
         {
-          "name": "Sveti Bartolomej",
+          "name": "Saint Barthélemy",
           "alpha2": "BL",
           "alpha3": "BLM",
           "units": [
@@ -1715,7 +1715,7 @@
           "dependent": true
         },
         {
-          "name": "Sveti Krištof in Nevis",
+          "name": "Sveti Krištof in Nevis",
           "alpha2": "KN",
           "alpha3": "KNA",
           "units": [
@@ -1737,7 +1737,7 @@
           "key": "LC"
         },
         {
-          "name": "Francoski Sveti Martin",
+          "name": "Saint Martin",
           "alpha2": "MF",
           "alpha3": "MAF",
           "units": [
@@ -1760,7 +1760,7 @@
           "key": "VC"
         },
         {
-          "name": "Nizozemski Sveti Martin",
+          "name": "Sveti Martin",
           "alpha2": "SX",
           "alpha3": "SXM",
           "units": [
@@ -1795,7 +1795,7 @@
           "dependent": true
         },
         {
-          "name": "Ameriški Deviški otoki",
+          "name": "United States Virgin Islands",
           "alpha2": "VI",
           "alpha3": "VIR",
           "units": [
@@ -1943,7 +1943,7 @@
           "key": "BO"
         },
         {
-          "name": "Bouvetov otok",
+          "name": "Bouvet Island",
           "alpha2": "BV",
           "alpha3": "BVT",
           "units": [],
@@ -1978,7 +1978,7 @@
           ]
         },
         {
-          "name": "Čile",
+          "name": "Čile",
           "alpha2": "CL",
           "alpha3": "CHL",
           "units": [
@@ -2026,7 +2026,7 @@
           ]
         },
         {
-          "name": "Falklandski otoki",
+          "name": "Falkland Islands (Malvinas)",
           "alpha2": "FK",
           "alpha3": "FLK",
           "units": [
@@ -2038,7 +2038,7 @@
           "dependent": true
         },
         {
-          "name": "Francoska Gvajana",
+          "name": "French Guiana",
           "alpha2": "GF",
           "alpha3": "GUF",
           "units": [
@@ -2088,7 +2088,7 @@
           ]
         },
         {
-          "name": "Južna",
+          "name": "South Georgia and South Sandwich Islands",
           "alpha2": "GS",
           "alpha3": "SGS",
           "units": [],
@@ -2175,7 +2175,7 @@
           ]
         },
         {
-          "name": "Grenlandija",
+          "name": "Greenland",
           "alpha2": "GL",
           "alpha3": "GRL",
           "units": [
@@ -2187,7 +2187,7 @@
           "dependent": true
         },
         {
-          "name": "Sveta Peter in Mihael",
+          "name": "Saint Pierre and Miquelon",
           "alpha2": "PM",
           "alpha3": "SPM",
           "units": [
@@ -2199,7 +2199,7 @@
           "dependent": true
         },
         {
-          "name": "Združene države",
+          "name": "Združene države",
           "alpha2": "US",
           "alpha3": "USA",
           "units": [
@@ -2455,7 +2455,7 @@
           "key": "KG"
         },
         {
-          "name": "Tadžikistan",
+          "name": "Tadžikistan",
           "alpha2": "TJ",
           "alpha3": "TJK",
           "units": [
@@ -2567,7 +2567,7 @@
           ]
         },
         {
-          "name": "Makav",
+          "name": "Macao",
           "alpha2": "MO",
           "alpha3": "MAC",
           "units": [
@@ -2579,7 +2579,7 @@
           "dependent": true
         },
         {
-          "name": "Severna Koreja",
+          "name": "North Korea",
           "alpha2": "KP",
           "alpha3": "PRK",
           "units": [
@@ -2631,7 +2631,7 @@
           "key": "MN"
         },
         {
-          "name": "Južna Koreja",
+          "name": "South Korea",
           "alpha2": "KR",
           "alpha3": "KOR",
           "units": [
@@ -2663,7 +2663,7 @@
           "key": "BN"
         },
         {
-          "name": "Kambodža",
+          "name": "Kambodža",
           "alpha2": "KH",
           "alpha3": "KHM",
           "units": [
@@ -2819,7 +2819,7 @@
           ]
         },
         {
-          "name": "Timor-Leste",
+          "name": "Vzhodni Timor",
           "alpha2": "TL",
           "alpha3": "TLS",
           "units": [
@@ -2830,7 +2830,7 @@
           "key": "TL"
         },
         {
-          "name": "Vietnam",
+          "name": "Viet Nam",
           "alpha2": "VN",
           "alpha3": "VNM",
           "units": [
@@ -2852,7 +2852,7 @@
           "key": "AF"
         },
         {
-          "name": "Bangladeš",
+          "name": "Bangladeš",
           "alpha2": "BD",
           "alpha3": "BGD",
           "units": [
@@ -2981,7 +2981,7 @@
           "key": "PK"
         },
         {
-          "name": "Šrilanka",
+          "name": "Šrilanka",
           "alpha2": "LK",
           "alpha3": "LKA",
           "units": [
@@ -3003,7 +3003,7 @@
           "key": "AM"
         },
         {
-          "name": "Azerbajdžan",
+          "name": "Azerbajdžan",
           "alpha2": "AZ",
           "alpha3": "AZE",
           "units": [
@@ -3148,7 +3148,7 @@
           "alpha3": "SAU",
           "units": [
             "Rial",
-            ""
+            "Halala"
           ],
           "iso4217": "SAR",
           "key": "SA"
@@ -3165,7 +3165,7 @@
           "key": "SY"
         },
         {
-          "name": "Turčija",
+          "name": "Türkiye",
           "alpha2": "TR",
           "alpha3": "TUR",
           "units": [
@@ -3187,7 +3187,7 @@
           ]
         },
         {
-          "name": "Združeni arabski emirati",
+          "name": "Združeni arabski emirati",
           "alpha2": "AE",
           "alpha3": "ARE",
           "units": [
@@ -3233,7 +3233,7 @@
           "key": "_northern-cyprus"
         },
         {
-          "name": "Palestine",
+          "name": "Palestina",
           "alpha2": "PS",
           "alpha3": "PSE",
           "units": [],
@@ -3467,7 +3467,7 @@
           "key": "KM"
         },
         {
-          "name": "Džibuti",
+          "name": "Džibuti",
           "alpha2": "DJ",
           "alpha3": "DJI",
           "units": [
@@ -3499,7 +3499,7 @@
           "key": "ET"
         },
         {
-          "name": "Francoska južna",
+          "name": "French Southern Territories",
           "alpha2": "TF",
           "alpha3": "ATF",
           "units": [
@@ -3585,7 +3585,7 @@
           ]
         },
         {
-          "name": "Reunion",
+          "name": "Réunion",
           "alpha2": "RE",
           "alpha3": "REU",
           "units": [
@@ -3608,7 +3608,7 @@
           "key": "RW"
         },
         {
-          "name": "Sejšeli",
+          "name": "Sejšeli",
           "alpha2": "SC",
           "alpha3": "SYC",
           "units": [
@@ -3630,7 +3630,7 @@
           "key": "SO"
         },
         {
-          "name": "Južni Sudan",
+          "name": "Južni Sudan",
           "alpha2": "SS",
           "alpha3": "SSD",
           "units": [
@@ -3696,7 +3696,7 @@
           "key": "AO"
         },
         {
-          "name": "Cameroon",
+          "name": "Kamerun",
           "alpha2": "CM",
           "alpha3": "CMR",
           "units": [
@@ -3707,7 +3707,7 @@
           "key": "CM"
         },
         {
-          "name": "Srednjeafriška republika",
+          "name": "Srednjeafriška republika",
           "alpha2": "CF",
           "alpha3": "CAF",
           "units": [
@@ -3718,7 +3718,7 @@
           "key": "CF"
         },
         {
-          "name": "Čad",
+          "name": "Čad",
           "alpha2": "TD",
           "alpha3": "TCD",
           "units": [
@@ -3729,7 +3729,7 @@
           "key": "TD"
         },
         {
-          "name": "Kongo",
+          "name": "Congo",
           "alpha2": "CG",
           "alpha3": "COG",
           "units": [
@@ -3740,7 +3740,7 @@
           "key": "CG"
         },
         {
-          "name": "Demokratična republika Kongo",
+          "name": "Democratic Republic of the Congo",
           "alpha2": "CD",
           "alpha3": "COD",
           "units": [
@@ -3777,7 +3777,7 @@
           "key": "GA"
         },
         {
-          "name": "Sveti Tomaž in Princ",
+          "name": "Sveti Tomaž in Princ",
           "alpha2": "ST",
           "alpha3": "STP",
           "units": [
@@ -3799,7 +3799,7 @@
           "key": "BW"
         },
         {
-          "name": "Esvatini",
+          "name": "Eswatini",
           "alpha2": "SZ",
           "alpha3": "SWZ",
           "units": [
@@ -3832,7 +3832,7 @@
           "key": "NA"
         },
         {
-          "name": "Južna Afrika",
+          "name": "Južna Afrika",
           "alpha2": "ZA",
           "alpha3": "ZAF",
           "units": [
@@ -3891,7 +3891,7 @@
           "key": "BF"
         },
         {
-          "name": "Zelenortski otoki",
+          "name": "Cabo Verde",
           "alpha2": "CV",
           "alpha3": "CPV",
           "units": [
@@ -3902,7 +3902,7 @@
           "key": "CV"
         },
         {
-          "name": "Slonokoščena obala",
+          "name": "Côte d’Ivoire",
           "alpha2": "CI",
           "alpha3": "CIV",
           "units": [
@@ -4015,7 +4015,7 @@
           "key": "NG"
         },
         {
-          "name": "Sveta Helena, Ascension in Tristan da Cunha",
+          "name": "Saint Helena",
           "alpha2": "SH",
           "alpha3": "SHN",
           "units": [
@@ -4186,7 +4186,7 @@
           ]
         },
         {
-          "name": "Božični otok",
+          "name": "Christmas Island",
           "alpha2": "CX",
           "alpha3": "CXR",
           "units": [
@@ -4198,7 +4198,7 @@
           "dependent": true
         },
         {
-          "name": "Kokosovi",
+          "name": "Kokosovi (Keelingovi) otoki",
           "alpha2": "CC",
           "alpha3": "CCK",
           "units": [
@@ -4210,7 +4210,7 @@
           "dependent": true
         },
         {
-          "name": "Heardov otok in McDonaldovi otoki",
+          "name": "Heard Island and McDonald Islands",
           "alpha2": "HM",
           "alpha3": "HMD",
           "units": [],
@@ -4240,7 +4240,7 @@
           ]
         },
         {
-          "name": "Otok Norfolk",
+          "name": "Norfolk Island",
           "alpha2": "NF",
           "alpha3": "NFK",
           "units": [
@@ -4252,7 +4252,7 @@
           "dependent": true
         },
         {
-          "name": "Fidži",
+          "name": "Fidži",
           "alpha2": "FJ",
           "alpha3": "FJI",
           "units": [
@@ -4275,7 +4275,7 @@
           "dependent": true
         },
         {
-          "name": "Papua Nova Gvineja",
+          "name": "Papuanska Nova Gvineja",
           "alpha2": "PG",
           "alpha3": "PNG",
           "units": [
@@ -4307,7 +4307,7 @@
           "key": "VU"
         },
         {
-          "name": "Gvam",
+          "name": "Guam",
           "alpha2": "GU",
           "alpha3": "GUM",
           "units": [
@@ -4363,7 +4363,7 @@
           "key": "NR"
         },
         {
-          "name": "Severni",
+          "name": "Northern Mariana Islands",
           "alpha2": "MP",
           "alpha3": "MNP",
           "units": [
@@ -4386,7 +4386,7 @@
           "key": "PW"
         },
         {
-          "name": "Ameriški manjši zunanji otoki",
+          "name": "United States Minor Outlying Islands",
           "alpha2": "UM",
           "alpha3": "UMI",
           "units": [
@@ -4398,7 +4398,7 @@
           "dependent": true
         },
         {
-          "name": "Ameriška Samoa",
+          "name": "American Samoa",
           "alpha2": "AS",
           "alpha3": "ASM",
           "units": [
@@ -4469,7 +4469,7 @@
           "key": "WS"
         },
         {
-          "name": "Tokelav",
+          "name": "Tokelau",
           "alpha2": "TK",
           "alpha3": "TKL",
           "units": [
@@ -4503,7 +4503,7 @@
           "key": "TV"
         },
         {
-          "name": "Wallis in Futuna",
+          "name": "Wallis and Futuna Islands",
           "alpha2": "WF",
           "alpha3": "WLF",
           "units": [
