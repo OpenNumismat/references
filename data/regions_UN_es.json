@@ -8,7 +8,7 @@
           "alpha2": "BY",
           "alpha3": "BLR",
           "units": [
-            "Rouble",
+            "Rublo",
             "Kopek"
           ],
           "iso4217": "BYN",
@@ -49,8 +49,8 @@
           "alpha2": "CZ",
           "alpha3": "CZE",
           "units": [
-            "Koruna",
-            "Halér"
+            "Corona",
+            "Haler"
           ],
           "iso4217": "CZK",
           "key": "CZ",
@@ -160,7 +160,7 @@
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
-            "Rouble",
+            "Rublo",
             "Kopek"
           ],
           "iso4217": "RUB",
@@ -362,7 +362,7 @@
           "alpha2": "IS",
           "alpha3": "ISL",
           "units": [
-            "Króna"
+            "Corona"
           ],
           "iso4217": "ISK",
           "key": "IS",
@@ -660,7 +660,7 @@
           "alpha2": "BA",
           "alpha3": "BIH",
           "units": [
-            "Mark",
+            "Marco",
             "Penique"
           ],
           "iso4217": "BAM",
@@ -1428,8 +1428,8 @@
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
-            "Halér"
+            "Corona",
+            "Haler"
           ],
           "part_of": "CZE",
           "iso4217": "CSK",
@@ -1443,7 +1443,7 @@
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
-            "Mark",
+            "Marco",
             "Pfennig"
           ],
           "part_of": "DEU",
@@ -1458,7 +1458,7 @@
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
+            "Rublo",
             "Kopek"
           ],
           "part_of": "RUS",
@@ -1516,7 +1516,7 @@
           "alpha2": "AW",
           "alpha3": "ABW",
           "units": [
-            "Guilder",
+            "Florín",
             "Centavo"
           ],
           "iso4217": "AWG",
@@ -1592,7 +1592,7 @@
           "alpha2": "CW",
           "alpha3": "CUW",
           "units": [
-            "Guilder",
+            "Florín",
             "Centavo"
           ],
           "iso4217": "ANG",
@@ -1764,7 +1764,7 @@
           "alpha2": "SX",
           "alpha3": "SXM",
           "units": [
-            "Guilder",
+            "Florín",
             "Centavo"
           ],
           "iso4217": "ANG",
@@ -3019,7 +3019,7 @@
           "alpha3": "BHR",
           "units": [
             "Dinar",
-            "Fils"
+            "Fil"
           ],
           "iso4217": "BHD",
           "key": "BH"
@@ -3056,7 +3056,7 @@
           "alpha3": "IRQ",
           "units": [
             "Dinar",
-            "Fils"
+            "Fil"
           ],
           "iso4217": "IQD",
           "key": "IQ"
@@ -3104,7 +3104,7 @@
           "alpha3": "KWT",
           "units": [
             "Dinar",
-            "Fils"
+            "Fil"
           ],
           "iso4217": "KWD",
           "key": "KW"
@@ -3192,7 +3192,7 @@
           "alpha3": "ARE",
           "units": [
             "Dírham",
-            "Fils"
+            "Fil"
           ],
           "iso4217": "AED",
           "key": "AE"
@@ -3203,7 +3203,7 @@
           "alpha3": "YEM",
           "units": [
             "Rial",
-            "Fils"
+            "Fil"
           ],
           "iso4217": "YER",
           "key": "YE"
@@ -3246,7 +3246,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
+            "Rublo",
             "Kopek"
           ],
           "iso4217": "RUB",
@@ -3334,7 +3334,7 @@
           "alpha3": "YMD",
           "units": [
             "Dinar",
-            "Fils"
+            "Fil"
           ],
           "part_of": "YEM",
           "iso4217": "YDD",
@@ -3515,7 +3515,7 @@
           "alpha2": "KE",
           "alpha3": "KEN",
           "units": [
-            "Shilling",
+            "Chelín",
             "Centavo"
           ],
           "iso4217": "KES",
@@ -3526,8 +3526,8 @@
           "alpha2": "MG",
           "alpha3": "MDG",
           "units": [
-            "Ariary",
-            "Iraimbilanja"
+            "",
+            ""
           ],
           "iso4217": "MGA",
           "key": "MG",
@@ -3623,7 +3623,7 @@
           "alpha2": "SO",
           "alpha3": "SOM",
           "units": [
-            "Shilling",
+            "Chelín",
             "Centavo"
           ],
           "iso4217": "SOS",
@@ -3645,7 +3645,7 @@
           "alpha2": "UG",
           "alpha3": "UGA",
           "units": [
-            "Shilling",
+            "Chelín",
             "Centavo"
           ],
           "iso4217": "UGX",
@@ -3656,7 +3656,7 @@
           "alpha2": "TZ",
           "alpha3": "TZA",
           "units": [
-            "Shilling",
+            "Chelín",
             "Centavo"
           ],
           "iso4217": "TZS",
@@ -4064,7 +4064,7 @@
           "alpha2": "",
           "alpha3": "XSL",
           "units": [
-            "Shilling",
+            "Chelín",
             "Centavo"
           ],
           "iso4217": "SLS",

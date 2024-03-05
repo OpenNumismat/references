@@ -8,8 +8,8 @@
           "alpha2": "BY",
           "alpha3": "BLR",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rublo",
+            "Copeque"
           ],
           "iso4217": "BYN",
           "key": "BY"
@@ -49,7 +49,7 @@
           "alpha2": "CZ",
           "alpha3": "CZE",
           "units": [
-            "Koruna",
+            "Coroa",
             "Halér"
           ],
           "iso4217": "CZK",
@@ -160,8 +160,8 @@
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rublo",
+            "Copeque"
           ],
           "iso4217": "RUB",
           "key": "RU",
@@ -192,7 +192,7 @@
           "alpha3": "SVK",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "SK",
@@ -237,7 +237,7 @@
           "alpha3": "ALA",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "AX",
@@ -280,7 +280,7 @@
           "alpha3": "EST",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "EE",
@@ -325,7 +325,7 @@
           "alpha3": "FIN",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "FI",
@@ -377,7 +377,7 @@
           "alpha3": "IRL",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "IE",
@@ -426,7 +426,7 @@
           "alpha3": "LVA",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "LV",
@@ -441,7 +441,7 @@
           "alpha3": "LTU",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "LT",
@@ -646,7 +646,7 @@
           "alpha3": "AND",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "AD",
@@ -660,7 +660,7 @@
           "alpha2": "BA",
           "alpha3": "BIH",
           "units": [
-            "Mark",
+            "Marco",
             "Fening"
           ],
           "iso4217": "BAM",
@@ -709,7 +709,7 @@
           "alpha3": "GRC",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "GR",
@@ -744,7 +744,7 @@
           "alpha3": "VAT",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "VA"
@@ -755,7 +755,7 @@
           "alpha3": "ITA",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "IT",
@@ -789,7 +789,7 @@
           "alpha3": "MLT",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "MT",
@@ -815,7 +815,7 @@
           "alpha3": "MNE",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "ME"
@@ -837,7 +837,7 @@
           "alpha3": "PRT",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "PT",
@@ -863,7 +863,7 @@
           "alpha3": "SMR",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "SM"
@@ -895,7 +895,7 @@
           "alpha3": "SVN",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "SI",
@@ -910,7 +910,7 @@
           "alpha3": "ESP",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "ES",
@@ -964,7 +964,7 @@
           "alpha3": "AUT",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "AT",
@@ -991,7 +991,7 @@
           "alpha3": "BEL",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "BE",
@@ -1033,7 +1033,7 @@
           "alpha3": "FRA",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "FR",
@@ -1085,7 +1085,7 @@
           "alpha3": "DEU",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "DE",
@@ -1270,7 +1270,7 @@
           "alpha3": "LUX",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "LU",
@@ -1285,7 +1285,7 @@
           "alpha3": "MCO",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "MC"
@@ -1296,7 +1296,7 @@
           "alpha3": "NLD",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "NL",
@@ -1392,7 +1392,7 @@
           "alpha3": "XKX",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "part_of": "SRB",
@@ -1405,7 +1405,7 @@
           "alpha3": "XPR",
           "units": [
             "Ruble",
-            "Kopek"
+            "Copeque"
           ],
           "iso4217": "PRB",
           "part_of": "MDA",
@@ -1428,7 +1428,7 @@
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
+            "Coroa",
             "Halér"
           ],
           "part_of": "CZE",
@@ -1443,7 +1443,7 @@
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
-            "Mark",
+            "Marco",
             "Pfennig"
           ],
           "part_of": "DEU",
@@ -1458,8 +1458,8 @@
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rublo",
+            "Copeque"
           ],
           "part_of": "RUS",
           "iso4217": "RUB",
@@ -1493,8 +1493,8 @@
           "alpha2": "AI",
           "alpha3": "AIA",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "XCD",
           "key": "AI",
@@ -1505,8 +1505,8 @@
           "alpha2": "AG",
           "alpha3": "ATG",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "XCD",
           "key": "AG"
@@ -1516,8 +1516,8 @@
           "alpha2": "AW",
           "alpha3": "ABW",
           "units": [
-            "Guilder",
-            "Cent"
+            "Florim",
+            "Cêntimo"
           ],
           "iso4217": "AWG",
           "key": "AW",
@@ -1528,8 +1528,8 @@
           "alpha2": "BS",
           "alpha3": "BHS",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "BSD",
           "key": "BS"
@@ -1539,8 +1539,8 @@
           "alpha2": "BB",
           "alpha3": "BRB",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "BBD",
           "key": "BB"
@@ -1557,8 +1557,8 @@
           "alpha2": "VG",
           "alpha3": "VGB",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "VG",
@@ -1569,8 +1569,8 @@
           "alpha2": "KY",
           "alpha3": "CYM",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "KYD",
           "key": "KY",
@@ -1592,8 +1592,8 @@
           "alpha2": "CW",
           "alpha3": "CUW",
           "units": [
-            "Guilder",
-            "Cent"
+            "Florim",
+            "Cêntimo"
           ],
           "iso4217": "ANG",
           "key": "CW",
@@ -1604,8 +1604,8 @@
           "alpha2": "DM",
           "alpha3": "DMA",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "XCD",
           "key": "DM"
@@ -1626,8 +1626,8 @@
           "alpha2": "GD",
           "alpha3": "GRD",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "XCD",
           "key": "GD"
@@ -1638,7 +1638,7 @@
           "alpha3": "GLP",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "GP",
@@ -1660,8 +1660,8 @@
           "alpha2": "JM",
           "alpha3": "JAM",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "JMD",
           "key": "JM"
@@ -1672,7 +1672,7 @@
           "alpha3": "MTQ",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "MQ",
@@ -1683,8 +1683,8 @@
           "alpha2": "MS",
           "alpha3": "MSR",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "XCD",
           "key": "MS",
@@ -1695,8 +1695,8 @@
           "alpha2": "PR",
           "alpha3": "PRI",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "PR",
@@ -1708,7 +1708,7 @@
           "alpha3": "BLM",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "BL",
@@ -1719,8 +1719,8 @@
           "alpha2": "KN",
           "alpha3": "KNA",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "XCD",
           "key": "KN"
@@ -1730,8 +1730,8 @@
           "alpha2": "LC",
           "alpha3": "LCA",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "XCD",
           "key": "LC"
@@ -1742,7 +1742,7 @@
           "alpha3": "MAF",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "MF",
@@ -1753,8 +1753,8 @@
           "alpha2": "VC",
           "alpha3": "VCT",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "XCD",
           "key": "VC"
@@ -1764,8 +1764,8 @@
           "alpha2": "SX",
           "alpha3": "SXM",
           "units": [
-            "Guilder",
-            "Cent"
+            "Florim",
+            "Cêntimo"
           ],
           "iso4217": "ANG",
           "key": "SX",
@@ -1776,8 +1776,8 @@
           "alpha2": "TT",
           "alpha3": "TTO",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "TTD",
           "key": "TT"
@@ -1787,8 +1787,8 @@
           "alpha2": "TC",
           "alpha3": "TCA",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "TC",
@@ -1799,8 +1799,8 @@
           "alpha2": "VI",
           "alpha3": "VIR",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "VI",
@@ -1811,8 +1811,8 @@
           "alpha2": "BZ",
           "alpha3": "BLZ",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "BZD",
           "key": "BZ"
@@ -2015,8 +2015,8 @@
           "alpha2": "EC",
           "alpha3": "ECU",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "EC",
@@ -2043,7 +2043,7 @@
           "alpha3": "GUF",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "GF",
@@ -2054,8 +2054,8 @@
           "alpha2": "GY",
           "alpha3": "GUY",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "GYD",
           "key": "GY"
@@ -2101,8 +2101,8 @@
           "alpha2": "SR",
           "alpha3": "SUR",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "SRD",
           "key": "SR",
@@ -2138,8 +2138,8 @@
           "alpha2": "BM",
           "alpha3": "BMU",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "BMD",
           "key": "BM",
@@ -2150,8 +2150,8 @@
           "alpha2": "CA",
           "alpha3": "CAN",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "CAD",
           "key": "CA",
@@ -2192,7 +2192,7 @@
           "alpha3": "SPM",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "PM",
@@ -2203,8 +2203,8 @@
           "alpha2": "US",
           "alpha3": "USA",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "US",
@@ -2437,7 +2437,7 @@
           "alpha2": "KZ",
           "alpha3": "KAZ",
           "units": [
-            "Tenge",
+            "Tengue",
             "Tiyin"
           ],
           "iso4217": "KZT",
@@ -2471,7 +2471,7 @@
           "alpha3": "TKM",
           "units": [
             "Manat",
-            "Tenge"
+            "Tengue"
           ],
           "iso4217": "TMT",
           "key": "TM"
@@ -2549,8 +2549,8 @@
           "alpha2": "HK",
           "alpha3": "HKG",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "HKD",
           "key": "HK",
@@ -2656,7 +2656,7 @@
           "alpha2": "BN",
           "alpha3": "BRN",
           "units": [
-            "Dolar",
+            "Dólar",
             "Cêntimo"
           ],
           "iso4217": "BND",
@@ -2754,8 +2754,8 @@
           "alpha2": "SG",
           "alpha3": "SGP",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "SGD",
           "key": "SG",
@@ -2823,8 +2823,8 @@
           "alpha2": "TL",
           "alpha3": "TLS",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "TL"
@@ -2986,7 +2986,7 @@
           "alpha3": "LKA",
           "units": [
             "Rupia",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "LKR",
           "key": "LK"
@@ -3030,7 +3030,7 @@
           "alpha3": "CYP",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "CY",
@@ -3246,8 +3246,8 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rublo",
+            "Copeque"
           ],
           "iso4217": "RUB",
           "part_of": "GEO",
@@ -3259,8 +3259,8 @@
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "TWD",
           "part_of": "CHN",
@@ -3438,8 +3438,8 @@
           "alpha2": "IO",
           "alpha3": "IOT",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "IO",
@@ -3482,7 +3482,7 @@
           "alpha3": "ERI",
           "units": [
             "Nakfa",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "ERN",
           "key": "ER"
@@ -3493,7 +3493,7 @@
           "alpha3": "ETH",
           "units": [
             "Birr",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "ETB",
           "key": "ET"
@@ -3504,7 +3504,7 @@
           "alpha3": "ATF",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "TF",
@@ -3515,8 +3515,8 @@
           "alpha2": "KE",
           "alpha3": "KEN",
           "units": [
-            "Shilling",
-            "Cent"
+            "Xelim",
+            "Cêntimo"
           ],
           "iso4217": "KES",
           "key": "KE"
@@ -3552,7 +3552,7 @@
           "alpha3": "MUS",
           "units": [
             "Rupia",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "MUR",
           "key": "MU"
@@ -3563,7 +3563,7 @@
           "alpha3": "MYT",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "YT",
@@ -3590,7 +3590,7 @@
           "alpha3": "REU",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "RE",
@@ -3613,7 +3613,7 @@
           "alpha3": "SYC",
           "units": [
             "Rupia",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "SCR",
           "key": "SC"
@@ -3623,8 +3623,8 @@
           "alpha2": "SO",
           "alpha3": "SOM",
           "units": [
-            "Shilling",
-            "Cent"
+            "Xelim",
+            "Cêntimo"
           ],
           "iso4217": "SOS",
           "key": "SO"
@@ -3645,8 +3645,8 @@
           "alpha2": "UG",
           "alpha3": "UGA",
           "units": [
-            "Shilling",
-            "Cent"
+            "Xelim",
+            "Cêntimo"
           ],
           "iso4217": "UGX",
           "key": "UG"
@@ -3656,8 +3656,8 @@
           "alpha2": "TZ",
           "alpha3": "TZA",
           "units": [
-            "Shilling",
-            "Cent"
+            "Xelim",
+            "Cêntimo"
           ],
           "iso4217": "TZS",
           "key": "TZ"
@@ -3678,8 +3678,8 @@
           "alpha2": "ZW",
           "alpha3": "ZWE",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "ZWL",
           "key": "ZW"
@@ -3804,7 +3804,7 @@
           "alpha3": "SWZ",
           "units": [
             "Lilangeni",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "SZL",
           "key": "SZ"
@@ -3825,8 +3825,8 @@
           "alpha2": "NA",
           "alpha3": "NAM",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "NAD",
           "key": "NA"
@@ -3837,7 +3837,7 @@
           "alpha3": "ZAF",
           "units": [
             "Rand",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "ZAR",
           "key": "ZA",
@@ -3964,8 +3964,8 @@
           "alpha2": "LR",
           "alpha3": "LBR",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "LRD",
           "key": "LR"
@@ -4043,7 +4043,7 @@
           "alpha3": "SLE",
           "units": [
             "Leone",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "SLL",
           "key": "SL"
@@ -4064,8 +4064,8 @@
           "alpha2": "",
           "alpha3": "XSL",
           "units": [
-            "Shilling",
-            "Cent"
+            "Xelim",
+            "Cêntimo"
           ],
           "iso4217": "SLS",
           "part_of": "SOM",
@@ -4094,8 +4094,8 @@
           "alpha2": "AU",
           "alpha3": "AUS",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "AUD",
           "key": "AU",
@@ -4190,8 +4190,8 @@
           "alpha2": "CX",
           "alpha3": "CXR",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "AUD",
           "key": "CX",
@@ -4202,8 +4202,8 @@
           "alpha2": "CC",
           "alpha3": "CCK",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "AUD",
           "key": "CC",
@@ -4223,8 +4223,8 @@
           "alpha2": "NZ",
           "alpha3": "NZL",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "NZD",
           "key": "NZ",
@@ -4244,8 +4244,8 @@
           "alpha2": "NF",
           "alpha3": "NFK",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "AUD",
           "key": "NF",
@@ -4256,8 +4256,8 @@
           "alpha2": "FJ",
           "alpha3": "FJI",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "FJD",
           "key": "FJ"
@@ -4290,8 +4290,8 @@
           "alpha2": "SB",
           "alpha3": "SLB",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "SBD",
           "key": "SB"
@@ -4311,8 +4311,8 @@
           "alpha2": "GU",
           "alpha3": "GUM",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "GU",
@@ -4323,8 +4323,8 @@
           "alpha2": "KI",
           "alpha3": "KIR",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "AUD",
           "key": "KI"
@@ -4334,8 +4334,8 @@
           "alpha2": "MH",
           "alpha3": "MHL",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "MH"
@@ -4345,8 +4345,8 @@
           "alpha2": "FM",
           "alpha3": "FSM",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "FM"
@@ -4356,8 +4356,8 @@
           "alpha2": "NR",
           "alpha3": "NRU",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "AUD",
           "key": "NR"
@@ -4367,8 +4367,8 @@
           "alpha2": "MP",
           "alpha3": "MNP",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "MP",
@@ -4379,8 +4379,8 @@
           "alpha2": "PW",
           "alpha3": "PLW",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "PW"
@@ -4390,8 +4390,8 @@
           "alpha2": "UM",
           "alpha3": "UMI",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "UM",
@@ -4402,8 +4402,8 @@
           "alpha2": "AS",
           "alpha3": "ASM",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "AS",
@@ -4414,8 +4414,8 @@
           "alpha2": "CK",
           "alpha3": "COK",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "NZD",
           "key": "CK",
@@ -4438,8 +4438,8 @@
           "alpha2": "NU",
           "alpha3": "NIU",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "NZD",
           "key": "NU",
@@ -4450,8 +4450,8 @@
           "alpha2": "PN",
           "alpha3": "PCN",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "NZD",
           "key": "PN",
@@ -4473,8 +4473,8 @@
           "alpha2": "TK",
           "alpha3": "TKL",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "NZD",
           "key": "TK",
@@ -4496,8 +4496,8 @@
           "alpha2": "TV",
           "alpha3": "TUV",
           "units": [
-            "Dolar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "AUD",
           "key": "TV"
