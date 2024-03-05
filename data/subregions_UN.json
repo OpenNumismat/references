@@ -258,7 +258,7 @@
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
-            "Sterling",
+            "Pound",
             "Penny"
           ],
           "iso4217": "GBP"
@@ -432,7 +432,11 @@
           "name": "Kosovo",
           "alpha2": "XK",
           "alpha3": "XKX",
-          "units": [],
+          "units": [
+            "Euro",
+            "Cent"
+          ],
+          "iso4217": "EUR",
           "part_of": "SRB",
           "unrecognized": true
         }
@@ -1153,7 +1157,7 @@
           "alpha2": "VE",
           "alpha3": "VEN",
           "units": [
-            "Soberano",
+            "Bolívar",
             "Céntimo"
           ],
           "iso4217": "VES"
@@ -1344,21 +1348,14 @@
           "unrecognized": true
         },
         {
-          "name": "Artsakh",
-          "alpha2": "",
-          "alpha3": "",
-          "units": [
-            "Dram",
-            "Luma"
-          ],
-          "part_of": "AZE",
-          "unrecognized": true
-        },
-        {
           "name": "Northern Cyprus",
           "alpha2": "",
           "alpha3": "",
-          "units": [],
+          "units": [
+            "Lira",
+            "Kurus"
+          ],
+          "iso4217": "TRY",
           "part_of": "CYP",
           "unrecognized": true
         },
@@ -1374,7 +1371,11 @@
           "name": "South Ossetia",
           "alpha2": "",
           "alpha3": "",
-          "units": [],
+          "units": [
+            "Rouble",
+            "Kopek"
+          ],
+          "iso4217": "RUB",
           "part_of": "GEO",
           "unrecognized": true
         }
@@ -1538,7 +1539,7 @@
           "alpha2": "CN",
           "alpha3": "CHN",
           "units": [
-            "Renminbi-Yuan",
+            "Yuan",
             "Jiao"
           ],
           "iso4217": "CNY"

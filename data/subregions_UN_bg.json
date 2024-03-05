@@ -432,7 +432,7 @@
           ]
         },
         {
-          "name": "East Germany",
+          "name": "Източна Германия",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
@@ -570,7 +570,7 @@
           "alpha2": "GG",
           "alpha3": "GGY",
           "units": [
-            "Гърнзи",
+            "Елена",
             "Пенс"
           ],
           "iso4217": "GGP",
@@ -582,7 +582,7 @@
           "alpha2": "IS",
           "alpha3": "ISL",
           "units": [
-            "Крона"
+            "Króna"
           ],
           "iso4217": "ISK",
           "key": "IS",
@@ -621,7 +621,7 @@
           "alpha2": "IM",
           "alpha3": "IMN",
           "units": [
-            "Ман",
+            "Елена",
             "Пенс"
           ],
           "iso4217": "IMP",
@@ -633,7 +633,7 @@
           "alpha2": "JE",
           "alpha3": "JEY",
           "units": [
-            "Джърси",
+            "Елена",
             "Пенс"
           ],
           "iso4217": "JEP",
@@ -731,7 +731,7 @@
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
-            "Лира",
+            "Елена",
             "Пенс"
           ],
           "iso4217": "GBP",
@@ -885,7 +885,7 @@
           "alpha2": "BA",
           "alpha3": "BIH",
           "units": [
-            "Марка",
+            "Mark",
             "Фенинг"
           ],
           "iso4217": "BAM",
@@ -921,7 +921,7 @@
           "alpha2": "GI",
           "alpha3": "GIB",
           "units": [
-            "Лира",
+            "Елена",
             "Пенс"
           ],
           "iso4217": "GIP",
@@ -1016,7 +1016,7 @@
             "Евро",
             "Цент"
           ],
-          "iso4217": "MTL",
+          "iso4217": "EUR",
           "key": "MT",
           "contemporary_units": [
             "Lira",
@@ -1098,8 +1098,8 @@
           "alpha2": "RS",
           "alpha3": "SRB",
           "units": [
-            "Динар",
-            "Пара"
+            "Dinar",
+            "Para"
           ],
           "iso4217": "RSD",
           "key": "RS",
@@ -1184,12 +1184,12 @@
           ]
         },
         {
-          "name": "Kosovo",
+          "name": "Косово",
           "alpha2": "XK",
           "alpha3": "XKX",
           "units": [
-            "Euro",
-            "Cent"
+            "Евро",
+            "Цент"
           ],
           "iso4217": "EUR",
           "part_of": "SRB",
@@ -1197,7 +1197,7 @@
           "key": "XK"
         },
         {
-          "name": "Yugoslavia",
+          "name": "Югославия",
           "alpha2": "YU",
           "alpha3": "YUG",
           "units": [
@@ -1221,8 +1221,8 @@
           "alpha2": "BY",
           "alpha3": "BLR",
           "units": [
-            "Рубла",
-            "Копейка"
+            "Rouble",
+            "Kopek"
           ],
           "iso4217": "BYN",
           "key": "BY"
@@ -1262,8 +1262,8 @@
           "alpha2": "CZ",
           "alpha3": "CZE",
           "units": [
-            "Крона",
-            "Халер"
+            "Koruna",
+            "Halér"
           ],
           "iso4217": "CZK",
           "key": "CZ",
@@ -1373,8 +1373,8 @@
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
-            "Рубла",
-            "Копейка"
+            "Rouble",
+            "Kopek"
           ],
           "iso4217": "RUB",
           "key": "RU",
@@ -1445,7 +1445,7 @@
           "key": "UA"
         },
         {
-          "name": "Transnistria",
+          "name": "Транснистрия",
           "alpha2": "",
           "alpha3": "XPR",
           "units": [
@@ -1469,7 +1469,7 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Чехословакия",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
@@ -1484,7 +1484,7 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "USSR",
+          "name": "СССР",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
@@ -1900,7 +1900,7 @@
           "alpha3": "PAN",
           "units": [
             "Балбоа",
-            "Сентесимо"
+            "Сентисимо"
           ],
           "iso4217": "PAB",
           "key": "PA"
@@ -1938,7 +1938,7 @@
           "alpha2": "AW",
           "alpha3": "ABW",
           "units": [
-            "Флорин",
+            "Guilder",
             "Цент"
           ],
           "iso4217": "AWG",
@@ -1968,7 +1968,7 @@
           "key": "BB"
         },
         {
-          "name": "Bonaire, Sint Eustatius and Saba",
+          "name": "Карибски Холандски острови (Бонер, Сент Евстатий и Саба)",
           "alpha2": "BQ",
           "alpha3": "BES",
           "units": [],
@@ -1991,7 +1991,7 @@
           "alpha2": "KY",
           "alpha3": "CYM",
           "units": [
-            "Острови",
+            "Долар",
             "Цент"
           ],
           "iso4217": "KYD",
@@ -2014,7 +2014,7 @@
           "alpha2": "CW",
           "alpha3": "CUW",
           "units": [
-            "Гулден",
+            "Guilder",
             "Цент"
           ],
           "iso4217": "ANG",
@@ -2186,7 +2186,7 @@
           "alpha2": "SX",
           "alpha3": "SXM",
           "units": [
-            "Гулден",
+            "Guilder",
             "Цент"
           ],
           "iso4217": "ANG",
@@ -2198,7 +2198,7 @@
           "alpha2": "TT",
           "alpha3": "TTO",
           "units": [
-            "Тобаго",
+            "Долар",
             "Цент"
           ],
           "iso4217": "TTD",
@@ -2354,7 +2354,7 @@
           "alpha2": "FK",
           "alpha3": "FLK",
           "units": [
-            "Острови",
+            "Елена",
             "Пенс"
           ],
           "iso4217": "FKP",
@@ -2400,7 +2400,7 @@
           "alpha2": "PE",
           "alpha3": "PER",
           "units": [
-            "Сол",
+            "Sol",
             "Сентимо"
           ],
           "iso4217": "PEN",
@@ -2489,8 +2489,8 @@
           "alpha2": "BH",
           "alpha3": "BHR",
           "units": [
-            "Динар",
-            "Филс"
+            "Dinar",
+            "Fils"
           ],
           "iso4217": "BHD",
           "key": "BH"
@@ -2526,8 +2526,8 @@
           "alpha2": "IQ",
           "alpha3": "IRQ",
           "units": [
-            "Динар",
-            "Филс"
+            "Dinar",
+            "Fils"
           ],
           "iso4217": "IQD",
           "key": "IQ"
@@ -2563,7 +2563,7 @@
           "alpha2": "JO",
           "alpha3": "JOR",
           "units": [
-            "Динар",
+            "Dinar",
             "Кирш"
           ],
           "iso4217": "JOD",
@@ -2574,8 +2574,8 @@
           "alpha2": "KW",
           "alpha3": "KWT",
           "units": [
-            "Динар",
-            "Филс"
+            "Dinar",
+            "Fils"
           ],
           "iso4217": "KWD",
           "key": "KW"
@@ -2585,7 +2585,7 @@
           "alpha2": "LB",
           "alpha3": "LBN",
           "units": [
-            "Лира",
+            "Елена",
             "Пиастър"
           ],
           "iso4217": "LBP",
@@ -2608,7 +2608,7 @@
           "alpha3": "QAT",
           "units": [
             "Риал",
-            "Дирхам"
+            "Оае"
           ],
           "iso4217": "QAR",
           "key": "QA"
@@ -2629,7 +2629,7 @@
           "alpha2": "SY",
           "alpha3": "SYR",
           "units": [
-            "Лира",
+            "Елена",
             "Пиастър"
           ],
           "iso4217": "SYP",
@@ -2640,8 +2640,8 @@
           "alpha2": "TR",
           "alpha3": "TUR",
           "units": [
-            "Лира",
-            "Куруш"
+            "Lira",
+            "Kurus"
           ],
           "iso4217": "TRY",
           "key": "TR",
@@ -2663,7 +2663,7 @@
           "alpha3": "ARE",
           "units": [
             "Оае",
-            "Филс"
+            "Fils"
           ],
           "iso4217": "AED",
           "key": "AE"
@@ -2674,13 +2674,13 @@
           "alpha3": "YEM",
           "units": [
             "Риал",
-            "Филс"
+            "Fils"
           ],
           "iso4217": "YER",
           "key": "YE"
         },
         {
-          "name": "Abkhazia",
+          "name": "Абхазия",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2691,7 +2691,7 @@
           "key": "_abkhazia"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Северен Кипър",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2704,7 +2704,7 @@
           "key": "_northern-cyprus"
         },
         {
-          "name": "Palestine",
+          "name": "Палестина",
           "alpha2": "PS",
           "alpha3": "PSE",
           "units": [],
@@ -2713,7 +2713,7 @@
           "key": "PS"
         },
         {
-          "name": "South Ossetia",
+          "name": "Южна Осетия",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2726,12 +2726,12 @@
           "key": "_south-ossetia"
         },
         {
-          "name": "Artsakh",
+          "name": "Арцах",
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Dram",
-            "Luma"
+            "Драм",
+            "Лума"
           ],
           "part_of": "AZE",
           "from_year": 1991,
@@ -2741,7 +2741,7 @@
           "key": "_artsakh"
         },
         {
-          "name": "South Yemen",
+          "name": "Южен Йемен",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
@@ -2912,7 +2912,7 @@
           "alpha3": "IRN",
           "units": [
             "Риал",
-            "Динар"
+            "Dinar"
           ],
           "iso4217": "IRR",
           "key": "IR"
@@ -2972,7 +2972,7 @@
           "key": "LK"
         },
         {
-          "name": "Sikkim",
+          "name": "Сиким",
           "alpha2": "",
           "alpha3": "SKM",
           "units": [],
@@ -3153,12 +3153,12 @@
           ]
         },
         {
-          "name": "Taiwan",
+          "name": "Тайван",
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
-            "Dollar",
-            "Cent"
+            "Долар",
+            "Цент"
           ],
           "iso4217": "TWD",
           "part_of": "CHN",
@@ -3185,7 +3185,7 @@
           "key": "TW"
         },
         {
-          "name": "Tibet",
+          "name": "Тибет",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3211,7 +3211,7 @@
           "alpha3": "BRN",
           "units": [
             "Долар",
-            "Цент"
+            "Сен"
           ],
           "iso4217": "BND",
           "key": "BN"
@@ -3388,14 +3388,14 @@
           "alpha2": "VN",
           "alpha3": "VNM",
           "units": [
-            "Донг",
+            "Dong",
             "Хао"
           ],
           "iso4217": "VND",
           "key": "VN"
         },
         {
-          "name": "South Vietnam",
+          "name": "Южен Виетнам",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3419,7 +3419,7 @@
           "alpha2": "DZ",
           "alpha3": "DZA",
           "units": [
-            "Динар",
+            "Dinar",
             "Сантим"
           ],
           "iso4217": "DZD",
@@ -3430,7 +3430,7 @@
           "alpha2": "EG",
           "alpha3": "EGY",
           "units": [
-            "Лира",
+            "Елена",
             "Пиастър"
           ],
           "iso4217": "EGP",
@@ -3441,8 +3441,8 @@
           "alpha2": "LY",
           "alpha3": "LBY",
           "units": [
-            "Динар",
-            "Дирхам"
+            "Dinar",
+            "Оае"
           ],
           "iso4217": "LYD",
           "key": "LY"
@@ -3452,7 +3452,7 @@
           "alpha2": "MA",
           "alpha3": "MAR",
           "units": [
-            "Дирхам",
+            "Оае",
             "Сантим"
           ],
           "iso4217": "MAD",
@@ -3463,7 +3463,7 @@
           "alpha2": "SD",
           "alpha3": "SDN",
           "units": [
-            "Лира",
+            "Елена",
             "Пиастър"
           ],
           "iso4217": "SDG",
@@ -3477,14 +3477,14 @@
           "alpha2": "TN",
           "alpha3": "TUN",
           "units": [
-            "Динар",
+            "Dinar",
             "Милим"
           ],
           "iso4217": "TND",
           "key": "TN"
         },
         {
-          "name": "Western Sahara",
+          "name": "Западна Сахара",
           "alpha2": "EH",
           "alpha3": "ESH",
           "units": [
@@ -3886,7 +3886,7 @@
           "alpha2": "KE",
           "alpha3": "KEN",
           "units": [
-            "Шилинг",
+            "Shilling",
             "Цент"
           ],
           "iso4217": "KES",
@@ -3975,7 +3975,7 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "PWF",
+          "iso4217": "RWF",
           "key": "RW"
         },
         {
@@ -3994,7 +3994,7 @@
           "alpha2": "SO",
           "alpha3": "SOM",
           "units": [
-            "Шилинг",
+            "Shilling",
             "Цент"
           ],
           "iso4217": "SOS",
@@ -4005,7 +4005,7 @@
           "alpha2": "SS",
           "alpha3": "SSD",
           "units": [
-            "Лира",
+            "Елена",
             "Пиастър"
           ],
           "iso4217": "SSP",
@@ -4016,7 +4016,7 @@
           "alpha2": "UG",
           "alpha3": "UGA",
           "units": [
-            "Шилинг",
+            "Shilling",
             "Цент"
           ],
           "iso4217": "UGX",
@@ -4027,7 +4027,7 @@
           "alpha2": "TZ",
           "alpha3": "TZA",
           "units": [
-            "Шилинг",
+            "Shilling",
             "Цент"
           ],
           "iso4217": "TZS",
@@ -4056,12 +4056,12 @@
           "key": "ZW"
         },
         {
-          "name": "Somaliland",
+          "name": "Сомалиленд",
           "alpha2": "",
           "alpha3": "XSL",
           "units": [
             "Shilling",
-            "Cent"
+            "Цент"
           ],
           "iso4217": "SLS",
           "part_of": "SOM",
@@ -4081,7 +4081,7 @@
             "Пула",
             "Тебе"
           ],
-          "iso4217": "BWT",
+          "iso4217": "BWP",
           "key": "BW"
         },
         {
@@ -4365,7 +4365,7 @@
           "alpha2": "SB",
           "alpha3": "SLB",
           "units": [
-            "Острови",
+            "Долар",
             "Цент"
           ],
           "iso4217": "SBD",

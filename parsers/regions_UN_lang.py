@@ -16,24 +16,6 @@ def country2countrydata(country, orig_data):
                 return orig_country
     return None
 
-def get_translated_country_names(lang):
-    path = f'../i18n/countries_{lang}.json'
-    if not os.path.isfile(path):
-        path = f'../i18n/countries_en.json'
-
-    with open(path, encoding='utf-8') as file:
-        data = json.load(file)
-        return data["countries"]
-
-def get_translated_currency_names(lang):
-    path = f'../i18n/currencies_{lang}.json'
-    if not os.path.isfile(path):
-        path = f'../i18n/currencies_en.json'
-
-    with open(path, encoding='utf-8') as file:
-        data = json.load(file)
-        return data["currencies"]
-
 
 
 TITLE = "regions_UN"
