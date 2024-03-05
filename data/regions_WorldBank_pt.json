@@ -632,7 +632,7 @@
           ]
         },
         {
-          "name": "Faroé",
+          "name": "Ilhas Faroé",
           "alpha2": "FO",
           "alpha3": "FRO",
           "units": [
@@ -1111,7 +1111,7 @@
           "key": "ME"
         },
         {
-          "name": "Países Baixos",
+          "name": "Holanda",
           "alpha2": "NL",
           "alpha3": "NLD",
           "units": [
@@ -1775,7 +1775,7 @@
           "key": "DZ"
         },
         {
-          "name": "Egito",
+          "name": "Egipto",
           "alpha2": "EG",
           "alpha3": "EGY",
           "units": [
@@ -1845,7 +1845,7 @@
           "key": "JO"
         },
         {
-          "name": "Koweit",
+          "name": "Kuwait",
           "alpha2": "KW",
           "alpha3": "KWT",
           "units": [
@@ -2622,7 +2622,7 @@
           ]
         },
         {
-          "name": "Seri Lanca",
+          "name": "Sri Lanka",
           "alpha2": "LK",
           "alpha3": "LKA",
           "units": [

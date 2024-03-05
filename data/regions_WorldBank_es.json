@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe & Central Asia",
+      "name": "Europa & Asia Central",
       "countries": [
         {
           "name": "Albania",
@@ -1454,7 +1454,7 @@
       ]
     },
     {
-      "name": "North America",
+      "name": "Norteamérica",
       "countries": [
         {
           "name": "Bermudas",
@@ -1729,7 +1729,7 @@
       ]
     },
     {
-      "name": "Middle East & North Africa",
+      "name": "Oriente Medio & África del Norte",
       "countries": [
         {
           "name": "Emiratos Árabes Unidos",
@@ -1992,7 +1992,7 @@
       ]
     },
     {
-      "name": "Latin America & Caribbean",
+      "name": "Latinoamérica & Caribe",
       "countries": [
         {
           "name": "Aruba",
@@ -2533,7 +2533,7 @@
       ]
     },
     {
-      "name": "South Asia",
+      "name": "Sur de Asia",
       "countries": [
         {
           "name": "Afganistán",
@@ -2678,7 +2678,7 @@
       ]
     },
     {
-      "name": "Sub-Saharan Africa",
+      "name": "África Subsahariana",
       "countries": [
         {
           "name": "Angola",
@@ -3248,7 +3248,7 @@
       ]
     },
     {
-      "name": "East Asia & Pacific",
+      "name": "Asia Oriental & Pacífico",
       "countries": [
         {
           "name": "Samoa Americana",

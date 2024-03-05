@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe",
+      "name": "Eiropa",
       "countries": [
         {
           "name": "Baltkrievija",
@@ -1486,7 +1486,7 @@
       ]
     },
     {
-      "name": "Americas",
+      "name": "Amerika",
       "countries": [
         {
           "name": "Angilja",
@@ -2430,7 +2430,7 @@
       ]
     },
     {
-      "name": "Asia",
+      "name": "Āzija",
       "countries": [
         {
           "name": "Kazahstāna",
@@ -3362,7 +3362,7 @@
       ]
     },
     {
-      "name": "Africa",
+      "name": "Āfrika",
       "countries": [
         {
           "name": "Alžīrija",
@@ -4069,7 +4069,7 @@
       ]
     },
     {
-      "name": "Oceania",
+      "name": "Okeānija",
       "countries": [
         {
           "name": "Austrālija",

@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Western Europe",
+      "name": "West-Europa",
       "countries": [
         {
           "name": "Österreich",
@@ -449,7 +449,7 @@
       ]
     },
     {
-      "name": "Northern Europe",
+      "name": "Nord-Europa",
       "countries": [
         {
           "name": "Ålandinseln",
@@ -852,7 +852,7 @@
       ]
     },
     {
-      "name": "Southern Europe",
+      "name": "Süd-Europa",
       "countries": [
         {
           "name": "Albanien",
@@ -1214,7 +1214,7 @@
       ]
     },
     {
-      "name": "Eastern Europe",
+      "name": "Ost-Europa",
       "countries": [
         {
           "name": "Belarus",
@@ -1501,7 +1501,7 @@
       ]
     },
     {
-      "name": "Northern America",
+      "name": "Nord-Amerika",
       "countries": [
         {
           "name": "Bermuda",
@@ -1800,7 +1800,7 @@
       ]
     },
     {
-      "name": "Central America",
+      "name": "Zentral-Amerika",
       "countries": [
         {
           "name": "Belize",
@@ -1908,7 +1908,7 @@
       ]
     },
     {
-      "name": "Caribbean",
+      "name": "Karibik",
       "countries": [
         {
           "name": "Anguilla",
@@ -2231,7 +2231,7 @@
       ]
     },
     {
-      "name": "South America",
+      "name": "Süd-Amerika",
       "countries": [
         {
           "name": "Argentinien",
@@ -2460,7 +2460,7 @@
       ]
     },
     {
-      "name": "Western Asia",
+      "name": "West-Asien",
       "countries": [
         {
           "name": "Armenien",
@@ -2758,7 +2758,7 @@
       ]
     },
     {
-      "name": "Central Asia",
+      "name": "Zentral-Asien",
       "countries": [
         {
           "name": "Kasachstan",
@@ -2818,7 +2818,7 @@
       ]
     },
     {
-      "name": "Southern Asia",
+      "name": "Süd-Asien",
       "countries": [
         {
           "name": "Afghanistan",
@@ -2986,7 +2986,7 @@
       ]
     },
     {
-      "name": "Eastern Asia",
+      "name": "Ost-Asien",
       "countries": [
         {
           "name": "China",
@@ -3203,7 +3203,7 @@
       ]
     },
     {
-      "name": "South-eastern Asia",
+      "name": "Südost-Asien",
       "countries": [
         {
           "name": "Brunei",
@@ -3412,7 +3412,7 @@
       ]
     },
     {
-      "name": "Northern Africa",
+      "name": "Nord-Afrika",
       "countries": [
         {
           "name": "Algerien",
@@ -3498,7 +3498,7 @@
       ]
     },
     {
-      "name": "Western Africa",
+      "name": "West-Afrika",
       "countries": [
         {
           "name": "Benin",
@@ -3694,7 +3694,7 @@
       ]
     },
     {
-      "name": "Middle Africa",
+      "name": "Zentral-Afrika",
       "countries": [
         {
           "name": "Angola",
@@ -3802,7 +3802,7 @@
       ]
     },
     {
-      "name": "Eastern Africa",
+      "name": "Ost-Afrika",
       "countries": [
         {
           "name": "Britisches Territorium im Indischen Ozean",
@@ -4071,7 +4071,7 @@
       ]
     },
     {
-      "name": "Southern Africa",
+      "name": "Süd-Afrika",
       "countries": [
         {
           "name": "Botsuana",
@@ -4157,7 +4157,7 @@
       ]
     },
     {
-      "name": "Australia and New Zealand",
+      "name": "Australien und Neuseeland",
       "countries": [
         {
           "name": "Australien",
@@ -4323,7 +4323,7 @@
       ]
     },
     {
-      "name": "Melanesia",
+      "name": "Melanesien",
       "countries": [
         {
           "name": "Fidschi",
@@ -4383,7 +4383,7 @@
       ]
     },
     {
-      "name": "Micronesia",
+      "name": "Mikronesien",
       "countries": [
         {
           "name": "Guam",
@@ -4479,7 +4479,7 @@
       ]
     },
     {
-      "name": "Polynesia",
+      "name": "Polynesien",
       "countries": [
         {
           "name": "Amerikanisch-Samoa",

@@ -12,7 +12,7 @@
       "key": "DZ"
     },
     {
-      "name": "Egito",
+      "name": "Egipto",
       "alpha2": "EG",
       "alpha3": "EGY",
       "units": [
@@ -1233,7 +1233,7 @@
       ]
     },
     {
-      "name": "Ilhas Falkland",
+      "name": "Ilhas Malvinas",
       "alpha2": "FK",
       "alpha3": "FLK",
       "units": [
@@ -2183,7 +2183,7 @@
       "key": "PK"
     },
     {
-      "name": "Seri Lanca",
+      "name": "Sri Lanka",
       "alpha2": "LK",
       "alpha3": "LKA",
       "units": [
@@ -2301,7 +2301,7 @@
       "key": "JO"
     },
     {
-      "name": "Koweit",
+      "name": "Kuwait",
       "alpha2": "KW",
       "alpha3": "KWT",
       "units": [
@@ -2639,7 +2639,7 @@
       "key": "UA"
     },
     {
-      "name": "Alanda",
+      "name": "Ilhas Åland",
       "alpha2": "AX",
       "alpha3": "ALA",
       "units": [
@@ -2715,7 +2715,7 @@
       ]
     },
     {
-      "name": "Faroé",
+      "name": "Ilhas Faroé",
       "alpha2": "FO",
       "alpha3": "FRO",
       "units": [
@@ -3698,7 +3698,7 @@
       "key": "MC"
     },
     {
-      "name": "Países Baixos",
+      "name": "Holanda",
       "alpha2": "NL",
       "alpha3": "NLD",
       "units": [
@@ -3902,7 +3902,7 @@
       "dependent": true
     },
     {
-      "name": "Ilhas dos Cocos",
+      "name": "Ilhas Cocos (Keeling)",
       "alpha2": "CC",
       "alpha3": "CCK",
       "units": [
