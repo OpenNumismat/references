@@ -4,7 +4,7 @@
       "name": "Western Europe",
       "countries": [
         {
-          "name": "Austria",
+          "name": "Avusturya",
           "alpha2": "AT",
           "alpha3": "AUT",
           "units": [
@@ -31,7 +31,7 @@
           ]
         },
         {
-          "name": "Belgium",
+          "name": "Belçika",
           "alpha2": "BE",
           "alpha3": "BEL",
           "units": [
@@ -73,7 +73,7 @@
           ]
         },
         {
-          "name": "France",
+          "name": "Fransa",
           "alpha2": "FR",
           "alpha3": "FRA",
           "units": [
@@ -125,7 +125,7 @@
           ]
         },
         {
-          "name": "Germany",
+          "name": "Almanya",
           "alpha2": "DE",
           "alpha3": "DEU",
           "units": [
@@ -310,7 +310,7 @@
           ]
         },
         {
-          "name": "Luxembourg",
+          "name": "Lüksemburg",
           "alpha2": "LU",
           "alpha3": "LUX",
           "units": [
@@ -325,7 +325,7 @@
           ]
         },
         {
-          "name": "Monaco",
+          "name": "Monako",
           "alpha2": "MC",
           "alpha3": "MCO",
           "units": [
@@ -336,7 +336,7 @@
           "key": "MC"
         },
         {
-          "name": "Netherlands",
+          "name": "Hollanda",
           "alpha2": "NL",
           "alpha3": "NLD",
           "units": [
@@ -370,7 +370,7 @@
           ]
         },
         {
-          "name": "Switzerland",
+          "name": "İsviçre",
           "alpha2": "CH",
           "alpha3": "CHE",
           "units": [
@@ -464,7 +464,7 @@
           "dependent": true
         },
         {
-          "name": "Denmark",
+          "name": "Danimarka",
           "alpha2": "DK",
           "alpha3": "DNK",
           "units": [
@@ -495,7 +495,7 @@
           ]
         },
         {
-          "name": "Estonia",
+          "name": "Estonya",
           "alpha2": "EE",
           "alpha3": "EST",
           "units": [
@@ -540,7 +540,7 @@
           "dependent": true
         },
         {
-          "name": "Finland",
+          "name": "Finlandiya",
           "alpha2": "FI",
           "alpha3": "FIN",
           "units": [
@@ -578,7 +578,7 @@
           "dependent": true
         },
         {
-          "name": "Iceland",
+          "name": "İzlanda",
           "alpha2": "IS",
           "alpha3": "ISL",
           "units": [
@@ -592,7 +592,7 @@
           ]
         },
         {
-          "name": "Ireland",
+          "name": "İrlanda",
           "alpha2": "IE",
           "alpha3": "IRL",
           "units": [
@@ -617,7 +617,7 @@
           ]
         },
         {
-          "name": "Isle of Man",
+          "name": "Man Adası",
           "alpha2": "IM",
           "alpha3": "IMN",
           "units": [
@@ -641,7 +641,7 @@
           "dependent": true
         },
         {
-          "name": "Latvia",
+          "name": "Letonya",
           "alpha2": "LV",
           "alpha3": "LVA",
           "units": [
@@ -656,7 +656,7 @@
           ]
         },
         {
-          "name": "Lithuania",
+          "name": "Litvanya",
           "alpha2": "LT",
           "alpha3": "LTU",
           "units": [
@@ -682,7 +682,7 @@
           ]
         },
         {
-          "name": "Norway",
+          "name": "Norveç",
           "alpha2": "NO",
           "alpha3": "NOR",
           "units": [
@@ -716,7 +716,7 @@
           "dependent": true
         },
         {
-          "name": "Sweden",
+          "name": "İsveç",
           "alpha2": "SE",
           "alpha3": "SWE",
           "units": [
@@ -727,7 +727,7 @@
           "key": "SE"
         },
         {
-          "name": "United Kingdom",
+          "name": "Birleşik Krallık",
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
@@ -855,7 +855,7 @@
       "name": "Southern Europe",
       "countries": [
         {
-          "name": "Albania",
+          "name": "Arnavutluk",
           "alpha2": "AL",
           "alpha3": "ALB",
           "units": [
@@ -881,7 +881,7 @@
           ]
         },
         {
-          "name": "Bosnia and Herzegovina",
+          "name": "Bosna Hersek",
           "alpha2": "BA",
           "alpha3": "BIH",
           "units": [
@@ -892,7 +892,7 @@
           "key": "BA"
         },
         {
-          "name": "Croatia",
+          "name": "Hırvatistan",
           "alpha2": "HR",
           "alpha3": "HRV",
           "units": [
@@ -917,7 +917,7 @@
           ]
         },
         {
-          "name": "Gibraltar",
+          "name": "Cebelitarık",
           "alpha2": "GI",
           "alpha3": "GIB",
           "units": [
@@ -929,7 +929,7 @@
           "dependent": true
         },
         {
-          "name": "Greece",
+          "name": "Yunanistan",
           "alpha2": "GR",
           "alpha3": "GRC",
           "units": [
@@ -964,7 +964,7 @@
           ]
         },
         {
-          "name": "Vatican City",
+          "name": "Vatikan",
           "alpha2": "VA",
           "alpha3": "VAT",
           "units": [
@@ -975,7 +975,7 @@
           "key": "VA"
         },
         {
-          "name": "Italy",
+          "name": "İtalya",
           "alpha2": "IT",
           "alpha3": "ITA",
           "units": [
@@ -1035,7 +1035,7 @@
           ]
         },
         {
-          "name": "Montenegro",
+          "name": "Karadağ",
           "alpha2": "ME",
           "alpha3": "MNE",
           "units": [
@@ -1057,7 +1057,7 @@
           "key": "MK"
         },
         {
-          "name": "Portugal",
+          "name": "Portekiz",
           "alpha2": "PT",
           "alpha3": "PRT",
           "units": [
@@ -1094,7 +1094,7 @@
           "key": "SM"
         },
         {
-          "name": "Serbia",
+          "name": "Sırbistan",
           "alpha2": "RS",
           "alpha3": "SRB",
           "units": [
@@ -1115,7 +1115,7 @@
           ]
         },
         {
-          "name": "Slovenia",
+          "name": "Slovenya",
           "alpha2": "SI",
           "alpha3": "SVN",
           "units": [
@@ -1130,7 +1130,7 @@
           ]
         },
         {
-          "name": "Spain",
+          "name": "İspanya",
           "alpha2": "ES",
           "alpha3": "ESP",
           "units": [
@@ -1184,7 +1184,7 @@
           ]
         },
         {
-          "name": "Kosovo",
+          "name": "Kosova",
           "alpha2": "XK",
           "alpha3": "XKX",
           "units": [
@@ -1228,7 +1228,7 @@
           "key": "BY"
         },
         {
-          "name": "Bulgaria",
+          "name": "Bulgaristan",
           "alpha2": "BG",
           "alpha3": "BGR",
           "units": [
@@ -1258,7 +1258,7 @@
           ]
         },
         {
-          "name": "Czechia",
+          "name": "Çekya",
           "alpha2": "CZ",
           "alpha3": "CZE",
           "units": [
@@ -1280,7 +1280,7 @@
           ]
         },
         {
-          "name": "Hungary",
+          "name": "Macaristan",
           "alpha2": "HU",
           "alpha3": "HUN",
           "units": [
@@ -1301,7 +1301,7 @@
           ]
         },
         {
-          "name": "Poland",
+          "name": "Polonya",
           "alpha2": "PL",
           "alpha3": "POL",
           "units": [
@@ -1358,7 +1358,7 @@
           "key": "MD"
         },
         {
-          "name": "Romania",
+          "name": "Romanya",
           "alpha2": "RO",
           "alpha3": "ROU",
           "units": [
@@ -1369,7 +1369,7 @@
           "key": "RO"
         },
         {
-          "name": "Russia",
+          "name": "Rusya",
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
@@ -1400,7 +1400,7 @@
           ]
         },
         {
-          "name": "Slovakia",
+          "name": "Slovakya",
           "alpha2": "SK",
           "alpha3": "SVK",
           "units": [
@@ -1434,7 +1434,7 @@
           ]
         },
         {
-          "name": "Ukraine",
+          "name": "Ukrayna",
           "alpha2": "UA",
           "alpha3": "UKR",
           "units": [
@@ -1516,7 +1516,7 @@
           "dependent": true
         },
         {
-          "name": "Canada",
+          "name": "Kanada",
           "alpha2": "CA",
           "alpha3": "CAN",
           "units": [
@@ -1569,7 +1569,7 @@
           "dependent": true
         },
         {
-          "name": "United States",
+          "name": "Amerika Birleşik Devletleri",
           "alpha2": "US",
           "alpha3": "USA",
           "units": [
@@ -1814,7 +1814,7 @@
           "key": "BZ"
         },
         {
-          "name": "Costa Rica",
+          "name": "Kosta Rika",
           "alpha2": "CR",
           "alpha3": "CRI",
           "units": [
@@ -1858,7 +1858,7 @@
           "key": "HN"
         },
         {
-          "name": "Mexico",
+          "name": "Meksika",
           "alpha2": "MX",
           "alpha3": "MEX",
           "units": [
@@ -1880,7 +1880,7 @@
           ]
         },
         {
-          "name": "Nicaragua",
+          "name": "Nikaragua",
           "alpha2": "NI",
           "alpha3": "NIC",
           "units": [
@@ -1923,7 +1923,7 @@
           "dependent": true
         },
         {
-          "name": "Antigua and Barbuda",
+          "name": "Antigua ve Barbuda",
           "alpha2": "AG",
           "alpha3": "ATG",
           "units": [
@@ -1946,7 +1946,7 @@
           "dependent": true
         },
         {
-          "name": "Bahamas",
+          "name": "Bahamalar",
           "alpha2": "BS",
           "alpha3": "BHS",
           "units": [
@@ -1975,7 +1975,7 @@
           "dependent": true
         },
         {
-          "name": "British Virgin Islands",
+          "name": "Britanya Virjin Adaları",
           "alpha2": "VG",
           "alpha3": "VGB",
           "units": [
@@ -1987,7 +1987,7 @@
           "dependent": true
         },
         {
-          "name": "Cayman Islands",
+          "name": "Cayman Adaları",
           "alpha2": "KY",
           "alpha3": "CYM",
           "units": [
@@ -1999,7 +1999,7 @@
           "dependent": true
         },
         {
-          "name": "Cuba",
+          "name": "Küba",
           "alpha2": "CU",
           "alpha3": "CUB",
           "units": [
@@ -2022,7 +2022,7 @@
           "dependent": true
         },
         {
-          "name": "Dominica",
+          "name": "Dominika",
           "alpha2": "DM",
           "alpha3": "DMA",
           "units": [
@@ -2033,7 +2033,7 @@
           "key": "DM"
         },
         {
-          "name": "Dominican Republic",
+          "name": "Dominik Cumhuriyeti",
           "alpha2": "DO",
           "alpha3": "DOM",
           "units": [
@@ -2078,7 +2078,7 @@
           "key": "HT"
         },
         {
-          "name": "Jamaica",
+          "name": "Jamaika",
           "alpha2": "JM",
           "alpha3": "JAM",
           "units": [
@@ -2171,7 +2171,7 @@
           "dependent": true
         },
         {
-          "name": "Saint Vincent and the Grenadines",
+          "name": "Saint Vincent ve Grenadines",
           "alpha2": "VC",
           "alpha3": "VCT",
           "units": [
@@ -2194,7 +2194,7 @@
           "dependent": true
         },
         {
-          "name": "Trinidad and Tobago",
+          "name": "Trinidad ve Tobago",
           "alpha2": "TT",
           "alpha3": "TTO",
           "units": [
@@ -2205,7 +2205,7 @@
           "key": "TT"
         },
         {
-          "name": "Turks and Caicos Islands",
+          "name": "Turks ve Caicos Adaları",
           "alpha2": "TC",
           "alpha3": "TCA",
           "units": [
@@ -2234,7 +2234,7 @@
       "name": "South America",
       "countries": [
         {
-          "name": "Argentina",
+          "name": "Arjantin",
           "alpha2": "AR",
           "alpha3": "ARG",
           "units": [
@@ -2256,7 +2256,7 @@
           ]
         },
         {
-          "name": "Bolivia",
+          "name": "Bolivya",
           "alpha2": "BO",
           "alpha3": "BOL",
           "units": [
@@ -2276,7 +2276,7 @@
           "dependent": true
         },
         {
-          "name": "Brazil",
+          "name": "Brezilya",
           "alpha2": "BR",
           "alpha3": "BRA",
           "units": [
@@ -2302,7 +2302,7 @@
           ]
         },
         {
-          "name": "Chile",
+          "name": "Şili",
           "alpha2": "CL",
           "alpha3": "CHL",
           "units": [
@@ -2324,7 +2324,7 @@
           ]
         },
         {
-          "name": "Colombia",
+          "name": "Kolombiya",
           "alpha2": "CO",
           "alpha3": "COL",
           "units": [
@@ -2335,7 +2335,7 @@
           "key": "CO"
         },
         {
-          "name": "Ecuador",
+          "name": "Ekvador",
           "alpha2": "EC",
           "alpha3": "ECU",
           "units": [
@@ -2421,7 +2421,7 @@
           "dependent": true
         },
         {
-          "name": "Suriname",
+          "name": "Surinam",
           "alpha2": "SR",
           "alpha3": "SUR",
           "units": [
@@ -2463,7 +2463,7 @@
       "name": "Western Asia",
       "countries": [
         {
-          "name": "Armenia",
+          "name": "Ermenistan",
           "alpha2": "AM",
           "alpha3": "ARM",
           "units": [
@@ -2474,7 +2474,7 @@
           "key": "AM"
         },
         {
-          "name": "Azerbaijan",
+          "name": "Azerbaycan",
           "alpha2": "AZ",
           "alpha3": "AZE",
           "units": [
@@ -2485,7 +2485,7 @@
           "key": "AZ"
         },
         {
-          "name": "Bahrain",
+          "name": "Bahreyn",
           "alpha2": "BH",
           "alpha3": "BHR",
           "units": [
@@ -2496,7 +2496,7 @@
           "key": "BH"
         },
         {
-          "name": "Cyprus",
+          "name": "Kıbrıs",
           "alpha2": "CY",
           "alpha3": "CYP",
           "units": [
@@ -2511,7 +2511,7 @@
           ]
         },
         {
-          "name": "Georgia",
+          "name": "Gürcistan",
           "alpha2": "GE",
           "alpha3": "GEO",
           "units": [
@@ -2522,7 +2522,7 @@
           "key": "GE"
         },
         {
-          "name": "Iraq",
+          "name": "Irak",
           "alpha2": "IQ",
           "alpha3": "IRQ",
           "units": [
@@ -2533,7 +2533,7 @@
           "key": "IQ"
         },
         {
-          "name": "Israel",
+          "name": "İsrail",
           "alpha2": "IL",
           "alpha3": "ISR",
           "units": [
@@ -2559,7 +2559,7 @@
           ]
         },
         {
-          "name": "Jordan",
+          "name": "Ürdün",
           "alpha2": "JO",
           "alpha3": "JOR",
           "units": [
@@ -2570,7 +2570,7 @@
           "key": "JO"
         },
         {
-          "name": "Kuwait",
+          "name": "Kuveyt",
           "alpha2": "KW",
           "alpha3": "KWT",
           "units": [
@@ -2581,7 +2581,7 @@
           "key": "KW"
         },
         {
-          "name": "Lebanon",
+          "name": "Lübnan",
           "alpha2": "LB",
           "alpha3": "LBN",
           "units": [
@@ -2592,7 +2592,7 @@
           "key": "LB"
         },
         {
-          "name": "Oman",
+          "name": "Umman",
           "alpha2": "OM",
           "alpha3": "OMN",
           "units": [
@@ -2603,7 +2603,7 @@
           "key": "OM"
         },
         {
-          "name": "Qatar",
+          "name": "Katar",
           "alpha2": "QA",
           "alpha3": "QAT",
           "units": [
@@ -2614,7 +2614,7 @@
           "key": "QA"
         },
         {
-          "name": "Saudi Arabia",
+          "name": "Suudi Arabistan",
           "alpha2": "SA",
           "alpha3": "SAU",
           "units": [
@@ -2625,7 +2625,7 @@
           "key": "SA"
         },
         {
-          "name": "Syria",
+          "name": "Suriye",
           "alpha2": "SY",
           "alpha3": "SYR",
           "units": [
@@ -2658,7 +2658,7 @@
           ]
         },
         {
-          "name": "United Arab Emirates",
+          "name": "Birleşik Arap Emirlikleri",
           "alpha2": "AE",
           "alpha3": "ARE",
           "units": [
@@ -2704,7 +2704,7 @@
           "key": "_northern-cyprus"
         },
         {
-          "name": "Palestine",
+          "name": "Filistin",
           "alpha2": "PS",
           "alpha3": "PSE",
           "units": [],
@@ -2761,7 +2761,7 @@
       "name": "Central Asia",
       "countries": [
         {
-          "name": "Kazakhstan",
+          "name": "Kazakistan",
           "alpha2": "KZ",
           "alpha3": "KAZ",
           "units": [
@@ -2772,7 +2772,7 @@
           "key": "KZ"
         },
         {
-          "name": "Kyrgyzstan",
+          "name": "Kırgızistan",
           "alpha2": "KG",
           "alpha3": "KGZ",
           "units": [
@@ -2783,7 +2783,7 @@
           "key": "KG"
         },
         {
-          "name": "Tajikistan",
+          "name": "Tacikistan",
           "alpha2": "TJ",
           "alpha3": "TJK",
           "units": [
@@ -2794,7 +2794,7 @@
           "key": "TJ"
         },
         {
-          "name": "Turkmenistan",
+          "name": "Türkmenistan",
           "alpha2": "TM",
           "alpha3": "TKM",
           "units": [
@@ -2805,7 +2805,7 @@
           "key": "TM"
         },
         {
-          "name": "Uzbekistan",
+          "name": "Özbekistan",
           "alpha2": "UZ",
           "alpha3": "UZB",
           "units": [
@@ -2821,7 +2821,7 @@
       "name": "Southern Asia",
       "countries": [
         {
-          "name": "Afghanistan",
+          "name": "Afganistan",
           "alpha2": "AF",
           "alpha3": "AFG",
           "units": [
@@ -2832,7 +2832,7 @@
           "key": "AF"
         },
         {
-          "name": "Bangladesh",
+          "name": "Bangladeş",
           "alpha2": "BD",
           "alpha3": "BGD",
           "units": [
@@ -2854,7 +2854,7 @@
           "key": "BT"
         },
         {
-          "name": "India",
+          "name": "Hindistan",
           "alpha2": "IN",
           "alpha3": "IND",
           "units": [
@@ -2907,7 +2907,7 @@
           ]
         },
         {
-          "name": "Iran",
+          "name": "İran",
           "alpha2": "IR",
           "alpha3": "IRN",
           "units": [
@@ -2918,7 +2918,7 @@
           "key": "IR"
         },
         {
-          "name": "Maldives",
+          "name": "Maldivler",
           "alpha2": "MV",
           "alpha3": "MDV",
           "units": [
@@ -2989,7 +2989,7 @@
       "name": "Eastern Asia",
       "countries": [
         {
-          "name": "China",
+          "name": "Çin",
           "alpha2": "CN",
           "alpha3": "CHN",
           "units": [
@@ -3091,7 +3091,7 @@
           "key": "KP"
         },
         {
-          "name": "Japan",
+          "name": "Japonya",
           "alpha2": "JP",
           "alpha3": "JPN",
           "units": [
@@ -3121,7 +3121,7 @@
           ]
         },
         {
-          "name": "Mongolia",
+          "name": "Moğolistan",
           "alpha2": "MN",
           "alpha3": "MNG",
           "units": [
@@ -3153,7 +3153,7 @@
           ]
         },
         {
-          "name": "Taiwan",
+          "name": "Tayvan",
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
@@ -3217,7 +3217,7 @@
           "key": "BN"
         },
         {
-          "name": "Cambodia",
+          "name": "Kamboçya",
           "alpha2": "KH",
           "alpha3": "KHM",
           "units": [
@@ -3228,7 +3228,7 @@
           "key": "KH"
         },
         {
-          "name": "Indonesia",
+          "name": "Endonezya",
           "alpha2": "ID",
           "alpha3": "IDN",
           "units": [
@@ -3260,7 +3260,7 @@
           "key": "LA"
         },
         {
-          "name": "Malaysia",
+          "name": "Malezya",
           "alpha2": "MY",
           "alpha3": "MYS",
           "units": [
@@ -3282,7 +3282,7 @@
           "key": "MM"
         },
         {
-          "name": "Philippines",
+          "name": "Filipinler",
           "alpha2": "PH",
           "alpha3": "PHL",
           "units": [
@@ -3304,7 +3304,7 @@
           ]
         },
         {
-          "name": "Singapore",
+          "name": "Singapur",
           "alpha2": "SG",
           "alpha3": "SGP",
           "units": [
@@ -3351,7 +3351,7 @@
           ]
         },
         {
-          "name": "Thailand",
+          "name": "Tayland",
           "alpha2": "TH",
           "alpha3": "THA",
           "units": [
@@ -3373,7 +3373,7 @@
           ]
         },
         {
-          "name": "Timor-Leste",
+          "name": "Doğu Timor",
           "alpha2": "TL",
           "alpha3": "TLS",
           "units": [
@@ -3415,7 +3415,7 @@
       "name": "Northern Africa",
       "countries": [
         {
-          "name": "Algeria",
+          "name": "Cezayir",
           "alpha2": "DZ",
           "alpha3": "DZA",
           "units": [
@@ -3426,7 +3426,7 @@
           "key": "DZ"
         },
         {
-          "name": "Egypt",
+          "name": "Mısır",
           "alpha2": "EG",
           "alpha3": "EGY",
           "units": [
@@ -3448,7 +3448,7 @@
           "key": "LY"
         },
         {
-          "name": "Morocco",
+          "name": "Fas",
           "alpha2": "MA",
           "alpha3": "MAR",
           "units": [
@@ -3473,7 +3473,7 @@
           ]
         },
         {
-          "name": "Tunisia",
+          "name": "Tunus",
           "alpha2": "TN",
           "alpha3": "TUN",
           "units": [
@@ -3545,7 +3545,7 @@
           "key": "CI"
         },
         {
-          "name": "Gambia",
+          "name": "Gambiya",
           "alpha2": "GM",
           "alpha3": "GMB",
           "units": [
@@ -3556,7 +3556,7 @@
           "key": "GM"
         },
         {
-          "name": "Ghana",
+          "name": "Gana",
           "alpha2": "GH",
           "alpha3": "GHA",
           "units": [
@@ -3567,7 +3567,7 @@
           "key": "GH"
         },
         {
-          "name": "Guinea",
+          "name": "Gine",
           "alpha2": "GN",
           "alpha3": "GIN",
           "units": [
@@ -3581,7 +3581,7 @@
           ]
         },
         {
-          "name": "Guinea-Bissau",
+          "name": "Gine-Bissau",
           "alpha2": "GW",
           "alpha3": "GNB",
           "units": [
@@ -3592,7 +3592,7 @@
           "key": "GW"
         },
         {
-          "name": "Liberia",
+          "name": "Liberya",
           "alpha2": "LR",
           "alpha3": "LBR",
           "units": [
@@ -3614,7 +3614,7 @@
           "key": "ML"
         },
         {
-          "name": "Mauritania",
+          "name": "Moritanya",
           "alpha2": "MR",
           "alpha3": "MRT",
           "units": [
@@ -3625,7 +3625,7 @@
           "key": "MR"
         },
         {
-          "name": "Niger",
+          "name": "Nijer",
           "alpha2": "NE",
           "alpha3": "NER",
           "units": [
@@ -3636,7 +3636,7 @@
           "key": "NE"
         },
         {
-          "name": "Nigeria",
+          "name": "Nijerya",
           "alpha2": "NG",
           "alpha3": "NGA",
           "units": [
@@ -3708,7 +3708,7 @@
           "key": "AO"
         },
         {
-          "name": "Cameroon",
+          "name": "Kamerun",
           "alpha2": "CM",
           "alpha3": "CMR",
           "units": [
@@ -3719,7 +3719,7 @@
           "key": "CM"
         },
         {
-          "name": "Central African Republic",
+          "name": "Orta Afrika Cumhuriyeti",
           "alpha2": "CF",
           "alpha3": "CAF",
           "units": [
@@ -3730,7 +3730,7 @@
           "key": "CF"
         },
         {
-          "name": "Chad",
+          "name": "Çad",
           "alpha2": "TD",
           "alpha3": "TCD",
           "units": [
@@ -3763,7 +3763,7 @@
           "key": "CD"
         },
         {
-          "name": "Equatorial Guinea",
+          "name": "Ekvator Ginesi",
           "alpha2": "GQ",
           "alpha3": "GNQ",
           "units": [
@@ -3805,7 +3805,7 @@
       "name": "Eastern Africa",
       "countries": [
         {
-          "name": "British Indian Ocean Territory",
+          "name": "Britanya Hint Okyanusu Toprakları",
           "alpha2": "IO",
           "alpha3": "IOT",
           "units": [
@@ -3828,7 +3828,7 @@
           "key": "BI"
         },
         {
-          "name": "Comoros",
+          "name": "Komorlar",
           "alpha2": "KM",
           "alpha3": "COM",
           "units": [
@@ -3838,7 +3838,7 @@
           "key": "KM"
         },
         {
-          "name": "Djibouti",
+          "name": "Cibuti",
           "alpha2": "DJ",
           "alpha3": "DJI",
           "units": [
@@ -3848,7 +3848,7 @@
           "key": "DJ"
         },
         {
-          "name": "Eritrea",
+          "name": "Eritre",
           "alpha2": "ER",
           "alpha3": "ERI",
           "units": [
@@ -3859,7 +3859,7 @@
           "key": "ER"
         },
         {
-          "name": "Ethiopia",
+          "name": "Etiyopya",
           "alpha2": "ET",
           "alpha3": "ETH",
           "units": [
@@ -3893,7 +3893,7 @@
           "key": "KE"
         },
         {
-          "name": "Madagascar",
+          "name": "Madagaskar",
           "alpha2": "MG",
           "alpha3": "MDG",
           "units": [
@@ -3907,7 +3907,7 @@
           ]
         },
         {
-          "name": "Malawi",
+          "name": "Malavi",
           "alpha2": "MW",
           "alpha3": "MWI",
           "units": [
@@ -3941,7 +3941,7 @@
           "dependent": true
         },
         {
-          "name": "Mozambique",
+          "name": "Mozambik",
           "alpha2": "MZ",
           "alpha3": "MOZ",
           "units": [
@@ -3968,7 +3968,7 @@
           "dependent": true
         },
         {
-          "name": "Rwanda",
+          "name": "Ruanda",
           "alpha2": "RW",
           "alpha3": "RWA",
           "units": [
@@ -3979,7 +3979,7 @@
           "key": "RW"
         },
         {
-          "name": "Seychelles",
+          "name": "Seyşeller",
           "alpha2": "SC",
           "alpha3": "SYC",
           "units": [
@@ -3990,7 +3990,7 @@
           "key": "SC"
         },
         {
-          "name": "Somalia",
+          "name": "Somali",
           "alpha2": "SO",
           "alpha3": "SOM",
           "units": [
@@ -4001,7 +4001,7 @@
           "key": "SO"
         },
         {
-          "name": "South Sudan",
+          "name": "Güney Sudan",
           "alpha2": "SS",
           "alpha3": "SSD",
           "units": [
@@ -4023,7 +4023,7 @@
           "key": "UG"
         },
         {
-          "name": "Tanzania",
+          "name": "Tanzanya",
           "alpha2": "TZ",
           "alpha3": "TZA",
           "units": [
@@ -4034,7 +4034,7 @@
           "key": "TZ"
         },
         {
-          "name": "Zambia",
+          "name": "Zambiya",
           "alpha2": "ZM",
           "alpha3": "ZMB",
           "units": [
@@ -4107,7 +4107,7 @@
           "key": "LS"
         },
         {
-          "name": "Namibia",
+          "name": "Namibya",
           "alpha2": "NA",
           "alpha3": "NAM",
           "units": [
@@ -4118,7 +4118,7 @@
           "key": "NA"
         },
         {
-          "name": "South Africa",
+          "name": "Güney Afrika",
           "alpha2": "ZA",
           "alpha3": "ZAF",
           "units": [
@@ -4160,7 +4160,7 @@
       "name": "Australia and New Zealand",
       "countries": [
         {
-          "name": "Australia",
+          "name": "Avustralya",
           "alpha2": "AU",
           "alpha3": "AUS",
           "units": [
@@ -4268,7 +4268,7 @@
           "dependent": true
         },
         {
-          "name": "Cocos (Keeling) Islands",
+          "name": "Cocos (Keeling) Adaları",
           "alpha2": "CC",
           "alpha3": "CCK",
           "units": [
@@ -4289,7 +4289,7 @@
           "dependent": true
         },
         {
-          "name": "New Zealand",
+          "name": "Yeni Zelanda",
           "alpha2": "NZ",
           "alpha3": "NZL",
           "units": [
@@ -4338,7 +4338,7 @@
           "key": "FJ"
         },
         {
-          "name": "New Caledonia",
+          "name": "Yeni Kaledonya",
           "alpha2": "NC",
           "alpha3": "NCL",
           "units": [
@@ -4350,7 +4350,7 @@
           "dependent": true
         },
         {
-          "name": "Papua New Guinea",
+          "name": "Papua Yeni Gine",
           "alpha2": "PG",
           "alpha3": "PNG",
           "units": [
@@ -4361,7 +4361,7 @@
           "key": "PG"
         },
         {
-          "name": "Solomon Islands",
+          "name": "Solomon Adaları",
           "alpha2": "SB",
           "alpha3": "SLB",
           "units": [
@@ -4384,7 +4384,7 @@
       ]
     },
     {
-      "name": "Micronesia",
+      "name": "Mikronezya",
       "countries": [
         {
           "name": "Guam",
@@ -4410,7 +4410,7 @@
           "key": "KI"
         },
         {
-          "name": "Marshall Islands",
+          "name": "Marshall Adaları",
           "alpha2": "MH",
           "alpha3": "MHL",
           "units": [
@@ -4421,7 +4421,7 @@
           "key": "MH"
         },
         {
-          "name": "Micronesia",
+          "name": "Mikronezya",
           "alpha2": "FM",
           "alpha3": "FSM",
           "units": [
@@ -4495,7 +4495,7 @@
           "dependent": true
         },
         {
-          "name": "Cook Islands",
+          "name": "Cook Adaları",
           "alpha2": "CK",
           "alpha3": "COK",
           "units": [
@@ -4507,7 +4507,7 @@
           "dependent": true
         },
         {
-          "name": "French Polynesia",
+          "name": "Fransız Polinezyası",
           "alpha2": "PF",
           "alpha3": "PYF",
           "units": [

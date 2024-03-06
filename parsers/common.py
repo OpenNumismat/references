@@ -3,7 +3,7 @@ import os
 
 
 def lang_list():
-    return ('en', 'bg', 'ca', 'es', 'cs', 'de', 'el', 'et', 'fa', 'fr', 'it', 'lv', 'hu', 'nl', 'pl', 'pt', 'ru', 'sk', 'sl', 'sv', 'tk', 'uk')
+    return ('en', 'bg', 'ca', 'es', 'cs', 'de', 'el', 'et', 'fa', 'fr', 'it', 'lv', 'hu', 'nl', 'pl', 'pt', 'ru', 'sk', 'sl', 'sv', 'tr', 'uk')
 
 regions = {}
 def get_regions(name, lang):
