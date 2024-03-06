@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe",
+      "name": "Europa",
       "countries": [
         {
           "name": "Grönland",
@@ -210,7 +210,7 @@
           "alpha3": "RUS",
           "units": [
             "Rubel",
-            "Kopeke"
+            "Kupeke"
           ],
           "iso4217": "RUB",
           "key": "RU",
@@ -488,7 +488,7 @@
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
-            "Sterling",
+            "Pfund",
             "Penny"
           ],
           "iso4217": "GBP",
@@ -1199,8 +1199,8 @@
           "alpha2": "CH",
           "alpha3": "CHE",
           "units": [
-            "Franken",
-            "Rappen;"
+            "Franc",
+            "Centime"
           ],
           "iso4217": "CHF",
           "key": "CH",
@@ -1298,8 +1298,8 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rubel",
+            "Kupeke"
           ],
           "iso4217": "RUB",
           "part_of": "GEO",
@@ -1312,7 +1312,7 @@
           "alpha3": "XPR",
           "units": [
             "Ruble",
-            "Kopek"
+            "Kupeke"
           ],
           "iso4217": "PRB",
           "part_of": "MDA",
@@ -1335,8 +1335,8 @@
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
-            "Halér"
+            "Krone",
+            "Haléř"
           ],
           "part_of": "CZE",
           "iso4217": "CSK",
@@ -1365,8 +1365,8 @@
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rubel",
+            "Kupeke"
           ],
           "part_of": "RUS",
           "iso4217": "RUB",
@@ -1393,7 +1393,7 @@
       ]
     },
     {
-      "name": "North America",
+      "name": "Nordamerika",
       "countries": [
         {
           "name": "Kanada",
@@ -1759,6 +1759,7 @@
           "alpha2": "NZ",
           "alpha3": "NZL",
           "units": [
+            "Dollar",
             "Cent"
           ],
           "iso4217": "NZD",
@@ -1777,7 +1778,7 @@
       ]
     },
     {
-      "name": "Latin America",
+      "name": "Lateinamerika",
       "countries": [
         {
           "name": "Mauritius",
@@ -2179,7 +2180,7 @@
       ]
     },
     {
-      "name": "Middle East",
+      "name": "Mittlerer Osten",
       "countries": [
         {
           "name": "Algerien",
@@ -2391,7 +2392,7 @@
           "alpha3": "LBN",
           "units": [
             "Pfund",
-            "Piastras"
+            "Piaster"
           ],
           "iso4217": "LBP",
           "key": "LB"
@@ -2435,7 +2436,7 @@
           "alpha3": "SYR",
           "units": [
             "Pfund",
-            "Piastre"
+            "Piaster"
           ],
           "iso4217": "SYP",
           "key": "SY"
@@ -2476,7 +2477,7 @@
           "alpha2": "",
           "alpha3": "XSL",
           "units": [
-            "Shilling",
+            "Schilling",
             "Cent"
           ],
           "iso4217": "SLS",
@@ -2514,7 +2515,7 @@
       ]
     },
     {
-      "name": "Sub-Saharan Africa",
+      "name": "Subsahara-Afrika",
       "countries": [
         {
           "name": "Burundi",
@@ -2999,7 +3000,7 @@
       ]
     },
     {
-      "name": "South Asia",
+      "name": "Südasien",
       "countries": [
         {
           "name": "Bangladesch",
@@ -3082,7 +3083,7 @@
           "alpha3": "NPL",
           "units": [
             "Rupie",
-            "Paisa; Mohur"
+            "Paisa"
           ],
           "iso4217": "NPR",
           "key": "NP",
@@ -3103,7 +3104,7 @@
           "alpha3": "LKA",
           "units": [
             "Rupie",
-            "Sri-Lanka-Cent"
+            "Cent"
           ],
           "iso4217": "LKR",
           "key": "LK"
@@ -3123,7 +3124,7 @@
       ]
     },
     {
-      "name": "Central Asia",
+      "name": "Zentral-Asien",
       "countries": [
         {
           "name": "Kasachstan",
@@ -3230,7 +3231,7 @@
           "alpha3": "",
           "units": [
             "Dram",
-            "Luma"
+            "Lumma"
           ],
           "part_of": "AZE",
           "from_year": 1991,
@@ -3242,7 +3243,7 @@
       ]
     },
     {
-      "name": "East Asia",
+      "name": "Ostasien",
       "countries": [
         {
           "name": "China",
@@ -3508,7 +3509,7 @@
           "alpha3": "BRN",
           "units": [
             "Dollar",
-            "Cent"
+            "Sen"
           ],
           "iso4217": "BND",
           "key": "BN"

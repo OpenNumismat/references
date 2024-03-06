@@ -529,7 +529,7 @@
       ]
     },
     {
-      "name": "Europe",
+      "name": "Europa",
       "countries": [
         {
           "name": "Grenlandia",
@@ -1569,7 +1569,7 @@
           "alpha3": "",
           "units": [
             "Lira",
-            "Kurus"
+            "Gurusz"
           ],
           "iso4217": "TRY",
           "part_of": "CYP",
@@ -1581,8 +1581,8 @@
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
-            "Halér"
+            "Korona",
+            "Halerz"
           ],
           "part_of": "CZE",
           "iso4217": "CSK",
@@ -1596,7 +1596,7 @@
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
-            "Mark",
+            "Marka",
             "Pfennig"
           ],
           "part_of": "DEU",
@@ -1728,8 +1728,8 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rubel",
+            "Kopiejka"
           ],
           "iso4217": "RUB",
           "part_of": "GEO",
@@ -1742,7 +1742,7 @@
           "alpha3": "XPR",
           "units": [
             "Ruble",
-            "Kopek"
+            "Kopiejka"
           ],
           "iso4217": "PRB",
           "part_of": "MDA",
@@ -1765,8 +1765,8 @@
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rubel",
+            "Kopiejka"
           ],
           "part_of": "RUS",
           "iso4217": "RUB",
@@ -2133,7 +2133,7 @@
           "alpha3": "URY",
           "units": [
             "Peso",
-            "Centym"
+            "Centésimo"
           ],
           "iso4217": "UYU",
           "key": "UY"
@@ -2401,7 +2401,7 @@
           "alpha3": "YMD",
           "units": [
             "Dinar",
-            "Fils"
+            "Fil"
           ],
           "part_of": "YEM",
           "iso4217": "YDD",
@@ -2413,7 +2413,7 @@
       ]
     },
     {
-      "name": "Israel",
+      "name": "Izrael",
       "countries": [
         {
           "name": "Izrael",
@@ -2568,7 +2568,7 @@
           "alpha2": "",
           "alpha3": "XSL",
           "units": [
-            "Shilling",
+            "Szyling",
             "Cent"
           ],
           "iso4217": "SLS",
@@ -3401,7 +3401,7 @@
           "alpha3": "KOR",
           "units": [
             "Won",
-            "Chon"
+            "Jun"
           ],
           "iso4217": "KRW",
           "key": "KR",
@@ -3421,7 +3421,7 @@
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
-            "Dollar",
+            "Dolar",
             "Cent"
           ],
           "iso4217": "TWD",
@@ -3553,7 +3553,7 @@
       ]
     },
     {
-      "name": "Singapore",
+      "name": "Singapur",
       "countries": [
         {
           "name": "Singapur",
@@ -3613,7 +3613,7 @@
           "alpha3": "BRN",
           "units": [
             "Dolar",
-            "Cent"
+            "Sen"
           ],
           "iso4217": "BND",
           "key": "BN"

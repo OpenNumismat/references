@@ -529,7 +529,7 @@
       ]
     },
     {
-      "name": "Europe",
+      "name": "Europa",
       "countries": [
         {
           "name": "Grönland",
@@ -1581,7 +1581,7 @@
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
+            "Krona",
             "Halér"
           ],
           "part_of": "CZE",
@@ -1652,7 +1652,12 @@
           "name": "Belarus",
           "alpha2": "BY",
           "alpha3": "BLR",
-          "units": []
+          "units": [
+            "Rubel",
+            "Kopek"
+          ],
+          "iso4217": "BYN",
+          "key": "BY"
         },
         {
           "name": "Moldavien",
@@ -1723,7 +1728,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
+            "Rubel",
             "Kopek"
           ],
           "iso4217": "RUB",
@@ -1760,7 +1765,7 @@
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
+            "Rubel",
             "Kopek"
           ],
           "part_of": "RUS",
@@ -1824,7 +1829,7 @@
           "alpha2": "GY",
           "alpha3": "GUY",
           "units": [
-            "Guyanadollar",
+            "Dollar",
             "Cent"
           ],
           "iso4217": "GYD",
@@ -2330,7 +2335,7 @@
           "alpha2": "SA",
           "alpha3": "SAU",
           "units": [
-            "Riyal",
+            "Rial",
             "Halala"
           ],
           "iso4217": "SAR",
@@ -2363,7 +2368,7 @@
           "alpha2": "YE",
           "alpha3": "YEM",
           "units": [
-            "Riyal",
+            "Rial",
             "Fils"
           ],
           "iso4217": "YER",
@@ -2708,7 +2713,12 @@
           "name": "Cameroon",
           "alpha2": "CM",
           "alpha3": "CMR",
-          "units": []
+          "units": [
+            "Franc",
+            "Centime"
+          ],
+          "iso4217": "XAF",
+          "key": "CM"
         },
         {
           "name": "Centralafrikanska republiken",
@@ -3207,7 +3217,7 @@
           "alpha3": "TKM",
           "units": [
             "Manat",
-            "Tennesi"
+            "Tenge"
           ],
           "iso4217": "TMT",
           "key": "TM"
@@ -3273,7 +3283,7 @@
           "alpha3": "",
           "units": [
             "Dram",
-            "Luma"
+            "Louma"
           ],
           "part_of": "AZE",
           "from_year": 1991,
@@ -3603,7 +3613,7 @@
           "alpha3": "BRN",
           "units": [
             "Dollar",
-            "Cent"
+            "Sen"
           ],
           "iso4217": "BND",
           "key": "BN"
@@ -3717,7 +3727,7 @@
           "alpha2": "SB",
           "alpha3": "SLB",
           "units": [
-            "Salomondollar",
+            "Dollar",
             "Cent"
           ],
           "iso4217": "SBD",

@@ -2,6 +2,8 @@
 
 import json
 
+from common import *
+
 
 def str2latin(string):
     return string.replace('ô', 'o').replace('ó', 'o').replace('ç', 'c').replace('é', 'e').replace('ë', 'e').replace('ā', 'a').replace('ã', 'a').replace('í', 'i').replace('ê', 'e').replace('ş', 's').replace('Đ', 'D').replace('ồ', 'o').replace('à', 'a')
@@ -28,6 +30,8 @@ def country2countrydata(country, orig_data):
     return None
 
 
+TITLE = "Subregions (OBJECTIVE LISTS)"
+
 with open('../src/OBJECTIVE_LISTS_2.json', encoding='utf-8') as subregions_file:
     subregions_data = json.load(subregions_file)
 
@@ -47,27 +51,26 @@ for region_data in subregions_data:
                 break
 
 
-for lang in ('en', 'bg', 'es', 'cs', 'de', 'el', 'fr', 'it', 'lv', 'hu', 'nl', 'pl', 'pt', 'sv'):
-    with open(f"../data/country_currency_{lang}.json", encoding='utf-8') as orig_file:
-        orig_data = json.load(orig_file)
-
-    result = {
-        "regions": []
-    }
-
-    for region in subregions_data:
-        result["regions"].append({
-            "name": region["region"],
-            "countries": [],
-        })
+for lang in lang_list():
+    result = get_regions(TITLE, lang)
+    translated_country_names = get_translated_country_names(lang)
+    translated_currency_names = get_translated_currency_names(lang)
 
     for orig_country in orig_data["countries"]:
         finded = False
         for alpha3, region in countries_list.items():
             if alpha3 == orig_country["alpha3"]:
                 for r in result["regions"]:
-                    if r["name"] == region:
-                        r["countries"].append(orig_country)
+                    if r["name"] == region2region_name(region):
+                        translated_country = orig_country.copy()
+                        translated_country["name"] = translated_country_names[orig_country["name"]]
+
+                        units = []
+                        for unit in orig_country["units"]:
+                            units.append(translated_currency_names[unit])
+                        translated_country["units"] = units
+
+                        r["countries"].append(translated_country)
                         finded = True
                         break
                 break
@@ -76,12 +79,20 @@ for lang in ('en', 'bg', 'es', 'cs', 'de', 'el', 'fr', 'it', 'lv', 'hu', 'nl', '
             for r in result["regions"]:
                 for c in r["countries"]:
                     if c["alpha3"] == orig_country["part_of"]:
-                        r["countries"].append(orig_country)
+                        translated_country = orig_country.copy()
+                        translated_country["name"] = translated_country_names[orig_country["name"]]
+
+                        units = []
+                        for unit in orig_country["units"]:
+                            units.append(translated_currency_names[unit])
+                        translated_country["units"] = units
+
+                        r["countries"].append(translated_country)
                         finded = True
                         break
 
         if not finded:
             print(f"Missed {lang} data for {orig_country['name']}")
 
-    with open(f"../data/Subregions (OBJECTIVE LISTS)_{lang}.json", 'w', encoding='utf8') as json_file:
+    with open(f"../data/{TITLE}_{lang}.json", 'w', encoding='utf8') as json_file:
         json.dump(result, json_file, ensure_ascii=False, indent=2)

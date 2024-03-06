@@ -1632,7 +1632,7 @@
           ]
         },
         {
-          "name": "Abkhazia",
+          "name": "Абхазия",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1643,12 +1643,12 @@
           "key": "_abkhazia"
         },
         {
-          "name": "Kosovo",
+          "name": "Косово",
           "alpha2": "XK",
           "alpha3": "XKX",
           "units": [
-            "Euro",
-            "Cent"
+            "Евро",
+            "Цент"
           ],
           "iso4217": "EUR",
           "part_of": "SRB",
@@ -1656,12 +1656,12 @@
           "key": "XK"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Северен Кипър",
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Lira",
-            "Kurus"
+            "Лира",
+            "Куруш"
           ],
           "iso4217": "TRY",
           "part_of": "CYP",
@@ -1669,12 +1669,12 @@
           "key": "_northern-cyprus"
         },
         {
-          "name": "South Ossetia",
+          "name": "Южна Осетия",
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Рубла",
+            "Копейка"
           ],
           "iso4217": "RUB",
           "part_of": "GEO",
@@ -1682,12 +1682,12 @@
           "key": "_south-ossetia"
         },
         {
-          "name": "Transnistria",
+          "name": "Транснистрия",
           "alpha2": "",
           "alpha3": "XPR",
           "units": [
             "Ruble",
-            "Kopek"
+            "Копейка"
           ],
           "iso4217": "PRB",
           "part_of": "MDA",
@@ -1706,12 +1706,12 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Чехословакия",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
-            "Halér"
+            "Крона",
+            "Халер"
           ],
           "part_of": "CZE",
           "iso4217": "CSK",
@@ -1721,11 +1721,11 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "East Germany",
+          "name": "Източна Германия",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
-            "Mark",
+            "Марка",
             "Pfennig"
           ],
           "part_of": "DEU",
@@ -1736,12 +1736,12 @@
           "key": "DD"
         },
         {
-          "name": "USSR",
+          "name": "СССР",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Рубла",
+            "Копейка"
           ],
           "part_of": "RUS",
           "iso4217": "RUB",
@@ -1751,12 +1751,12 @@
           "key": "SU"
         },
         {
-          "name": "Yugoslavia",
+          "name": "Югославия",
           "alpha2": "YU",
           "alpha3": "YUG",
           "units": [
-            "Dinar",
-            "Para"
+            "Динар",
+            "Пара"
           ],
           "part_of": "SRB",
           "iso4217": "YUD",
@@ -1798,7 +1798,7 @@
           "alpha2": "CV",
           "alpha3": "CPV",
           "units": [
-            "Верде",
+            "Ескудо",
             "Сентаво"
           ],
           "iso4217": "CVE",
@@ -1865,7 +1865,7 @@
           "alpha2": "TT",
           "alpha3": "TTO",
           "units": [
-            "Тобаго",
+            "Долар",
             "Цент"
           ],
           "iso4217": "TTD",
@@ -2152,7 +2152,7 @@
           "alpha3": "URY",
           "units": [
             "Песо",
-            "Сентисимо"
+            "Сентесимо"
           ],
           "iso4217": "UYU",
           "key": "UY"
@@ -2171,7 +2171,7 @@
       ]
     },
     {
-      "name": "Middle East & North Africa",
+      "name": "Близък Изток и Северна Африка",
       "countries": [
         {
           "name": "Алжир",
@@ -2391,7 +2391,7 @@
           "alpha2": "AE",
           "alpha3": "ARE",
           "units": [
-            "Оае",
+            "Дирхам",
             "Филс"
           ],
           "iso4217": "AED",
@@ -2409,7 +2409,7 @@
           "key": "YE"
         },
         {
-          "name": "Palestine",
+          "name": "Палестина",
           "alpha2": "PS",
           "alpha3": "PSE",
           "units": [],
@@ -2418,7 +2418,7 @@
           "key": "PS"
         },
         {
-          "name": "Western Sahara",
+          "name": "Западна Сахара",
           "alpha2": "EH",
           "alpha3": "ESH",
           "units": [
@@ -2430,12 +2430,12 @@
           "key": "EH"
         },
         {
-          "name": "South Yemen",
+          "name": "Южен Йемен",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
-            "Dinar",
-            "Fils"
+            "Динар",
+            "Филс"
           ],
           "part_of": "YEM",
           "iso4217": "YDD",
@@ -2529,12 +2529,12 @@
           "key": "NE"
         },
         {
-          "name": "Somaliland",
+          "name": "Сомалиленд",
           "alpha2": "",
           "alpha3": "XSL",
           "units": [
-            "Shilling",
-            "Cent"
+            "Шилинг",
+            "Цент"
           ],
           "iso4217": "SLS",
           "part_of": "SOM",
@@ -2544,7 +2544,7 @@
       ]
     },
     {
-      "name": "Sub-Saharan Africa",
+      "name": "Субсахарска Африка",
       "countries": [
         {
           "name": "Бурунди",
@@ -2638,7 +2638,7 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "PWF",
+          "iso4217": "RWF",
           "key": "RW"
         },
         {
@@ -2785,7 +2785,7 @@
             "Пула",
             "Тебе"
           ],
-          "iso4217": "BWT",
+          "iso4217": "BWP",
           "key": "BW"
         },
         {
@@ -3007,7 +3007,7 @@
       ]
     },
     {
-      "name": "South Asia",
+      "name": "Южна Азия",
       "countries": [
         {
           "name": "Бангладеш",
@@ -3117,7 +3117,7 @@
           "key": "LK"
         },
         {
-          "name": "Sikkim",
+          "name": "Сиким",
           "alpha2": "",
           "alpha3": "SKM",
           "units": [],
@@ -3131,7 +3131,7 @@
       ]
     },
     {
-      "name": "Central Asia",
+      "name": "Централна Азия",
       "countries": [
         {
           "name": "Казахстан",
@@ -3233,12 +3233,12 @@
           ]
         },
         {
-          "name": "Artsakh",
+          "name": "Арцах",
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Dram",
-            "Luma"
+            "Драм",
+            "Лума"
           ],
           "part_of": "AZE",
           "from_year": 1991,
@@ -3250,7 +3250,7 @@
       ]
     },
     {
-      "name": "East Asia",
+      "name": "източноазиатски",
       "countries": [
         {
           "name": "Китай",
@@ -3372,12 +3372,12 @@
           ]
         },
         {
-          "name": "Taiwan",
+          "name": "Тайван",
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
-            "Dollar",
-            "Cent"
+            "Долар",
+            "Цент"
           ],
           "iso4217": "TWD",
           "part_of": "CHN",
@@ -3404,7 +3404,7 @@
           "key": "TW"
         },
         {
-          "name": "Tibet",
+          "name": "Тибет",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3430,7 +3430,7 @@
           "alpha3": "BRN",
           "units": [
             "Долар",
-            "Цент"
+            "Сен"
           ],
           "iso4217": "BND",
           "key": "BN"
@@ -3603,11 +3603,11 @@
           "key": "VN"
         },
         {
-          "name": "South Vietnam",
+          "name": "Южен Виетнам",
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Dong",
+            "Донг",
             "Xu"
           ],
           "part_of": "VNM",
@@ -3672,7 +3672,7 @@
           "alpha2": "SB",
           "alpha3": "SLB",
           "units": [
-            "Острови",
+            "Долар",
             "Цент"
           ],
           "iso4217": "SBD",

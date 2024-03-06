@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe",
+      "name": "Europa",
       "countries": [
         {
           "name": "Groenlandia",
@@ -199,7 +199,7 @@
           "alpha3": "ROU",
           "units": [
             "Leu",
-            "Bani"
+            "Ban"
           ],
           "iso4217": "RON",
           "key": "RO"
@@ -274,7 +274,8 @@
           "alpha2": "UA",
           "alpha3": "UKR",
           "units": [
-            "Copeco"
+            "Hryvnia",
+            "Kopiyka"
           ],
           "iso4217": "UAH",
           "key": "UA"
@@ -774,7 +775,7 @@
           "alpha2": "RS",
           "alpha3": "SRB",
           "units": [
-            "Dinaro",
+            "Dinar",
             "Para"
           ],
           "iso4217": "RSD",
@@ -1297,8 +1298,8 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rublo",
+            "Copeco"
           ],
           "iso4217": "RUB",
           "part_of": "GEO",
@@ -1311,7 +1312,7 @@
           "alpha3": "XPR",
           "units": [
             "Ruble",
-            "Kopek"
+            "Copeco"
           ],
           "iso4217": "PRB",
           "part_of": "MDA",
@@ -1334,8 +1335,8 @@
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
-            "Halér"
+            "Corona",
+            "Heller"
           ],
           "part_of": "CZE",
           "iso4217": "CSK",
@@ -1349,7 +1350,7 @@
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
-            "Mark",
+            "Marco",
             "Pfennig"
           ],
           "part_of": "DEU",
@@ -1364,8 +1365,8 @@
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rublo",
+            "Copeco"
           ],
           "part_of": "RUS",
           "iso4217": "RUB",
@@ -1392,7 +1393,7 @@
       ]
     },
     {
-      "name": "North America",
+      "name": "Nord America",
       "countries": [
         {
           "name": "Canada",
@@ -1777,7 +1778,7 @@
       ]
     },
     {
-      "name": "Latin America",
+      "name": "America Latina",
       "countries": [
         {
           "name": "Maurizio",
@@ -2118,7 +2119,7 @@
           "alpha3": "PRY",
           "units": [
             "Guarani",
-            "Centesimo"
+            "Centimo"
           ],
           "iso4217": "PYG",
           "key": "PY"
@@ -2129,7 +2130,7 @@
           "alpha3": "PER",
           "units": [
             "Sol",
-            "Centesimo"
+            "Centimo"
           ],
           "iso4217": "PEN",
           "key": "PE",
@@ -2171,7 +2172,7 @@
           "alpha3": "VEN",
           "units": [
             "Bolivar",
-            "Centesimo"
+            "Centimo"
           ],
           "iso4217": "VES",
           "key": "VE"
@@ -2208,7 +2209,7 @@
           "alpha2": "LY",
           "alpha3": "LBY",
           "units": [
-            "Dinaro",
+            "Dinar",
             "Dirham"
           ],
           "iso4217": "LYD",
@@ -2230,7 +2231,7 @@
           "alpha2": "SD",
           "alpha3": "SDN",
           "units": [
-            "Sterlina",
+            "Lira",
             "Piastra"
           ],
           "iso4217": "SDG",
@@ -2244,7 +2245,7 @@
           "alpha2": "TN",
           "alpha3": "TUN",
           "units": [
-            "Dinaro",
+            "Dinar",
             "Millime"
           ],
           "iso4217": "TND",
@@ -2299,7 +2300,7 @@
           "alpha3": "IRN",
           "units": [
             "Rial",
-            "Dinaro"
+            "Dinar"
           ],
           "iso4217": "IRR",
           "key": "IR"
@@ -2320,7 +2321,7 @@
           "alpha2": "BH",
           "alpha3": "BHR",
           "units": [
-            "Dinaro",
+            "Dinar",
             "Fils"
           ],
           "iso4217": "BHD",
@@ -2331,7 +2332,7 @@
           "alpha2": "IQ",
           "alpha3": "IRQ",
           "units": [
-            "Dinaro",
+            "Dinar",
             "Fils"
           ],
           "iso4217": "IQD",
@@ -2368,7 +2369,7 @@
           "alpha2": "JO",
           "alpha3": "JOR",
           "units": [
-            "Dinaro",
+            "Dinar",
             "Qirsh"
           ],
           "iso4217": "JOD",
@@ -2379,7 +2380,7 @@
           "alpha2": "KW",
           "alpha3": "KWT",
           "units": [
-            "Dinaro",
+            "Dinar",
             "Fils"
           ],
           "iso4217": "KWD",
@@ -2423,7 +2424,7 @@
           "alpha2": "SA",
           "alpha3": "SAU",
           "units": [
-            "Riyal",
+            "Rial",
             "Hallala"
           ],
           "iso4217": "SAR",
@@ -2476,7 +2477,7 @@
           "alpha2": "",
           "alpha3": "XSL",
           "units": [
-            "Shilling",
+            "Scellino",
             "Cent"
           ],
           "iso4217": "SLS",
@@ -2533,7 +2534,7 @@
           "alpha3": "ERI",
           "units": [
             "Nakfa",
-            "Centesimo"
+            "Cent"
           ],
           "iso4217": "ERN",
           "key": "ER"
@@ -2616,7 +2617,7 @@
           "alpha2": "SS",
           "alpha3": "SSD",
           "units": [
-            "Sterlina",
+            "Lira",
             "Piastra"
           ],
           "iso4217": "SSP",
@@ -2982,7 +2983,7 @@
             "Leone",
             "Cent"
           ],
-          "iso4217": "SLL (",
+          "iso4217": "SLL",
           "key": "SL"
         },
         {
@@ -2999,7 +3000,7 @@
       ]
     },
     {
-      "name": "South Asia",
+      "name": "Asia del sud",
       "countries": [
         {
           "name": "Bangladesh",
@@ -3242,7 +3243,7 @@
       ]
     },
     {
-      "name": "East Asia",
+      "name": "Asia orientale",
       "countries": [
         {
           "name": "Cina",
@@ -3368,7 +3369,7 @@
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
-            "Dollar",
+            "Dollaro",
             "Cent"
           ],
           "iso4217": "TWD",
@@ -3508,7 +3509,7 @@
           "alpha3": "BRN",
           "units": [
             "Dollaro",
-            "Cent"
+            "Sen"
           ],
           "iso4217": "BND",
           "key": "BN"

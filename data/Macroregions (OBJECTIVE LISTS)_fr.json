@@ -209,7 +209,7 @@
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
-            "Roubrusse",
+            "Roubbiélorusse",
             "Kopek"
           ],
           "iso4217": "RUB",
@@ -632,7 +632,9 @@
           "name": "Croatie",
           "alpha2": "HR",
           "alpha3": "HRV",
-          "units": [],
+          "units": [
+            "Euro"
+          ],
           "iso4217": "EUR",
           "key": "HR",
           "contemporary_units": [
@@ -1283,7 +1285,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Lira",
+            "Livre",
             "Kurus"
           ],
           "iso4217": "TRY",
@@ -1296,7 +1298,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
+            "Roubbiélorusse",
             "Kopek"
           ],
           "iso4217": "RUB",
@@ -1333,7 +1335,7 @@
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
+            "Couronne",
             "Halér"
           ],
           "part_of": "CZE",
@@ -1363,7 +1365,7 @@
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
+            "Roubbiélorusse",
             "Kopek"
           ],
           "part_of": "RUS",
@@ -2422,7 +2424,7 @@
           "alpha2": "SA",
           "alpha3": "SAU",
           "units": [
-            "Riyal",
+            "Rial",
             "Halala"
           ],
           "iso4217": "SAR",
@@ -2455,7 +2457,7 @@
           "alpha2": "YE",
           "alpha3": "YEM",
           "units": [
-            "Riyal",
+            "Rial",
             "Fils"
           ],
           "iso4217": "YER",
@@ -2532,7 +2534,7 @@
           "alpha3": "ERI",
           "units": [
             "Nakfa",
-            "Centime"
+            "Cent"
           ],
           "iso4217": "ERN",
           "key": "ER"
@@ -3486,7 +3488,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Dong",
+            "Dông",
             "Xu"
           ],
           "part_of": "VNM",
@@ -3507,7 +3509,7 @@
           "alpha3": "BRN",
           "units": [
             "Dollar",
-            "Cent"
+            "Sen"
           ],
           "iso4217": "BND",
           "key": "BN"

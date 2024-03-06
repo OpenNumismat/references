@@ -488,7 +488,7 @@
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
-            "Sterling",
+            "Font",
             "Penny"
           ],
           "iso4217": "GBP",
@@ -635,7 +635,7 @@
           "units": [
             "Euró"
           ],
-          "iso4217": "cent",
+          "iso4217": "EUR",
           "key": "HR",
           "contemporary_units": [
             "Kuna",
@@ -1272,7 +1272,7 @@
           "alpha2": "XK",
           "alpha3": "XKX",
           "units": [
-            "Euro",
+            "Euró",
             "Cent"
           ],
           "iso4217": "EUR",
@@ -1285,7 +1285,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Lira",
+            "Líra",
             "Kurus"
           ],
           "iso4217": "TRY",
@@ -1298,8 +1298,8 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rubel",
+            "Kopejka"
           ],
           "iso4217": "RUB",
           "part_of": "GEO",
@@ -1312,7 +1312,7 @@
           "alpha3": "XPR",
           "units": [
             "Ruble",
-            "Kopek"
+            "Kopejka"
           ],
           "iso4217": "PRB",
           "part_of": "MDA",
@@ -1335,8 +1335,8 @@
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
-            "Halér"
+            "Korona",
+            "Haléř"
           ],
           "part_of": "CZE",
           "iso4217": "CSK",
@@ -1350,7 +1350,7 @@
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
-            "Mark",
+            "Márka",
             "Pfennig"
           ],
           "part_of": "DEU",
@@ -1365,8 +1365,8 @@
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rubel",
+            "Kopejka"
           ],
           "part_of": "RUS",
           "iso4217": "RUB",
@@ -1380,7 +1380,7 @@
           "alpha2": "YU",
           "alpha3": "YUG",
           "units": [
-            "Dinar",
+            "Dinár",
             "Para"
           ],
           "part_of": "SRB",
@@ -2502,8 +2502,8 @@
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
-            "Dinar",
-            "Fils"
+            "Dinár",
+            "Fil"
           ],
           "part_of": "YEM",
           "iso4217": "YDD",
@@ -3369,7 +3369,7 @@
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
-            "Dollar",
+            "Dollár",
             "Cent"
           ],
           "iso4217": "TWD",
@@ -3509,7 +3509,7 @@
           "alpha3": "BRN",
           "units": [
             "Dollár",
-            "Sen"
+            "Szen"
           ],
           "iso4217": "BND",
           "key": "BN"
@@ -3520,7 +3520,7 @@
           "alpha3": "IDN",
           "units": [
             "Rúpia",
-            "Sen"
+            "Szen"
           ],
           "iso4217": "IDR",
           "key": "ID",
