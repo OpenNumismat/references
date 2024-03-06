@@ -648,7 +648,7 @@
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
-            "Sterling",
+            "Font",
             "Penny"
           ],
           "iso4217": "GBP",
@@ -843,7 +843,7 @@
           "units": [
             "Euró"
           ],
-          "iso4217": "cent",
+          "iso4217": "EUR",
           "key": "HR",
           "contemporary_units": [
             "Kuna",
@@ -1443,7 +1443,7 @@
           "alpha2": "XK",
           "alpha3": "XKX",
           "units": [
-            "Euro",
+            "Euró",
             "Cent"
           ],
           "iso4217": "EUR",
@@ -3115,7 +3115,7 @@
           "key": "SS"
         },
         {
-          "name": "São Tomé és Príncipe",
+          "name": "São Tomé and Príncipe",
           "alpha2": "ST",
           "alpha3": "STP",
           "units": [
@@ -3369,7 +3369,7 @@
           "alpha3": "BRN",
           "units": [
             "Dollár",
-            "Sen"
+            "Szen"
           ],
           "iso4217": "BND",
           "key": "BN"
@@ -3493,7 +3493,7 @@
           "alpha3": "IDN",
           "units": [
             "Rúpia",
-            "Sen"
+            "Szen"
           ],
           "iso4217": "IDR",
           "key": "ID",
@@ -3889,7 +3889,7 @@
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
-            "Dollar",
+            "Dollár",
             "Cent"
           ],
           "iso4217": "TWD",

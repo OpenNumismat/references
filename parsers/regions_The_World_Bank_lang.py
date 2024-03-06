@@ -21,18 +21,28 @@ with open('../src/CLASS.csv', encoding='utf-8') as file:
         subregions_data[row[1]] = row[2]
 
 
-for lang in lang_list():
-    with open(f"../data/country_currency_{lang}.json", encoding='utf-8') as orig_file:
-        orig_data = json.load(orig_file)
+with open(f"../data/country_currency_en.json", encoding='utf-8') as orig_file:
+    orig_data = json.load(orig_file)
 
+for lang in lang_list():
     result = get_regions(TITLE, lang)
+    translated_country_names = get_translated_country_names(lang)
+    translated_currency_names = get_translated_currency_names(lang)
 
     for alpha3, region in subregions_data.items():
         for r in result["regions"]:
             if r["name"] == region2region_name(region):
-                orig_country_data = alpha2countrydata(alpha3, orig_data)
-                if orig_country_data:
-                    r["countries"].append(orig_country_data)
+                orig_country = alpha2countrydata(alpha3, orig_data)
+                if orig_country:
+                    translated_country = orig_country.copy()
+                    translated_country["name"] = translated_country_names[orig_country["name"]]
+
+                    units = []
+                    for unit in orig_country["units"]:
+                        units.append(translated_currency_names[unit])
+                    translated_country["units"] = units
+
+                    r["countries"].append(translated_country)
                 else:
                     print(f"Missed {lang} data for {alpha3}")
 

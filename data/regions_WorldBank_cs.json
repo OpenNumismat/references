@@ -648,7 +648,7 @@
           "alpha2": "GB",
           "alpha3": "GBR",
           "units": [
-            "Šterlinků",
+            "Libra",
             "Penny"
           ],
           "iso4217": "GBP",
@@ -1919,7 +1919,7 @@
           "alpha2": "OM",
           "alpha3": "OMN",
           "units": [
-            "Rijál",
+            "Riál",
             "Baiza"
           ],
           "iso4217": "OMR",
@@ -1983,7 +1983,7 @@
           "alpha2": "YE",
           "alpha3": "YEM",
           "units": [
-            "Rijál",
+            "Riál",
             "Fils"
           ],
           "iso4217": "YER",
@@ -2169,7 +2169,7 @@
           "alpha2": "CW",
           "alpha3": "CUW",
           "units": [
-            "Gulden",
+            "Guilder",
             "Cent"
           ],
           "iso4217": "ANG",
@@ -2443,7 +2443,7 @@
           "alpha2": "SX",
           "alpha3": "SXM",
           "units": [
-            "Gulden",
+            "Guilder",
             "Cent"
           ],
           "iso4217": "ANG",
@@ -2479,7 +2479,7 @@
           "alpha3": "URY",
           "units": [
             "Peso",
-            "Centésimo"
+            "Cent"
           ],
           "iso4217": "UYU",
           "key": "UY"
@@ -2501,7 +2501,7 @@
           "alpha3": "VEN",
           "units": [
             "Soberano",
-            "Centim"
+            "Centimo"
           ],
           "iso4217": "VES",
           "key": "VE"
@@ -2649,7 +2649,7 @@
           "alpha3": "NPL",
           "units": [
             "Rupie",
-            "Poeša"
+            "Paisa"
           ],
           "iso4217": "NPR",
           "key": "NP",
@@ -3665,7 +3665,7 @@
           "alpha2": "NC",
           "alpha3": "NCL",
           "units": [
-            "Cfp",
+            "Frank",
             "Centim"
           ],
           "iso4217": "XPF",
@@ -3764,7 +3764,7 @@
           "alpha2": "PF",
           "alpha3": "PYF",
           "units": [
-            "Cfp",
+            "Frank",
             "Centim"
           ],
           "iso4217": "XPF",
@@ -3823,7 +3823,7 @@
           "alpha2": "SB",
           "alpha3": "SLB",
           "units": [
-            "Ostrovů",
+            "Dolar",
             "Cent"
           ],
           "iso4217": "SBD",
@@ -3889,7 +3889,7 @@
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
-            "Dollar",
+            "Dolar",
             "Cent"
           ],
           "iso4217": "TWD",

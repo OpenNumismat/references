@@ -1254,7 +1254,7 @@
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
-            "Rublis",
+            "Rubelis",
             "Kapeika"
           ],
           "iso4217": "RUB",
@@ -1444,7 +1444,7 @@
           "alpha3": "XKX",
           "units": [
             "Euro",
-            "Cent"
+            "Cents"
           ],
           "iso4217": "EUR",
           "part_of": "SRB",
@@ -2286,7 +2286,7 @@
           "alpha3": "JAM",
           "units": [
             "Dolārs",
-            "Sens"
+            "Cents"
           ],
           "iso4217": "JMD",
           "key": "JM"
@@ -2649,7 +2649,7 @@
           "alpha3": "NPL",
           "units": [
             "Rūpija",
-            "Paisa"
+            "Paiss"
           ],
           "iso4217": "NPR",
           "key": "NP",
@@ -2670,7 +2670,7 @@
           "alpha3": "PAK",
           "units": [
             "Rūpija",
-            "Paisa"
+            "Paiss"
           ],
           "iso4217": "PKR",
           "key": "PK"
@@ -2707,6 +2707,7 @@
           "alpha2": "BJ",
           "alpha3": "BEN",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XOF",
@@ -2717,6 +2718,7 @@
           "alpha2": "BF",
           "alpha3": "BFA",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XOF",
@@ -2738,6 +2740,7 @@
           "alpha2": "CF",
           "alpha3": "CAF",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XAF",
@@ -2748,6 +2751,7 @@
           "alpha2": "CI",
           "alpha3": "CIV",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XOF",
@@ -2757,7 +2761,12 @@
           "name": "Cameroon",
           "alpha2": "CM",
           "alpha3": "CMR",
-          "units": []
+          "units": [
+            "Franks",
+            "Santīms"
+          ],
+          "iso4217": "XAF",
+          "key": "CM"
         },
         {
           "name": "Kongo Demokrātiskā Republika",
@@ -2775,6 +2784,7 @@
           "alpha2": "CG",
           "alpha3": "COG",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XAF",
@@ -2828,6 +2838,7 @@
           "alpha2": "GA",
           "alpha3": "GAB",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XAF",
@@ -2874,6 +2885,7 @@
           "alpha2": "GW",
           "alpha3": "GNB",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XOF",
@@ -2884,6 +2896,7 @@
           "alpha2": "GQ",
           "alpha3": "GNQ",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XAF",
@@ -2945,6 +2958,7 @@
           "alpha2": "ML",
           "alpha3": "MLI",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XOF",
@@ -3014,6 +3028,7 @@
           "alpha2": "NE",
           "alpha3": "NER",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XOF",
@@ -3060,6 +3075,7 @@
           "alpha2": "SN",
           "alpha3": "SEN",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XOF",
@@ -3099,7 +3115,7 @@
           "key": "SS"
         },
         {
-          "name": "Santome un Prinsipi",
+          "name": "São Tomé and Príncipe",
           "alpha2": "ST",
           "alpha3": "STP",
           "units": [
@@ -3136,6 +3152,7 @@
           "alpha2": "TD",
           "alpha3": "TCD",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XAF",
@@ -3146,6 +3163,7 @@
           "alpha2": "TG",
           "alpha3": "TGO",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XOF",
@@ -3647,6 +3665,7 @@
           "alpha2": "NC",
           "alpha3": "NCL",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XPF",
@@ -3745,6 +3764,7 @@
           "alpha2": "PF",
           "alpha3": "PYF",
           "units": [
+            "Franks",
             "Santīms"
           ],
           "iso4217": "XPF",
@@ -3869,8 +3889,8 @@
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
-            "Dollar",
-            "Cent"
+            "Dolārs",
+            "Cents"
           ],
           "iso4217": "TWD",
           "part_of": "CHN",

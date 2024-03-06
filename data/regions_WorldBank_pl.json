@@ -2479,7 +2479,7 @@
           "alpha3": "URY",
           "units": [
             "Peso",
-            "Centym"
+            "Centésimo"
           ],
           "iso4217": "UYU",
           "key": "UY"
@@ -3369,7 +3369,7 @@
           "alpha3": "BRN",
           "units": [
             "Dolar",
-            "Cent"
+            "Sen"
           ],
           "iso4217": "BND",
           "key": "BN"
@@ -3566,7 +3566,7 @@
           "alpha3": "KOR",
           "units": [
             "Won",
-            "Chon"
+            "Jun"
           ],
           "iso4217": "KRW",
           "key": "KR",
@@ -3889,7 +3889,7 @@
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
-            "Dollar",
+            "Dolar",
             "Cent"
           ],
           "iso4217": "TWD",

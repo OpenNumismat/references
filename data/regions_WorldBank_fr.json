@@ -840,7 +840,9 @@
           "name": "Croatie",
           "alpha2": "HR",
           "alpha3": "HRV",
-          "units": [],
+          "units": [
+            "Euro"
+          ],
           "iso4217": "EUR",
           "key": "HR",
           "contemporary_units": [
@@ -1252,7 +1254,7 @@
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
-            "Roubrusse",
+            "Roubbiélorusse",
             "Kopek"
           ],
           "iso4217": "RUB",
@@ -1948,7 +1950,7 @@
           "alpha2": "SA",
           "alpha3": "SAU",
           "units": [
-            "Riyal",
+            "Rial",
             "Halala"
           ],
           "iso4217": "SAR",
@@ -1981,7 +1983,7 @@
           "alpha2": "YE",
           "alpha3": "YEM",
           "units": [
-            "Riyal",
+            "Rial",
             "Fils"
           ],
           "iso4217": "YER",
@@ -2815,7 +2817,7 @@
           "alpha3": "ERI",
           "units": [
             "Nakfa",
-            "Centime"
+            "Cent"
           ],
           "iso4217": "ERN",
           "key": "ER"
@@ -3113,7 +3115,7 @@
           "key": "SS"
         },
         {
-          "name": "Sao Tomé-et-Principe",
+          "name": "São Tomé et Príncipe",
           "alpha2": "ST",
           "alpha3": "STP",
           "units": [
@@ -3367,7 +3369,7 @@
           "alpha3": "BRN",
           "units": [
             "Dollar",
-            "Cent"
+            "Sen"
           ],
           "iso4217": "BND",
           "key": "BN"
