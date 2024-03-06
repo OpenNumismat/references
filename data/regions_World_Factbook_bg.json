@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe",
+      "name": "Европа",
       "countries": [
         {
           "name": "Кипър",
@@ -322,7 +322,7 @@
           "alpha2": "GG",
           "alpha3": "GGY",
           "units": [
-            "Гърнзи",
+            "Лира",
             "Пенс"
           ],
           "iso4217": "GGP",
@@ -373,7 +373,7 @@
           "alpha2": "IM",
           "alpha3": "IMN",
           "units": [
-            "Ман",
+            "Лира",
             "Пенс"
           ],
           "iso4217": "IMP",
@@ -385,7 +385,7 @@
           "alpha2": "JE",
           "alpha3": "JEY",
           "units": [
-            "Джърси",
+            "Лира",
             "Пенс"
           ],
           "iso4217": "JEP",
@@ -751,7 +751,7 @@
             "Евро",
             "Цент"
           ],
-          "iso4217": "MTL",
+          "iso4217": "EUR",
           "key": "MT",
           "contemporary_units": [
             "Lira",
@@ -1347,12 +1347,12 @@
           ]
         },
         {
-          "name": "Kosovo",
+          "name": "Косово",
           "alpha2": "XK",
           "alpha3": "XKX",
           "units": [
-            "Euro",
-            "Cent"
+            "Евро",
+            "Цент"
           ],
           "iso4217": "EUR",
           "part_of": "SRB",
@@ -1360,12 +1360,12 @@
           "key": "XK"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Северен Кипър",
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Lira",
-            "Kurus"
+            "Лира",
+            "Куруш"
           ],
           "iso4217": "TRY",
           "part_of": "CYP",
@@ -1373,12 +1373,12 @@
           "key": "_northern-cyprus"
         },
         {
-          "name": "Transnistria",
+          "name": "Транснистрия",
           "alpha2": "",
           "alpha3": "XPR",
           "units": [
             "Ruble",
-            "Kopek"
+            "Копейка"
           ],
           "iso4217": "PRB",
           "part_of": "MDA",
@@ -1397,12 +1397,12 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Чехословакия",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
-            "Halér"
+            "Крона",
+            "Халер"
           ],
           "part_of": "CZE",
           "iso4217": "CSK",
@@ -1412,11 +1412,11 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "East Germany",
+          "name": "Източна Германия",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
-            "Mark",
+            "Марка",
             "Pfennig"
           ],
           "part_of": "DEU",
@@ -1427,12 +1427,12 @@
           "key": "DD"
         },
         {
-          "name": "Yugoslavia",
+          "name": "Югославия",
           "alpha2": "YU",
           "alpha3": "YUG",
           "units": [
-            "Dinar",
-            "Para"
+            "Динар",
+            "Пара"
           ],
           "part_of": "SRB",
           "iso4217": "YUD",
@@ -1444,7 +1444,7 @@
       ]
     },
     {
-      "name": "North America",
+      "name": "Северна Америка",
       "countries": [
         {
           "name": "Мексико",
@@ -1765,7 +1765,7 @@
       ]
     },
     {
-      "name": "Middle East",
+      "name": "Близък Изток",
       "countries": [
         {
           "name": "Иран",
@@ -1963,7 +1963,7 @@
           "alpha2": "AE",
           "alpha3": "ARE",
           "units": [
-            "Оае",
+            "Дирхам",
             "Филс"
           ],
           "iso4217": "AED",
@@ -1981,7 +1981,7 @@
           "key": "YE"
         },
         {
-          "name": "Abkhazia",
+          "name": "Абхазия",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1992,7 +1992,7 @@
           "key": "_abkhazia"
         },
         {
-          "name": "Palestine",
+          "name": "Палестина",
           "alpha2": "PS",
           "alpha3": "PSE",
           "units": [],
@@ -2001,12 +2001,12 @@
           "key": "PS"
         },
         {
-          "name": "South Ossetia",
+          "name": "Южна Осетия",
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Рубла",
+            "Копейка"
           ],
           "iso4217": "RUB",
           "part_of": "GEO",
@@ -2014,12 +2014,12 @@
           "key": "_south-ossetia"
         },
         {
-          "name": "Artsakh",
+          "name": "Арцах",
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Dram",
-            "Luma"
+            "Драм",
+            "Лума"
           ],
           "part_of": "AZE",
           "from_year": 1991,
@@ -2029,12 +2029,12 @@
           "key": "_artsakh"
         },
         {
-          "name": "South Yemen",
+          "name": "Южен Йемен",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
-            "Dinar",
-            "Fils"
+            "Динар",
+            "Филс"
           ],
           "part_of": "YEM",
           "iso4217": "YDD",
@@ -2046,7 +2046,7 @@
       ]
     },
     {
-      "name": "Central Asia",
+      "name": "Централна Азия",
       "countries": [
         {
           "name": "Казахстан",
@@ -2135,12 +2135,12 @@
           ]
         },
         {
-          "name": "USSR",
+          "name": "СССР",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Рубла",
+            "Копейка"
           ],
           "part_of": "RUS",
           "iso4217": "RUB",
@@ -2152,7 +2152,7 @@
       ]
     },
     {
-      "name": "East and Southeast Asia",
+      "name": "Източна и Югоизточна Азия",
       "countries": [
         {
           "name": "Китай",
@@ -2324,7 +2324,7 @@
           "alpha3": "BRN",
           "units": [
             "Долар",
-            "Цент"
+            "Сен"
           ],
           "iso4217": "BND",
           "key": "BN"
@@ -2519,12 +2519,12 @@
           "key": "PG"
         },
         {
-          "name": "Taiwan",
+          "name": "Тайван",
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
-            "Dollar",
-            "Cent"
+            "Долар",
+            "Цент"
           ],
           "iso4217": "TWD",
           "part_of": "CHN",
@@ -2551,11 +2551,11 @@
           "key": "TW"
         },
         {
-          "name": "South Vietnam",
+          "name": "Южен Виетнам",
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Dong",
+            "Донг",
             "Xu"
           ],
           "part_of": "VNM",
@@ -2566,7 +2566,7 @@
           "key": "_south-vietnam"
         },
         {
-          "name": "Tibet",
+          "name": "Тибет",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2584,7 +2584,7 @@
       ]
     },
     {
-      "name": "South America",
+      "name": "Южна Америка",
       "countries": [
         {
           "name": "Аржентина",
@@ -2694,11 +2694,11 @@
           ]
         },
         {
-          "name": "Фолкландски острови",
+          "name": "Фолкландски (Малвински) острови",
           "alpha2": "FK",
           "alpha3": "FLK",
           "units": [
-            "Острови",
+            "Лира",
             "Пенс"
           ],
           "iso4217": "FKP",
@@ -2773,7 +2773,7 @@
           "alpha3": "URY",
           "units": [
             "Песо",
-            "Сентисимо"
+            "Сентесимо"
           ],
           "iso4217": "UYU",
           "key": "UY"
@@ -2792,7 +2792,7 @@
       ]
     },
     {
-      "name": "Australia and Oceania",
+      "name": "Австралия и Океания",
       "countries": [
         {
           "name": "Австралия",
@@ -2975,7 +2975,7 @@
           "alpha2": "SB",
           "alpha3": "SLB",
           "units": [
-            "Острови",
+            "Долар",
             "Цент"
           ],
           "iso4217": "SBD",
@@ -3190,7 +3190,7 @@
       ]
     },
     {
-      "name": "South Asia",
+      "name": "Южна Азия",
       "countries": [
         {
           "name": "Британски територии в Индийския океан",
@@ -3345,7 +3345,7 @@
           "key": "LK"
         },
         {
-          "name": "Sikkim",
+          "name": "Сиким",
           "alpha2": "",
           "alpha3": "SKM",
           "units": [],
@@ -3359,7 +3359,7 @@
       ]
     },
     {
-      "name": "Africa",
+      "name": "Африка",
       "countries": [
         {
           "name": "Алжир",
@@ -3553,7 +3553,7 @@
             "Франк",
             "Сантим"
           ],
-          "iso4217": "PWF",
+          "iso4217": "RWF",
           "key": "RW"
         },
         {
@@ -3726,6 +3726,17 @@
           "key": "GA"
         },
         {
+          "name": "Сао Томе и Принсипи",
+          "alpha2": "ST",
+          "alpha3": "STP",
+          "units": [
+            "Добра",
+            "Сентимо"
+          ],
+          "iso4217": "STN",
+          "key": "ST"
+        },
+        {
           "name": "Ботсуана",
           "alpha2": "BW",
           "alpha3": "BWA",
@@ -3733,7 +3744,7 @@
             "Пула",
             "Тебе"
           ],
-          "iso4217": "BWT",
+          "iso4217": "BWP",
           "key": "BW"
         },
         {
@@ -3833,7 +3844,7 @@
           "alpha2": "CV",
           "alpha3": "CPV",
           "units": [
-            "Верде",
+            "Ескудо",
             "Сентаво"
           ],
           "iso4217": "CVE",
@@ -3957,7 +3968,7 @@
           "alpha2": "SH",
           "alpha3": "SHN",
           "units": [
-            "Елена",
+            "Лира",
             "Пенс"
           ],
           "iso4217": "SHP",
@@ -3998,12 +4009,12 @@
           "key": "TG"
         },
         {
-          "name": "Somaliland",
+          "name": "Сомалиленд",
           "alpha2": "",
           "alpha3": "XSL",
           "units": [
-            "Shilling",
-            "Cent"
+            "Шилинг",
+            "Цент"
           ],
           "iso4217": "SLS",
           "part_of": "SOM",
@@ -4011,7 +4022,7 @@
           "key": "_somaliland"
         },
         {
-          "name": "Western Sahara",
+          "name": "Западна Сахара",
           "alpha2": "EH",
           "alpha3": "ESH",
           "units": [
@@ -4025,7 +4036,7 @@
       ]
     },
     {
-      "name": "Central America and the Caribbean",
+      "name": "Централна Америка и Карибският регион",
       "countries": [
         {
           "name": "Ангила",
@@ -4101,7 +4112,7 @@
           "alpha2": "KY",
           "alpha3": "CYM",
           "units": [
-            "Острови",
+            "Долар",
             "Цент"
           ],
           "iso4217": "KYD",
@@ -4124,7 +4135,7 @@
           "alpha2": "CW",
           "alpha3": "CUW",
           "units": [
-            "Гулден",
+            "Флорин",
             "Цент"
           ],
           "iso4217": "ANG",
@@ -4260,7 +4271,7 @@
           "alpha2": "SX",
           "alpha3": "SXM",
           "units": [
-            "Гулден",
+            "Флорин",
             "Цент"
           ],
           "iso4217": "ANG",
@@ -4272,7 +4283,7 @@
           "alpha2": "TT",
           "alpha3": "TTO",
           "units": [
-            "Тобаго",
+            "Долар",
             "Цент"
           ],
           "iso4217": "TTD",

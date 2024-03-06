@@ -10,7 +10,7 @@ def str2latin(string):
     return string.replace('ô', 'o').replace('ó', 'o').replace('ç', 'c').replace('é', 'e').replace('ë', 'e').replace('ā', 'a').replace('ã', 'a').replace('í', 'i').replace('ê', 'e').replace('ş', 's').replace('Đ', 'D').replace('ồ', 'o').replace('à', 'a')
 
 def compare_county_names(country1, country2):
-    return bool(country2.lower() in get_alternative_names(country1))
+    return bool(country2 in get_alternative_names(country1))
 
 def country2countrydata(country, orig_data):
     names = get_alternative_names(country)
@@ -41,12 +41,10 @@ for name, region in subregions_data.items():
             countries_list[orig_country["alpha3"]] = region
             break
 
-
 for lang in lang_list():
     result = get_regions(TITLE, lang)
-
-    with open(f"../data/country_currency_{lang}.json", encoding='utf-8') as orig_file:
-        orig_data = json.load(orig_file)
+    translated_country_names = get_translated_country_names(lang)
+    translated_currency_names = get_translated_currency_names(lang)
 
     for orig_country in orig_data["countries"]:
         finded = False
@@ -54,7 +52,15 @@ for lang in lang_list():
             if alpha3 == orig_country["alpha3"]:
                 for r in result["regions"]:
                     if r["name"] == region2region_name(region):
-                        r["countries"].append(orig_country)
+                        translated_country = orig_country.copy()
+                        translated_country["name"] = translated_country_names[orig_country["name"]]
+
+                        units = []
+                        for unit in orig_country["units"]:
+                            units.append(translated_currency_names[unit])
+                        translated_country["units"] = units
+
+                        r["countries"].append(translated_country)
                         finded = True
                         break
                 break
@@ -63,7 +69,15 @@ for lang in lang_list():
             for r in result["regions"]:
                 for c in r["countries"]:
                     if c["alpha3"] == orig_country["part_of"]:
-                        r["countries"].append(orig_country)
+                        translated_country = orig_country.copy()
+                        translated_country["name"] = translated_country_names[orig_country["name"]]
+
+                        units = []
+                        for unit in orig_country["units"]:
+                            units.append(translated_currency_names[unit])
+                        translated_country["units"] = units
+
+                        r["countries"].append(translated_country)
                         finded = True
                         break
 

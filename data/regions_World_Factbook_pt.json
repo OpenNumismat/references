@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe",
+      "name": "Europa",
       "countries": [
         {
           "name": "Chipre",
@@ -9,7 +9,7 @@
           "alpha3": "CYP",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "CY",
@@ -176,7 +176,7 @@
           "alpha3": "SVK",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "SK",
@@ -252,7 +252,7 @@
           "alpha3": "EST",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "EE",
@@ -280,7 +280,7 @@
           ]
         },
         {
-          "name": "Faroé",
+          "name": "Ilhas Faroé",
           "alpha2": "FO",
           "alpha3": "FRO",
           "units": [
@@ -297,7 +297,7 @@
           "alpha3": "FIN",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "FI",
@@ -349,7 +349,7 @@
           "alpha3": "IRL",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "IE",
@@ -398,7 +398,7 @@
           "alpha3": "LVA",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "LV",
@@ -413,7 +413,7 @@
           "alpha3": "LTU",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "LT",
@@ -606,7 +606,7 @@
           "alpha3": "AND",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "AD",
@@ -669,7 +669,7 @@
           "alpha3": "GRC",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "GR",
@@ -704,7 +704,7 @@
           "alpha3": "VAT",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "VA"
@@ -715,7 +715,7 @@
           "alpha3": "ITA",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "IT",
@@ -749,7 +749,7 @@
           "alpha3": "MLT",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "MT",
@@ -775,7 +775,7 @@
           "alpha3": "MNE",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "ME"
@@ -797,7 +797,7 @@
           "alpha3": "PRT",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "PT",
@@ -823,7 +823,7 @@
           "alpha3": "SMR",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "SM"
@@ -855,7 +855,7 @@
           "alpha3": "SVN",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "SI",
@@ -870,7 +870,7 @@
           "alpha3": "ESP",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "ES",
@@ -924,7 +924,7 @@
           "alpha3": "AUT",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "AT",
@@ -951,7 +951,7 @@
           "alpha3": "BEL",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "BE",
@@ -993,7 +993,7 @@
           "alpha3": "FRA",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "FR",
@@ -1045,7 +1045,7 @@
           "alpha3": "DEU",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "DE",
@@ -1230,7 +1230,7 @@
           "alpha3": "LUX",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "LU",
@@ -1245,18 +1245,18 @@
           "alpha3": "MCO",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "MC"
         },
         {
-          "name": "Países Baixos",
+          "name": "Holanda",
           "alpha2": "NL",
           "alpha3": "NLD",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "NL",
@@ -1352,7 +1352,7 @@
           "alpha3": "XKX",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "part_of": "SRB",
@@ -1360,7 +1360,7 @@
           "key": "XK"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Chipre do Norte",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1373,12 +1373,12 @@
           "key": "_northern-cyprus"
         },
         {
-          "name": "Transnistria",
+          "name": "Transnístria",
           "alpha2": "",
           "alpha3": "XPR",
           "units": [
             "Ruble",
-            "Kopek"
+            "Copeque"
           ],
           "iso4217": "PRB",
           "part_of": "MDA",
@@ -1397,11 +1397,11 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Checoslováquia",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
-            "Koruna",
+            "Coroa",
             "Halér"
           ],
           "part_of": "CZE",
@@ -1412,11 +1412,11 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "East Germany",
+          "name": "Alemanha de Leste",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
-            "Mark",
+            "Marco",
             "Pfennig"
           ],
           "part_of": "DEU",
@@ -1427,7 +1427,7 @@
           "key": "DD"
         },
         {
-          "name": "Yugoslavia",
+          "name": "Jugoslávia",
           "alpha2": "YU",
           "alpha3": "YUG",
           "units": [
@@ -1444,7 +1444,7 @@
       ]
     },
     {
-      "name": "North America",
+      "name": "América do Norte",
       "countries": [
         {
           "name": "México",
@@ -1527,7 +1527,7 @@
           "alpha3": "SPM",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "PM",
@@ -1765,7 +1765,7 @@
       ]
     },
     {
-      "name": "Middle East",
+      "name": "Médio Oriente",
       "countries": [
         {
           "name": "Irão",
@@ -1871,7 +1871,7 @@
           "key": "JO"
         },
         {
-          "name": "Koweit",
+          "name": "Kuwait",
           "alpha2": "KW",
           "alpha3": "KWT",
           "units": [
@@ -1981,7 +1981,7 @@
           "key": "YE"
         },
         {
-          "name": "Abkhazia",
+          "name": "Abecásia",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1992,7 +1992,7 @@
           "key": "_abkhazia"
         },
         {
-          "name": "Palestine",
+          "name": "Palestina",
           "alpha2": "PS",
           "alpha3": "PSE",
           "units": [],
@@ -2001,12 +2001,12 @@
           "key": "PS"
         },
         {
-          "name": "South Ossetia",
+          "name": "Ossétia do Sul",
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rublo",
+            "Copeque"
           ],
           "iso4217": "RUB",
           "part_of": "GEO",
@@ -2029,7 +2029,7 @@
           "key": "_artsakh"
         },
         {
-          "name": "South Yemen",
+          "name": "Yemen do Sul",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
@@ -2046,7 +2046,7 @@
       ]
     },
     {
-      "name": "Central Asia",
+      "name": "Ásia Central",
       "countries": [
         {
           "name": "Cazaquistão",
@@ -2087,7 +2087,7 @@
           "alpha3": "TKM",
           "units": [
             "Manat",
-            "Tenge"
+            "Tengue"
           ],
           "iso4217": "TMT",
           "key": "TM"
@@ -2139,8 +2139,8 @@
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
-            "Kopek"
+            "Rublo",
+            "Copeque"
           ],
           "part_of": "RUS",
           "iso4217": "RUB",
@@ -2152,7 +2152,7 @@
       ]
     },
     {
-      "name": "East and Southeast Asia",
+      "name": "Ásia Oriental e Sudeste",
       "countries": [
         {
           "name": "China",
@@ -2523,8 +2523,8 @@
           "alpha2": "TW",
           "alpha3": "TWN",
           "units": [
-            "Dollar",
-            "Cent"
+            "Dólar",
+            "Cêntimo"
           ],
           "iso4217": "TWD",
           "part_of": "CHN",
@@ -2551,7 +2551,7 @@
           "key": "TW"
         },
         {
-          "name": "South Vietnam",
+          "name": "Vietname do Sul",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2566,7 +2566,7 @@
           "key": "_south-vietnam"
         },
         {
-          "name": "Tibet",
+          "name": "Tibete",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2584,7 +2584,7 @@
       ]
     },
     {
-      "name": "South America",
+      "name": "América do Sul",
       "countries": [
         {
           "name": "Argentina",
@@ -2684,7 +2684,7 @@
           "alpha3": "ECU",
           "units": [
             "Dólar",
-            "Centavo"
+            "Cêntimo"
           ],
           "iso4217": "USD",
           "key": "EC",
@@ -2694,7 +2694,7 @@
           ]
         },
         {
-          "name": "Ilhas Falkland",
+          "name": "Ilhas Malvinas",
           "alpha2": "FK",
           "alpha3": "FLK",
           "units": [
@@ -2792,7 +2792,7 @@
       ]
     },
     {
-      "name": "Australia and Oceania",
+      "name": "Austrália e Oceânia",
       "countries": [
         {
           "name": "Austrália",
@@ -2903,7 +2903,7 @@
           "dependent": true
         },
         {
-          "name": "Ilhas dos Cocos",
+          "name": "Ilhas Cocos (Keeling)",
           "alpha2": "CC",
           "alpha3": "CCK",
           "units": [
@@ -3190,7 +3190,7 @@
       ]
     },
     {
-      "name": "South Asia",
+      "name": "Ásia do Sul",
       "countries": [
         {
           "name": "Território Britânico do Oceano Índico",
@@ -3334,7 +3334,7 @@
           "key": "PK"
         },
         {
-          "name": "Seri Lanca",
+          "name": "Sri Lanka",
           "alpha2": "LK",
           "alpha3": "LKA",
           "units": [
@@ -3359,7 +3359,7 @@
       ]
     },
     {
-      "name": "Africa",
+      "name": "África",
       "countries": [
         {
           "name": "Argélia",
@@ -3373,7 +3373,7 @@
           "key": "DZ"
         },
         {
-          "name": "Egito",
+          "name": "Egipto",
           "alpha2": "EG",
           "alpha3": "EGY",
           "units": [
@@ -3726,6 +3726,17 @@
           "key": "GA"
         },
         {
+          "name": "São Tomé e Príncipe",
+          "alpha2": "ST",
+          "alpha3": "STP",
+          "units": [
+            "Dobra",
+            "Cêntimo"
+          ],
+          "iso4217": "STN",
+          "key": "ST"
+        },
+        {
           "name": "Botsuana",
           "alpha2": "BW",
           "alpha3": "BWA",
@@ -3998,12 +4009,12 @@
           "key": "TG"
         },
         {
-          "name": "Somaliland",
+          "name": "Somalilândia",
           "alpha2": "",
           "alpha3": "XSL",
           "units": [
-            "Shilling",
-            "Cent"
+            "Xelim",
+            "Cêntimo"
           ],
           "iso4217": "SLS",
           "part_of": "SOM",
@@ -4011,7 +4022,7 @@
           "key": "_somaliland"
         },
         {
-          "name": "Western Sahara",
+          "name": "Saara Ocidental",
           "alpha2": "EH",
           "alpha3": "ESH",
           "units": [
@@ -4025,7 +4036,7 @@
       ]
     },
     {
-      "name": "Central America and the Caribbean",
+      "name": "América Central e Caraíbas",
       "countries": [
         {
           "name": "Anguila",
@@ -4238,7 +4249,7 @@
           "alpha3": "MAF",
           "units": [
             "Euro",
-            "Cent"
+            "Cêntimo"
           ],
           "iso4217": "EUR",
           "key": "MF",
