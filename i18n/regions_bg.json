@@ -38,10 +38,10 @@
     "Europe & Central Asia": "Европа и Централна Азия",
     "North America": "Северна Америка",
     "Middle East & North Africa": "Близък Изток и Северна Африка",
-    "Latin America & Caribbean": "Латинска Америка и Карибският регион",
+    "Latin America & Caribbean": "Латинска Америка и Карибски регион",
     "South Asia": "Южна Азия",
     "Sub-Saharan Africa": "Субсахарска Африка",
-    "East Asia & Pacific": "Източна Азия и Тихоокеанският регион"
+    "East Asia & Pacific": "Източна Азия и Тихоокеански регион"
   },
   "regions_World_Factbook": {
     "Europe": "Европа",
@@ -53,7 +53,7 @@
     "Australia and Oceania": "Австралия и Океания",
     "South Asia": "Южна Азия",
     "Africa": "Африка",
-    "Central America and the Caribbean": "Централна Америка и Карибският регион"
+    "Central America and the Caribbean": "Централна Америка и Карибски регион"
   },
   "Regions (OBJECTIVE LISTS)": {
     "The North & Australasia": "Северна територия и Австралия",
