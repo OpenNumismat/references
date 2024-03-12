@@ -1,0 +1,37 @@
+name: "Update flags"
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/icons/flags/Wikipedia/*.svg'
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  flags:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        submodules: 'recursive'
+        persist-credentials: false
+    - uses: actions/setup-python@v3
+      with:
+        python-version: '3.12'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install -r requirements.txt
+    - name: Convert flags
+      run: |
+        cd parsers
+        python svg2png.py
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.PAT }}
+        message: Updated Wikipedia flags
