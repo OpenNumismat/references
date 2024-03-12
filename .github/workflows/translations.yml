@@ -49,11 +49,11 @@ jobs:
     - name: Translate6
       run: |
         cd parsers
-        python OBJECTIVE_LISTS_lang_2.py
+        python OBJECTIVE_LISTS_2_lang.py
     - name: Translate7
       run: |
         cd parsers
-        python OBJECTIVE_LISTS_lang_3.py
+        python OBJECTIVE_LISTS_3_lang.py
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
