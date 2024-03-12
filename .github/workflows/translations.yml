@@ -26,15 +26,33 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
-    - name: Translate
+    - name: Translate1
       run: |
         cd parsers
         python regions_UN_lang.py
+    - name: Translate2
+      run: |
+        cd parsers
         python subregions_UN_lang.py
+    - name: Translate3
+      run: |
+        cd parsers
         python regions_The_World_Bank_lang.py
+    - name: Translate4
+      run: |
+        cd parsers
         python regions_The_World_Factbook_lang.py
+    - name: Translate5
+      run: |
+        cd parsers
         python OBJECTIVE_LISTS_lang.py
+    - name: Translate6
+      run: |
+        cd parsers
         python OBJECTIVE_LISTS_lang_2.py
+    - name: Translate7
+      run: |
+        cd parsers
         python OBJECTIVE_LISTS_lang_3.py
     - name: Commit & Push changes
       uses: actions-js/push@master
