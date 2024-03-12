@@ -1858,7 +1858,7 @@
           "key": "JM"
         },
         {
-          "name": "Puerto Rico",
+          "name": "Пуэрто-Рико",
           "alpha2": "PR",
           "alpha3": "PRI",
           "units": [
@@ -2091,7 +2091,7 @@
           ]
         },
         {
-          "name": "French Guiana",
+          "name": "Французская Гвиана",
           "alpha2": "GF",
           "alpha3": "GUF",
           "units": [
@@ -2473,7 +2473,7 @@
           "key": "PS"
         },
         {
-          "name": "Somaliland",
+          "name": "Сомалиленд",
           "alpha2": "",
           "alpha3": "XSL",
           "units": [
@@ -2771,7 +2771,7 @@
           "key": "BW"
         },
         {
-          "name": "Eswatini",
+          "name": "Эсватини",
           "alpha2": "SZ",
           "alpha3": "SWZ",
           "units": [
@@ -3110,7 +3110,7 @@
           "key": "LK"
         },
         {
-          "name": "Sikkim",
+          "name": "Сикким",
           "alpha2": "",
           "alpha3": "SKM",
           "units": [],
