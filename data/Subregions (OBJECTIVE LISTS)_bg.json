@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Anglo World",
+      "name": "Англо свят",
       "countries": [
         {
           "name": "Канада",
@@ -1624,7 +1624,7 @@
       ]
     },
     {
-      "name": "North Eurasia",
+      "name": "Северна Евразия",
       "countries": [
         {
           "name": "Армения",
@@ -1853,7 +1853,7 @@
       ]
     },
     {
-      "name": "латиноамерикански",
+      "name": "Латинска Америка",
       "countries": [
         {
           "name": "Куба",
@@ -2152,7 +2152,7 @@
       ]
     },
     {
-      "name": "Atlantic Ocean",
+      "name": "Атлантическия океан",
       "countries": [
         {
           "name": "Кабо Верде",
@@ -2168,7 +2168,7 @@
       ]
     },
     {
-      "name": "Indian Ocean",
+      "name": "Индийски океан",
       "countries": [
         {
           "name": "Мавриций",
@@ -2196,7 +2196,7 @@
       ]
     },
     {
-      "name": "Arab World",
+      "name": "Арабски свят",
       "countries": [
         {
           "name": "Алжир",
@@ -2444,7 +2444,7 @@
       ]
     },
     {
-      "name": "Nastaliq Region",
+      "name": "Nastaliq регион",
       "countries": [
         {
           "name": "Афганистан",
@@ -2482,7 +2482,7 @@
       ]
     },
     {
-      "name": "Sahel",
+      "name": "Сахел",
       "countries": [
         {
           "name": "Судан",
@@ -2579,7 +2579,7 @@
       ]
     },
     {
-      "name": "Tropical Africa",
+      "name": "Тропическа Африка",
       "countries": [
         {
           "name": "Бурунди",
@@ -3025,7 +3025,7 @@
       ]
     },
     {
-      "name": "Ethiopic Africa",
+      "name": "Етиопска Африка",
       "countries": [
         {
           "name": "Еритрея",
@@ -3295,7 +3295,7 @@
       ]
     },
     {
-      "name": "източноазиатски",
+      "name": "Източна Азия",
       "countries": [
         {
           "name": "Китай",
@@ -3467,7 +3467,7 @@
       ]
     },
     {
-      "name": "Mainland Southeast Asia",
+      "name": "Индокитай",
       "countries": [
         {
           "name": "Камбоджа",
@@ -3605,7 +3605,7 @@
       ]
     },
     {
-      "name": "Insular Southeast Asia",
+      "name": "Островен регион на Югоизточна Азия",
       "countries": [
         {
           "name": "Бруней",
@@ -3675,7 +3675,7 @@
       ]
     },
     {
-      "name": "South Pacific",
+      "name": "Южен Тихи океан",
       "countries": [
         {
           "name": "Източен Тимор",

@@ -1656,7 +1656,7 @@
       ]
     },
     {
-      "name": "Australasia",
+      "name": "Australásia",
       "countries": [
         {
           "name": "Austrália",
@@ -3415,7 +3415,7 @@
       ]
     },
     {
-      "name": "Mainland Southeast Asia",
+      "name": "Sudeste asiático continental",
       "countries": [
         {
           "name": "Camboja",
@@ -3501,7 +3501,7 @@
       ]
     },
     {
-      "name": "Southeast Asia Islands",
+      "name": "Sudeste asiático insular",
       "countries": [
         {
           "name": "Brunei",
@@ -3618,7 +3618,7 @@
       ]
     },
     {
-      "name": "South Pacific",
+      "name": "Pacífico Sul",
       "countries": [
         {
           "name": "Timor-Leste",

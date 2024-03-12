@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "The North & Australasia",
+      "name": "Северна територия и Австралия",
       "countries": [
         {
           "name": "Канада",
@@ -1768,7 +1768,7 @@
       ]
     },
     {
-      "name": "Central & South America",
+      "name": "Централна и Южна Америка",
       "countries": [
         {
           "name": "Мавриций",
@@ -2447,7 +2447,7 @@
       ]
     },
     {
-      "name": "The Sahel",
+      "name": "Сахел",
       "countries": [
         {
           "name": "Судан",
@@ -3250,7 +3250,7 @@
       ]
     },
     {
-      "name": "източноазиатски",
+      "name": "Източна Азия",
       "countries": [
         {
           "name": "Китай",
@@ -3422,7 +3422,7 @@
       ]
     },
     {
-      "name": "Southeast Asia",
+      "name": "Югоизточна Азия",
       "countries": [
         {
           "name": "Бруней",
@@ -3620,7 +3620,7 @@
       ]
     },
     {
-      "name": "South Pacific",
+      "name": "Южен Тихи океан",
       "countries": [
         {
           "name": "Източен Тимор",

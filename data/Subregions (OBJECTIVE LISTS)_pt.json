@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Anglo World",
+      "name": "Mundo anglófono",
       "countries": [
         {
           "name": "Canadá",
@@ -1624,7 +1624,7 @@
       ]
     },
     {
-      "name": "North Eurasia",
+      "name": "Eurásia do Norte",
       "countries": [
         {
           "name": "Arménia",
@@ -2152,7 +2152,7 @@
       ]
     },
     {
-      "name": "Atlantic Ocean",
+      "name": "Oceano Atlântico",
       "countries": [
         {
           "name": "Cabo Verde",
@@ -2168,7 +2168,7 @@
       ]
     },
     {
-      "name": "Indian Ocean",
+      "name": "Oceano Índico",
       "countries": [
         {
           "name": "Maurícia",
@@ -2196,7 +2196,7 @@
       ]
     },
     {
-      "name": "Arab World",
+      "name": "Mundo árabe",
       "countries": [
         {
           "name": "Argélia",
@@ -2444,7 +2444,7 @@
       ]
     },
     {
-      "name": "Nastaliq Region",
+      "name": "Região Nastaliq",
       "countries": [
         {
           "name": "Afeganistão",
@@ -2579,7 +2579,7 @@
       ]
     },
     {
-      "name": "Tropical Africa",
+      "name": "África tropical",
       "countries": [
         {
           "name": "Burundi",
@@ -3025,7 +3025,7 @@
       ]
     },
     {
-      "name": "Ethiopic Africa",
+      "name": "África etíope",
       "countries": [
         {
           "name": "Eritreia",
@@ -3467,7 +3467,7 @@
       ]
     },
     {
-      "name": "Mainland Southeast Asia",
+      "name": "Sudeste asiático continental",
       "countries": [
         {
           "name": "Camboja",
@@ -3605,7 +3605,7 @@
       ]
     },
     {
-      "name": "Insular Southeast Asia",
+      "name": "Sudeste asiático insular",
       "countries": [
         {
           "name": "Brunei",
@@ -3675,7 +3675,7 @@
       ]
     },
     {
-      "name": "South Pacific",
+      "name": "Pacífico Sul",
       "countries": [
         {
           "name": "Timor-Leste",

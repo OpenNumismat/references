@@ -781,7 +781,7 @@
           "key": "ME"
         },
         {
-          "name": "North Macedonia",
+          "name": "Северная Македония",
           "alpha2": "MK",
           "alpha3": "MKD",
           "units": [
@@ -1360,7 +1360,7 @@
           "key": "XK"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Северный Кипр",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1373,7 +1373,7 @@
           "key": "_northern-cyprus"
         },
         {
-          "name": "Transnistria",
+          "name": "Преднестровье",
           "alpha2": "",
           "alpha3": "XPR",
           "units": [
@@ -1397,7 +1397,7 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Чехословакия",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
@@ -1412,7 +1412,7 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "East Germany",
+          "name": "Восточная Германия",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
@@ -1427,7 +1427,7 @@
           "key": "DD"
         },
         {
-          "name": "Yugoslavia",
+          "name": "Югославия",
           "alpha2": "YU",
           "alpha3": "YUG",
           "units": [
@@ -1510,7 +1510,7 @@
           ]
         },
         {
-          "name": "Greenland",
+          "name": "Гренландия",
           "alpha2": "GL",
           "alpha3": "GRL",
           "units": [
@@ -1937,7 +1937,7 @@
           "key": "SY"
         },
         {
-          "name": "Türkiye",
+          "name": "Турция",
           "alpha2": "TR",
           "alpha3": "TUR",
           "units": [
@@ -1981,11 +1981,11 @@
           "key": "YE"
         },
         {
-          "name": "Abkhazia",
+          "name": "Абхазия",
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Apsar"
+            "Апсар"
           ],
           "part_of": "GEO",
           "unrecognized": true,
@@ -2001,7 +2001,7 @@
           "key": "PS"
         },
         {
-          "name": "South Ossetia",
+          "name": "Южная Осетия",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2014,7 +2014,7 @@
           "key": "_south-ossetia"
         },
         {
-          "name": "Artsakh",
+          "name": "Нагорный Карабах",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2029,7 +2029,7 @@
           "key": "_artsakh"
         },
         {
-          "name": "South Yemen",
+          "name": "Южный Йемен",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
@@ -2135,7 +2135,7 @@
           ]
         },
         {
-          "name": "USSR",
+          "name": "СССР",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
@@ -2152,7 +2152,7 @@
       ]
     },
     {
-      "name": "East and Southeast Asia",
+      "name": "Восточная и Юго-Восточная Азия",
       "countries": [
         {
           "name": "Китай",
@@ -2234,7 +2234,7 @@
           ]
         },
         {
-          "name": "Macao",
+          "name": "Макао",
           "alpha2": "MO",
           "alpha3": "MAC",
           "units": [
@@ -2246,7 +2246,7 @@
           "dependent": true
         },
         {
-          "name": "North Korea",
+          "name": "Северная Корея",
           "alpha2": "KP",
           "alpha3": "PRK",
           "units": [
@@ -2291,14 +2291,14 @@
           "alpha2": "MN",
           "alpha3": "MNG",
           "units": [
-            "Tugrik",
+            "Тугрик",
             "Мунгу"
           ],
           "iso4217": "MNT",
           "key": "MN"
         },
         {
-          "name": "South Korea",
+          "name": "Южная Корея",
           "alpha2": "KR",
           "alpha3": "KOR",
           "units": [
@@ -2497,7 +2497,7 @@
           "key": "TL"
         },
         {
-          "name": "Viet Nam",
+          "name": "Вьетнам",
           "alpha2": "VN",
           "alpha3": "VNM",
           "units": [
@@ -2551,7 +2551,7 @@
           "key": "TW"
         },
         {
-          "name": "South Vietnam",
+          "name": "Юный Вьетнам",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2566,7 +2566,7 @@
           "key": "_south-vietnam"
         },
         {
-          "name": "Tibet",
+          "name": "Тибет",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3678,7 +3678,7 @@
           "key": "TD"
         },
         {
-          "name": "Congo",
+          "name": "Конго",
           "alpha2": "CG",
           "alpha3": "COG",
           "units": [
@@ -3689,7 +3689,7 @@
           "key": "CG"
         },
         {
-          "name": "Democratic Republic of the Congo",
+          "name": "Конго, демократическая республика ",
           "alpha2": "CD",
           "alpha3": "COD",
           "units": [
@@ -3731,7 +3731,7 @@
           "alpha3": "STP",
           "units": [
             "Добра",
-            "Centimo"
+            "Сентимо"
           ],
           "iso4217": "STN",
           "key": "ST"
@@ -3840,7 +3840,7 @@
           "key": "BF"
         },
         {
-          "name": "Cabo Verde",
+          "name": "Кабо-Верде",
           "alpha2": "CV",
           "alpha3": "CPV",
           "units": [
@@ -3851,7 +3851,7 @@
           "key": "CV"
         },
         {
-          "name": "Côte d’Ivoire",
+          "name": "Кот-д’Ивуар",
           "alpha2": "CI",
           "alpha3": "CIV",
           "units": [
@@ -4022,11 +4022,11 @@
           "key": "_somaliland"
         },
         {
-          "name": "Western Sahara",
+          "name": "Западная Сахара",
           "alpha2": "EH",
           "alpha3": "ESH",
           "units": [
-            "Peseta"
+            "Песета"
           ],
           "iso4217": "EHP",
           "part_of": "MAR",
