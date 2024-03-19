@@ -2426,6 +2426,22 @@
               "from_year": 1937
             }
           ]
+        },
+        {
+          "name": "Netherlands Antilles",
+          "alpha2": "AN",
+          "alpha3": "ANT",
+          "units": [
+            "Arubagulden",
+            "Cent"
+          ],
+          "part_of": "BES",
+          "iso4217": "ANG",
+          "from_year": 1954,
+          "to_year": 2010,
+          "dependent": true,
+          "disappeared": true,
+          "key": "AN"
         }
       ]
     },
