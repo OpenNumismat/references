@@ -452,7 +452,7 @@
       "name": "Северная Европа",
       "countries": [
         {
-          "name": "Åland Islands",
+          "name": "Аландские острова",
           "alpha2": "AX",
           "alpha3": "ALA",
           "units": [
@@ -2055,7 +2055,7 @@
           "key": "GD"
         },
         {
-          "name": "Guadeloupe",
+          "name": "Гваделупа",
           "alpha2": "GP",
           "alpha3": "GLP",
           "units": [
@@ -2113,7 +2113,7 @@
           "dependent": true
         },
         {
-          "name": "Puerto Rico",
+          "name": "Пуэрто-Рико",
           "alpha2": "PR",
           "alpha3": "PRI",
           "units": [
@@ -2362,7 +2362,7 @@
           "dependent": true
         },
         {
-          "name": "French Guiana",
+          "name": "Французская Гвиана",
           "alpha2": "GF",
           "alpha3": "GUF",
           "units": [
@@ -3161,7 +3161,7 @@
           "key": "LK"
         },
         {
-          "name": "Sikkim",
+          "name": "Сикким",
           "alpha2": "",
           "alpha3": "SKM",
           "units": [],
@@ -3928,7 +3928,7 @@
           "key": "MU"
         },
         {
-          "name": "Mayotte",
+          "name": "Майотта",
           "alpha2": "YT",
           "alpha3": "MYT",
           "units": [
@@ -3955,7 +3955,7 @@
           ]
         },
         {
-          "name": "Réunion",
+          "name": "Реюньон",
           "alpha2": "RE",
           "alpha3": "REU",
           "units": [
@@ -4055,7 +4055,7 @@
           "key": "ZW"
         },
         {
-          "name": "Somaliland",
+          "name": "Сомалиленд",
           "alpha2": "",
           "alpha3": "XSL",
           "units": [
@@ -4084,7 +4084,7 @@
           "key": "BW"
         },
         {
-          "name": "Eswatini",
+          "name": "Эсватини",
           "alpha2": "SZ",
           "alpha3": "SWZ",
           "units": [
@@ -4553,7 +4553,7 @@
           "key": "WS"
         },
         {
-          "name": "Tokelau",
+          "name": "Токелау",
           "alpha2": "TK",
           "alpha3": "TKL",
           "units": [

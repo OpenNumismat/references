@@ -825,7 +825,7 @@
           ]
         },
         {
-          "name": "Greenland",
+          "name": "Гренландия",
           "alpha2": "GL",
           "alpha3": "GRL",
           "units": [
@@ -1089,7 +1089,7 @@
           "key": "MD"
         },
         {
-          "name": "North Macedonia",
+          "name": "Северная Македония",
           "alpha2": "MK",
           "alpha3": "MKD",
           "units": [
@@ -1395,7 +1395,7 @@
           "key": "TM"
         },
         {
-          "name": "Türkiye",
+          "name": "Турция",
           "alpha2": "TR",
           "alpha3": "TUR",
           "units": [
@@ -1729,7 +1729,7 @@
       ]
     },
     {
-      "name": "Middle East & North Africa",
+      "name": "Средний Восток и Северная Африка",
       "countries": [
         {
           "name": "Объединённые Арабские Эмираты",
@@ -1992,7 +1992,7 @@
       ]
     },
     {
-      "name": "Latin America & Caribbean",
+      "name": "Латинская Америка и Карибы",
       "countries": [
         {
           "name": "Аруба",
@@ -2390,7 +2390,7 @@
           ]
         },
         {
-          "name": "Puerto Rico",
+          "name": "Пуэрто-Рико",
           "alpha2": "PR",
           "alpha3": "PRI",
           "units": [
@@ -2678,7 +2678,7 @@
       ]
     },
     {
-      "name": "Sub-Saharan Africa",
+      "name": "Субсахарская Африка",
       "countries": [
         {
           "name": "Ангола",
@@ -2747,7 +2747,7 @@
           "key": "CF"
         },
         {
-          "name": "Côte d’Ivoire",
+          "name": "Кот-д’Ивуар",
           "alpha2": "CI",
           "alpha3": "CIV",
           "units": [
@@ -2769,7 +2769,7 @@
           "key": "CM"
         },
         {
-          "name": "Democratic Republic of the Congo",
+          "name": "Конго, демократическая республика ",
           "alpha2": "CD",
           "alpha3": "COD",
           "units": [
@@ -2780,7 +2780,7 @@
           "key": "CD"
         },
         {
-          "name": "Congo",
+          "name": "Конго",
           "alpha2": "CG",
           "alpha3": "COG",
           "units": [
@@ -2801,7 +2801,7 @@
           "key": "KM"
         },
         {
-          "name": "Cabo Verde",
+          "name": "Кабо-Верде",
           "alpha2": "CV",
           "alpha3": "CPV",
           "units": [
@@ -3120,13 +3120,13 @@
           "alpha3": "STP",
           "units": [
             "Добра",
-            "Centimo"
+            "Сентимо"
           ],
           "iso4217": "STN",
           "key": "ST"
         },
         {
-          "name": "Eswatini",
+          "name": "Эсватини",
           "alpha2": "SZ",
           "alpha3": "SWZ",
           "units": [
@@ -3253,7 +3253,7 @@
       ]
     },
     {
-      "name": "East Asia & Pacific",
+      "name": "Восточная Азия и Тихий океан",
       "countries": [
         {
           "name": "American Samoa",
@@ -3561,7 +3561,7 @@
           "key": "KI"
         },
         {
-          "name": "South Korea",
+          "name": "Южная Корея",
           "alpha2": "KR",
           "alpha3": "KOR",
           "units": [
@@ -3593,7 +3593,7 @@
           "key": "LA"
         },
         {
-          "name": "Macao",
+          "name": "Макао",
           "alpha2": "MO",
           "alpha3": "MAC",
           "units": [
@@ -3631,7 +3631,7 @@
           "alpha2": "MN",
           "alpha3": "MNG",
           "units": [
-            "Tugrik",
+            "Тугрик",
             "Мунгу"
           ],
           "iso4217": "MNT",
@@ -3749,7 +3749,7 @@
           "key": "PG"
         },
         {
-          "name": "North Korea",
+          "name": "Северная Корея",
           "alpha2": "KP",
           "alpha3": "PRK",
           "units": [
@@ -3917,7 +3917,7 @@
           "key": "TW"
         },
         {
-          "name": "Viet Nam",
+          "name": "Вьетнам",
           "alpha2": "VN",
           "alpha3": "VNM",
           "units": [
