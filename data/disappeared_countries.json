@@ -46,11 +46,11 @@
       "Guilder",
       "Cent"
     ],
-    "part_of": "DEU",
-    "dependent": true,
+    "part_of": "BES",
     "iso4217": "ANG",
     "from_year": 1954,
-    "to_year": 2010
+    "to_year": 2010,
+    "dependent": true
   },
   {
     "name": "Sikkim",
