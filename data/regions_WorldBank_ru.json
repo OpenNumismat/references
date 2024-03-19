@@ -632,7 +632,7 @@
           ]
         },
         {
-          "name": "Faroes",
+          "name": "Фарерские острова",
           "alpha2": "FO",
           "alpha3": "FRO",
           "units": [
@@ -2314,7 +2314,7 @@
           "key": "LC"
         },
         {
-          "name": "Saint Martin",
+          "name": "Сен-Мартен",
           "alpha2": "MF",
           "alpha3": "MAF",
           "units": [
@@ -2519,7 +2519,7 @@
           "dependent": true
         },
         {
-          "name": "United States Virgin Islands",
+          "name": "Американские Виргинские острова",
           "alpha2": "VI",
           "alpha3": "VIR",
           "units": [
@@ -3256,7 +3256,7 @@
       "name": "Восточная Азия и Тихий океан",
       "countries": [
         {
-          "name": "American Samoa",
+          "name": "Американское Самоа",
           "alpha2": "AS",
           "alpha3": "ASM",
           "units": [
@@ -3454,7 +3454,7 @@
           "key": "FM"
         },
         {
-          "name": "Guam",
+          "name": "Гуам",
           "alpha2": "GU",
           "alpha3": "GUM",
           "units": [
@@ -3638,7 +3638,7 @@
           "key": "MN"
         },
         {
-          "name": "Northern Mariana Islands",
+          "name": "Северные Марианские Острова",
           "alpha2": "MP",
           "alpha3": "MNP",
           "units": [

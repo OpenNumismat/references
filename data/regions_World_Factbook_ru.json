@@ -280,7 +280,7 @@
           ]
         },
         {
-          "name": "Faroes",
+          "name": "Фарерские острова",
           "alpha2": "FO",
           "alpha3": "FRO",
           "units": [
@@ -1522,7 +1522,7 @@
           "dependent": true
         },
         {
-          "name": "Saint Pierre and Miquelon",
+          "name": "Сен-Пьер и Микелон",
           "alpha2": "PM",
           "alpha3": "SPM",
           "units": [
@@ -2694,7 +2694,7 @@
           ]
         },
         {
-          "name": "Falkland Islands (Malvinas)",
+          "name": "Фолклендские острова",
           "alpha2": "FK",
           "alpha3": "FLK",
           "units": [
@@ -2744,7 +2744,7 @@
           ]
         },
         {
-          "name": "South Georgia and South Sandwich Islands",
+          "name": "Южная Георгия и Южные Сандвичевы Острова",
           "alpha2": "GS",
           "alpha3": "SGS",
           "units": [],
@@ -2891,7 +2891,7 @@
           ]
         },
         {
-          "name": "Christmas Island",
+          "name": "Остров Рождества",
           "alpha2": "CX",
           "alpha3": "CXR",
           "units": [
@@ -2936,7 +2936,7 @@
           ]
         },
         {
-          "name": "Norfolk Island",
+          "name": "Остров Норфолк",
           "alpha2": "NF",
           "alpha3": "NFK",
           "units": [
@@ -2992,7 +2992,7 @@
           "key": "VU"
         },
         {
-          "name": "Guam",
+          "name": "Гуам",
           "alpha2": "GU",
           "alpha3": "GUM",
           "units": [
@@ -3048,7 +3048,7 @@
           "key": "NR"
         },
         {
-          "name": "Northern Mariana Islands",
+          "name": "Северные Марианские Острова",
           "alpha2": "MP",
           "alpha3": "MNP",
           "units": [
@@ -3071,7 +3071,7 @@
           "key": "PW"
         },
         {
-          "name": "American Samoa",
+          "name": "Американское Самоа",
           "alpha2": "AS",
           "alpha3": "ASM",
           "units": [
@@ -3119,7 +3119,7 @@
           "dependent": true
         },
         {
-          "name": "Pitcairn",
+          "name": "Острова Питкэрн",
           "alpha2": "PN",
           "alpha3": "PCN",
           "units": [
@@ -3176,7 +3176,7 @@
           "key": "TV"
         },
         {
-          "name": "Wallis and Futuna Islands",
+          "name": "Уоллис и Футуна",
           "alpha2": "WF",
           "alpha3": "WLF",
           "units": [
@@ -3964,7 +3964,7 @@
           "key": "NG"
         },
         {
-          "name": "Saint Helena",
+          "name": "Остров Святой Елены",
           "alpha2": "SH",
           "alpha3": "SHN",
           "units": [
@@ -4244,7 +4244,7 @@
           "key": "LC"
         },
         {
-          "name": "Saint Martin",
+          "name": "Сен-Мартен",
           "alpha2": "MF",
           "alpha3": "MAF",
           "units": [
@@ -4302,7 +4302,7 @@
           "dependent": true
         },
         {
-          "name": "United States Virgin Islands",
+          "name": "Американские Виргинские острова",
           "alpha2": "VI",
           "alpha3": "VIR",
           "units": [
