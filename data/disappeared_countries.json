@@ -39,6 +39,20 @@
     "to_year": 1990
   },
   {
+    "name": "Netherlands Antilles",
+    "alpha2": "AN",
+    "alpha3": "ANT",
+    "units": [
+      "Guilder",
+      "Cent"
+    ],
+    "part_of": "DEU",
+    "dependent": true,
+    "iso4217": "ANG",
+    "from_year": 1954,
+    "to_year": 2010
+  },
+  {
     "name": "Sikkim",
     "alpha2": "",
     "alpha3": "SKM",
