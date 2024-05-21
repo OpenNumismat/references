@@ -182,7 +182,7 @@
   },
   {
     "name": "grade",
-    "title": "Качество",
+    "title": "Оценка",
     "has_icons": false,
     "values": {
       "unc": "UNC",
