@@ -57,7 +57,7 @@
           "alpha2": "BY",
           "alpha3": "BLR",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "BYN",
@@ -141,7 +141,7 @@
           "alpha2": "PL",
           "alpha3": "POL",
           "units": [
-            "Zloty",
+            "Злотый",
             "Грош"
           ],
           "iso4217": "PLN",
@@ -209,7 +209,7 @@
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "RUB",
@@ -1298,7 +1298,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "RUB",
@@ -1351,7 +1351,7 @@
           "alpha3": "DDR",
           "units": [
             "Марка",
-            "Pfennig"
+            "Пфенниг"
           ],
           "part_of": "DEU",
           "iso4217": "DDM",
@@ -1365,7 +1365,7 @@
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "part_of": "RUS",
@@ -2278,7 +2278,7 @@
           "alpha3": "MRT",
           "units": [
             "Угия",
-            "Khoum"
+            "Хумс"
           ],
           "iso4217": "MRU",
           "key": "MR"
@@ -3401,9 +3401,9 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Skar",
-            "Srang",
-            "Tangka"
+            "Скарунг",
+            "Шранг",
+            "Тангка"
           ],
           "part_of": "CHN",
           "from_year": 1912,
@@ -3489,7 +3489,7 @@
           "alpha3": "",
           "units": [
             "Dong",
-            "Xu"
+            "Су"
           ],
           "part_of": "VNM",
           "from_year": 1955,
@@ -3703,7 +3703,7 @@
           "alpha2": "WS",
           "alpha3": "WSM",
           "units": [
-            "Tala",
+            "Тала",
             "Цент"
           ],
           "iso4217": "WST",

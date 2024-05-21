@@ -166,7 +166,7 @@
           "alpha2": "BY",
           "alpha3": "BLR",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "BYN",
@@ -1171,7 +1171,7 @@
           "alpha2": "PL",
           "alpha3": "POL",
           "units": [
-            "Zloty",
+            "Злотый",
             "Грош"
           ],
           "iso4217": "PLN",
@@ -1254,7 +1254,7 @@
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "RUB",
@@ -2985,7 +2985,7 @@
           "alpha3": "MRT",
           "units": [
             "Угия",
-            "Khoum"
+            "Хумс"
           ],
           "iso4217": "MRU",
           "key": "MR"
@@ -3867,7 +3867,7 @@
           "alpha2": "TO",
           "alpha3": "TON",
           "units": [
-            "Pa’Anga",
+            "Паанга",
             "Цент"
           ],
           "iso4217": "TOP",
@@ -3942,7 +3942,7 @@
           "alpha2": "WS",
           "alpha3": "WSM",
           "units": [
-            "Tala",
+            "Тала",
             "Цент"
           ],
           "iso4217": "WST",
