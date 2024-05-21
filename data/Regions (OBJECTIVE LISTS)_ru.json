@@ -2370,7 +2370,7 @@
           "alpha3": "SAU",
           "units": [
             "Риал",
-            "Halala"
+            "Халал"
           ],
           "iso4217": "SAR",
           "key": "SA"
@@ -3015,7 +3015,7 @@
           "alpha3": "BGD",
           "units": [
             "Така",
-            "Poisha"
+            "Пайса"
           ],
           "iso4217": "BDT",
           "key": "BD"
@@ -3026,7 +3026,7 @@
           "alpha3": "BTN",
           "units": [
             "Нгултрум",
-            "Chhetrum"
+            "Четрум"
           ],
           "iso4217": "BTN",
           "key": "BT"
@@ -3182,7 +3182,7 @@
           "alpha2": "UZ",
           "alpha3": "UZB",
           "units": [
-            "Sum",
+            "Сом",
             "Тийин"
           ],
           "iso4217": "UZS",
@@ -3258,7 +3258,7 @@
           "alpha3": "CHN",
           "units": [
             "Юань",
-            "Jiao"
+            "Цзяо"
           ],
           "iso4217": "CNY",
           "key": "CN",
@@ -3596,7 +3596,7 @@
           "alpha2": "VN",
           "alpha3": "VNM",
           "units": [
-            "Dong",
+            "Донг",
             "Су"
           ],
           "iso4217": "VND",
@@ -3607,7 +3607,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Dong",
+            "Донг",
             "Су"
           ],
           "part_of": "VNM",
