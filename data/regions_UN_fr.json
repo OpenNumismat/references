@@ -671,7 +671,8 @@
           "alpha2": "HR",
           "alpha3": "HRV",
           "units": [
-            "Euro"
+            "Euro",
+            "Cent"
           ],
           "iso4217": "EUR",
           "key": "HR",

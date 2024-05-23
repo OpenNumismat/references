@@ -927,7 +927,8 @@
           "alpha2": "HR",
           "alpha3": "HRV",
           "units": [
-            "Euro"
+            "Euro",
+            "Sent"
           ],
           "iso4217": "EUR",
           "key": "HR",
