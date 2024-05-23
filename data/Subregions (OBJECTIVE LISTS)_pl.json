@@ -272,8 +272,8 @@
           "iso4217": "EUR",
           "key": "IE",
           "contemporary_units": [
-            "Pound",
-            "Penny"
+            "Funt",
+            "Pens"
           ],
           "mints": [
             {
@@ -554,7 +554,7 @@
           "iso4217": "EUR",
           "key": "CY",
           "contemporary_units": [
-            "Pound",
+            "Funt",
             "Cent"
           ]
         },
@@ -699,8 +699,8 @@
           "iso4217": "EUR",
           "key": "SK",
           "contemporary_units": [
-            "Koruna",
-            "Halier"
+            "Korona",
+            ""
           ],
           "mints": [
             {
@@ -764,8 +764,8 @@
           "iso4217": "EUR",
           "key": "EE",
           "contemporary_units": [
-            "Kroon",
-            "Sent"
+            "",
+            ""
           ],
           "mints": [
             {
@@ -797,8 +797,8 @@
           "iso4217": "EUR",
           "key": "FI",
           "contemporary_units": [
-            "Markka",
-            "Penni"
+            "",
+            ""
           ],
           "mints": [
             {
@@ -822,8 +822,8 @@
           "iso4217": "ISK",
           "key": "IS",
           "contemporary_units": [
-            "Króna",
-            "Eyrir"
+            "Korona",
+            ""
           ]
         },
         {
@@ -837,8 +837,8 @@
           "iso4217": "EUR",
           "key": "LV",
           "contemporary_units": [
-            "Lats",
-            "Santīms"
+            "",
+            ""
           ]
         },
         {
@@ -852,8 +852,8 @@
           "iso4217": "EUR",
           "key": "LT",
           "contemporary_units": [
-            "Litas",
-            "Centas"
+            "",
+            ""
           ],
           "mints": [
             {
@@ -933,8 +933,8 @@
           "iso4217": "EUR",
           "key": "HR",
           "contemporary_units": [
-            "Kuna",
-            "Lipa"
+            "",
+            ""
           ],
           "mints": [
             {
@@ -959,8 +959,8 @@
           "iso4217": "EUR",
           "key": "GR",
           "contemporary_units": [
-            "Drachma",
-            "Leptοn"
+            "",
+            ""
           ],
           "mints": [
             {
@@ -995,7 +995,7 @@
           "key": "IT",
           "contemporary_units": [
             "Lira",
-            "Centesimo"
+            ""
           ],
           "mints": [
             {
@@ -1097,8 +1097,8 @@
           "iso4217": "EUR",
           "key": "SI",
           "contemporary_units": [
-            "Tolar",
-            "Stotin"
+            "",
+            ""
           ]
         },
         {
@@ -1113,7 +1113,7 @@
           "key": "ES",
           "contemporary_units": [
             "Peseta",
-            "Céntimo"
+            "Centym"
           ],
           "mints": [
             {
@@ -1166,9 +1166,9 @@
           "iso4217": "EUR",
           "key": "AT",
           "contemporary_units": [
-            "Krone",
-            "Schilling",
-            "Groschen"
+            "Korona",
+            "",
+            ""
           ],
           "mints": [
             {
@@ -1193,8 +1193,8 @@
           "iso4217": "EUR",
           "key": "BE",
           "contemporary_units": [
-            "Franc",
-            "Centime"
+            "Frank",
+            "Centym"
           ],
           "mints": [
             {
@@ -1235,8 +1235,8 @@
           "iso4217": "EUR",
           "key": "FR",
           "contemporary_units": [
-            "Franc",
-            "Centime"
+            "Frank",
+            "Centym"
           ],
           "mints": [
             {
@@ -1287,7 +1287,7 @@
           "iso4217": "EUR",
           "key": "DE",
           "contemporary_units": [
-            "Mark",
+            "Marka",
             "Pfennig"
           ],
           "mints": [
@@ -1451,8 +1451,8 @@
           "iso4217": "EUR",
           "key": "LU",
           "contemporary_units": [
-            "Franc",
-            "Centime"
+            "Frank",
+            "Centym"
           ]
         },
         {
@@ -1466,7 +1466,7 @@
           "iso4217": "EUR",
           "key": "NL",
           "contemporary_units": [
-            "Guilder",
+            "Gulden",
             "Cent"
           ],
           "mints": [
@@ -1847,7 +1847,7 @@
           "iso4217": "SRD",
           "key": "SR",
           "contemporary_units": [
-            "Guilder",
+            "Gulden",
             "Cent"
           ]
         }
@@ -1967,7 +1967,7 @@
           "iso4217": "NIO",
           "key": "NI",
           "contemporary_units": [
-            "Córdoba",
+            "",
             "Centavo"
           ]
         },
@@ -2026,8 +2026,8 @@
           "iso4217": "BRL",
           "key": "BR",
           "contemporary_units": [
-            "Cruzado",
-            "Cruzeiro"
+            "",
+            ""
           ],
           "mints": [
             {
@@ -2085,7 +2085,7 @@
           "iso4217": "USD",
           "key": "EC",
           "contemporary_units": [
-            "Sucre",
+            "",
             "Centavo"
           ]
         },
@@ -2123,7 +2123,7 @@
           "iso4217": "PEN",
           "key": "PE",
           "contemporary_units": [
-            "Inti",
+            "",
             "Sol",
             "Centavo"
           ]
@@ -2427,9 +2427,9 @@
           "iso4217": "ILS",
           "key": "IL",
           "contemporary_units": [
-            "Pound",
-            "Pruta",
-            "Mil"
+            "Funt",
+            "",
+            ""
           ],
           "mints": [
             {
@@ -2615,7 +2615,7 @@
           "iso4217": "MGA",
           "key": "MG",
           "contemporary_units": [
-            "Franc"
+            "Frank"
           ]
         },
         {
@@ -2765,7 +2765,7 @@
           "iso4217": "XAF",
           "key": "GQ",
           "contemporary_units": [
-            "Ekwele",
+            "",
             "Peseta"
           ]
         },
@@ -2845,8 +2845,8 @@
           "iso4217": "GNF",
           "key": "GN",
           "contemporary_units": [
-            "Syli",
-            "Cauri"
+            "",
+            ""
           ]
         },
         {

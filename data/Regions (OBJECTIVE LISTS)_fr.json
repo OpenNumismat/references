@@ -295,7 +295,7 @@
           "iso4217": "EUR",
           "key": "CY",
           "contemporary_units": [
-            "Pound",
+            "Livre",
             "Cent"
           ]
         },
@@ -504,7 +504,7 @@
           "iso4217": "EUR",
           "key": "SK",
           "contemporary_units": [
-            "Koruna",
+            "Couronne",
             "Halier"
           ],
           "mints": [
@@ -638,7 +638,7 @@
           "iso4217": "ISK",
           "key": "IS",
           "contemporary_units": [
-            "Króna",
+            "Couronne",
             "Eyrir"
           ]
         },
@@ -653,7 +653,7 @@
           "iso4217": "EUR",
           "key": "IE",
           "contemporary_units": [
-            "Pound",
+            "Livre",
             "Penny"
           ],
           "mints": [
@@ -958,7 +958,7 @@
           "iso4217": "EUR",
           "key": "IT",
           "contemporary_units": [
-            "Lira",
+            "Livre",
             "Centesimo"
           ],
           "mints": [
@@ -1077,7 +1077,7 @@
           "key": "ES",
           "contemporary_units": [
             "Peseta",
-            "Céntimo"
+            "Centimo"
           ],
           "mints": [
             {
@@ -1130,7 +1130,7 @@
           "iso4217": "EUR",
           "key": "AT",
           "contemporary_units": [
-            "Krone",
+            "Couronne",
             "Schilling",
             "Groschen"
           ],
@@ -1430,7 +1430,7 @@
           "iso4217": "EUR",
           "key": "NL",
           "contemporary_units": [
-            "Guilder",
+            "Florin",
             "Cent"
           ],
           "mints": [
@@ -2143,7 +2143,7 @@
           "iso4217": "SRD",
           "key": "SR",
           "contemporary_units": [
-            "Guilder",
+            "Florin",
             "Cent"
           ]
         },
@@ -2295,7 +2295,7 @@
           "iso4217": "ILS",
           "key": "IL",
           "contemporary_units": [
-            "Pound",
+            "Livre",
             "Pruta",
             "Mil"
           ],

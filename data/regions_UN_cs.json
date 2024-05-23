@@ -367,7 +367,7 @@
           "iso4217": "ISK",
           "key": "IS",
           "contemporary_units": [
-            "Króna",
+            "Koruna",
             "Eyrir"
           ]
         },
@@ -382,7 +382,7 @@
           "iso4217": "EUR",
           "key": "IE",
           "contemporary_units": [
-            "Pound",
+            "Libra",
             "Penny"
           ],
           "mints": [
@@ -917,7 +917,7 @@
           "key": "ES",
           "contemporary_units": [
             "Peseta",
-            "Céntimo"
+            "Centimo"
           ],
           "mints": [
             {
@@ -970,7 +970,7 @@
           "iso4217": "EUR",
           "key": "AT",
           "contemporary_units": [
-            "Krone",
+            "Koruna",
             "Schilling",
             "Groschen"
           ],
@@ -997,8 +997,8 @@
           "iso4217": "EUR",
           "key": "BE",
           "contemporary_units": [
-            "Franc",
-            "Centime"
+            "Frank",
+            "Centim"
           ],
           "mints": [
             {
@@ -1039,8 +1039,8 @@
           "iso4217": "EUR",
           "key": "FR",
           "contemporary_units": [
-            "Franc",
-            "Centime"
+            "Frank",
+            "Centim"
           ],
           "mints": [
             {
@@ -1091,7 +1091,7 @@
           "iso4217": "EUR",
           "key": "DE",
           "contemporary_units": [
-            "Mark",
+            "Marka",
             "Pfennig"
           ],
           "mints": [
@@ -1276,8 +1276,8 @@
           "iso4217": "EUR",
           "key": "LU",
           "contemporary_units": [
-            "Franc",
-            "Centime"
+            "Frank",
+            "Centim"
           ]
         },
         {
@@ -3052,7 +3052,7 @@
           "iso4217": "EUR",
           "key": "CY",
           "contemporary_units": [
-            "Pound",
+            "Libra",
             "Cent"
           ]
         },
@@ -3089,7 +3089,7 @@
           "iso4217": "ILS",
           "key": "IL",
           "contemporary_units": [
-            "Pound",
+            "Libra",
             "Pruta",
             "Mil"
           ],
@@ -3436,7 +3436,7 @@
           "iso4217": "SDG",
           "key": "SD",
           "contemporary_units": [
-            "Dinar"
+            "Dinár"
           ]
         },
         {
@@ -3549,7 +3549,7 @@
           "iso4217": "MGA",
           "key": "MG",
           "contemporary_units": [
-            "Franc"
+            "Frank"
           ]
         },
         {

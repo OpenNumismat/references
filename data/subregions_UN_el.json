@@ -14,7 +14,7 @@
           "iso4217": "EUR",
           "key": "AT",
           "contemporary_units": [
-            "Krone",
+            "Δανική",
             "Schilling",
             "Groschen"
           ],
@@ -41,8 +41,8 @@
           "iso4217": "EUR",
           "key": "BE",
           "contemporary_units": [
-            "Franc",
-            "Centime"
+            "Φράγκο",
+            "Σαντίμ"
           ],
           "mints": [
             {
@@ -83,8 +83,8 @@
           "iso4217": "EUR",
           "key": "FR",
           "contemporary_units": [
-            "Franc",
-            "Centime"
+            "Φράγκο",
+            "Σαντίμ"
           ],
           "mints": [
             {
@@ -135,7 +135,7 @@
           "iso4217": "EUR",
           "key": "DE",
           "contemporary_units": [
-            "Mark",
+            "Μετατρέψιμο",
             "Pfennig"
           ],
           "mints": [
@@ -320,8 +320,8 @@
           "iso4217": "EUR",
           "key": "LU",
           "contemporary_units": [
-            "Franc",
-            "Centime"
+            "Φράγκο",
+            "Σαντίμ"
           ]
         },
         {
@@ -346,8 +346,8 @@
           "iso4217": "EUR",
           "key": "NL",
           "contemporary_units": [
-            "Guilder",
-            "Cent"
+            "Φιορίνι",
+            "Σεντ"
           ],
           "mints": [
             {
@@ -587,7 +587,7 @@
           "iso4217": "ISK",
           "key": "IS",
           "contemporary_units": [
-            "Króna",
+            "Ισλανδική",
             "Eyrir"
           ]
         },
@@ -602,8 +602,8 @@
           "iso4217": "EUR",
           "key": "IE",
           "contemporary_units": [
-            "Pound",
-            "Penny"
+            "Λίρα",
+            "Πένα"
           ],
           "mints": [
             {
@@ -986,7 +986,7 @@
           "iso4217": "EUR",
           "key": "IT",
           "contemporary_units": [
-            "Lira",
+            "Τουρκική",
             "Centesimo"
           ],
           "mints": [
@@ -1020,8 +1020,8 @@
           "iso4217": "EUR",
           "key": "MT",
           "contemporary_units": [
-            "Lira",
-            "Cent"
+            "Τουρκική",
+            "Σεντ"
           ],
           "mints": [
             {
@@ -1068,8 +1068,8 @@
           "iso4217": "EUR",
           "key": "PT",
           "contemporary_units": [
-            "Escudo",
-            "Centavo"
+            "Εσκούδο",
+            "Σεντάβο"
           ],
           "mints": [
             {
@@ -1142,7 +1142,7 @@
           "key": "ES",
           "contemporary_units": [
             "Peseta",
-            "Céntimo"
+            "Σέντιμο"
           ],
           "mints": [
             {
@@ -1411,7 +1411,7 @@
           "iso4217": "EUR",
           "key": "SK",
           "contemporary_units": [
-            "Koruna",
+            "Τσεχική",
             "Halier"
           ],
           "mints": [
@@ -1892,7 +1892,7 @@
           "key": "NI",
           "contemporary_units": [
             "Córdoba",
-            "Centavo"
+            "Σεντάβο"
           ]
         },
         {
@@ -2363,7 +2363,7 @@
           "key": "EC",
           "contemporary_units": [
             "Sucre",
-            "Centavo"
+            "Σεντάβο"
           ]
         },
         {
@@ -2424,8 +2424,8 @@
           "key": "PE",
           "contemporary_units": [
             "Inti",
-            "Sol",
-            "Centavo"
+            "Σολ",
+            "Σεντάβο"
           ]
         },
         {
@@ -2448,8 +2448,8 @@
           "iso4217": "SRD",
           "key": "SR",
           "contemporary_units": [
-            "Guilder",
-            "Cent"
+            "Φιορίνι",
+            "Σεντ"
           ]
         },
         {
@@ -2523,8 +2523,8 @@
           "iso4217": "EUR",
           "key": "CY",
           "contemporary_units": [
-            "Pound",
-            "Cent"
+            "Λίρα",
+            "Σεντ"
           ]
         },
         {
@@ -2560,7 +2560,7 @@
           "iso4217": "ILS",
           "key": "IL",
           "contemporary_units": [
-            "Pound",
+            "Λίρα",
             "Pruta",
             "Mil"
           ],
@@ -3486,7 +3486,7 @@
           "iso4217": "SDG",
           "key": "SD",
           "contemporary_units": [
-            "Dinar"
+            "Δηνάριο"
           ]
         },
         {
@@ -3920,7 +3920,7 @@
           "iso4217": "MGA",
           "key": "MG",
           "contemporary_units": [
-            "Franc"
+            "Φράγκο"
           ]
         },
         {
@@ -3968,8 +3968,8 @@
           "iso4217": "MZN",
           "key": "MZ",
           "contemporary_units": [
-            "Escudo",
-            "Centavo"
+            "Εσκούδο",
+            "Σεντάβο"
           ]
         },
         {

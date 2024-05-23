@@ -272,7 +272,7 @@
           "iso4217": "EUR",
           "key": "IE",
           "contemporary_units": [
-            "Pound",
+            "Pfund",
             "Penny"
           ],
           "mints": [
@@ -554,7 +554,7 @@
           "iso4217": "EUR",
           "key": "CY",
           "contemporary_units": [
-            "Pound",
+            "Pfund",
             "Cent"
           ]
         },
@@ -699,7 +699,7 @@
           "iso4217": "EUR",
           "key": "SK",
           "contemporary_units": [
-            "Koruna",
+            "Krone",
             "Halier"
           ],
           "mints": [
@@ -822,8 +822,8 @@
           "iso4217": "ISK",
           "key": "IS",
           "contemporary_units": [
-            "Króna",
-            "Eyrir"
+            "Krone",
+            "Aurar"
           ]
         },
         {
@@ -838,7 +838,7 @@
           "key": "LV",
           "contemporary_units": [
             "Lats",
-            "Santīms"
+            "Santīmu"
           ]
         },
         {
@@ -959,7 +959,7 @@
           "iso4217": "EUR",
           "key": "GR",
           "contemporary_units": [
-            "Drachma",
+            "Drachme",
             "Leptοn"
           ],
           "mints": [
@@ -1466,7 +1466,7 @@
           "iso4217": "EUR",
           "key": "NL",
           "contemporary_units": [
-            "Guilder",
+            "Gulden",
             "Cent"
           ],
           "mints": [
@@ -1847,7 +1847,7 @@
           "iso4217": "SRD",
           "key": "SR",
           "contemporary_units": [
-            "Guilder",
+            "Gulden",
             "Cent"
           ]
         }
@@ -2427,7 +2427,7 @@
           "iso4217": "ILS",
           "key": "IL",
           "contemporary_units": [
-            "Pound",
+            "Pfund",
             "Pruta",
             "Mil"
           ],

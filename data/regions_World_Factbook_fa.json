@@ -14,8 +14,8 @@
           "iso4217": "EUR",
           "key": "CY",
           "contemporary_units": [
-            "Pound",
-            "Cent"
+            "پوند",
+            "سنت"
           ]
         },
         {
@@ -181,7 +181,7 @@
           "iso4217": "EUR",
           "key": "SK",
           "contemporary_units": [
-            "Koruna",
+            "کرونا",
             "Halier"
           ],
           "mints": [
@@ -339,7 +339,7 @@
           "iso4217": "ISK",
           "key": "IS",
           "contemporary_units": [
-            "Króna",
+            "کرون",
             "Eyrir"
           ]
         },
@@ -354,8 +354,8 @@
           "iso4217": "EUR",
           "key": "IE",
           "contemporary_units": [
-            "Pound",
-            "Penny"
+            "پوند",
+            "پنی"
           ],
           "mints": [
             {
@@ -403,7 +403,7 @@
           "iso4217": "EUR",
           "key": "LV",
           "contemporary_units": [
-            "Lats",
+            "لاتس",
             "Santīms"
           ]
         },
@@ -418,8 +418,8 @@
           "iso4217": "EUR",
           "key": "LT",
           "contemporary_units": [
-            "Litas",
-            "Centas"
+            "لیتاس",
+            "سنتا"
           ],
           "mints": [
             {
@@ -637,8 +637,8 @@
           "iso4217": "EUR",
           "key": "HR",
           "contemporary_units": [
-            "Kuna",
-            "Lipa"
+            "کونا",
+            "لیپا"
           ],
           "mints": [
             {
@@ -721,7 +721,7 @@
           "iso4217": "EUR",
           "key": "IT",
           "contemporary_units": [
-            "Lira",
+            "لیر",
             "Centesimo"
           ],
           "mints": [
@@ -755,8 +755,8 @@
           "iso4217": "EUR",
           "key": "MT",
           "contemporary_units": [
-            "Lira",
-            "Cent"
+            "لیر",
+            "سنت"
           ],
           "mints": [
             {
@@ -803,8 +803,8 @@
           "iso4217": "EUR",
           "key": "PT",
           "contemporary_units": [
-            "Escudo",
-            "Centavo"
+            "اسکودو",
+            "سنتاوو"
           ],
           "mints": [
             {
@@ -930,7 +930,7 @@
           "iso4217": "EUR",
           "key": "AT",
           "contemporary_units": [
-            "Krone",
+            "کرون",
             "Schilling",
             "Groschen"
           ],
@@ -957,7 +957,7 @@
           "iso4217": "EUR",
           "key": "BE",
           "contemporary_units": [
-            "Franc",
+            "فرانک",
             "Centime"
           ],
           "mints": [
@@ -999,7 +999,7 @@
           "iso4217": "EUR",
           "key": "FR",
           "contemporary_units": [
-            "Franc",
+            "فرانک",
             "Centime"
           ],
           "mints": [
@@ -1051,7 +1051,7 @@
           "iso4217": "EUR",
           "key": "DE",
           "contemporary_units": [
-            "Mark",
+            "مارک",
             "Pfennig"
           ],
           "mints": [
@@ -1236,7 +1236,7 @@
           "iso4217": "EUR",
           "key": "LU",
           "contemporary_units": [
-            "Franc",
+            "فرانک",
             "Centime"
           ]
         },
@@ -1262,8 +1262,8 @@
           "iso4217": "EUR",
           "key": "NL",
           "contemporary_units": [
-            "Guilder",
-            "Cent"
+            "گیلدر",
+            "سنت"
           ],
           "mints": [
             {
@@ -1845,7 +1845,7 @@
           "iso4217": "ILS",
           "key": "IL",
           "contemporary_units": [
-            "Pound",
+            "پوند",
             "Pruta",
             "Mil"
           ],
@@ -2691,7 +2691,7 @@
           "key": "EC",
           "contemporary_units": [
             "Sucre",
-            "Centavo"
+            "سنتاوو"
           ]
         },
         {
@@ -2740,8 +2740,8 @@
           "key": "PE",
           "contemporary_units": [
             "Inti",
-            "Sol",
-            "Centavo"
+            "سول",
+            "سنتاوو"
           ]
         },
         {
@@ -2764,8 +2764,8 @@
           "iso4217": "SRD",
           "key": "SR",
           "contemporary_units": [
-            "Guilder",
-            "Cent"
+            "گیلدر",
+            "سنت"
           ]
         },
         {
@@ -3417,7 +3417,7 @@
           "iso4217": "SDG",
           "key": "SD",
           "contemporary_units": [
-            "Dinar"
+            "دینار"
           ]
         },
         {
@@ -3506,7 +3506,7 @@
           "iso4217": "MGA",
           "key": "MG",
           "contemporary_units": [
-            "Franc"
+            "فرانک"
           ]
         },
         {
@@ -3542,8 +3542,8 @@
           "iso4217": "MZN",
           "key": "MZ",
           "contemporary_units": [
-            "Escudo",
-            "Centavo"
+            "اسکودو",
+            "سنتاوو"
           ]
         },
         {
@@ -4380,8 +4380,8 @@
           "iso4217": "NIO",
           "key": "NI",
           "contemporary_units": [
-            "Córdoba",
-            "Centavo"
+            "کوردوبا",
+            "سنتاوو"
           ]
         },
         {

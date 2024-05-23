@@ -295,8 +295,8 @@
           "iso4217": "EUR",
           "key": "CY",
           "contemporary_units": [
-            "Pound",
-            "Cent"
+            "Nael",
+            "Sent"
           ]
         },
         {
@@ -504,7 +504,7 @@
           "iso4217": "EUR",
           "key": "SK",
           "contemporary_units": [
-            "Koruna",
+            "Kroon",
             "Halier"
           ],
           "mints": [
@@ -638,7 +638,7 @@
           "iso4217": "ISK",
           "key": "IS",
           "contemporary_units": [
-            "Króna",
+            "Kroon",
             "Eyrir"
           ]
         },
@@ -653,8 +653,8 @@
           "iso4217": "EUR",
           "key": "IE",
           "contemporary_units": [
-            "Pound",
-            "Penny"
+            "Nael",
+            "Penn"
           ],
           "mints": [
             {
@@ -958,7 +958,7 @@
           "iso4217": "EUR",
           "key": "IT",
           "contemporary_units": [
-            "Lira",
+            "Liir",
             "Centesimo"
           ],
           "mints": [
@@ -1014,8 +1014,8 @@
           "iso4217": "EUR",
           "key": "PT",
           "contemporary_units": [
-            "Escudo",
-            "Centavo"
+            "Eskuudo",
+            "Sentaavo"
           ],
           "mints": [
             {
@@ -1077,7 +1077,7 @@
           "key": "ES",
           "contemporary_units": [
             "Peseta",
-            "Céntimo"
+            "Sentimo"
           ],
           "mints": [
             {
@@ -1130,7 +1130,7 @@
           "iso4217": "EUR",
           "key": "AT",
           "contemporary_units": [
-            "Krone",
+            "Kroon",
             "Schilling",
             "Groschen"
           ],
@@ -1157,8 +1157,8 @@
           "iso4217": "EUR",
           "key": "BE",
           "contemporary_units": [
-            "Franc",
-            "Centime"
+            "Frank",
+            "Santiim"
           ],
           "mints": [
             {
@@ -1199,8 +1199,8 @@
           "iso4217": "EUR",
           "key": "FR",
           "contemporary_units": [
-            "Franc",
-            "Centime"
+            "Frank",
+            "Santiim"
           ],
           "mints": [
             {
@@ -1415,8 +1415,8 @@
           "iso4217": "EUR",
           "key": "LU",
           "contemporary_units": [
-            "Franc",
-            "Centime"
+            "Frank",
+            "Santiim"
           ]
         },
         {
@@ -1430,8 +1430,8 @@
           "iso4217": "EUR",
           "key": "NL",
           "contemporary_units": [
-            "Guilder",
-            "Cent"
+            "Kulden",
+            "Sent"
           ],
           "mints": [
             {
@@ -1961,7 +1961,7 @@
           "key": "NI",
           "contemporary_units": [
             "Córdoba",
-            "Centavo"
+            "Sentaavo"
           ]
         },
         {
@@ -2079,7 +2079,7 @@
           "key": "EC",
           "contemporary_units": [
             "Sucre",
-            "Centavo"
+            "Sentaavo"
           ]
         },
         {
@@ -2128,8 +2128,8 @@
           "key": "PE",
           "contemporary_units": [
             "Inti",
-            "Sol",
-            "Centavo"
+            "Soll",
+            "Sentaavo"
           ]
         },
         {
@@ -2143,8 +2143,8 @@
           "iso4217": "SRD",
           "key": "SR",
           "contemporary_units": [
-            "Guilder",
-            "Cent"
+            "Kulden",
+            "Sent"
           ]
         },
         {
@@ -2295,7 +2295,7 @@
           "iso4217": "ILS",
           "key": "IL",
           "contemporary_units": [
-            "Pound",
+            "Nael",
             "Pruta",
             "Mil"
           ],
@@ -2461,7 +2461,7 @@
           "iso4217": "SDG",
           "key": "SD",
           "contemporary_units": [
-            "Dinar"
+            "Dinaar"
           ]
         },
         {
@@ -2602,7 +2602,7 @@
           "iso4217": "MGA",
           "key": "MG",
           "contemporary_units": [
-            "Franc"
+            "Frank"
           ]
         },
         {
@@ -2627,8 +2627,8 @@
           "iso4217": "MZN",
           "key": "MZ",
           "contemporary_units": [
-            "Escudo",
-            "Centavo"
+            "Eskuudo",
+            "Sentaavo"
           ]
         },
         {
