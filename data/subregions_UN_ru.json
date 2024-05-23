@@ -437,7 +437,7 @@
           "alpha3": "DDR",
           "units": [
             "Марка",
-            "Pfennig"
+            "Пфенниг"
           ],
           "part_of": "DEU",
           "iso4217": "DDM",
@@ -528,7 +528,7 @@
           ]
         },
         {
-          "name": "Faroes",
+          "name": "Фарерские острова",
           "alpha2": "FO",
           "alpha3": "FRO",
           "units": [
@@ -704,7 +704,7 @@
           ]
         },
         {
-          "name": "Svalbard and Jan Mayen Islands",
+          "name": "Шпицберген и Ян-Майен",
           "alpha2": "SJ",
           "alpha3": "SJM",
           "units": [
@@ -860,7 +860,7 @@
           "alpha3": "ALB",
           "units": [
             "Лек",
-            "Qindar"
+            "Киндарка"
           ],
           "iso4217": "ALL",
           "key": "AL"
@@ -1222,7 +1222,7 @@
           "alpha2": "BY",
           "alpha3": "BLR",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "BYN",
@@ -1264,7 +1264,7 @@
           "alpha3": "CZE",
           "units": [
             "Крона",
-            "Halér"
+            "Геллер"
           ],
           "iso4217": "CZK",
           "key": "CZ",
@@ -1306,7 +1306,7 @@
           "alpha2": "PL",
           "alpha3": "POL",
           "units": [
-            "Zloty",
+            "Злотый",
             "Грош"
           ],
           "iso4217": "PLN",
@@ -1374,7 +1374,7 @@
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "RUB",
@@ -1475,7 +1475,7 @@
           "alpha3": "CSK",
           "units": [
             "Крона",
-            "Halér"
+            "Геллер"
           ],
           "part_of": "CZE",
           "iso4217": "CSK",
@@ -1489,7 +1489,7 @@
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "part_of": "RUS",
@@ -1558,7 +1558,7 @@
           "dependent": true
         },
         {
-          "name": "Saint Pierre and Miquelon",
+          "name": "Сен-Пьер и Микелон",
           "alpha2": "PM",
           "alpha3": "SPM",
           "units": [
@@ -1969,7 +1969,7 @@
           "key": "BB"
         },
         {
-          "name": "Bonaire, Sint Eustatius and Saba",
+          "name": "Бонайре, Синт-Эстатиус и Саба",
           "alpha2": "BQ",
           "alpha3": "BES",
           "units": [],
@@ -2090,7 +2090,7 @@
           "key": "JM"
         },
         {
-          "name": "Martinique",
+          "name": "Мартиника",
           "alpha2": "MQ",
           "alpha3": "MTQ",
           "units": [
@@ -2126,7 +2126,7 @@
           "dependent": true
         },
         {
-          "name": "Saint Barthélemy",
+          "name": "Сен-Бартелеми",
           "alpha2": "BL",
           "alpha3": "BLM",
           "units": [
@@ -2160,7 +2160,7 @@
           "key": "LC"
         },
         {
-          "name": "Saint Martin",
+          "name": "Сен-Мартен",
           "alpha2": "MF",
           "alpha3": "MAF",
           "units": [
@@ -2218,7 +2218,7 @@
           "dependent": true
         },
         {
-          "name": "United States Virgin Islands",
+          "name": "Американские Виргинские острова",
           "alpha2": "VI",
           "alpha3": "VIR",
           "units": [
@@ -2230,7 +2230,7 @@
           "dependent": true
         },
         {
-          "name": "Netherlands Antilles",
+          "name": "Нидерландские Антильские острова",
           "alpha2": "AN",
           "alpha3": "ANT",
           "units": [
@@ -2284,7 +2284,7 @@
           "key": "BO"
         },
         {
-          "name": "Bouvet Island",
+          "name": "Остров Буве",
           "alpha2": "BV",
           "alpha3": "BVT",
           "units": [],
@@ -2367,7 +2367,7 @@
           ]
         },
         {
-          "name": "Falkland Islands (Malvinas)",
+          "name": "Фолклендские острова",
           "alpha2": "FK",
           "alpha3": "FLK",
           "units": [
@@ -2429,7 +2429,7 @@
           ]
         },
         {
-          "name": "South Georgia and South Sandwich Islands",
+          "name": "Южная Георгия и Южные Сандвичевы Острова",
           "alpha2": "GS",
           "alpha3": "SGS",
           "units": [],
@@ -2496,7 +2496,7 @@
           "alpha3": "AZE",
           "units": [
             "Манат",
-            "Kepik"
+            "Гяпик"
           ],
           "iso4217": "AZN",
           "key": "AZ"
@@ -2581,7 +2581,7 @@
           "alpha3": "JOR",
           "units": [
             "Динар",
-            "Qirsh"
+            "Кирш"
           ],
           "iso4217": "JOD",
           "key": "JO"
@@ -2614,7 +2614,7 @@
           "alpha3": "OMN",
           "units": [
             "Риал",
-            "Baiza"
+            "Байза"
           ],
           "iso4217": "OMR",
           "key": "OM"
@@ -2636,7 +2636,7 @@
           "alpha3": "SAU",
           "units": [
             "Риал",
-            "Halala"
+            "Халал"
           ],
           "iso4217": "SAR",
           "key": "SA"
@@ -2658,7 +2658,7 @@
           "alpha3": "TUR",
           "units": [
             "Лира",
-            "Kurus"
+            "Куруш"
           ],
           "iso4217": "TRY",
           "key": "TR",
@@ -2713,7 +2713,7 @@
           "alpha3": "",
           "units": [
             "Лира",
-            "Kurus"
+            "Куруш"
           ],
           "iso4217": "TRY",
           "part_of": "CYP",
@@ -2734,7 +2734,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "RUB",
@@ -2783,7 +2783,7 @@
           "alpha3": "KAZ",
           "units": [
             "Тенге",
-            "Tiyn"
+            "Тиын"
           ],
           "iso4217": "KZT",
           "key": "KZ"
@@ -2826,7 +2826,7 @@
           "alpha2": "UZ",
           "alpha3": "UZB",
           "units": [
-            "Sum",
+            "Сом",
             "Тийин"
           ],
           "iso4217": "UZS",
@@ -2886,7 +2886,7 @@
           "alpha3": "LAO",
           "units": [
             "Кип",
-            "At"
+            "Ат"
           ],
           "iso4217": "LAK",
           "key": "LA"
@@ -3020,7 +3020,7 @@
           "alpha2": "VN",
           "alpha3": "VNM",
           "units": [
-            "Dong",
+            "Донг",
             "Су"
           ],
           "iso4217": "VND",
@@ -3043,7 +3043,7 @@
           "alpha3": "BGD",
           "units": [
             "Така",
-            "Poisha"
+            "Пайса"
           ],
           "iso4217": "BDT",
           "key": "BD"
@@ -3054,7 +3054,7 @@
           "alpha3": "BTN",
           "units": [
             "Нгултрум",
-            "Chhetrum"
+            "Четрум"
           ],
           "iso4217": "BTN",
           "key": "BT"
@@ -3194,8 +3194,8 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Dong",
-            "Xu"
+            "Донг",
+            "Су"
           ],
           "part_of": "VNM",
           "from_year": 1955,
@@ -3215,7 +3215,7 @@
           "alpha3": "CHN",
           "units": [
             "Юань",
-            "Jiao"
+            "Цзяо"
           ],
           "iso4217": "CNY",
           "key": "CN",
@@ -3306,7 +3306,7 @@
           "alpha3": "PRK",
           "units": [
             "Won",
-            "Chun"
+            "Чон"
           ],
           "iso4217": "KPW",
           "key": "KP"
@@ -3358,7 +3358,7 @@
           "alpha3": "KOR",
           "units": [
             "Won",
-            "Chun"
+            "Чон"
           ],
           "iso4217": "KRW",
           "key": "KR",
@@ -3410,9 +3410,9 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Skar",
-            "Srang",
-            "Tangka"
+            "Скарунг",
+            "Шранг",
+            "Тангка"
           ],
           "part_of": "CHN",
           "from_year": 1912,
@@ -3635,7 +3635,7 @@
           "alpha3": "MRT",
           "units": [
             "Угия",
-            "Khoum"
+            "Хумс"
           ],
           "iso4217": "MRU",
           "key": "MR"
@@ -3663,7 +3663,7 @@
           "key": "NG"
         },
         {
-          "name": "Saint Helena",
+          "name": "Остров Святой Елены",
           "alpha2": "SH",
           "alpha3": "SHN",
           "units": [
@@ -3886,7 +3886,7 @@
           "key": "ET"
         },
         {
-          "name": "French Southern Territories",
+          "name": "Французские Южные территории",
           "alpha2": "TF",
           "alpha3": "ATF",
           "units": [
@@ -4272,7 +4272,7 @@
           ]
         },
         {
-          "name": "Christmas Island",
+          "name": "Остров Рождества",
           "alpha2": "CX",
           "alpha3": "CXR",
           "units": [
@@ -4296,7 +4296,7 @@
           "dependent": true
         },
         {
-          "name": "Heard Island and McDonald Islands",
+          "name": "Остров Херд и острова Макдональд",
           "alpha2": "HM",
           "alpha3": "HMD",
           "units": [],
@@ -4326,7 +4326,7 @@
           ]
         },
         {
-          "name": "Norfolk Island",
+          "name": "Остров Норфолк",
           "alpha2": "NF",
           "alpha3": "NFK",
           "units": [
@@ -4403,7 +4403,7 @@
       "name": "Микронезия",
       "countries": [
         {
-          "name": "Guam",
+          "name": "Гуам",
           "alpha2": "GU",
           "alpha3": "GUM",
           "units": [
@@ -4459,7 +4459,7 @@
           "key": "NR"
         },
         {
-          "name": "Northern Mariana Islands",
+          "name": "Северные Марианские Острова",
           "alpha2": "MP",
           "alpha3": "MNP",
           "units": [
@@ -4482,7 +4482,7 @@
           "key": "PW"
         },
         {
-          "name": "United States Minor Outlying Islands",
+          "name": "Внешние малые острова США",
           "alpha2": "UM",
           "alpha3": "UMI",
           "units": [
@@ -4499,7 +4499,7 @@
       "name": "Полинезия",
       "countries": [
         {
-          "name": "American Samoa",
+          "name": "Американское Самоа",
           "alpha2": "AS",
           "alpha3": "ASM",
           "units": [
@@ -4547,7 +4547,7 @@
           "dependent": true
         },
         {
-          "name": "Pitcairn",
+          "name": "Острова Питкэрн",
           "alpha2": "PN",
           "alpha3": "PCN",
           "units": [
@@ -4563,7 +4563,7 @@
           "alpha2": "WS",
           "alpha3": "WSM",
           "units": [
-            "Tala",
+            "Тала",
             "Цент"
           ],
           "iso4217": "WST",
@@ -4586,7 +4586,7 @@
           "alpha2": "TO",
           "alpha3": "TON",
           "units": [
-            "Pa’Anga",
+            "Паанга",
             "Цент"
           ],
           "iso4217": "TOP",
@@ -4604,7 +4604,7 @@
           "key": "TV"
         },
         {
-          "name": "Wallis and Futuna Islands",
+          "name": "Уоллис и Футуна",
           "alpha2": "WF",
           "alpha3": "WLF",
           "units": [

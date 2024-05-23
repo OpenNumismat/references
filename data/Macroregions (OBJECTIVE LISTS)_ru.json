@@ -57,7 +57,7 @@
           "alpha2": "BY",
           "alpha3": "BLR",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "BYN",
@@ -99,7 +99,7 @@
           "alpha3": "CZE",
           "units": [
             "Крона",
-            "Halér"
+            "Геллер"
           ],
           "iso4217": "CZK",
           "key": "CZ",
@@ -141,7 +141,7 @@
           "alpha2": "PL",
           "alpha3": "POL",
           "units": [
-            "Zloty",
+            "Злотый",
             "Грош"
           ],
           "iso4217": "PLN",
@@ -209,7 +209,7 @@
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "RUB",
@@ -612,7 +612,7 @@
           "alpha3": "ALB",
           "units": [
             "Лек",
-            "Qindar"
+            "Киндарка"
           ],
           "iso4217": "ALL",
           "key": "AL"
@@ -1287,7 +1287,7 @@
           "alpha3": "",
           "units": [
             "Лира",
-            "Kurus"
+            "Куруш"
           ],
           "iso4217": "TRY",
           "part_of": "CYP",
@@ -1299,7 +1299,7 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "RUB",
@@ -1337,7 +1337,7 @@
           "alpha3": "CSK",
           "units": [
             "Крона",
-            "Halér"
+            "Геллер"
           ],
           "part_of": "CZE",
           "iso4217": "CSK",
@@ -1352,7 +1352,7 @@
           "alpha3": "DDR",
           "units": [
             "Марка",
-            "Pfennig"
+            "Пфенниг"
           ],
           "part_of": "DEU",
           "iso4217": "DDM",
@@ -1366,7 +1366,7 @@
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "part_of": "RUS",
@@ -2279,7 +2279,7 @@
           "alpha3": "MRT",
           "units": [
             "Угия",
-            "Khoum"
+            "Хумс"
           ],
           "iso4217": "MRU",
           "key": "MR"
@@ -2371,7 +2371,7 @@
           "alpha3": "JOR",
           "units": [
             "Динар",
-            "Qirsh"
+            "Кирш"
           ],
           "iso4217": "JOD",
           "key": "JO"
@@ -2404,7 +2404,7 @@
           "alpha3": "OMN",
           "units": [
             "Риал",
-            "Baiza"
+            "Байза"
           ],
           "iso4217": "OMR",
           "key": "OM"
@@ -2426,7 +2426,7 @@
           "alpha3": "SAU",
           "units": [
             "Риал",
-            "Halala"
+            "Халал"
           ],
           "iso4217": "SAR",
           "key": "SA"
@@ -3009,7 +3009,7 @@
           "alpha3": "BGD",
           "units": [
             "Така",
-            "Poisha"
+            "Пайса"
           ],
           "iso4217": "BDT",
           "key": "BD"
@@ -3020,7 +3020,7 @@
           "alpha3": "BTN",
           "units": [
             "Нгултрум",
-            "Chhetrum"
+            "Четрум"
           ],
           "iso4217": "BTN",
           "key": "BT"
@@ -3133,7 +3133,7 @@
           "alpha3": "KAZ",
           "units": [
             "Тенге",
-            "Tiyn"
+            "Тиын"
           ],
           "iso4217": "KZT",
           "key": "KZ"
@@ -3176,7 +3176,7 @@
           "alpha2": "UZ",
           "alpha3": "UZB",
           "units": [
-            "Sum",
+            "Сом",
             "Тийин"
           ],
           "iso4217": "UZS",
@@ -3199,7 +3199,7 @@
           "alpha3": "AZE",
           "units": [
             "Манат",
-            "Kepik"
+            "Гяпик"
           ],
           "iso4217": "AZN",
           "key": "AZ"
@@ -3210,7 +3210,7 @@
           "alpha3": "TUR",
           "units": [
             "Лира",
-            "Kurus"
+            "Куруш"
           ],
           "iso4217": "TRY",
           "key": "TR",
@@ -3252,7 +3252,7 @@
           "alpha3": "CHN",
           "units": [
             "Юань",
-            "Jiao"
+            "Цзяо"
           ],
           "iso4217": "CNY",
           "key": "CN",
@@ -3309,7 +3309,7 @@
           "alpha3": "PRK",
           "units": [
             "Won",
-            "Chun"
+            "Чон"
           ],
           "iso4217": "KPW",
           "key": "KP"
@@ -3350,7 +3350,7 @@
           "alpha3": "KOR",
           "units": [
             "Won",
-            "Chun"
+            "Чон"
           ],
           "iso4217": "KRW",
           "key": "KR",
@@ -3402,9 +3402,9 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Skar",
-            "Srang",
-            "Tangka"
+            "Скарунг",
+            "Шранг",
+            "Тангка"
           ],
           "part_of": "CHN",
           "from_year": 1912,
@@ -3435,7 +3435,7 @@
           "alpha3": "LAO",
           "units": [
             "Кип",
-            "At"
+            "Ат"
           ],
           "iso4217": "LAK",
           "key": "LA"
@@ -3478,7 +3478,7 @@
           "alpha2": "VN",
           "alpha3": "VNM",
           "units": [
-            "Dong",
+            "Донг",
             "Су"
           ],
           "iso4217": "VND",
@@ -3489,8 +3489,8 @@
           "alpha2": "",
           "alpha3": "",
           "units": [
-            "Dong",
-            "Xu"
+            "Донг",
+            "Су"
           ],
           "part_of": "VNM",
           "from_year": 1955,
@@ -3704,7 +3704,7 @@
           "alpha2": "WS",
           "alpha3": "WSM",
           "units": [
-            "Tala",
+            "Тала",
             "Цент"
           ],
           "iso4217": "WST",

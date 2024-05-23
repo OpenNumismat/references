@@ -9,7 +9,7 @@
           "alpha3": "ALB",
           "units": [
             "Лек",
-            "Qindar"
+            "Киндарка"
           ],
           "iso4217": "ALL",
           "key": "AL"
@@ -73,7 +73,7 @@
           "alpha3": "AZE",
           "units": [
             "Манат",
-            "Kepik"
+            "Гяпик"
           ],
           "iso4217": "AZN",
           "key": "AZ"
@@ -166,7 +166,7 @@
           "alpha2": "BY",
           "alpha3": "BLR",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "BYN",
@@ -255,7 +255,7 @@
           "alpha3": "CZE",
           "units": [
             "Крона",
-            "Halér"
+            "Геллер"
           ],
           "iso4217": "CZK",
           "key": "CZ",
@@ -632,7 +632,7 @@
           ]
         },
         {
-          "name": "Faroes",
+          "name": "Фарерские острова",
           "alpha2": "FO",
           "alpha3": "FRO",
           "units": [
@@ -974,7 +974,7 @@
           "alpha3": "KAZ",
           "units": [
             "Тенге",
-            "Tiyn"
+            "Тиын"
           ],
           "iso4217": "KZT",
           "key": "KZ"
@@ -1172,7 +1172,7 @@
           "alpha2": "PL",
           "alpha3": "POL",
           "units": [
-            "Zloty",
+            "Злотый",
             "Грош"
           ],
           "iso4217": "PLN",
@@ -1255,7 +1255,7 @@
           "alpha2": "RU",
           "alpha3": "RUS",
           "units": [
-            "Rouble",
+            "Рубль",
             "Копейка"
           ],
           "iso4217": "RUB",
@@ -1401,7 +1401,7 @@
           "alpha3": "TUR",
           "units": [
             "Лира",
-            "Kurus"
+            "Куруш"
           ],
           "iso4217": "TRY",
           "key": "TR",
@@ -1433,7 +1433,7 @@
           "alpha2": "UZ",
           "alpha3": "UZB",
           "units": [
-            "Sum",
+            "Сом",
             "Тийин"
           ],
           "iso4217": "UZS",
@@ -1840,7 +1840,7 @@
           "alpha3": "JOR",
           "units": [
             "Динар",
-            "Qirsh"
+            "Кирш"
           ],
           "iso4217": "JOD",
           "key": "JO"
@@ -1921,7 +1921,7 @@
           "alpha3": "OMN",
           "units": [
             "Риал",
-            "Baiza"
+            "Байза"
           ],
           "iso4217": "OMR",
           "key": "OM"
@@ -1952,7 +1952,7 @@
           "alpha3": "SAU",
           "units": [
             "Риал",
-            "Halala"
+            "Халал"
           ],
           "iso4217": "SAR",
           "key": "SA"
@@ -2315,7 +2315,7 @@
           "key": "LC"
         },
         {
-          "name": "Saint Martin",
+          "name": "Сен-Мартен",
           "alpha2": "MF",
           "alpha3": "MAF",
           "units": [
@@ -2520,7 +2520,7 @@
           "dependent": true
         },
         {
-          "name": "United States Virgin Islands",
+          "name": "Американские Виргинские острова",
           "alpha2": "VI",
           "alpha3": "VIR",
           "units": [
@@ -2553,7 +2553,7 @@
           "alpha3": "BGD",
           "units": [
             "Така",
-            "Poisha"
+            "Пайса"
           ],
           "iso4217": "BDT",
           "key": "BD"
@@ -2564,7 +2564,7 @@
           "alpha3": "BTN",
           "units": [
             "Нгултрум",
-            "Chhetrum"
+            "Четрум"
           ],
           "iso4217": "BTN",
           "key": "BT"
@@ -2986,7 +2986,7 @@
           "alpha3": "MRT",
           "units": [
             "Угия",
-            "Khoum"
+            "Хумс"
           ],
           "iso4217": "MRU",
           "key": "MR"
@@ -3257,7 +3257,7 @@
       "name": "Восточная Азия и Тихий океан",
       "countries": [
         {
-          "name": "American Samoa",
+          "name": "Американское Самоа",
           "alpha2": "AS",
           "alpha3": "ASM",
           "units": [
@@ -3381,7 +3381,7 @@
           "alpha3": "CHN",
           "units": [
             "Юань",
-            "Jiao"
+            "Цзяо"
           ],
           "iso4217": "CNY",
           "key": "CN",
@@ -3455,7 +3455,7 @@
           "key": "FM"
         },
         {
-          "name": "Guam",
+          "name": "Гуам",
           "alpha2": "GU",
           "alpha3": "GUM",
           "units": [
@@ -3567,7 +3567,7 @@
           "alpha3": "KOR",
           "units": [
             "Won",
-            "Chun"
+            "Чон"
           ],
           "iso4217": "KRW",
           "key": "KR",
@@ -3588,7 +3588,7 @@
           "alpha3": "LAO",
           "units": [
             "Кип",
-            "At"
+            "Ат"
           ],
           "iso4217": "LAK",
           "key": "LA"
@@ -3639,7 +3639,7 @@
           "key": "MN"
         },
         {
-          "name": "Northern Mariana Islands",
+          "name": "Северные Марианские Острова",
           "alpha2": "MP",
           "alpha3": "MNP",
           "units": [
@@ -3755,7 +3755,7 @@
           "alpha3": "PRK",
           "units": [
             "Won",
-            "Chun"
+            "Чон"
           ],
           "iso4217": "KPW",
           "key": "KP"
@@ -3868,7 +3868,7 @@
           "alpha2": "TO",
           "alpha3": "TON",
           "units": [
-            "Pa’Anga",
+            "Паанга",
             "Цент"
           ],
           "iso4217": "TOP",
@@ -3922,7 +3922,7 @@
           "alpha2": "VN",
           "alpha3": "VNM",
           "units": [
-            "Dong",
+            "Донг",
             "Су"
           ],
           "iso4217": "VND",
@@ -3943,7 +3943,7 @@
           "alpha2": "WS",
           "alpha3": "WSM",
           "units": [
-            "Tala",
+            "Тала",
             "Цент"
           ],
           "iso4217": "WST",
