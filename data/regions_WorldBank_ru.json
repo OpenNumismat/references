@@ -9,7 +9,7 @@
           "alpha3": "ALB",
           "units": [
             "Лек",
-            "Qindar"
+            "Киндарка"
           ],
           "iso4217": "ALL",
           "key": "AL"
@@ -73,7 +73,7 @@
           "alpha3": "AZE",
           "units": [
             "Манат",
-            "Kepik"
+            "Гяпик"
           ],
           "iso4217": "AZN",
           "key": "AZ"
@@ -255,7 +255,7 @@
           "alpha3": "CZE",
           "units": [
             "Крона",
-            "Halér"
+            "Геллер"
           ],
           "iso4217": "CZK",
           "key": "CZ",
@@ -973,7 +973,7 @@
           "alpha3": "KAZ",
           "units": [
             "Тенге",
-            "Tiyn"
+            "Тиын"
           ],
           "iso4217": "KZT",
           "key": "KZ"
@@ -1400,7 +1400,7 @@
           "alpha3": "TUR",
           "units": [
             "Лира",
-            "Kurus"
+            "Куруш"
           ],
           "iso4217": "TRY",
           "key": "TR",
@@ -1839,7 +1839,7 @@
           "alpha3": "JOR",
           "units": [
             "Динар",
-            "Qirsh"
+            "Кирш"
           ],
           "iso4217": "JOD",
           "key": "JO"
@@ -1920,7 +1920,7 @@
           "alpha3": "OMN",
           "units": [
             "Риал",
-            "Baiza"
+            "Байза"
           ],
           "iso4217": "OMR",
           "key": "OM"
@@ -3566,7 +3566,7 @@
           "alpha3": "KOR",
           "units": [
             "Won",
-            "Chun"
+            "Чон"
           ],
           "iso4217": "KRW",
           "key": "KR",
@@ -3587,7 +3587,7 @@
           "alpha3": "LAO",
           "units": [
             "Кип",
-            "At"
+            "Ат"
           ],
           "iso4217": "LAK",
           "key": "LA"
@@ -3754,7 +3754,7 @@
           "alpha3": "PRK",
           "units": [
             "Won",
-            "Chun"
+            "Чон"
           ],
           "iso4217": "KPW",
           "key": "KP"
