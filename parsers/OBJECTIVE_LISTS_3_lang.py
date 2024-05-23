@@ -5,18 +5,6 @@ import json
 from common import *
 
 
-def str2latin(string):
-    return string.replace('ô', 'o').replace('ó', 'o').replace('ç', 'c').replace('é', 'e').replace('ë', 'e').replace('ā', 'a').replace('ã', 'a').replace('í', 'i').replace('ê', 'e').replace('ş', 's').replace('Đ', 'D').replace('ồ', 'o').replace('à', 'a')
-
-def get_alternative_names(country):
-    country = country.lower()
-    for names in alternative_names.values():
-        names = [name.lower() for name in names]
-        for name in names:
-            if name == country:
-                return names
-    return [country,]
-
 def compare_county_names(country1, country2):
     return bool(country2.lower() in get_alternative_names(country1))
 
@@ -39,7 +27,7 @@ with open('../data/countries_alternative_names.json', encoding='utf-8') as file:
     alternative_names = json.load(file)
 
 
-with open("../data/country_currency_en.json", encoding='utf-8') as file:
+with open("../data/country_currency.json", encoding='utf-8') as file:
     orig_data = json.load(file)
 countries_list = {}
 for region_data in subregions_data:

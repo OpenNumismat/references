@@ -6,9 +6,6 @@ import json
 from common import *
 
 
-def str2latin(string):
-    return string.replace('ô', 'o').replace('ó', 'o').replace('ç', 'c').replace('é', 'e').replace('ë', 'e').replace('ā', 'a').replace('ã', 'a').replace('í', 'i').replace('ê', 'e').replace('ş', 's').replace('Đ', 'D').replace('ồ', 'o').replace('à', 'a')
-
 def compare_county_names(country1, country2):
     return bool(country2 in get_alternative_names(country1))
 
@@ -32,7 +29,7 @@ with open('../src/Area.csv', encoding='utf-8') as file:
         subregions_data[row[0]] = row[5]
 
 
-with open("../data/country_currency_en.json", encoding='utf-8') as file:
+with open("../data/country_currency.json", encoding='utf-8') as file:
     orig_data = json.load(file)
 countries_list = {}
 for name, region in subregions_data.items():

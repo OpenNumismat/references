@@ -15,3 +15,8 @@ Sources:
 - src/countries.json - https://github.com/stefangabos/world_countries/tree/v2.8.2/data/countries/_combined
 - src/world.json - https://github.com/stefangabos/world_countries/tree/v2.8.2/data/countries/_combined
 - src/currencies.json - https://github.com/ourworldincode/currency/tree/main
+
+Parsers and datas:
+- data/<region_source>_<lang>.json - result files used by references.js
+- parsers/<region_source>_lang.py - generate data/<region_source>_<lang>.json from src/<src>, data/country_currency.json, i18n/regions_{lang}.json, i18n/countries_{lang}.json, i18n/currencies_{lang}.json
+- parsers/country_currency.py - generate data/country_currency.json

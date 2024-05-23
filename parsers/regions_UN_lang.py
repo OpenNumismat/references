@@ -4,9 +4,6 @@ import json
 from common import *
 
 
-def compare_county_names(country1, country2):
-    return bool(country2.lower() in get_alternative_names(country1))
-
 def country2countrydata(country, orig_data):
     names = get_alternative_names(country)
     for orig_country in orig_data["countries"]:
@@ -27,7 +24,7 @@ with open('../src/UNSD — Methodology.csv', encoding='utf-8') as file:
     for row in reader:
         countries_list[row[11]] = row[3]
 
-with open(f"../data/country_currency_en.json", encoding='utf-8') as orig_file:
+with open(f"../data/country_currency.json", encoding='utf-8') as orig_file:
     orig_data = json.load(orig_file)
 
 for lang in lang_list():

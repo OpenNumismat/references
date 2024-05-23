@@ -21,7 +21,7 @@ with open('../src/CLASS.csv', encoding='utf-8') as file:
         subregions_data[row[1]] = row[2]
 
 
-with open(f"../data/country_currency_en.json", encoding='utf-8') as orig_file:
+with open(f"../data/country_currency.json", encoding='utf-8') as orig_file:
     orig_data = json.load(orig_file)
 
 for lang in lang_list():

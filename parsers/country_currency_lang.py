@@ -18,15 +18,6 @@ def country2iso4217(country, currencies_list):
                 return value
     return None
 
-def get_translated_country_names(lang):
-    path = f'../i18n/countries_{lang}.json'
-    if not os.path.isfile(path):
-        path = f'../i18n/countries_en.json'
-
-    with open(path, encoding='utf-8') as file:
-        data = json.load(file)
-        return data["countries"]
-
 
 with open('../data/dependent_countries.json', encoding='utf-8') as file:
     dependend_data = json.load(file)
