@@ -46,6 +46,12 @@ for lang in lang_list():
                             units.append(translated_currency_names[unit])
                         translated_country["units"] = units
 
+                        if "contemporary_units" in orig_country:
+                            units = []
+                            for unit in orig_country["contemporary_units"]:
+                                units.append(translated_currency_names[unit])
+                            translated_country["contemporary_units"] = units
+
                         r["countries"].append(translated_country)
                         finded = True
                         break
