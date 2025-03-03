@@ -87,7 +87,7 @@
     "East Asia": "Asia orientale",
     "Mainland Southeast Asia": "Asia Sudorientale",
     "Singapore": "Singapore",
-    "Insular Southeast Asia": "Insular Southeast Asia",
+    "Insular Southeast Asia": "Asia Sudorientale insulare",
     "South Pacific": "Pacifico Meridionale"
   },
   "Macroregions (OBJECTIVE LISTS)": {
@@ -101,7 +101,7 @@
     "Central Asia": "Asia Centrale",
     "East Asia": "Asia orientale",
     "Mainland Southeast Asia": "Asia Sudorientale",
-    "Southeast Asia Islands": "Southeast Asia Islands",
+    "Southeast Asia Islands": "Asia sudorientale insulare",
     "South Pacific": "Pacifico Meridionale"
   }
 }
