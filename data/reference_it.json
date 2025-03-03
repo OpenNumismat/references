@@ -165,19 +165,19 @@
       "engraved": "Incisa",
       "cobs": "Cob",
       "klippe": "Klippe",
-      "wire": "Monete di lamina",
-      "scyphate": "Scyphate"
+      "wire": "Moneta di lamina",
+      "scyphate": "Scifata"
     }
   },
   {
     "name": "modification",
-    "title": "Modification",
+    "title": "Modifica",
     "has_icons": false,
     "values": {
-      "colored": "Colored",
-      "countermarked": "Countermarked",
-      "holed": "Holed",
-      "cut": "Cut"
+      "colored": "Colorata",
+      "countermarked": "Contromarcata",
+      "holed": "Forata",
+      "cut": "Tagliata"
     }
   },
   {
@@ -189,13 +189,13 @@
       "au": "QFDC",
       "xf": "Splendida",
       "vf": "Bellissima",
-      "f": "F",
-      "vg": "VG"
+      "f": "Molto bella",
+      "vg": "Bella"
     }
   },
   {
     "name": "grader",
-    "title": "Grader",
+    "title": "Gradazione",
     "has_icons": true,
     "values": {
       "anacs": "ANACS",
