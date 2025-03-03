@@ -5,9 +5,9 @@
     "has_icons": false,
     "values": {
       "coin": "Moneta",
-      "banknote": "Banknote",
-      "stamp": "Stamp",
-      "postcard": "Postcard"
+      "banknote": "Banconota",
+      "stamp": "Francobollo",
+      "postcard": "Cartolina"
     }
   },
   {
@@ -16,7 +16,7 @@
     "has_icons": false,
     "values": {
       "common": "Comune",
-      "normal": "Regolare",
+      "normal": "Ordinaria",
       "scarce": "Non comune",
       "rare": "Rara",
       "unique": "Unica",
@@ -54,11 +54,11 @@
     "title": "Tipo",
     "has_icons": false,
     "values": {
-      "regular-issue": "Emissione regolare",
+      "regular-issue": "Emissione ordinaria",
       "commemorative": "Commemorativa",
       "bullion": "Metallo prezioso",
       "restrike": "Riemesso",
-      "pattern": "Modello"
+      "pattern": "Progetto"
     }
   },
   {
@@ -67,7 +67,7 @@
     "has_icons": false,
     "values": {
       "single": "Singolo",
-      "set": "Set",
+      "set": "Serie",
       "coincard": "Coincard",
       "roll": "Rotolo"
     }
@@ -77,9 +77,9 @@
     "title": "Dri/Rov",
     "has_icons": false,
     "values": {
-      "↑↑-medallic": "↑↑ Medallic",
-      "↑↓-coin": "↑↓ Coin",
-      "↺-variable": "↺ Variable"
+      "↑↑-medallic": "↑↑-medaglia",
+      "↑↓-coin": "↑↓-moneta",
+      "↺-variable": "↺-variabile"
     }
   },
   {
@@ -88,7 +88,7 @@
     "has_icons": false,
     "values": {
       "reeded": "Zigrinato",
-      "plain": "Plain",
+      "plain": "Liscio",
       "decorated": "Decorato",
       "segmented-reeding": "Segmented reeding",
       "lettered": "Marcato con lettere"
