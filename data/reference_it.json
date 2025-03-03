@@ -90,8 +90,8 @@
       "reeded": "Zigrinato",
       "plain": "Liscio",
       "decorated": "Decorato",
-      "segmented-reeding": "Segmented reeding",
-      "lettered": "Marcato con lettere"
+      "segmented-reeding": "Rigatura segmentata",
+      "lettered": "Con lettere"
     }
   },
   {
@@ -100,14 +100,14 @@
     "has_icons": true,
     "values": {
       "round": "Rotonda",
-      "irregular": "Round (irregular)",
+      "irregular": "Rotonda (irregolare)",
       "square": "Quadrata",
-      "polygon": "Poligono",
-      "spanish": "Fiore spagnolo",
-      "hole": "Round with hole",
-      "half": "Half circle",
+      "polygon": "Poligonale",
+      "spanish": "Scanalata",
+      "hole": "Tonda con foro",
+      "half": "Semicircolare",
       "klippe": "Klippe",
-      "scalloped": "Scalloped"
+      "scalloped": "Polilobata"
     }
   },
   {
@@ -145,11 +145,11 @@
   },
   {
     "name": "composition",
-    "title": "Composition",
+    "title": "Composizione",
     "has_icons": false,
     "values": {
       "single": "Singolo",
-      "plated": "Plated",
+      "plated": "Placcata",
       "clad": "Clad",
       "bimetallic": "Bimetallic"
     }
