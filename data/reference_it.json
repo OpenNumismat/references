@@ -150,22 +150,22 @@
     "values": {
       "single": "Singolo",
       "plated": "Placcata",
-      "clad": "Clad",
-      "bimetallic": "Bimetallic"
+      "clad": "Ricoperta",
+      "bimetallic": "Bimetallica"
     }
   },
   {
     "name": "technique",
-    "title": "Technique",
+    "title": "Tecnica",
     "has_icons": false,
     "values": {
-      "milled": "Milled",
-      "cast": "Cast",
-      "hammered": "Hammered",
-      "engraved": "Engraved",
-      "cobs": "Cobs",
+      "milled": "Coniata meccanicamente",
+      "cast": "Coniata per fusione",
+      "hammered": "Coniata a martello",
+      "engraved": "Incisa",
+      "cobs": "Cob",
       "klippe": "Klippe",
-      "wire": "Wire",
+      "wire": "Monete di lamina",
       "scyphate": "Scyphate"
     }
   },
