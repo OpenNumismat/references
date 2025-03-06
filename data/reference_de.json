@@ -46,7 +46,7 @@
       "multiple-strike": "Mehrfach-Prägung",
       "mule": "Zwitterprägung",
       "doubled-die": "Doppelprägung",
-      "brockage": "\"Brockage\"-Fehler"
+      "brockage": "Brockage-Fehler"
     }
   },
   {
@@ -186,11 +186,11 @@
     "has_icons": false,
     "values": {
       "unc": "pfr",
-      "au": "AU",
+      "au": "-unz",
       "xf": "vz",
       "vf": "ss",
-      "f": "F",
-      "vg": "VG"
+      "f": "s",
+      "vg": "sg"
     }
   },
   {
