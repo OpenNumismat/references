@@ -15,9 +15,9 @@
     "title": "Seltenheit",
     "has_icons": false,
     "values": {
-      "common": "üblich",
+      "common": "häufig",
       "normal": "normal",
-      "scarce": "ungewöhnlich",
+      "scarce": "rar",
       "rare": "selten",
       "unique": "einzigartig",
       "in-sets-only": "Nur in Sets"
@@ -54,7 +54,7 @@
     "title": "Typ",
     "has_icons": false,
     "values": {
-      "regular-issue": "Normal-Ausgabe",
+      "regular-issue": "Normalausgabe",
       "commemorative": "Gedenkausgabe",
       "bullion": "Barren/Anlagemünze",
       "restrike": "Nachprägung",
@@ -74,12 +74,12 @@
   },
   {
     "name": "obvrev",
-    "title": "Av/Rück",
+    "title": "Stempelstellung",
     "has_icons": false,
     "values": {
       "↑↑-medallic": "↑↑ ",
       "↑↓-coin": "↑↓",
-      "↺-variable": "↺ Variable"
+      "↺-variable": "↺"
     }
   },
   {
