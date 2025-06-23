@@ -1,10 +1,10 @@
 {
   "regions_UN": {
-    "Europe": "Europe",
-    "Americas": "Americas",
+    "Europe": "Europa",
+    "Americas": "América",
     "Asia": "Asia",
-    "Africa": "Africa",
-    "Oceania": "Oceania"
+    "Africa": "África",
+    "Oceania": "Oceanía"
   },
   "subregions_UN": {
     "Western Europe": "Europa Occidental",
@@ -21,7 +21,7 @@
     "Central Asia": "Asia Central",
     "Southern Asia": "Asia del Sur",
     "Eastern Asia": "Asia Oriental",
-    "South-eastern Asia": "Asia del Sudeste",
+    "South-eastern Asia": "Sudeste de Asia",
 
     "Northern Africa": "África del Norte",
     "Western Africa": "África Occidental",
@@ -44,7 +44,7 @@
     "East Asia & Pacific": "Asia Oriental & Pacífico"
   },
   "regions_World_Factbook": {
-    "Europe": "Europe",
+    "Europe": "Europa",
     "North America": "Norteamérica",
     "Middle East": "Oriente Medio",
     "Central Asia": "Asia Central",
@@ -52,46 +52,46 @@
     "South America": "Sudamérica",
     "Australia and Oceania": "Australia y Oceanía",
     "South Asia": "Sur de Asia",
-    "Africa": "Africa",
+    "Africa": "África",
     "Central America and the Caribbean": "América Central y el Caribe"
   },
   "Regions (OBJECTIVE LISTS)": {
-    "The North & Australasia": "The North & Australasia",
-    "Central & South America": "Central & South America",
+    "The North & Australasia": "Norte & Australasia",
+    "Central & South America": "Centro & Sudamérica",
     "Middle East & North Africa": "Oriente Medio & África del Norte",
-    "The Sahel": "The Sahel",
+    "The Sahel": "El Sahel",
     "Sub-Saharan Africa": "África Subsahariana",
     "South Asia": "Sur de Asia",
     "Central Asia": "Asia Central",
     "East Asia": "Este de Asia",
-    "Southeast Asia": "Southeast Asia",
-    "South Pacific": "South Pacific"
+    "Southeast Asia": "Sudeste de Asia",
+    "South Pacific": "Pacífico Sur"
   },
   "Subregions (OBJECTIVE LISTS)": {
-    "Anglo World": "Anglo World",
-    "Europe": "Europe",
-    "North Eurasia": "North Eurasia",
+    "Anglo World": "Mundo Angloparlante",
+    "Europe": "Europa",
+    "North Eurasia": "Eurasia Norte",
     "Caribbean": "Caribe",
     "Latin America": "Latinoamérica",
-    "Atlantic Ocean": "Atlantic Ocean",
-    "Indian Ocean": "Indian Ocean",
-    "Arab World": "Arab World",
+    "Atlantic Ocean": "Océano Atlántico",
+    "Indian Ocean": "Océano Índico",
+    "Arab World": "Mundo Árabe",
     "Israel": "Israel",
-    "Nastaliq Region": "Nastaliq Region",
+    "Nastaliq Region": "Región de Nastaliya",
     "Sahel": "Sahel",
-    "Tropical Africa": "Tropical Africa",
+    "Tropical Africa": "África Tropical",
     "Southern Africa": "África del Sur",
-    "Ethiopic Africa": "Ethiopic Africa",
+    "Ethiopic Africa": "África Etiópica",
     "South Asia": "Sur de Asia",
     "Central Asia": "Asia Central",
     "East Asia": "Este de Asia",
-    "Mainland Southeast Asia": "Mainland Southeast Asia",
+    "Mainland Southeast Asia": "Sudeste asiático continental",
     "Singapore": "Singapur",
-    "Insular Southeast Asia": "Insular Southeast Asia",
-    "South Pacific": "South Pacific"
+    "Insular Southeast Asia": "Sudeste asiático insular",
+    "South Pacific": "Pacífico Sur"
   },
   "Macroregions (OBJECTIVE LISTS)": {
-    "Europe": "Europe",
+    "Europe": "Europa",
     "North America": "Norteamérica",
     "Australasia": "Australasia",
     "Latin America": "Latinoamérica",
@@ -100,8 +100,8 @@
     "South Asia": "Sur de Asia",
     "Central Asia": "Asia Central",
     "East Asia": "Este de Asia",
-    "Mainland Southeast Asia": "Mainland Southeast Asia",
-    "Southeast Asia Islands": "Southeast Asia Islands",
-    "South Pacific": "South Pacific"
+    "Mainland Southeast Asia": "Sudeste asiático continental",
+    "Southeast Asia Islands": "Islas del Sudeste asiático",
+    "South Pacific": "Pacífico Sur"
   }
 }
