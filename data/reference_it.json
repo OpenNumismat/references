@@ -5,9 +5,9 @@
     "has_icons": false,
     "values": {
       "coin": "Moneta",
-      "banknote": "Banknote",
-      "stamp": "Stamp",
-      "postcard": "Postcard"
+      "banknote": "Banconota",
+      "stamp": "Francobollo",
+      "postcard": "Cartolina"
     }
   },
   {
@@ -16,7 +16,7 @@
     "has_icons": false,
     "values": {
       "common": "Comune",
-      "normal": "Regolare",
+      "normal": "Ordinaria",
       "scarce": "Non comune",
       "rare": "Rara",
       "unique": "Unica",
@@ -54,11 +54,11 @@
     "title": "Tipo",
     "has_icons": false,
     "values": {
-      "regular-issue": "Emissione regolare",
+      "regular-issue": "Emissione ordinaria",
       "commemorative": "Commemorativa",
       "bullion": "Metallo prezioso",
       "restrike": "Riemesso",
-      "pattern": "Modello"
+      "pattern": "Progetto"
     }
   },
   {
@@ -67,7 +67,7 @@
     "has_icons": false,
     "values": {
       "single": "Singolo",
-      "set": "Set",
+      "set": "Serie",
       "coincard": "Coincard",
       "roll": "Rotolo"
     }
@@ -77,9 +77,9 @@
     "title": "Dri/Rov",
     "has_icons": false,
     "values": {
-      "↑↑-medallic": "↑↑ Medallic",
-      "↑↓-coin": "↑↓ Coin",
-      "↺-variable": "↺ Variable"
+      "↑↑-medallic": "↑↑-medaglia",
+      "↑↓-coin": "↑↓-moneta",
+      "↺-variable": "↺-variabile"
     }
   },
   {
@@ -88,10 +88,10 @@
     "has_icons": false,
     "values": {
       "reeded": "Zigrinato",
-      "plain": "Plain",
+      "plain": "Liscio",
       "decorated": "Decorato",
-      "segmented-reeding": "Segmented reeding",
-      "lettered": "Marcato con lettere"
+      "segmented-reeding": "Rigatura segmentata",
+      "lettered": "Con lettere"
     }
   },
   {
@@ -100,14 +100,14 @@
     "has_icons": true,
     "values": {
       "round": "Rotonda",
-      "irregular": "Round (irregular)",
+      "irregular": "Rotonda (irregolare)",
       "square": "Quadrata",
-      "polygon": "Poligono",
-      "spanish": "Fiore spagnolo",
-      "hole": "Round with hole",
-      "half": "Half circle",
+      "polygon": "Poligonale",
+      "spanish": "Scanalata",
+      "hole": "Tonda con foro",
+      "half": "Semicircolare",
       "klippe": "Klippe",
-      "scalloped": "Scalloped"
+      "scalloped": "Polilobata"
     }
   },
   {
@@ -145,39 +145,39 @@
   },
   {
     "name": "composition",
-    "title": "Composition",
+    "title": "Composizione",
     "has_icons": false,
     "values": {
       "single": "Singolo",
-      "plated": "Plated",
-      "clad": "Clad",
-      "bimetallic": "Bimetallic"
+      "plated": "Placcata",
+      "clad": "Ricoperta",
+      "bimetallic": "Bimetallica"
     }
   },
   {
     "name": "technique",
-    "title": "Technique",
+    "title": "Tecnica",
     "has_icons": false,
     "values": {
-      "milled": "Milled",
-      "cast": "Cast",
-      "hammered": "Hammered",
-      "engraved": "Engraved",
-      "cobs": "Cobs",
+      "milled": "Coniata meccanicamente",
+      "cast": "Coniata per fusione",
+      "hammered": "Coniata a martello",
+      "engraved": "Incisa",
+      "cobs": "Cob",
       "klippe": "Klippe",
-      "wire": "Wire",
-      "scyphate": "Scyphate"
+      "wire": "Moneta di lamina",
+      "scyphate": "Scifata"
     }
   },
   {
     "name": "modification",
-    "title": "Modification",
+    "title": "Modifica",
     "has_icons": false,
     "values": {
-      "colored": "Colored",
-      "countermarked": "Countermarked",
-      "holed": "Holed",
-      "cut": "Cut"
+      "colored": "Colorata",
+      "countermarked": "Contromarcata",
+      "holed": "Forata",
+      "cut": "Tagliata"
     }
   },
   {
@@ -189,13 +189,13 @@
       "au": "QFDC",
       "xf": "Splendida",
       "vf": "Bellissima",
-      "f": "F",
-      "vg": "VG"
+      "f": "Molto bella",
+      "vg": "Bella"
     }
   },
   {
     "name": "grader",
-    "title": "Grader",
+    "title": "Gradazione",
     "has_icons": true,
     "values": {
       "anacs": "ANACS",

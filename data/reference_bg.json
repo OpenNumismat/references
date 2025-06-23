@@ -148,10 +148,10 @@
     "title": "Състав",
     "has_icons": false,
     "values": {
-      "single": "единична",
+      "single": "еднороден",
       "plated": "с покритие",
-      "clad": "oблицована",
-      "bimetallic": "биметална"
+      "clad": "плакиран",
+      "bimetallic": "биметален"
     }
   },
   {
