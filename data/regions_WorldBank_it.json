@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe & Central Asia",
+      "name": "Europa e Asia Centrale",
       "countries": [
         {
           "name": "Albania",
@@ -52,7 +52,7 @@
           "key": "AT",
           "contemporary_units": [
             "Corona",
-            "Schilling",
+            "Scellino",
             "Groschen"
           ],
           "mints": [
@@ -800,8 +800,8 @@
           "iso4217": "EUR",
           "key": "GR",
           "contemporary_units": [
-            "Drachma",
-            "Leptοn"
+            "Dracma",
+            "Lepton"
           ],
           "mints": [
             {
@@ -1325,7 +1325,7 @@
           "key": "SK",
           "contemporary_units": [
             "Corona",
-            "Halier"
+            "Haller"
           ],
           "mints": [
             {
@@ -1358,7 +1358,7 @@
           "iso4217": "EUR",
           "key": "SI",
           "contemporary_units": [
-            "Tolar",
+            "Tallero",
             "Stotin"
           ]
         },
@@ -1730,7 +1730,7 @@
       ]
     },
     {
-      "name": "Middle East & North Africa",
+      "name": "Medio Oriente e Africa Settentrionale",
       "countries": [
         {
           "name": "Emirati arabi uniti",
@@ -1993,7 +1993,7 @@
       ]
     },
     {
-      "name": "Latin America & Caribbean",
+      "name": "America Latina e Caraibi",
       "countries": [
         {
           "name": "Aruba",
@@ -2534,7 +2534,7 @@
       ]
     },
     {
-      "name": "Asia del sud",
+      "name": "Asia Meridionale",
       "countries": [
         {
           "name": "Afghanistan",
@@ -2679,7 +2679,7 @@
       ]
     },
     {
-      "name": "Sub-Saharan Africa",
+      "name": "Africa Subsahariana",
       "countries": [
         {
           "name": "Angola",
@@ -3254,7 +3254,7 @@
       ]
     },
     {
-      "name": "East Asia & Pacific",
+      "name": "Asia Orientale e Pacifico",
       "countries": [
         {
           "name": "Samoa americane",

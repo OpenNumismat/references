@@ -2230,7 +2230,7 @@
           "dependent": true
         },
         {
-          "name": "Netherlands Antilles",
+          "name": "Antillas Holandesas",
           "alpha2": "AN",
           "alpha3": "ANT",
           "units": [
@@ -3220,7 +3220,7 @@
       ]
     },
     {
-      "name": "Asia del Sudeste",
+      "name": "Sudeste de Asia",
       "countries": [
         {
           "name": "Brunéi",

@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Anglo World",
+      "name": "Paesi anglofoni",
       "countries": [
         {
           "name": "Canada",
@@ -700,7 +700,7 @@
           "key": "SK",
           "contemporary_units": [
             "Corona",
-            "Halier"
+            "Haller"
           ],
           "mints": [
             {
@@ -959,8 +959,8 @@
           "iso4217": "EUR",
           "key": "GR",
           "contemporary_units": [
-            "Drachma",
-            "Leptοn"
+            "Dracma",
+            "Lepton"
           ],
           "mints": [
             {
@@ -1097,7 +1097,7 @@
           "iso4217": "EUR",
           "key": "SI",
           "contemporary_units": [
-            "Tolar",
+            "Tallero",
             "Stotin"
           ]
         },
@@ -1167,7 +1167,7 @@
           "key": "AT",
           "contemporary_units": [
             "Corona",
-            "Schilling",
+            "Scellino",
             "Groschen"
           ],
           "mints": [
@@ -1565,7 +1565,7 @@
           "key": "XK"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Cipro Settentrionale",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1578,7 +1578,7 @@
           "key": "_northern-cyprus"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Cecoslovacchia",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
@@ -1593,7 +1593,7 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "East Germany",
+          "name": "Germania Est",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
@@ -1625,7 +1625,7 @@
       ]
     },
     {
-      "name": "North Eurasia",
+      "name": "Eurasia settentrionale",
       "countries": [
         {
           "name": "Armenia",
@@ -1714,7 +1714,7 @@
           "key": "UA"
         },
         {
-          "name": "Abkhazia",
+          "name": "Abcasia",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1725,7 +1725,7 @@
           "key": "_abkhazia"
         },
         {
-          "name": "South Ossetia",
+          "name": "Ossezia del Sud",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1762,7 +1762,7 @@
           "key": "_transnistria"
         },
         {
-          "name": "USSR",
+          "name": "URSS",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
@@ -1779,7 +1779,7 @@
       ]
     },
     {
-      "name": "Caribbean",
+      "name": "Caraibi",
       "countries": [
         {
           "name": "Bahamas",
@@ -2153,7 +2153,7 @@
       ]
     },
     {
-      "name": "Atlantic Ocean",
+      "name": "Oceano Atlantico",
       "countries": [
         {
           "name": "Cabo Verde",
@@ -2169,7 +2169,7 @@
       ]
     },
     {
-      "name": "Indian Ocean",
+      "name": "Oceano Indiano",
       "countries": [
         {
           "name": "Maurizio",
@@ -2197,7 +2197,7 @@
       ]
     },
     {
-      "name": "Arab World",
+      "name": "Mondo Arabo",
       "countries": [
         {
           "name": "Algeria",
@@ -2397,7 +2397,7 @@
           "key": "EH"
         },
         {
-          "name": "South Yemen",
+          "name": "Yemen del Sud",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
@@ -2445,7 +2445,7 @@
       ]
     },
     {
-      "name": "Nastaliq Region",
+      "name": "Regione Nastaliq",
       "countries": [
         {
           "name": "Afghanistan",
@@ -2580,7 +2580,7 @@
       ]
     },
     {
-      "name": "Tropical Africa",
+      "name": "Africa Tropicale",
       "countries": [
         {
           "name": "Burundi",
@@ -2929,7 +2929,7 @@
       ]
     },
     {
-      "name": "Southern Africa",
+      "name": "Africa Meridionale",
       "countries": [
         {
           "name": "Zimbabwe",
@@ -3026,7 +3026,7 @@
       ]
     },
     {
-      "name": "Ethiopic Africa",
+      "name": "Africa etiope",
       "countries": [
         {
           "name": "Eritrea",
@@ -3177,7 +3177,7 @@
       ]
     },
     {
-      "name": "Central Asia",
+      "name": "Asia Centrale",
       "countries": [
         {
           "name": "Kazakhstan",
@@ -3468,7 +3468,7 @@
       ]
     },
     {
-      "name": "Mainland Southeast Asia",
+      "name": "Asia Sudorientale",
       "countries": [
         {
           "name": "Cambogia",
@@ -3537,7 +3537,7 @@
           "key": "VN"
         },
         {
-          "name": "South Vietnam",
+          "name": "Vietnam del Sud",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3606,7 +3606,7 @@
       ]
     },
     {
-      "name": "Insular Southeast Asia",
+      "name": "Asia Sudorientale insulare",
       "countries": [
         {
           "name": "Brunei",
@@ -3676,7 +3676,7 @@
       ]
     },
     {
-      "name": "South Pacific",
+      "name": "Pacifico Meridionale",
       "countries": [
         {
           "name": "Timor Leste",

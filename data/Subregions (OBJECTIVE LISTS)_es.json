@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Anglo World",
+      "name": "Mundo Angloparlante",
       "countries": [
         {
           "name": "Canadá",
@@ -529,7 +529,7 @@
       ]
     },
     {
-      "name": "Europe",
+      "name": "Europa",
       "countries": [
         {
           "name": "Groenlandia",
@@ -1625,7 +1625,7 @@
       ]
     },
     {
-      "name": "North Eurasia",
+      "name": "Eurasia Norte",
       "countries": [
         {
           "name": "Armenia",
@@ -2153,7 +2153,7 @@
       ]
     },
     {
-      "name": "Atlantic Ocean",
+      "name": "Océano Atlántico",
       "countries": [
         {
           "name": "Cabo Verde",
@@ -2169,7 +2169,7 @@
       ]
     },
     {
-      "name": "Indian Ocean",
+      "name": "Océano Índico",
       "countries": [
         {
           "name": "Mauricio",
@@ -2197,7 +2197,7 @@
       ]
     },
     {
-      "name": "Arab World",
+      "name": "Mundo Árabe",
       "countries": [
         {
           "name": "Argelia",
@@ -2445,7 +2445,7 @@
       ]
     },
     {
-      "name": "Nastaliq Region",
+      "name": "Región de Nastaliya",
       "countries": [
         {
           "name": "Afganistán",
@@ -2580,7 +2580,7 @@
       ]
     },
     {
-      "name": "Tropical Africa",
+      "name": "África Tropical",
       "countries": [
         {
           "name": "Burundi",
@@ -3026,7 +3026,7 @@
       ]
     },
     {
-      "name": "Ethiopic Africa",
+      "name": "África Etiópica",
       "countries": [
         {
           "name": "Eritrea",
@@ -3468,7 +3468,7 @@
       ]
     },
     {
-      "name": "Mainland Southeast Asia",
+      "name": "Sudeste asiático continental",
       "countries": [
         {
           "name": "Camboya",
@@ -3606,7 +3606,7 @@
       ]
     },
     {
-      "name": "Insular Southeast Asia",
+      "name": "Sudeste asiático insular",
       "countries": [
         {
           "name": "Brunéi",
@@ -3676,7 +3676,7 @@
       ]
     },
     {
-      "name": "South Pacific",
+      "name": "Pacífico Sur",
       "countries": [
         {
           "name": "Timor Oriental",

@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Western Europe",
+      "name": "Europa Occidentale",
       "countries": [
         {
           "name": "Austria",
@@ -15,7 +15,7 @@
           "key": "AT",
           "contemporary_units": [
             "Corona",
-            "Schilling",
+            "Scellino",
             "Groschen"
           ],
           "mints": [
@@ -432,7 +432,7 @@
           ]
         },
         {
-          "name": "East Germany",
+          "name": "Germania Est",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
@@ -449,7 +449,7 @@
       ]
     },
     {
-      "name": "Northern Europe",
+      "name": "Europa Settentrionale",
       "countries": [
         {
           "name": "Isole Åland",
@@ -852,7 +852,7 @@
       ]
     },
     {
-      "name": "Southern Europe",
+      "name": "Europa Meridionale",
       "countries": [
         {
           "name": "Albania",
@@ -940,8 +940,8 @@
           "iso4217": "EUR",
           "key": "GR",
           "contemporary_units": [
-            "Drachma",
-            "Leptοn"
+            "Dracma",
+            "Lepton"
           ],
           "mints": [
             {
@@ -1126,7 +1126,7 @@
           "iso4217": "EUR",
           "key": "SI",
           "contemporary_units": [
-            "Tolar",
+            "Tallero",
             "Stotin"
           ]
         },
@@ -1215,7 +1215,7 @@
       ]
     },
     {
-      "name": "Eastern Europe",
+      "name": "Europa Orientale",
       "countries": [
         {
           "name": "Bielorussia",
@@ -1412,7 +1412,7 @@
           "key": "SK",
           "contemporary_units": [
             "Corona",
-            "Halier"
+            "Haller"
           ],
           "mints": [
             {
@@ -1470,7 +1470,7 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Cecoslovacchia",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
@@ -1485,7 +1485,7 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "USSR",
+          "name": "URSS",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
@@ -1502,7 +1502,7 @@
       ]
     },
     {
-      "name": "Northern America",
+      "name": "America Settentrionale",
       "countries": [
         {
           "name": "Bermuda",
@@ -1801,7 +1801,7 @@
       ]
     },
     {
-      "name": "Central America",
+      "name": "America Centrale",
       "countries": [
         {
           "name": "Belize",
@@ -1909,7 +1909,7 @@
       ]
     },
     {
-      "name": "Caribbean",
+      "name": "Caraibi",
       "countries": [
         {
           "name": "Anguilla",
@@ -2230,7 +2230,7 @@
           "dependent": true
         },
         {
-          "name": "Netherlands Antilles",
+          "name": "Antille Olandesi",
           "alpha2": "AN",
           "alpha3": "ANT",
           "units": [
@@ -2248,7 +2248,7 @@
       ]
     },
     {
-      "name": "South America",
+      "name": "America Meridionale",
       "countries": [
         {
           "name": "Argentina",
@@ -2477,7 +2477,7 @@
       ]
     },
     {
-      "name": "Western Asia",
+      "name": "Asia Occidentale",
       "countries": [
         {
           "name": "Armenia",
@@ -2697,7 +2697,7 @@
           "key": "YE"
         },
         {
-          "name": "Abkhazia",
+          "name": "Abcasia",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2708,7 +2708,7 @@
           "key": "_abkhazia"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Cipro Settentrionale",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2730,7 +2730,7 @@
           "key": "PS"
         },
         {
-          "name": "South Ossetia",
+          "name": "Ossezia del Sud",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2758,7 +2758,7 @@
           "key": "_artsakh"
         },
         {
-          "name": "South Yemen",
+          "name": "Yemen del Sud",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
@@ -2775,7 +2775,7 @@
       ]
     },
     {
-      "name": "Central Asia",
+      "name": "Asia Centrale",
       "countries": [
         {
           "name": "Kazakhstan",
@@ -2835,7 +2835,7 @@
       ]
     },
     {
-      "name": "Southern Asia",
+      "name": "Asia Meridionale",
       "countries": [
         {
           "name": "Afghanistan",
@@ -3003,7 +3003,7 @@
       ]
     },
     {
-      "name": "Eastern Asia",
+      "name": "Asia Orientale",
       "countries": [
         {
           "name": "Cina",
@@ -3220,7 +3220,7 @@
       ]
     },
     {
-      "name": "South-eastern Asia",
+      "name": "Asia Sudorientale",
       "countries": [
         {
           "name": "Brunei",
@@ -3412,7 +3412,7 @@
           "key": "VN"
         },
         {
-          "name": "South Vietnam",
+          "name": "Vietnam del Sud",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3429,7 +3429,7 @@
       ]
     },
     {
-      "name": "Northern Africa",
+      "name": "Africa Settentrionale",
       "countries": [
         {
           "name": "Algeria",
@@ -3515,7 +3515,7 @@
       ]
     },
     {
-      "name": "Western Africa",
+      "name": "Africa Occidentale",
       "countries": [
         {
           "name": "Benin",
@@ -3711,7 +3711,7 @@
       ]
     },
     {
-      "name": "Middle Africa",
+      "name": "Africa Centrale",
       "countries": [
         {
           "name": "Angola",
@@ -3819,7 +3819,7 @@
       ]
     },
     {
-      "name": "Eastern Africa",
+      "name": "Africa Orientale",
       "countries": [
         {
           "name": "Territorio britannico dell’Oceano Indiano",
@@ -4088,7 +4088,7 @@
       ]
     },
     {
-      "name": "Southern Africa",
+      "name": "Africa Meridionale",
       "countries": [
         {
           "name": "Botswana",
@@ -4174,7 +4174,7 @@
       ]
     },
     {
-      "name": "Australia and New Zealand",
+      "name": "Australia e Nuova Zelanda",
       "countries": [
         {
           "name": "Australia",
@@ -4497,7 +4497,7 @@
       ]
     },
     {
-      "name": "Polynesia",
+      "name": "Polinesia",
       "countries": [
         {
           "name": "Samoa americane",

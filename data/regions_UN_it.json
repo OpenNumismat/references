@@ -198,7 +198,7 @@
           "key": "SK",
           "contemporary_units": [
             "Corona",
-            "Halier"
+            "Haller"
           ],
           "mints": [
             {
@@ -715,8 +715,8 @@
           "iso4217": "EUR",
           "key": "GR",
           "contemporary_units": [
-            "Drachma",
-            "Leptοn"
+            "Dracma",
+            "Lepton"
           ],
           "mints": [
             {
@@ -901,7 +901,7 @@
           "iso4217": "EUR",
           "key": "SI",
           "contemporary_units": [
-            "Tolar",
+            "Tallero",
             "Stotin"
           ]
         },
@@ -971,7 +971,7 @@
           "key": "AT",
           "contemporary_units": [
             "Corona",
-            "Schilling",
+            "Scellino",
             "Groschen"
           ],
           "mints": [
@@ -1425,7 +1425,7 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Cecoslovacchia",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
@@ -1440,7 +1440,7 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "East Germany",
+          "name": "Germania Est",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
@@ -1455,7 +1455,7 @@
           "key": "DD"
         },
         {
-          "name": "USSR",
+          "name": "URSS",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
@@ -2429,7 +2429,7 @@
           ]
         },
         {
-          "name": "Netherlands Antilles",
+          "name": "Antille Olandesi",
           "alpha2": "AN",
           "alpha3": "ANT",
           "units": [
@@ -3226,7 +3226,7 @@
           "key": "YE"
         },
         {
-          "name": "Abkhazia",
+          "name": "Abcasia",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3237,7 +3237,7 @@
           "key": "_abkhazia"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Cipro Settentrionale",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3259,7 +3259,7 @@
           "key": "PS"
         },
         {
-          "name": "South Ossetia",
+          "name": "Ossezia del Sud",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3331,7 +3331,7 @@
           "key": "_sikkim"
         },
         {
-          "name": "South Vietnam",
+          "name": "Vietnam del Sud",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3346,7 +3346,7 @@
           "key": "_south-vietnam"
         },
         {
-          "name": "South Yemen",
+          "name": "Yemen del Sud",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [

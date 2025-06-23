@@ -1889,7 +1889,7 @@
           "alpha2": "NI",
           "alpha3": "NIC",
           "units": [
-            "Oro",
+            "Оро",
             "Сентаво"
           ],
           "iso4217": "NIO",
@@ -2685,7 +2685,7 @@
           "alpha3": "KHM",
           "units": [
             "Риель",
-            "Kak"
+            "Сен"
           ],
           "iso4217": "KHR",
           "key": "KH"
@@ -3091,7 +3091,7 @@
           "contemporary_units": [
             "Фунт",
             "Прута",
-            "Mil"
+            "Мил"
           ],
           "mints": [
             {
@@ -3962,7 +3962,7 @@
           "key": "GN",
           "contemporary_units": [
             "Сили",
-            "Cauri"
+            "Каури"
           ]
         },
         {

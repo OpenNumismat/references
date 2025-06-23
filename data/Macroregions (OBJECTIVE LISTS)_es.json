@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Europe",
+      "name": "Europa",
       "countries": [
         {
           "name": "Groenlandia",
@@ -3416,7 +3416,7 @@
       ]
     },
     {
-      "name": "Mainland Southeast Asia",
+      "name": "Sudeste asiático continental",
       "countries": [
         {
           "name": "Camboya",
@@ -3502,7 +3502,7 @@
       ]
     },
     {
-      "name": "Southeast Asia Islands",
+      "name": "Islas del Sudeste asiático",
       "countries": [
         {
           "name": "Brunéi",
@@ -3619,7 +3619,7 @@
       ]
     },
     {
-      "name": "South Pacific",
+      "name": "Pacífico Sur",
       "countries": [
         {
           "name": "Timor Oriental",

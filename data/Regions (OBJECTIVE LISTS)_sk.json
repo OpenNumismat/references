@@ -1633,7 +1633,7 @@
           ]
         },
         {
-          "name": "Abkhazia",
+          "name": "Abcházsko",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1657,7 +1657,7 @@
           "key": "XK"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Severný Cyprus",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1670,7 +1670,7 @@
           "key": "_northern-cyprus"
         },
         {
-          "name": "South Ossetia",
+          "name": "Južné Osetsko",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1683,7 +1683,7 @@
           "key": "_south-ossetia"
         },
         {
-          "name": "Transnistria",
+          "name": "Podnestersko",
           "alpha2": "",
           "alpha3": "XPR",
           "units": [
@@ -1707,7 +1707,7 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Československo",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
@@ -1722,7 +1722,7 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "East Germany",
+          "name": "Východné Nemecko",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
@@ -1737,7 +1737,7 @@
           "key": "DD"
         },
         {
-          "name": "USSR",
+          "name": "ZSSR",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
@@ -1752,7 +1752,7 @@
           "key": "SU"
         },
         {
-          "name": "Yugoslavia",
+          "name": "Juhoslávia",
           "alpha2": "YU",
           "alpha3": "YUG",
           "units": [
@@ -2431,7 +2431,7 @@
           "key": "EH"
         },
         {
-          "name": "South Yemen",
+          "name": "Južný Jemen",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
@@ -3604,7 +3604,7 @@
           "key": "VN"
         },
         {
-          "name": "South Vietnam",
+          "name": "Južný Vietnam",
           "alpha2": "",
           "alpha3": "",
           "units": [

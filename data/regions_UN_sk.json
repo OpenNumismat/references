@@ -1401,7 +1401,7 @@
           "key": "XK"
         },
         {
-          "name": "Transnistria",
+          "name": "Podnestersko",
           "alpha2": "",
           "alpha3": "XPR",
           "units": [
@@ -1425,7 +1425,7 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Československo",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
@@ -1440,7 +1440,7 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "East Germany",
+          "name": "Východné Nemecko",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
@@ -1455,7 +1455,7 @@
           "key": "DD"
         },
         {
-          "name": "USSR",
+          "name": "ZSSR",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
@@ -1470,7 +1470,7 @@
           "key": "SU"
         },
         {
-          "name": "Yugoslavia",
+          "name": "Juhoslávia",
           "alpha2": "YU",
           "alpha3": "YUG",
           "units": [
@@ -2027,7 +2027,7 @@
           ]
         },
         {
-          "name": "Falklandy",
+          "name": "Falklandské ostrovy (Malvíny)",
           "alpha2": "FK",
           "alpha3": "FLK",
           "units": [
@@ -2429,7 +2429,7 @@
           ]
         },
         {
-          "name": "Netherlands Antilles",
+          "name": "Holandské Antily",
           "alpha2": "AN",
           "alpha3": "ANT",
           "units": [
@@ -3226,7 +3226,7 @@
           "key": "YE"
         },
         {
-          "name": "Abkhazia",
+          "name": "Abcházsko",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3237,7 +3237,7 @@
           "key": "_abkhazia"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Severný Cyprus",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3259,7 +3259,7 @@
           "key": "PS"
         },
         {
-          "name": "South Ossetia",
+          "name": "Južné Osetsko",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3331,7 +3331,7 @@
           "key": "_sikkim"
         },
         {
-          "name": "South Vietnam",
+          "name": "Južný Vietnam",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3346,7 +3346,7 @@
           "key": "_south-vietnam"
         },
         {
-          "name": "South Yemen",
+          "name": "Južný Jemen",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
@@ -3794,7 +3794,7 @@
           "key": "GA"
         },
         {
-          "name": "São Tomé and Príncipe",
+          "name": "Svätý Tomáš a Princov ostrov",
           "alpha2": "ST",
           "alpha3": "STP",
           "units": [

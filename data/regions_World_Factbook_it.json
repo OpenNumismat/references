@@ -182,7 +182,7 @@
           "key": "SK",
           "contemporary_units": [
             "Corona",
-            "Halier"
+            "Haller"
           ],
           "mints": [
             {
@@ -675,8 +675,8 @@
           "iso4217": "EUR",
           "key": "GR",
           "contemporary_units": [
-            "Drachma",
-            "Leptοn"
+            "Dracma",
+            "Lepton"
           ],
           "mints": [
             {
@@ -861,7 +861,7 @@
           "iso4217": "EUR",
           "key": "SI",
           "contemporary_units": [
-            "Tolar",
+            "Tallero",
             "Stotin"
           ]
         },
@@ -931,7 +931,7 @@
           "key": "AT",
           "contemporary_units": [
             "Corona",
-            "Schilling",
+            "Scellino",
             "Groschen"
           ],
           "mints": [
@@ -1361,7 +1361,7 @@
           "key": "XK"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Cipro Settentrionale",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1398,7 +1398,7 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Cecoslovacchia",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
@@ -1413,7 +1413,7 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "East Germany",
+          "name": "Germania Est",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
@@ -1766,7 +1766,7 @@
       ]
     },
     {
-      "name": "Middle East",
+      "name": "Medio Oriente",
       "countries": [
         {
           "name": "Iran",
@@ -1982,7 +1982,7 @@
           "key": "YE"
         },
         {
-          "name": "Abkhazia",
+          "name": "Abcasia",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2002,7 +2002,7 @@
           "key": "PS"
         },
         {
-          "name": "South Ossetia",
+          "name": "Ossezia del Sud",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2030,7 +2030,7 @@
           "key": "_artsakh"
         },
         {
-          "name": "South Yemen",
+          "name": "Yemen del Sud",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
@@ -2047,7 +2047,7 @@
       ]
     },
     {
-      "name": "Central Asia",
+      "name": "Asia Centrale",
       "countries": [
         {
           "name": "Kazakhstan",
@@ -2136,7 +2136,7 @@
           ]
         },
         {
-          "name": "USSR",
+          "name": "URSS",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
@@ -2153,7 +2153,7 @@
       ]
     },
     {
-      "name": "East and Southeast Asia",
+      "name": "Asia Orientale e Sudorientale",
       "countries": [
         {
           "name": "Cina",
@@ -2552,7 +2552,7 @@
           "key": "TW"
         },
         {
-          "name": "South Vietnam",
+          "name": "Vietnam del Sud",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2585,7 +2585,7 @@
       ]
     },
     {
-      "name": "South America",
+      "name": "America Meridionale",
       "countries": [
         {
           "name": "Argentina",
@@ -2793,7 +2793,7 @@
       ]
     },
     {
-      "name": "Australia and Oceania",
+      "name": "Australia e Oceania",
       "countries": [
         {
           "name": "Australia",
@@ -4037,7 +4037,7 @@
       ]
     },
     {
-      "name": "Central America and the Caribbean",
+      "name": "America Centrale e Caraibi",
       "countries": [
         {
           "name": "Anguilla",

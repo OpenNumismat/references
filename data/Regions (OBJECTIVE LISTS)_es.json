@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "The North & Australasia",
+      "name": "Norte & Australasia",
       "countries": [
         {
           "name": "Canadá",
@@ -1769,7 +1769,7 @@
       ]
     },
     {
-      "name": "Central & South America",
+      "name": "Centro & Sudamérica",
       "countries": [
         {
           "name": "Mauricio",
@@ -2448,7 +2448,7 @@
       ]
     },
     {
-      "name": "The Sahel",
+      "name": "El Sahel",
       "countries": [
         {
           "name": "Sudán",
@@ -3423,7 +3423,7 @@
       ]
     },
     {
-      "name": "Southeast Asia",
+      "name": "Sudeste de Asia",
       "countries": [
         {
           "name": "Brunéi",
@@ -3621,7 +3621,7 @@
       ]
     },
     {
-      "name": "South Pacific",
+      "name": "Pacífico Sur",
       "countries": [
         {
           "name": "Timor Oriental",

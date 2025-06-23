@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "The North & Australasia",
+      "name": "Australasia",
       "countries": [
         {
           "name": "Canada",
@@ -505,7 +505,7 @@
           "key": "SK",
           "contemporary_units": [
             "Corona",
-            "Halier"
+            "Haller"
           ],
           "mints": [
             {
@@ -923,8 +923,8 @@
           "iso4217": "EUR",
           "key": "GR",
           "contemporary_units": [
-            "Drachma",
-            "Leptοn"
+            "Dracma",
+            "Lepton"
           ],
           "mints": [
             {
@@ -1061,7 +1061,7 @@
           "iso4217": "EUR",
           "key": "SI",
           "contemporary_units": [
-            "Tolar",
+            "Tallero",
             "Stotin"
           ]
         },
@@ -1131,7 +1131,7 @@
           "key": "AT",
           "contemporary_units": [
             "Corona",
-            "Schilling",
+            "Scellino",
             "Groschen"
           ],
           "mints": [
@@ -1633,7 +1633,7 @@
           ]
         },
         {
-          "name": "Abkhazia",
+          "name": "Abcasia",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1657,7 +1657,7 @@
           "key": "XK"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Cipro Settentrionale",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1670,7 +1670,7 @@
           "key": "_northern-cyprus"
         },
         {
-          "name": "South Ossetia",
+          "name": "Ossezia del Sud",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1707,7 +1707,7 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Cecoslovacchia",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
@@ -1722,7 +1722,7 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "East Germany",
+          "name": "Germania Est",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
@@ -1737,7 +1737,7 @@
           "key": "DD"
         },
         {
-          "name": "USSR",
+          "name": "URSS",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
@@ -1769,7 +1769,7 @@
       ]
     },
     {
-      "name": "Central & South America",
+      "name": "America Centrale e Meridionale",
       "countries": [
         {
           "name": "Maurizio",
@@ -2172,7 +2172,7 @@
       ]
     },
     {
-      "name": "Middle East & North Africa",
+      "name": "Medio Oriente e Africa Settentrionale",
       "countries": [
         {
           "name": "Algeria",
@@ -2431,7 +2431,7 @@
           "key": "EH"
         },
         {
-          "name": "South Yemen",
+          "name": "Yemen del Sud",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
@@ -2448,7 +2448,7 @@
       ]
     },
     {
-      "name": "The Sahel",
+      "name": "Sahel",
       "countries": [
         {
           "name": "Sudan",
@@ -2545,7 +2545,7 @@
       ]
     },
     {
-      "name": "Sub-Saharan Africa",
+      "name": "Africa Subsahariana",
       "countries": [
         {
           "name": "Burundi",
@@ -3132,7 +3132,7 @@
       ]
     },
     {
-      "name": "Central Asia",
+      "name": "Asia Centrale",
       "countries": [
         {
           "name": "Kazakhstan",
@@ -3423,7 +3423,7 @@
       ]
     },
     {
-      "name": "Southeast Asia",
+      "name": "Asia Sudorientale",
       "countries": [
         {
           "name": "Brunei",
@@ -3604,7 +3604,7 @@
           "key": "VN"
         },
         {
-          "name": "South Vietnam",
+          "name": "Vietnam del Sud",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3621,7 +3621,7 @@
       ]
     },
     {
-      "name": "South Pacific",
+      "name": "Pacifico Meridionale",
       "countries": [
         {
           "name": "Timor Leste",
