@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "Anglo World",
+      "name": "Anglosphäre",
       "countries": [
         {
           "name": "Kanada",
@@ -1565,7 +1565,7 @@
           "key": "XK"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Nordzypern",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1578,7 +1578,7 @@
           "key": "_northern-cyprus"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Tschechoslowakei",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
@@ -1593,7 +1593,7 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "East Germany",
+          "name": "Ostdeutschland (ehem. DDR)",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
@@ -1608,7 +1608,7 @@
           "key": "DD"
         },
         {
-          "name": "Yugoslavia",
+          "name": "Jugoslawien",
           "alpha2": "YU",
           "alpha3": "YUG",
           "units": [
@@ -1625,7 +1625,7 @@
       ]
     },
     {
-      "name": "North Eurasia",
+      "name": "Nordeurasien",
       "countries": [
         {
           "name": "Armenien",
@@ -1714,7 +1714,7 @@
           "key": "UA"
         },
         {
-          "name": "Abkhazia",
+          "name": "Abchasien",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1725,7 +1725,7 @@
           "key": "_abkhazia"
         },
         {
-          "name": "South Ossetia",
+          "name": "Südossetien",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1738,7 +1738,7 @@
           "key": "_south-ossetia"
         },
         {
-          "name": "Transnistria",
+          "name": "Transnistrien",
           "alpha2": "",
           "alpha3": "XPR",
           "units": [
@@ -1762,7 +1762,7 @@
           "key": "_transnistria"
         },
         {
-          "name": "USSR",
+          "name": "UdSSR",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
@@ -2153,7 +2153,7 @@
       ]
     },
     {
-      "name": "Atlantic Ocean",
+      "name": "Atlantischer Ozean",
       "countries": [
         {
           "name": "Cabo Verde",
@@ -2169,7 +2169,7 @@
       ]
     },
     {
-      "name": "Indian Ocean",
+      "name": "Indischer Ozean",
       "countries": [
         {
           "name": "Mauritius",
@@ -2197,7 +2197,7 @@
       ]
     },
     {
-      "name": "Arab World",
+      "name": "Arabische Welt",
       "countries": [
         {
           "name": "Algerien",
@@ -2397,7 +2397,7 @@
           "key": "EH"
         },
         {
-          "name": "South Yemen",
+          "name": "Südjemen",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
@@ -2445,7 +2445,7 @@
       ]
     },
     {
-      "name": "Nastaliq Region",
+      "name": "Nastaliq-Region",
       "countries": [
         {
           "name": "Afghanistan",
@@ -2483,7 +2483,7 @@
       ]
     },
     {
-      "name": "Sahel",
+      "name": "Sahelzone",
       "countries": [
         {
           "name": "Sudan",
@@ -2580,7 +2580,7 @@
       ]
     },
     {
-      "name": "Tropical Africa",
+      "name": "Tropisches Afrika",
       "countries": [
         {
           "name": "Burundi",
@@ -3026,7 +3026,7 @@
       ]
     },
     {
-      "name": "Ethiopic Africa",
+      "name": "Äthiopisches Afrika",
       "countries": [
         {
           "name": "Eritrea",
@@ -3163,7 +3163,7 @@
           "key": "LK"
         },
         {
-          "name": "Sikkim",
+          "name": "Sikki",
           "alpha2": "",
           "alpha3": "SKM",
           "units": [],
@@ -3279,7 +3279,7 @@
           ]
         },
         {
-          "name": "Artsakh",
+          "name": "Arzach",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3468,7 +3468,7 @@
       ]
     },
     {
-      "name": "Mainland Southeast Asia",
+      "name": "Festland-Südostasien",
       "countries": [
         {
           "name": "Kambodscha",
@@ -3537,7 +3537,7 @@
           "key": "VN"
         },
         {
-          "name": "South Vietnam",
+          "name": "Südvietnam",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3606,7 +3606,7 @@
       ]
     },
     {
-      "name": "Insular Southeast Asia",
+      "name": "Insel-Südostasien",
       "countries": [
         {
           "name": "Brunei",
@@ -3676,7 +3676,7 @@
       ]
     },
     {
-      "name": "South Pacific",
+      "name": "Südpazifik",
       "countries": [
         {
           "name": "Timor-Leste",

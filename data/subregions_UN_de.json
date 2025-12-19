@@ -432,7 +432,7 @@
           ]
         },
         {
-          "name": "East Germany",
+          "name": "Ostdeutschland (ehem. DDR)",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
@@ -1198,7 +1198,7 @@
           "key": "XK"
         },
         {
-          "name": "Yugoslavia",
+          "name": "Jugoslawien",
           "alpha2": "YU",
           "alpha3": "YUG",
           "units": [
@@ -1446,7 +1446,7 @@
           "key": "UA"
         },
         {
-          "name": "Transnistria",
+          "name": "Transnistrien",
           "alpha2": "",
           "alpha3": "XPR",
           "units": [
@@ -1470,7 +1470,7 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Tschechoslowakei",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
@@ -1485,7 +1485,7 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "USSR",
+          "name": "UdSSR",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
@@ -2230,7 +2230,7 @@
           "dependent": true
         },
         {
-          "name": "Netherlands Antilles",
+          "name": "Niederländische Antillen",
           "alpha2": "AN",
           "alpha3": "ANT",
           "units": [
@@ -2697,7 +2697,7 @@
           "key": "YE"
         },
         {
-          "name": "Abkhazia",
+          "name": "Abchasien",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2708,7 +2708,7 @@
           "key": "_abkhazia"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Nordzypern",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2730,7 +2730,7 @@
           "key": "PS"
         },
         {
-          "name": "South Ossetia",
+          "name": "Südossetien",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2743,7 +2743,7 @@
           "key": "_south-ossetia"
         },
         {
-          "name": "Artsakh",
+          "name": "Arzach",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -2758,7 +2758,7 @@
           "key": "_artsakh"
         },
         {
-          "name": "South Yemen",
+          "name": "Südjemen",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
@@ -2989,7 +2989,7 @@
           "key": "LK"
         },
         {
-          "name": "Sikkim",
+          "name": "Sikki",
           "alpha2": "",
           "alpha3": "SKM",
           "units": [],
@@ -3412,7 +3412,7 @@
           "key": "VN"
         },
         {
-          "name": "South Vietnam",
+          "name": "Südvietnam",
           "alpha2": "",
           "alpha3": "",
           "units": [

@@ -1,7 +1,7 @@
 {
   "regions": [
     {
-      "name": "The North & Australasia",
+      "name": "Nord- und Australasien",
       "countries": [
         {
           "name": "Kanada",
@@ -1633,7 +1633,7 @@
           ]
         },
         {
-          "name": "Abkhazia",
+          "name": "Abchasien",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1657,7 +1657,7 @@
           "key": "XK"
         },
         {
-          "name": "Northern Cyprus",
+          "name": "Nordzypern",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1670,7 +1670,7 @@
           "key": "_northern-cyprus"
         },
         {
-          "name": "South Ossetia",
+          "name": "Südossetien",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -1683,7 +1683,7 @@
           "key": "_south-ossetia"
         },
         {
-          "name": "Transnistria",
+          "name": "Transnistrien",
           "alpha2": "",
           "alpha3": "XPR",
           "units": [
@@ -1707,7 +1707,7 @@
           "key": "_transnistria"
         },
         {
-          "name": "Czechoslovakia",
+          "name": "Tschechoslowakei",
           "alpha2": "",
           "alpha3": "CSK",
           "units": [
@@ -1722,7 +1722,7 @@
           "key": "_czechoslovakia"
         },
         {
-          "name": "East Germany",
+          "name": "Ostdeutschland (ehem. DDR)",
           "alpha2": "DD",
           "alpha3": "DDR",
           "units": [
@@ -1737,7 +1737,7 @@
           "key": "DD"
         },
         {
-          "name": "USSR",
+          "name": "UdSSR",
           "alpha2": "SU",
           "alpha3": "SUN",
           "units": [
@@ -1752,7 +1752,7 @@
           "key": "SU"
         },
         {
-          "name": "Yugoslavia",
+          "name": "Jugoslawien",
           "alpha2": "YU",
           "alpha3": "YUG",
           "units": [
@@ -1769,7 +1769,7 @@
       ]
     },
     {
-      "name": "Central & South America",
+      "name": "Mittel- und Südamerika",
       "countries": [
         {
           "name": "Mauritius",
@@ -2431,7 +2431,7 @@
           "key": "EH"
         },
         {
-          "name": "South Yemen",
+          "name": "Südjemen",
           "alpha2": "YD",
           "alpha3": "YMD",
           "units": [
@@ -2448,7 +2448,7 @@
       ]
     },
     {
-      "name": "The Sahel",
+      "name": "Die Sahelzone",
       "countries": [
         {
           "name": "Sudan",
@@ -3118,7 +3118,7 @@
           "key": "LK"
         },
         {
-          "name": "Sikkim",
+          "name": "Sikki",
           "alpha2": "",
           "alpha3": "SKM",
           "units": [],
@@ -3234,7 +3234,7 @@
           ]
         },
         {
-          "name": "Artsakh",
+          "name": "Arzach",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3423,7 +3423,7 @@
       ]
     },
     {
-      "name": "Southeast Asia",
+      "name": "Südostasien",
       "countries": [
         {
           "name": "Brunei",
@@ -3604,7 +3604,7 @@
           "key": "VN"
         },
         {
-          "name": "South Vietnam",
+          "name": "Südvietnam",
           "alpha2": "",
           "alpha3": "",
           "units": [
@@ -3621,7 +3621,7 @@
       ]
     },
     {
-      "name": "South Pacific",
+      "name": "Südpazifik",
       "countries": [
         {
           "name": "Timor-Leste",
