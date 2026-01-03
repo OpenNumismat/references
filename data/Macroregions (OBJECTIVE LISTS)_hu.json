@@ -68,11 +68,15 @@
           "alpha2": "BG",
           "alpha3": "BGR",
           "units": [
+            "Euró",
+            "Cent"
+          ],
+          "iso4217": "EUR",
+          "key": "BG",
+          "contemporary_units": [
             "Leva",
             "Sztotinka"
           ],
-          "iso4217": "BGN",
-          "key": "BG",
           "mints": [
             {
               "name": "Bulmint",

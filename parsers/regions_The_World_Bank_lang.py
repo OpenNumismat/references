@@ -52,5 +52,5 @@ for lang in lang_list():
                 else:
                     print(f"Missed {lang} data for {alpha3}")
 
-    with open(f"../data/{TITLE}_{lang}.json", 'w', encoding='utf8') as json_file:
+    with open(f"../data/{TITLE}_{lang}.json", 'w', encoding='utf8', newline='\n') as json_file:
         json.dump(result, json_file, ensure_ascii=False, indent=2)

@@ -1233,11 +1233,15 @@
           "alpha2": "BG",
           "alpha3": "BGR",
           "units": [
+            "Ευρώ",
+            "Σεντ"
+          ],
+          "iso4217": "EUR",
+          "key": "BG",
+          "contemporary_units": [
             "Λεβ",
             "Στοτίνκα"
           ],
-          "iso4217": "BGN",
-          "key": "BG",
           "mints": [
             {
               "name": "Bulmint",

@@ -233,7 +233,7 @@ def process_countries(lang):
 
         result["countries"].append(data)
 
-    with open(f"../data/country_currency_{lang}.json", 'w', encoding='utf8') as json_file:
+    with open(f"../data/country_currency_{lang}.json", 'w', encoding='utf8', newline='\n') as json_file:
         json.dump(result, json_file, ensure_ascii=False, indent=2)
 
 

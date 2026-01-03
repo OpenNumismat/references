@@ -78,5 +78,5 @@ for lang in lang_list():
         if not finded:
             print(f"Missed {lang} data for {orig_country['name']}")
 
-    with open(f"../data/{TITLE}_{lang}.json", 'w', encoding='utf8') as json_file:
+    with open(f"../data/{TITLE}_{lang}.json", 'w', encoding='utf8', newline='\n') as json_file:
         json.dump(result, json_file, ensure_ascii=False, indent=2)
