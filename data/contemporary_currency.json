@@ -297,5 +297,14 @@
         "Cent"
       ],
       "iso4217": "SRG"
+    },
+    {
+      "name": "Bulgaria",
+      "alpha3": "BGR",
+      "units": [
+        "Lev",
+        "Stotinka"
+      ],
+      "iso4217": "BGN"
     }
 ]
