@@ -77,9 +77,9 @@
     "title": "Avers/Revers",
     "has_icons": false,
     "values": {
-      "↑↑-medallic": "Médaillon",
-      "↑↓-coin": "Pièce",
-      "↺-variable": "↺ Variable"
+      "↑↑-medallic": "Médaille",
+      "↑↓-coin": "Monnaie",
+      "↺-variable": "↺ Aléatoire"
     }
   },
   {
@@ -106,7 +106,7 @@
       "spanish": "Fleur espagnole",
       "hole": "Rond avec trou",
       "half": "Demi Cercle",
-      "klippe": "Klippe",
+      "klippe": "Estampé",
       "scalloped": "Festonné"
     }
   },
@@ -164,7 +164,7 @@
       "hammered": "Martelée",
       "engraved": "Gravé",
       "cobs": "Epis",
-      "klippe": "Klippe",
+      "klippe": "Estampé",
       "wire": "Cerclé",
       "scyphate": "Scyphate"
     }
@@ -223,13 +223,13 @@
     "values": {
       "multicolor": "Multicolore",
       "black-white": "Noir-Blanc",
-      "brown-lake": "Brown-Lake",
-      "lake": "Lake",
+      "brown-lake": "Brun",
+      "lake": "Clair",
       "crimson": "Cramoisi",
       "carmine": "Carmin",
       "rose": "Rose",
       "rose-red": "Rose-Rouge",
-      "rosine": "Rosine",
+      "rosine": "Rose",
       "carmine-red": "Carmin-Rouge",
       "scarlet": "Ecarlate",
       "vermilion": "Vermillon",
@@ -268,7 +268,7 @@
       "turquoise-blue": "Bleu turquoise",
       "light-blue": "Bleu clair",
       "greenish-blue": "Bleu verdâtre",
-      "new-blue": "New Blue",
+      "new-blue": "Bleu",
       "blue": "Bleu",
       "steel-blue": "Bleu acier",
       "prussian-blue": "Bleu de Prusse",
