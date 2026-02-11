@@ -1,13 +1,13 @@
 [
   {
     "name": "category",
-    "title": "Category",
+    "title": "Catégorie",
     "has_icons": false,
     "values": {
       "coin": "Pièce",
-      "banknote": "Banknote",
-      "stamp": "Stamp",
-      "postcard": "Postcard"
+      "banknote": "Billet",
+      "stamp": "Timbre",
+      "postcard": "Carte Postale"
     }
   },
   {
@@ -29,7 +29,7 @@
     "has_icons": false,
     "values": {
       "uncirculated": "Brillant Universel",
-      "brilliant-uncirculated": "Brilliant uncirculated",
+      "brilliant-uncirculated": "Fleur de coin",
       "proof": "Belle épreuve",
       "proof-like": "Tel une épreuve",
       "reverse-frosted": "Revers givré"
@@ -66,9 +66,9 @@
     "title": "Format",
     "has_icons": false,
     "values": {
-      "single": "Single",
+      "single": "Unique",
       "set": "Ensemble",
-      "coincard": "Coincard",
+      "coincard": "Pièce en coffret",
       "roll": "Rouleau"
     }
   },
@@ -148,10 +148,10 @@
     "title": "Composition",
     "has_icons": false,
     "values": {
-      "single": "Single",
+      "single": "Unique",
       "plated": "Plated",
       "clad": "Clad",
-      "bimetallic": "Bimetallic"
+      "bimetallic": "BiMétal"
     }
   },
   {
@@ -162,7 +162,7 @@
       "milled": "Milled",
       "cast": "Cast",
       "hammered": "Hammered",
-      "engraved": "Engraved",
+      "engraved": "Gravé",
       "cobs": "Cobs",
       "klippe": "Klippe",
       "wire": "Wire",
@@ -174,10 +174,10 @@
     "title": "Modification",
     "has_icons": false,
     "values": {
-      "colored": "Colored",
-      "countermarked": "Countermarked",
-      "holed": "Holed",
-      "cut": "Cut"
+      "colored": "Coloré",
+      "countermarked": "ContreMarque",
+      "holed": "Percé",
+      "cut": "coupé"
     }
   },
   {
@@ -218,7 +218,7 @@
   },
   {
     "name": "color",
-    "title": "Color",
+    "title": "Couleur",
     "has_icons": true,
     "values": {
       "multicolor": "Multicolore",
@@ -301,11 +301,11 @@
       "purple": "Pourpre",
       "plum": "Prune",
       "reddish-purple": "Pourpre rougeâtre",
-      "maroon": "Maroon",
+      "maroon": "Marron",
       "brown-purple": "Brun-Pourpre",
       "purple-brown": "Pourpre-Brun",
       "chocolate": "Chocolat",
-      "lake-brown": "Lake-Brown",
+      "lake-brown": "Marron clair",
       "red-brown": "Rouge-Brun",
       "chestnut": "Châtain",
       "orange-brown": "Orange-Brun",
@@ -318,11 +318,11 @@
       "sepia": "Sepia",
       "bistre-brown": "Marron foncé",
       "bistre": "Marron",
-      "olive-brown": "Olive-Brown",
-      "drab": "Drab",
-      "olive-grey": "Olive-Grey",
-      "grey": "Grey",
-      "slate": "Slate"
+      "olive-brown": "Marron Olive",
+      "drab": "Terne",
+      "olive-grey": "Vert Olive",
+      "grey": "Gris",
+      "slate": "Gris ardoise"
     }
   }
 ]
