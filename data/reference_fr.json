@@ -77,8 +77,8 @@
     "title": "Avers/Revers",
     "has_icons": false,
     "values": {
-      "↑↑-medallic": "↑↑ Medallic",
-      "↑↓-coin": "↑↓ Coin",
+      "↑↑-medallic": "Médaillon",
+      "↑↓-coin": "Pièce",
       "↺-variable": "↺ Variable"
     }
   },
@@ -88,9 +88,9 @@
     "has_icons": false,
     "values": {
       "reeded": "Cannelures",
-      "plain": "Plain",
+      "plain": "Ordinaire",
       "decorated": "Décoré",
-      "segmented-reeding": "Segmented reeding",
+      "segmented-reeding": "Cannelage segmenté",
       "lettered": "Lettré"
     }
   },
@@ -100,14 +100,14 @@
     "has_icons": true,
     "values": {
       "round": "Arrondi",
-      "irregular": "Round (irregular)",
+      "irregular": "Rond (irrégulier)",
       "square": "Carré",
       "polygon": "Polygone",
       "spanish": "Fleur espagnole",
-      "hole": "Round with hole",
-      "half": "Half circle",
+      "hole": "Rond avec trou",
+      "half": "Demi Cercle",
       "klippe": "Klippe",
-      "scalloped": "Scalloped"
+      "scalloped": "Festonné"
     }
   },
   {
@@ -149,8 +149,8 @@
     "has_icons": false,
     "values": {
       "single": "Unique",
-      "plated": "Plated",
-      "clad": "Clad",
+      "plated": "Plat",
+      "clad": "Habillé",
       "bimetallic": "BiMétal"
     }
   },
@@ -159,13 +159,13 @@
     "title": "Technique",
     "has_icons": false,
     "values": {
-      "milled": "Milled",
-      "cast": "Cast",
+      "milled": "Moulue",
+      "cast": "Moulé",
       "hammered": "Hammered",
       "engraved": "Gravé",
-      "cobs": "Cobs",
+      "cobs": "Epis",
       "klippe": "Klippe",
-      "wire": "Wire",
+      "wire": "Cerclé",
       "scyphate": "Scyphate"
     }
   },
