@@ -1,13 +1,13 @@
 [
   {
     "name": "category",
-    "title": "Category",
+    "title": "Catégorie",
     "has_icons": false,
     "values": {
       "coin": "Pièce",
-      "banknote": "Banknote",
-      "stamp": "Stamp",
-      "postcard": "Postcard"
+      "banknote": "Billet",
+      "stamp": "Timbre",
+      "postcard": "Carte Postale"
     }
   },
   {
@@ -29,7 +29,7 @@
     "has_icons": false,
     "values": {
       "uncirculated": "Brillant Universel",
-      "brilliant-uncirculated": "Brilliant uncirculated",
+      "brilliant-uncirculated": "Fleur de coin",
       "proof": "Belle épreuve",
       "proof-like": "Tel une épreuve",
       "reverse-frosted": "Revers givré"
@@ -66,9 +66,9 @@
     "title": "Format",
     "has_icons": false,
     "values": {
-      "single": "Single",
+      "single": "Unique",
       "set": "Ensemble",
-      "coincard": "Coincard",
+      "coincard": "Pièce en coffret",
       "roll": "Rouleau"
     }
   },
@@ -77,9 +77,9 @@
     "title": "Avers/Revers",
     "has_icons": false,
     "values": {
-      "↑↑-medallic": "↑↑ Medallic",
-      "↑↓-coin": "↑↓ Coin",
-      "↺-variable": "↺ Variable"
+      "↑↑-medallic": "Médaille",
+      "↑↓-coin": "Monnaie",
+      "↺-variable": "↺ Aléatoire"
     }
   },
   {
@@ -88,9 +88,9 @@
     "has_icons": false,
     "values": {
       "reeded": "Cannelures",
-      "plain": "Plain",
+      "plain": "Ordinaire",
       "decorated": "Décoré",
-      "segmented-reeding": "Segmented reeding",
+      "segmented-reeding": "Cannelage segmenté",
       "lettered": "Lettré"
     }
   },
@@ -100,14 +100,14 @@
     "has_icons": true,
     "values": {
       "round": "Arrondi",
-      "irregular": "Round (irregular)",
+      "irregular": "Rond (irrégulier)",
       "square": "Carré",
       "polygon": "Polygone",
       "spanish": "Fleur espagnole",
-      "hole": "Round with hole",
-      "half": "Half circle",
-      "klippe": "Klippe",
-      "scalloped": "Scalloped"
+      "hole": "Rond avec trou",
+      "half": "Demi Cercle",
+      "klippe": "Estampé",
+      "scalloped": "Festonné"
     }
   },
   {
@@ -148,10 +148,10 @@
     "title": "Composition",
     "has_icons": false,
     "values": {
-      "single": "Single",
-      "plated": "Plated",
-      "clad": "Clad",
-      "bimetallic": "Bimetallic"
+      "single": "Unique",
+      "plated": "Plat",
+      "clad": "Habillé",
+      "bimetallic": "BiMétal"
     }
   },
   {
@@ -159,13 +159,13 @@
     "title": "Technique",
     "has_icons": false,
     "values": {
-      "milled": "Milled",
-      "cast": "Cast",
-      "hammered": "Hammered",
-      "engraved": "Engraved",
-      "cobs": "Cobs",
-      "klippe": "Klippe",
-      "wire": "Wire",
+      "milled": "Moulue",
+      "cast": "Moulé",
+      "hammered": "Martelée",
+      "engraved": "Gravé",
+      "cobs": "Epis",
+      "klippe": "Estampé",
+      "wire": "Cerclé",
       "scyphate": "Scyphate"
     }
   },
@@ -174,10 +174,10 @@
     "title": "Modification",
     "has_icons": false,
     "values": {
-      "colored": "Colored",
-      "countermarked": "Countermarked",
-      "holed": "Holed",
-      "cut": "Cut"
+      "colored": "Coloré",
+      "countermarked": "ContreMarque",
+      "holed": "Percé",
+      "cut": "coupé"
     }
   },
   {
@@ -218,18 +218,18 @@
   },
   {
     "name": "color",
-    "title": "Color",
+    "title": "Couleur",
     "has_icons": true,
     "values": {
       "multicolor": "Multicolore",
       "black-white": "Noir-Blanc",
-      "brown-lake": "Brown-Lake",
-      "lake": "Lake",
+      "brown-lake": "Brun",
+      "lake": "Clair",
       "crimson": "Cramoisi",
       "carmine": "Carmin",
       "rose": "Rose",
       "rose-red": "Rose-Rouge",
-      "rosine": "Rosine",
+      "rosine": "Rose",
       "carmine-red": "Carmin-Rouge",
       "scarlet": "Ecarlate",
       "vermilion": "Vermillon",
@@ -268,7 +268,7 @@
       "turquoise-blue": "Bleu turquoise",
       "light-blue": "Bleu clair",
       "greenish-blue": "Bleu verdâtre",
-      "new-blue": "New Blue",
+      "new-blue": "Bleu",
       "blue": "Bleu",
       "steel-blue": "Bleu acier",
       "prussian-blue": "Bleu de Prusse",
@@ -301,11 +301,11 @@
       "purple": "Pourpre",
       "plum": "Prune",
       "reddish-purple": "Pourpre rougeâtre",
-      "maroon": "Maroon",
+      "maroon": "Marron",
       "brown-purple": "Brun-Pourpre",
       "purple-brown": "Pourpre-Brun",
       "chocolate": "Chocolat",
-      "lake-brown": "Lake-Brown",
+      "lake-brown": "Marron clair",
       "red-brown": "Rouge-Brun",
       "chestnut": "Châtain",
       "orange-brown": "Orange-Brun",
@@ -318,11 +318,11 @@
       "sepia": "Sepia",
       "bistre-brown": "Marron foncé",
       "bistre": "Marron",
-      "olive-brown": "Olive-Brown",
-      "drab": "Drab",
-      "olive-grey": "Olive-Grey",
-      "grey": "Grey",
-      "slate": "Slate"
+      "olive-brown": "Marron Olive",
+      "drab": "Terne",
+      "olive-grey": "Vert Olive",
+      "grey": "Gris",
+      "slate": "Gris ardoise"
     }
   }
 ]
